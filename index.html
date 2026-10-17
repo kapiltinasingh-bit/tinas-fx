@@ -134,6 +134,7 @@ td{padding:8px;border-bottom:1px solid var(--line);font-family:var(--f-mono);fon
 .founder img{width:100%;aspect-ratio:3/4;object-fit:cover;object-position:50% 50%;border-radius:10px;border:1px solid var(--gold);max-width:100%}
 .motto{font-family:var(--f-serif);font-style:italic;font-weight:500;font-size:34px;line-height:1.15;color:var(--gold)}
 .motto-sub{color:var(--fg-2);margin-top:6px}
+.quote{font-family:var(--f-serif);font-style:italic;font-weight:500;font-size:26px;line-height:1.3;color:var(--gold-2);margin:12px 0 16px;padding-left:16px;border-left:2px solid var(--gold);border-radius:0;max-width:34ch}
 .letter p{max-width:64ch;margin:0 0 14px}
 .sig{font-family:var(--f-serif);font-style:italic;font-size:24px;color:var(--gold-2);margin-top:6px}
 .prose{max-width:74ch}
@@ -164,6 +165,7 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
 @media (max-width:1080px){.g3{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}}
 @media (max-width:980px){.grid-desk,.g2,.g2w,.g3{grid-template-columns:minmax(0,1fr)}.macro{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:640px){
+  .quote{font-size:21px}
   h1{font-size:25px}.mhead .big{font-size:32px}
   .h480,.h520,.h560{height:400px}.h620,.h700{height:560px}
   .founder{grid-template-columns:minmax(0,1fr)}.founder img{max-width:260px}
@@ -229,14 +231,14 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
     <div class="scroll"><table><thead><tr><th>Issued (GST)</th><th>Market</th><th>Call</th><th>Plan</th><th>Outcome</th></tr></thead><tbody id="calls"></tbody></table></div>
   </section>
 
-  <section class="panel founder" aria-label="From the founder">
-    <img src="tina-dubai.jpg" alt="Tina Singh, founder of Tina’s FX, in Downtown Dubai with the Burj Khalifa behind her" loading="lazy">
+  <section class="panel founder" aria-label="In memory of Tina Singh">
+    <img src="tina-dubai.jpg" alt="Tina Singh (1970–2026) in Downtown Dubai with the Burj Khalifa behind her" loading="lazy">
     <div>
-      <div class="lbl">From the founder</div>
-      <div class="motto" style="margin-top:8px">Mushkil waqt, commando sakht.</div>
-      <div class="motto-sub">Tough times call for tougher discipline.</div>
-      <p style="color:var(--fg-2);max-width:60ch;margin:14px 0 8px">I started Tina’s FX to have one honest place to read the markets every morning, with every source linked so you can check it yourself.</p>
-      <a href="#about">Read Tina’s letter</a>
+      <div class="lbl">In memory of Tina Singh · 1970–2026</div>
+      <blockquote class="quote">“In trading, you need to learn how to manage your trades when you are in losses, not the profit.”</blockquote>
+      <div class="motto-sub">Tina’s rule, and the rule this desk is built on.</div>
+      <p style="color:var(--fg-2);max-width:60ch;margin:14px 0 8px"><span class="g" style="font-family:var(--f-serif);font-style:italic">Mushkil waqt, commando sakht.</span> Tough times call for tougher discipline.</p>
+      <a href="#about">Read her story</a>
     </div>
   </section>
 </section>
@@ -425,17 +427,20 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
 <!-- ABOUT -->
 <section data-view="about" hidden aria-label="About">
   <div class="panel founder" style="margin-top:0;align-items:start">
-    <img src="tina-dubai.jpg" alt="Tina Singh, founder of Tina’s FX, in Downtown Dubai with the Burj Khalifa behind her">
+    <img src="tina-dubai.jpg" alt="Tina Singh (1970–2026) in Downtown Dubai with the Burj Khalifa behind her">
     <div class="letter">
-      <div class="lbl">A letter from the founder</div>
-      <div class="motto" style="margin:8px 0 4px">Mushkil waqt, commando sakht.</div>
-      <div class="motto-sub" style="margin-bottom:20px">Tough times call for tougher discipline.</div>
-      <p>Markets don’t care how we feel. Gold can move a hundred dollars in an afternoon on one inflation number, a currency can turn on a single speech, and in those moments the only thing that protects you is discipline.</p>
-      <p>I started Tina’s FX because I wanted one honest place to read the markets every morning: the price, the levels that matter, the news from many sources, and a clear plan, with every source linked so you can check it yourself.</p>
-      <p>Here, every call shows its reasons, and every loss stays on the record. We don’t promise winners. We promise preparation: know your levels, size your risk, and never trade money you can’t afford to lose.</p>
-      <p>When the market gets tough, we get tougher.</p>
-      <div class="sig">Tina Singh</div>
-      <div class="small">Founder, Tina’s FX</div>
+      <div class="lbl">In memory</div>
+      <h1 style="font-family:var(--f-serif);font-weight:600;font-size:36px;margin:6px 0 2px">Tina Singh</h1>
+      <div class="small mono" style="margin-bottom:22px">1970–2026</div>
+      <p>My mom was a fighter. She fought cancer the same way she approached everything: with courage, with discipline, and without giving up.</p>
+      <p>She used to say:</p>
+      <blockquote class="quote">“In trading, you need to learn how to manage your trades when you are in losses, not the profit.”</blockquote>
+      <p>Anyone can look good when a trade is winning. The real test is what you do when it goes against you: whether you respect your stop, cut your size, and stay calm instead of hoping. That was her rule, and it’s the rule this desk is built on.</p>
+      <div class="motto" style="font-size:28px;margin:18px 0 2px">Mushkil waqt, commando sakht.</div>
+      <div class="motto-sub" style="margin-bottom:18px">Tough times call for tougher discipline.</div>
+      <p>Tina’s FX carries her name and her lesson. Every call here shows its reasons, every loss stays on the record, and every plan starts with the risk, because that’s what she taught.</p>
+      <div class="sig">Kapil Tina Singh</div>
+      <div class="small">Her son</div>
     </div>
   </div>
 </section>
@@ -467,6 +472,7 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
 
 <footer>
   <nav aria-label="Footer"><a href="#markets">Markets</a><a href="#calendar">Calendar</a><a href="#maps">Heatmaps</a><a href="#screeners">Screeners</a><a href="#tools">Tools</a><a href="#learn">Academy</a><a href="#research">Research</a><a href="#method">Method</a><a href="#sources">Sources</a><a href="#about">About</a></nav>
+  <p class="g" style="font-family:var(--f-serif);font-style:italic;font-size:14px">Built in memory of Tina Singh, 1970–2026.</p>
   <p>© 2026 Tina’s FX. Educational research only. Nothing on this site is financial advice or a recommendation to buy or sell. Trading involves risk of loss; past calls do not predict future results.</p>
   <p id="foot-upd"></p>
 </footer>
