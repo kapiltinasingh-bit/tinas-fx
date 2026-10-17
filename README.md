@@ -6,7 +6,7 @@ Gold (XAU/USD) research desk: live spot price, live TradingView chart, key level
 
 - `index.html` — the whole site (design, layout, logic)
 - `data.json` — everything the research desk updates: price snapshot, levels, desk call, call record, research posts, news, macro numbers
-- `founders.jpg` — founder photo
+- `tina-dubai.jpg` — founder photo
 - `.nojekyll` — tells GitHub Pages to serve files as-is
 
 ## Turn on GitHub Pages
