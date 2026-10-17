@@ -183,7 +183,7 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
     <a class="brand" href="#desk" aria-label="Tina’s FX home"><span class="mono-mark" aria-hidden="true">T</span><span class="word">Tina’s <b>FX</b></span></a>
     <span class="badge" id="clock"></span>
     <nav class="main" aria-label="Sections">
-      <a href="#desk" data-nav="desk">Today</a><a href="#markets" data-nav="markets">Markets</a><a href="#calendar" data-nav="calendar">Calendar</a><a href="#maps" data-nav="maps">Heatmaps</a><a href="#screeners" data-nav="screeners">Screeners</a><a href="#tools" data-nav="tools">Tools</a><a href="#learn" data-nav="learn">Academy</a><a href="#research" data-nav="research">Research</a><a href="#about" data-nav="about">About</a>
+      <a href="#desk" data-nav="desk">Today</a><a href="#markets" data-nav="markets">Markets</a><a href="#calendar" data-nav="calendar">Calendar</a><a href="#maps" data-nav="maps">Heatmaps</a><a href="#screeners" data-nav="screeners">Screeners</a><a href="#tools" data-nav="tools">Tools</a><a href="#learn" data-nav="learn">Academy</a><a href="#performance" data-nav="performance">Track record</a><a href="#research" data-nav="research">Research</a><a href="#about" data-nav="about">About</a>
     </nav>
   </div>
   <div class="tape" id="tape" aria-label="Live prices"></div>
@@ -227,7 +227,7 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
   </div>
 
   <section class="panel sec" aria-label="Call record">
-    <div class="ph"><h2>Call record</h2><span class="lbl">Every desk call stays on the record</span></div>
+    <div class="ph"><h2>Call record</h2><a href="#performance" class="small">Full track record with proof →</a></div>
     <div class="scroll"><table><thead><tr><th>Issued (GST)</th><th>Market</th><th>Call</th><th>Plan</th><th>Outcome</th></tr></thead><tbody id="calls"></tbody></table></div>
   </section>
 
@@ -401,6 +401,140 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
   <div id="archive" style="display:grid;gap:16px"></div>
 </section>
 
+<!-- PERFORMANCE -->
+<section data-view="performance" hidden aria-label="Track record">
+  <div class="hero"><div><h1>Track record</h1><p>Every desk call since launch, with its result. Wins and losses stay on the record. Each call links to the public, timestamped update that first published it, so you can check it was there before the move.</p></div>
+    <div class="panel" style="padding:12px 16px"><div class="lbl">Record started</div><div class="mono g" style="font-size:20px">17 Oct 2026</div><div class="small" id="pf-days"></div></div></div>
+  <div class="macro" id="pf-stats" style="margin-top:0"></div>
+  <div class="g2w">
+    <section class="panel" aria-label="Cumulative result"><div class="ph"><h2>Cumulative result</h2><span class="lbl">In R, closed calls only</span></div><div id="pf-curve"></div></section>
+    <section class="panel" aria-label="By market"><div class="ph"><h2>By market</h2></div><div class="scroll"><table><thead><tr><th>Market</th><th>Calls</th><th>Wins</th><th>Losses</th><th>Open</th><th>Net R</th></tr></thead><tbody id="pf-mk"></tbody></table></div></section>
+  </div>
+  <section class="panel sec" aria-label="All calls">
+    <div class="ph"><h2>Every call</h2><span class="lbl">Newest first</span></div>
+    <div class="scroll"><table><thead><tr><th>Issued (GST)</th><th>Market</th><th>Call</th><th>Plan</th><th>Outcome</th><th>R</th><th>Proof</th></tr></thead><tbody id="pf-calls"></tbody></table></div>
+    <p class="small">R is the result measured in units of risk: a trade that risked 1 and made 2 is +2R; a stopped trade is −1R. WAIT calls set the triggers to watch and score 0 unless a trigger fills. “Proof” opens the public GitHub update that first contained the call. The full history of every change is <a href="https://github.com/kapiltinasingh-bit/tinas-fx/commits/main/data.json">here</a>.</p>
+  </section>
+  <section class="panel sec prose" aria-label="How calls are graded" style="max-width:none">
+    <h2>How calls are graded</h2>
+    <ul>
+      <li>A call is graded at each research run against the high and low price since it was issued.</li>
+      <li>Hit target 1 before the stop: <b>win</b>, scored at the planned reward to risk.</li>
+      <li>Hit the stop first: <b>loss</b>, scored −1R.</li>
+      <li>Replaced by a new plan with neither level touched: <b>expired</b>, scored 0.</li>
+      <li>Results ignore spreads, commissions and slippage, which would lower real results.</li>
+    </ul>
+  </section>
+</section>
+
+<!-- TRANSPARENCY -->
+<section data-view="trust" hidden aria-label="Transparency">
+  <div class="panel prose">
+    <h1>Transparency</h1>
+    <p class="small">Last updated 18 October 2026</p>
+    <h3>Who runs Tina’s FX</h3>
+    <p>Tina’s FX is run by Kapil Tina Singh in Dubai and named in memory of his mother, Tina Singh (1970–2026). <a href="#about">Read her story</a>.</p>
+    <h3>How the research is made</h3>
+    <p>Research briefs, levels and desk calls are written by an AI research assistant on a fixed schedule, twice each weekday. It reads published coverage from the outlets listed on the <a href="#sources">Sources</a> page and cites the sources it used in every brief. It is instructed never to invent numbers and to keep the previous value when a figure can’t be sourced.</p>
+    <p>Briefs are published automatically and are not reviewed by a licensed financial adviser before they appear. Treat them as research to check, not instructions to follow.</p>
+    <h3>Live data</h3>
+    <p>Charts, quotes, ratings, heatmaps, screeners, headlines and the calendar come from TradingView. Gold, silver and Bitcoin spot prices also come from gold-api.com. We don’t control these feeds and can’t guarantee they are complete or on time.</p>
+    <h3>How Tina’s FX makes money</h3>
+    <p>Right now it doesn’t. There are no ads, no paid plans, no broker referral fees and no affiliate links. If that changes, we will say so on this page before it starts.</p>
+    <h3>What we are not</h3>
+    <ul>
+      <li>We are not a broker, and we don’t hold or manage anyone’s money.</li>
+      <li>We are not licensed to give personal financial advice. Nothing here considers your circumstances.</li>
+      <li>We never ask for passwords, payments or account access through direct messages. Anyone who does is not us.</li>
+    </ul>
+  </div>
+</section>
+
+<!-- RISK -->
+<section data-view="risk" hidden aria-label="Risk disclosure">
+  <div class="panel prose">
+    <h1>Risk disclosure</h1>
+    <p class="small">Last updated 18 October 2026</p>
+    <p>Trading forex, commodities, indices, stocks and crypto carries a high risk of loss and is not suitable for everyone. Read this before acting on anything you see on Tina’s FX.</p>
+    <h3>You can lose more than you expect</h3>
+    <ul>
+      <li>Leveraged products such as CFDs, futures and margin accounts magnify losses as well as gains. Depending on your provider, losses can exceed your deposit.</li>
+      <li>Prices can gap past a stop-loss, especially around news and over weekends, so a stop does not guarantee your maximum loss.</li>
+      <li>Crypto is extremely volatile, trades every day, and can be affected by exchange failures and regulation.</li>
+    </ul>
+    <h3>About our calls and data</h3>
+    <ul>
+      <li>Desk calls are educational research based on published levels and news. They can and do fail.</li>
+      <li>Past results, including our track record, do not predict future results. Recorded results ignore spreads, fees and slippage.</li>
+      <li>Prices on this site may be delayed or wrong. Always confirm with your own broker before placing an order.</li>
+    </ul>
+    <h3>Before you trade</h3>
+    <ul>
+      <li>Only trade money you can afford to lose.</li>
+      <li>Size every trade by risk; see the position-size calculator in <a href="#tools">Tools</a>.</li>
+      <li>Check that your broker is licensed by the regulator where you live.</li>
+      <li>If you are unsure, speak to a licensed financial adviser.</li>
+    </ul>
+  </div>
+</section>
+
+<!-- TERMS -->
+<section data-view="terms" hidden aria-label="Terms of use">
+  <div class="panel prose">
+    <h1>Terms of use</h1>
+    <p class="small">Last updated 18 October 2026</p>
+    <p>By using Tina’s FX you agree to these terms. If you don’t agree, please don’t use the site.</p>
+    <h3>Educational use only</h3>
+    <p>Everything on this site, including desk calls, levels, briefs, tools and Academy lessons, is general educational research. It is not financial, investment, tax or legal advice, and it is not an offer or recommendation to buy or sell anything.</p>
+    <h3>Your decisions</h3>
+    <p>You are responsible for your own trading decisions and their results. Tina’s FX is not liable for any loss or damage arising from use of the site or reliance on its content, to the extent the law allows.</p>
+    <h3>Accuracy</h3>
+    <p>We work to keep information accurate and cite our sources, but we don’t guarantee that content or third-party data is complete, current or error-free. See our <a href="#corrections">corrections policy</a>.</p>
+    <h3>Third-party content</h3>
+    <p>The site embeds data and widgets from TradingView and others, and links to outside websites. Their content and terms are their own.</p>
+    <h3>Use of content</h3>
+    <p>You may read and share links to our pages. Please don’t copy large parts of the site or present our research as your own.</p>
+    <h3>Changes</h3>
+    <p>We may update these terms. The date at the top shows the latest version.</p>
+  </div>
+</section>
+
+<!-- PRIVACY -->
+<section data-view="privacy" hidden aria-label="Privacy">
+  <div class="panel prose">
+    <h1>Privacy</h1>
+    <p class="small">Last updated 18 October 2026</p>
+    <h3>What we collect</h3>
+    <p>Tina’s FX has no accounts, sign-ups or forms, and sets no cookies of its own. We don’t collect your name, email or payment details.</p>
+    <h3>Third parties</h3>
+    <p>To show the site, your browser connects to services that may log your IP address and browser details under their own policies:</p>
+    <ul>
+      <li>GitHub Pages, which hosts the site.</li>
+      <li>TradingView, for charts, quotes and other market widgets.</li>
+      <li>Google Fonts, for the site’s typefaces.</li>
+      <li>gold-api.com, for live metal and Bitcoin prices.</li>
+    </ul>
+    <h3>Changes</h3>
+    <p>If we add an email list or anything else that collects personal data, we will update this page first and explain what we collect and why.</p>
+  </div>
+</section>
+
+<!-- CORRECTIONS / CONTACT -->
+<section data-view="corrections" hidden aria-label="Corrections and contact">
+  <div class="panel prose">
+    <h1>Corrections and contact</h1>
+    <p class="small">Last updated 18 October 2026</p>
+    <h3>Our corrections policy</h3>
+    <ul>
+      <li>Calls are never deleted or rewritten after the fact. Their grade changes only when price hits a level.</li>
+      <li>If a brief contains a factual error, such as a wrong price or a misread source, we fix it and keep the change visible in the public history.</li>
+      <li>Every change to the desk’s data is recorded publicly with its date and time in the <a href="https://github.com/kapiltinasingh-bit/tinas-fx/commits/main/data.json">update history</a>.</li>
+    </ul>
+    <h3>Report an error or get in touch</h3>
+    <p>Open a public note on our <a href="https://github.com/kapiltinasingh-bit/tinas-fx/issues/new">GitHub page</a> with the page, the error and a source if you have one. A free GitHub account is needed. An email address will be added here soon.</p>
+  </div>
+</section>
+
 <!-- METHOD -->
 <section data-view="method" hidden aria-label="Method">
   <div class="panel prose">
@@ -471,7 +605,8 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
 </section>
 
 <footer>
-  <nav aria-label="Footer"><a href="#markets">Markets</a><a href="#calendar">Calendar</a><a href="#maps">Heatmaps</a><a href="#screeners">Screeners</a><a href="#tools">Tools</a><a href="#learn">Academy</a><a href="#research">Research</a><a href="#method">Method</a><a href="#sources">Sources</a><a href="#about">About</a></nav>
+  <nav aria-label="Footer"><a href="#performance">Track record</a><a href="#trust">Transparency</a><a href="#risk">Risk disclosure</a><a href="#terms">Terms</a><a href="#privacy">Privacy</a><a href="#corrections">Corrections and contact</a></nav>
+  <nav aria-label="Site"><a href="#markets">Markets</a><a href="#calendar">Calendar</a><a href="#maps">Heatmaps</a><a href="#screeners">Screeners</a><a href="#tools">Tools</a><a href="#learn">Academy</a><a href="#research">Research</a><a href="#method">Method</a><a href="#sources">Sources</a><a href="#about">About</a></nav>
   <p class="g" style="font-family:var(--f-serif);font-style:italic;font-size:14px">Built in memory of Tina Singh, 1970–2026.</p>
   <p>© 2026 Tina’s FX. Educational research only. Nothing on this site is financial advice or a recommendation to buy or sell. Trading involves risk of loss; past calls do not predict future results.</p>
   <p id="foot-upd"></p>
@@ -542,7 +677,8 @@ const lessons=L.lessons;
  ["tools","4","Trader tools","Position size, risk:reward, market hours, drawdown"],
  ["learn",lessons.length,"Academy lessons","From first chart to risk and psychology"],
  ["glossary",L.glossary.length,"Glossary terms","Every trading word explained"],
- ["research",D.posts.length,"Research briefs","Every brief, with its sources"]]
+ ["research",D.posts.length,"Research briefs","Every brief, with its sources"],
+ ["performance",D.calls.length,"Track record","Every call and its result, with proof"]]
  .forEach(([h,n,t,d])=>{const a=el("a");a.href=h==="desk-calls"?"#desk-calls":h==="glossary"?"#learn":"#"+h;
   if(h==="desk-calls")a.addEventListener("click",e=>{e.preventDefault();$("board").scrollIntoView({behavior:"smooth",block:"start"});});
   a.append(el("span","n",String(n)),el("span","t",t),el("span","d",d));$("bindex").append(a);});
@@ -780,9 +916,55 @@ function renderArchive(){const box=$("archive");box.textContent="";const list=po
   list.forEach(p=>{const pn=el("div","panel");pn.append(postEl(p,true));box.append(pn);});}
 renderArchive();
 
+/* ---------- Track record ---------- */
+const scoreR=c=>typeof c.r==="number"?c.r:/win/i.test(c.outcome)?1:/loss/i.test(c.outcome)?-1:0;
+const closed=c=>/win|loss|stop|expired/i.test(c.outcome||"");
+let commits=null;
+async function loadCommits(){if(commits)return commits;
+  try{const r=await fetch("https://api.github.com/repos/kapiltinasingh-bit/tinas-fx/commits?path=data.json&per_page=100");
+    commits=r.ok?(await r.json()).map(x=>({sha:x.sha,t:new Date(x.commit.committer.date)})).sort((a,b)=>a.t-b.t):[];}catch(e){commits=[];}
+  return commits;}
+async function renderPerf(){
+  const all=D.calls.slice(),cl=all.filter(closed),wins=cl.filter(c=>/win/i.test(c.outcome)),loss=cl.filter(c=>/loss|stop/i.test(c.outcome));
+  const graded=wins.length+loss.length,net=cl.reduce((a,c)=>a+scoreR(c),0);
+  const days=Math.max(1,Math.round((Date.now()-new Date("2026-10-17T00:00:00+04:00"))/864e5));
+  $("pf-days").textContent=days+" day"+(days>1?"s":"")+" of public record";
+  const st=$("pf-stats");st.textContent="";
+  [["Calls issued",String(all.length)],["Closed",String(cl.length)],["Win rate",graded?Math.round(wins.length/graded*100)+"%":"--"],["Net result",(net>0?"+":"")+net.toFixed(1)+"R"],["Open now",String(all.length-cl.length)]]
+    .forEach(([k,v])=>{const d=el("div");d.append(el("div","lbl",k),el("div","v",v));st.append(d);});
+  if(!graded){const d=st.children[2];d.append(el("div","small","Fills in once calls close"));}
+  /* curve */
+  const cv=$("pf-curve");cv.textContent="";
+  const pts=cl.slice().sort((a,b)=>new Date(a.asof)-new Date(b.asof));
+  if(pts.length<2){cv.append(el("p","empty","The curve appears once two calls have closed. Calls close when price hits a target or stop, or when a new plan replaces them."));}
+  else{let run=0;const ys=[0,...pts.map(c=>run+=scoreR(c))];const W=600,H=220,p=28;const mn=Math.min(0,...ys),mx=Math.max(0,...ys),sp=(mx-mn)||1;
+    const X=i=>p+i*(W-2*p)/(ys.length-1),Y=v=>H-p-(v-mn)/sp*(H-2*p);const ns="http://www.w3.org/2000/svg",svg=document.createElementNS(ns,"svg");
+    svg.setAttribute("viewBox","0 0 "+W+" "+H);svg.setAttribute("role","img");svg.setAttribute("aria-label","Cumulative result "+run.toFixed(1)+"R over "+pts.length+" closed calls");svg.style.width="100%";
+    const mk=(t,a)=>{const e=document.createElementNS(ns,t);for(const k in a)e.setAttribute(k,a[k]);svg.append(e);return e;};
+    mk("line",{x1:p,x2:W-p,y1:Y(0),y2:Y(0),stroke:"#36343A","stroke-dasharray":"3 3"});
+    mk("path",{d:ys.map((v,i)=>(i?"L":"M")+X(i)+" "+Y(v)).join(" "),fill:"none",stroke:"#D4AF37","stroke-width":2});
+    ys.forEach((v,i)=>{if(i)mk("circle",{cx:X(i),cy:Y(v),r:3,fill:scoreR(pts[i-1])>0?"#3FB97A":scoreR(pts[i-1])<0?"#E5534B":"#A9A59B"});});
+    mk("text",{x:W-p,y:Y(run)-8,"text-anchor":"end",fill:"#ECE9E2","font-size":13,"font-family":"JetBrains Mono, monospace"}).textContent=(run>0?"+":"")+run.toFixed(1)+"R";
+    cv.append(svg);}
+  /* by market */
+  const mb=$("pf-mk");mb.textContent="";
+  M.forEach(m=>{const cs=all.filter(c=>c.market===m.id);if(!cs.length)return;const w=cs.filter(c=>/win/i.test(c.outcome)).length,l=cs.filter(c=>/loss|stop/i.test(c.outcome)).length,o=cs.filter(c=>!closed(c)).length,r=cs.filter(closed).reduce((a,c)=>a+scoreR(c),0);
+    const tr=el("tr");const a=el("a",null,m.name);a.href="#m-"+m.id;const td=el("td");td.append(a);
+    tr.append(td,el("td",null,String(cs.length)),el("td","up",String(w)),el("td","dn",String(l)),el("td",null,String(o)),el("td",r>0?"up":r<0?"dn":null,(r>0?"+":"")+r.toFixed(1)));mb.append(tr);});
+  /* calls */
+  const cb=$("pf-calls");cb.textContent="";const cm=await loadCommits();
+  all.slice().reverse().forEach(c=>{const tr=el("tr");const cc=el("td");cc.append(el("span","chip "+c.call,c.call));
+    const t=new Date(c.asof),hit=cm.find(x=>x.t>=new Date(t.getTime()-6*36e5));
+    const pr=el("td");const a=el("a",null,hit?hit.sha.slice(0,7)+" ↗":"History ↗");a.href=hit?"https://github.com/kapiltinasingh-bit/tinas-fx/commit/"+hit.sha:"https://github.com/kapiltinasingh-bit/tinas-fx/commits/main/data.json";pr.append(a);
+    const rr=closed(c)?scoreR(c):null;
+    tr.append(el("td",null,gst(c.asof)),el("td",null,byId[c.market]?byId[c.market].name:c.market||""),cc,el("td",null,c.detail),
+      el("td",/win/i.test(c.outcome)?"up":/loss|stop/i.test(c.outcome)?"dn":null,c.outcome),el("td",rr>0?"up":rr<0?"dn":null,rr==null?"--":(rr>0?"+":"")+rr.toFixed(1)),pr);cb.append(tr);});
+  if(!all.length){const tr=el("tr"),td=el("td","empty","No calls yet.");td.colSpan=7;tr.append(td);cb.append(tr);}
+}
+
 /* ---------- Routing ---------- */
 const WIDGET_HOSTS=["w-overview","w-cal-mini","w-hot","w-cross-mini","w-news-all","w-quotes","m-chart","m-ta","m-tl","y-info","y-chart","y-ta","y-tl","y-fin","y-prof","w-cal","w-map","w-scr"];
-const views=["desk","markets","calendar","maps","screeners","tools","learn","research","method","about","sources"];
+const views=["desk","markets","calendar","maps","screeners","tools","learn","research","method","about","sources","performance","trust","risk","terms","privacy","corrections"];
 const navOf={market:"markets",sym:"markets",lesson:"learn"};
 let hoursTimer=null;
 function route(){
@@ -807,6 +989,7 @@ function route(){
   if(v==="maps")mountMap();
   if(v==="screeners")mountScr();
   if(v==="tools"){hours();hoursTimer=setInterval(hours,60000);}
+  if(v==="performance")renderPerf();
   if(h)window.scrollTo(0,0);
 }
 window.addEventListener("hashchange",route);route();
