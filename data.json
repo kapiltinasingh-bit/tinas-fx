@@ -1,50 +1,293 @@
 {
-  "updated": "2026-10-17T03:30:00+04:00",
-  "quote": {
-    "price": 4166.10,
-    "high": 4198.45,
-    "low": 4147.19,
-    "label": "Friday 16 Oct close",
-    "source": "gold-api.com spot, day range via DailyForex"
-  },
+  "updated": "2026-10-17T07:00:00+04:00",
+  "fomc": "2026-10-28T18:00:00Z",
   "macro": [
     {"label": "Fed funds", "value": "3.75–4.00%", "note": "Hiked in September"},
     {"label": "Dollar index", "value": "≈102.3", "note": "As of 16 Oct"},
-    {"label": "US 10Y", "value": "Pending", "note": "Awaiting a verified print"},
-    {"label": "52-week range", "value": "3,886–5,602", "note": "Record high 29 Jan 2026"}
+    {"label": "US CPI (Sep)", "value": "3.7%", "note": "Hotter than expected"},
+    {"label": "Brent crude", "value": "≈$108.5", "note": "16 Oct morning"}
   ],
-  "fomc": "2026-10-28T18:00:00Z",
-  "signal": {
-    "asof": "2026-10-17T00:45:00+04:00",
-    "call": "WAIT",
-    "headline": "Range trade until $4,200 or $4,100 gives way",
-    "reason": "Gold rebounded after the hot CPI sell-off but is boxed between $4,100 support and $4,200 resistance, still under its 200-day average near $4,460. The Fed decision on 28 Oct is the next big catalyst.",
-    "long": {"trigger": 4200, "stop": 4170, "t1": 4230, "t2": 4300, "why": "A break above $4,200 opens the Oct 2 high at $4,230, then the R3 pivot near $4,300."},
-    "short": {"trigger": 4100, "stop": 4136, "t1": 4031, "t2": 4000, "why": "A break below $4,100 support points to the S2 pivot near $4,031 and the round $4,000."}
-  },
-  "levels": [
-    {"name": "200-day average", "price": 4462.70},
-    {"name": "R3 pivot", "price": 4301.99},
-    {"name": "R2 · Oct 2 high zone", "price": 4239.71},
-    {"name": "R1 · $4,200", "price": 4197.80},
-    {"name": "20-day average", "price": 4173.35},
-    {"name": "Daily pivot", "price": 4135.52},
-    {"name": "S1 · $4,100 support", "price": 4093.61},
-    {"name": "S2", "price": 4031.33},
-    {"name": "S3 · $4,000 zone", "price": 3989.42}
-  ],
-  "prices": [
-    {"d": "2026-10-16", "c": 4166.10}
+  "markets": [
+    {
+      "id": "gold", "name": "Gold", "pair": "XAU/USD", "group": "Metals",
+      "tv": "OANDA:XAUUSD", "live": "XAU", "dp": 2, "prefix": "$",
+      "quote": {"price": 4166.10, "chg": null, "label": "Fri 16 Oct close", "source": "gold-api.com"},
+      "bias": "neutral",
+      "signal": {
+        "call": "WAIT", "asof": "2026-10-17T00:45:00+04:00",
+        "headline": "Range trade until $4,200 or $4,100 gives way",
+        "reason": "Gold rebounded after the hot CPI sell-off but is boxed between $4,100 support and $4,200 resistance, still under its 200-day average near $4,460. The Fed decision on 28 Oct is the next big catalyst.",
+        "long": {"trigger": 4200, "stop": 4170, "t1": 4230, "t2": 4300, "why": "A break above $4,200 opens the Oct 2 high at $4,230, then the R3 pivot near $4,300."},
+        "short": {"trigger": 4100, "stop": 4136, "t1": 4031, "t2": 4000, "why": "A break below $4,100 support points to the S2 pivot near $4,031 and the round $4,000."}
+      },
+      "levels": [
+        {"name": "200-day average", "price": 4462.70},
+        {"name": "R3 pivot", "price": 4301.99},
+        {"name": "R2 · Oct 2 high zone", "price": 4239.71},
+        {"name": "R1 · $4,200", "price": 4197.80},
+        {"name": "20-day average", "price": 4173.35},
+        {"name": "Daily pivot", "price": 4135.52},
+        {"name": "S1 · $4,100 support", "price": 4093.61},
+        {"name": "S2", "price": 4031.33},
+        {"name": "S3 · $4,000 zone", "price": 3989.42}
+      ],
+      "sources": [
+        {"name": "CNBC", "url": "https://www.cnbc.com/amp/2026/10/16/gold-gains-on-softer-dollar-but-heads-for-weekly-fall.html"},
+        {"name": "DailyForex pivots", "url": "https://www.dailyforex.com/commodities/gold"},
+        {"name": "State Street Gold Monitor", "url": "https://www.ssga.com/library-content/products/fund-docs/etfs/us/insights-investment-ideas/monthly-gold-monitor.pdf"}
+      ]
+    },
+    {
+      "id": "silver", "name": "Silver", "pair": "XAG/USD", "group": "Metals",
+      "tv": "OANDA:XAGUSD", "live": "XAG", "dp": 2, "prefix": "$",
+      "quote": {"price": 57.00, "chg": -0.83, "label": "Fri 16 Oct, late session", "source": "FXStreet"},
+      "bias": "bearish",
+      "signal": {
+        "call": "WAIT", "asof": "2026-10-17T07:00:00+04:00",
+        "headline": "Sellers in control, but RSI is close to oversold",
+        "reason": "Silver dipped to a weekly low near $55.38 and trades below its 50- and 100-day averages. Momentum is bearish, though oversold conditions argue against chasing shorts here.",
+        "long": {"trigger": 59.37, "t1": 60.00, "t2": 63.06, "why": "Reclaiming the Oct 14 high at $59.37 opens $60, then the 100-day average near $63.06."},
+        "short": {"trigger": 55.00, "t1": 54.39, "t2": 50.00, "why": "A break below $55 exposes the year-to-date low area near $54.39–54.77, then the round $50."}
+      },
+      "levels": [
+        {"name": "50-day average", "price": 63.98},
+        {"name": "100-day average", "price": 63.06},
+        {"name": "$60 round number", "price": 60.00},
+        {"name": "Oct 14 high", "price": 59.37},
+        {"name": "Support $55", "price": 55.00},
+        {"name": "Year-to-date low", "price": 54.77},
+        {"name": "Support", "price": 54.39},
+        {"name": "$50 round number", "price": 50.00}
+      ],
+      "sources": [
+        {"name": "FXStreet", "url": "https://www.fxstreet.com/news/silver-price-forecast-bears-target-55-as-rsi-nears-oversold-202610161923"}
+      ]
+    },
+    {
+      "id": "oil", "name": "WTI crude oil", "pair": "USOIL", "group": "Energy",
+      "tv": "TVC:USOIL", "live": null, "dp": 2, "prefix": "$",
+      "quote": {"price": 96.00, "chg": 2.23, "label": "Fri 16 Oct, US morning", "source": "ConvexTrade"},
+      "bias": "bullish",
+      "signal": {
+        "call": "WAIT", "asof": "2026-10-17T07:00:00+04:00",
+        "headline": "Uptrend intact, $100 is the line to beat",
+        "reason": "WTI bounced off its rising trendline and gained more than 5% on the week, with Brent above $106. Middle East supply worries keep the bias up, but price is pressing into $100 resistance.",
+        "long": {"trigger": 100.00, "t1": 110.00, "t2": null, "why": "A clean break above $100 targets the next resistance near $110."},
+        "short": {"trigger": 90.00, "t1": 85.00, "t2": 80.00, "why": "Losing $90 and the trendline would point to $85, then $80."}
+      },
+      "levels": [
+        {"name": "Resistance $110", "price": 110.00},
+        {"name": "Resistance $100", "price": 100.00},
+        {"name": "Support $95", "price": 95.00},
+        {"name": "Support $90", "price": 90.00},
+        {"name": "Support $85", "price": 85.00},
+        {"name": "Support $80", "price": 80.00}
+      ],
+      "sources": [
+        {"name": "FX Daily Report", "url": "https://fxdailyreport.com/daily-oil-gold-silver-technical-analysis-october-16-2026/"},
+        {"name": "ConvexTrade", "url": "https://convextrade.com/today/oil-price"},
+        {"name": "Fortune", "url": "https://fortune.com/article/price-of-oil-10-16-2026/"}
+      ]
+    },
+    {
+      "id": "eurusd", "name": "Euro / Dollar", "pair": "EUR/USD", "group": "Forex",
+      "tv": "FX:EURUSD", "live": null, "dp": 4, "prefix": "",
+      "quote": {"price": null, "chg": null, "label": "Between 1.1160 and 1.1240 on Fri 16 Oct", "source": "Orbex"},
+      "bias": "bearish",
+      "signal": {
+        "call": "WAIT", "asof": "2026-10-17T07:00:00+04:00",
+        "headline": "Bounce is meeting a falling trendline near 1.1250",
+        "reason": "The dollar pulled back this week, but EUR/USD is stuck under its downtrend line around 1.1240–1.1280. Analysts see rallies as selling chances while that holds; French debt worries weigh on the euro.",
+        "long": {"trigger": 1.1350, "t1": 1.1400, "t2": 1.1475, "why": "Only a move above 1.1350 would break the downtrend, opening 1.1400 and 1.1475."},
+        "short": {"trigger": 1.1160, "t1": 1.1065, "t2": 1.0975, "why": "A break below 1.1160 support points to 1.1065, then 1.0975."}
+      },
+      "levels": [
+        {"name": "Resistance", "price": 1.1475},
+        {"name": "Resistance zone top", "price": 1.1400},
+        {"name": "Resistance", "price": 1.1350},
+        {"name": "Downtrend line", "price": 1.1260},
+        {"name": "Support", "price": 1.1160},
+        {"name": "1.11 · 50% retracement", "price": 1.1100},
+        {"name": "Support", "price": 1.1065},
+        {"name": "Support", "price": 1.0975}
+      ],
+      "sources": [
+        {"name": "Orbex", "url": "https://www.orbex.com/blog/en/2026/10/eur-usd-16-10-2026"},
+        {"name": "FOREX.com", "url": "https://www.forex.com/en-us/news-and-analysis/eur-usd-gbp-usd-price-outlook-can-the-dollar-pullback-fuel-a-bullish-rebound/"},
+        {"name": "DailyForex", "url": "https://www.dailyforex.com/forex-technical-analysis/2026/10/eurusd-forecast-16-october-2026/250792"}
+      ]
+    },
+    {
+      "id": "usdjpy", "name": "Dollar / Yen", "pair": "USD/JPY", "group": "Forex",
+      "tv": "FX:USDJPY", "live": null, "dp": 2, "prefix": "",
+      "quote": {"price": 158.00, "chg": null, "label": "Fri 16 Oct, range 157.80–158.18", "source": "MQL5"},
+      "bias": "neutral",
+      "signal": {
+        "call": "WAIT", "asof": "2026-10-17T07:00:00+04:00",
+        "headline": "Pinned near 158 as the dollar correction runs",
+        "reason": "The pair slipped below key moving averages despite hot US inflation. The BoJ flagged upside price risks without a hike date, and the Fed gave no fresh signal. 157.80 is the floor to watch.",
+        "long": null,
+        "short": null
+      },
+      "levels": [
+        {"name": "Day high · resistance", "price": 158.18},
+        {"name": "Support to hold", "price": 157.80},
+        {"name": "Next support", "price": 157.50}
+      ],
+      "sources": [
+        {"name": "MQL5 market outlook", "url": "https://www.mql5.com/en/blogs/post/777826"}
+      ]
+    },
+    {
+      "id": "spx", "name": "S&P 500", "pair": "US500", "group": "Indices",
+      "tv": "FOREXCOM:SPXUSD", "live": null, "dp": 2, "prefix": "",
+      "quote": {"price": 7659.44, "chg": -1.09, "label": "Fri 16 Oct close", "source": "TheStreet"},
+      "bias": "bearish",
+      "signal": {
+        "call": "WAIT", "asof": "2026-10-17T07:00:00+04:00",
+        "headline": "AI jitters push the index back into the 7,636–7,676 zone",
+        "reason": "Tech fell more than 3% on Friday as investors questioned AI spending and debt, while hot inflation lifted yields. The daily swing trend is down; energy was the only real bright spot.",
+        "long": {"trigger": 7778, "t1": 7821.67, "t2": 7844.52, "why": "Reclaiming 7,757–7,778 would target the lower top at 7,822, then the record high near 7,845."},
+        "short": {"trigger": 7636, "t1": 7507.77, "t2": null, "why": "Losing the 7,636 floor of the retracement zone points to the range base near 7,508."}
+      },
+      "levels": [
+        {"name": "Record high", "price": 7844.52},
+        {"name": "Lower top", "price": 7821.67},
+        {"name": "Resistance zone top", "price": 7777.72},
+        {"name": "Resistance zone", "price": 7757.09},
+        {"name": "50-day average", "price": 7708.03},
+        {"name": "Support zone top", "price": 7676.15},
+        {"name": "Support zone base", "price": 7636.41},
+        {"name": "Range base", "price": 7507.77}
+      ],
+      "sources": [
+        {"name": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-16-2026"},
+        {"name": "FXEmpire", "url": "https://www.fxempire.com/forecasts/article/nasdaq-and-sp-index-ai-selling-deepens-as-dow-holds-up-on-rotation-1638647"}
+      ]
+    },
+    {
+      "id": "nasdaq", "name": "Nasdaq Composite", "pair": "IXIC", "group": "Indices",
+      "tv": "NASDAQ:IXIC", "live": null, "dp": 2, "prefix": "",
+      "quote": {"price": 26140.03, "chg": -2.14, "label": "Fri 16 Oct close", "source": "TheStreet"},
+      "bias": "bearish",
+      "signal": {
+        "call": "WAIT", "asof": "2026-10-17T07:00:00+04:00",
+        "headline": "Chip and AI selling leads the market lower",
+        "reason": "The Nasdaq fell over 2% on Friday and chip stocks were down nearly 9% on the week. A broader recovery needs semiconductors to stop making new weekly lows; Big Tech earnings are the next test.",
+        "long": null,
+        "short": null
+      },
+      "levels": [],
+      "sources": [
+        {"name": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-16-2026"},
+        {"name": "FXEmpire", "url": "https://www.fxempire.com/forecasts/article/nasdaq-and-sp-index-ai-selling-deepens-as-dow-holds-up-on-rotation-1638647"}
+      ]
+    },
+    {
+      "id": "nifty", "name": "Nifty 50", "pair": "NIFTY", "group": "India",
+      "tv": "NSE:NIFTY", "live": null, "dp": 2, "prefix": "",
+      "quote": {"price": 23146, "chg": 0.65, "label": "Fri 16 Oct close", "source": "Whalesbook"},
+      "bias": "bullish",
+      "signal": {
+        "call": "WAIT", "asof": "2026-10-17T07:00:00+04:00",
+        "headline": "Six-week slide snapped; 23,300–23,350 is the hurdle",
+        "reason": "Nifty broke its run of lower highs and lower lows on better volume, and short-term averages are turning up. The 50-day average and an unfilled September gap sit just above at 23,300–23,350.",
+        "long": {"trigger": 23350, "t1": 23700, "t2": null, "why": "A close above 23,350 clears the 50-day average and the September gap, opening 23,700."},
+        "short": {"trigger": 22800, "t1": null, "t2": null, "why": "Falling back below the 22,800–22,900 support band would undo Friday's reversal."}
+      },
+      "levels": [
+        {"name": "Next target", "price": 23700},
+        {"name": "Hurdle top · Sep gap", "price": 23350},
+        {"name": "Hurdle · 50-day average", "price": 23300},
+        {"name": "Support top", "price": 22900},
+        {"name": "Support", "price": 22800}
+      ],
+      "sources": [
+        {"name": "Whalesbook", "url": "https://www.whalesbook.com/news/English/sebiexchange/Nifty-50-Closes-At-23146-23300-Level-Is-Key-Hurdle/6ad20f6179a16deaeaf4530c"}
+      ]
+    },
+    {
+      "id": "btc", "name": "Bitcoin", "pair": "BTC/USD", "group": "Crypto",
+      "tv": "BITSTAMP:BTCUSD", "live": "BTC", "dp": 0, "prefix": "$",
+      "quote": {"price": 82536, "chg": 2.04, "label": "Fri 16 Oct, 12:00 UTC", "source": "Yahoo Finance"},
+      "bias": "bearish",
+      "signal": {
+        "call": "WAIT", "asof": "2026-10-17T07:00:00+04:00",
+        "headline": "Lower highs since September; $84,200 flips it",
+        "reason": "Bitcoin held up despite two hot inflation reports but is testing its 50-day average with lower highs since the $87,000 September peak. Weekly momentum is healthier than the daily chart.",
+        "long": {"trigger": 84200, "t1": 84700, "t2": 87000, "why": "Breaking $84,200 ends the bearish structure; order clusters sit at $84,300–84,700, then the September high near $87,000."},
+        "short": {"trigger": 79000, "t1": 72397, "t2": null, "why": "Losing the $79,000–79,500 support band would expose the 200-day average near $72,400."}
+      },
+      "levels": [
+        {"name": "September high", "price": 87000},
+        {"name": "Order cluster top", "price": 84700},
+        {"name": "Breakout level", "price": 84200},
+        {"name": "Daily high", "price": 82941},
+        {"name": "50-day average", "price": 81279},
+        {"name": "Support cluster", "price": 80000},
+        {"name": "Major support", "price": 79000},
+        {"name": "200-day average", "price": 72397}
+      ],
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-october-16-2026-bitcoin-ethereum-prices-firm-despite-two-strong-inflation-reports-113928147.html"},
+        {"name": "CoinTurk", "url": "https://en.coin-turk.com/bitcoin-struggles-below-82000-as-traders-eye-84200-breakout-for-bullish-reversal/"}
+      ]
+    },
+    {
+      "id": "dfm", "name": "Dubai Financial Market", "pair": "DFMGI", "group": "Gulf",
+      "tv": "DFM:DFMGI", "live": null, "dp": 2, "prefix": "",
+      "quote": {"price": 5830.47, "chg": 0.00, "label": "Thu 15 Oct close", "source": "Trading Economics"},
+      "bias": "neutral",
+      "signal": {
+        "call": "WAIT", "asof": "2026-10-17T07:00:00+04:00",
+        "headline": "UAE stocks drift near a six-week low",
+        "reason": "The DFM index is down about 2.3% over the month and 3.3% over the year. Bank earnings have been firm while property names lag; the UAE central bank's base rate is 3.90% after its September hike.",
+        "long": null,
+        "short": null
+      },
+      "levels": [],
+      "sources": [
+        {"name": "Trading Economics", "url": "https://tradingeconomics.com/united-arab-emirates/stock-market"},
+        {"name": "DFM historical data", "url": "https://www.dfm.ae/the-exchange/statistics-reports/historical-data/dfmgi"}
+      ]
+    }
   ],
   "calls": [
-    {"asof": "2026-10-17T00:45:00+04:00", "call": "WAIT", "detail": "Buy above 4,200 / sell below 4,100", "outcome": "Open"}
+    {"market": "gold", "asof": "2026-10-17T00:45:00+04:00", "call": "WAIT", "detail": "Buy above 4,200 / sell below 4,100", "outcome": "Open"}
   ],
   "posts": [
+    {
+      "id": "weekend-2026-10-17",
+      "date": "2026-10-17T07:00:00+04:00",
+      "title": "Weekend wrap: AI jitters, hot inflation and $100 oil",
+      "bias": "neutral",
+      "markets": ["gold", "silver", "oil", "eurusd", "usdjpy", "spx", "nasdaq", "nifty", "btc", "dfm"],
+      "points": [
+        "Hot September US inflation (3.7%) revived Fed hike talk and lifted yields; markets still mostly expect a hold on 28 Oct.",
+        "US stocks fell on Friday as AI spending and debt worries hit tech: the S&P 500 lost 1.1% to 7,659 and the Nasdaq 2.1% to 26,140. Energy was the only strong sector.",
+        "Oil stays firm on Middle East supply risk: Brent traded above $106 and WTI near $96, with $100 the next test.",
+        "Gold recovered from its post-CPI drop to about $4,166 but remains boxed between $4,100 and $4,200. Silver is weaker, near $57 and close to oversold.",
+        "The dollar had its first weekly fall in five weeks, yet EUR/USD is still capped by its downtrend line near 1.1250 and USD/JPY sits around 158.",
+        "India stood out: Nifty rose 0.65% to 23,146 and broke a six-week losing streak.",
+        "Bitcoin held around $81,000–82,500 despite the inflation data, but stays below its $84,200 breakout level. Dubai stocks drifted near a six-week low.",
+        "Week ahead: Big Tech earnings, Fed speakers into the 27–28 Oct meeting, and oil headlines from the Middle East."
+      ],
+      "drivers": ["US inflation", "Fed path", "AI spending", "Oil supply risk", "Dollar", "Earnings"],
+      "sources": [
+        {"name": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-16-2026"},
+        {"name": "CNBC", "url": "https://www.cnbc.com/amp/2026/10/16/gold-gains-on-softer-dollar-but-heads-for-weekly-fall.html"},
+        {"name": "Fortune", "url": "https://fortune.com/article/price-of-oil-10-16-2026/"},
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-october-16-2026-bitcoin-ethereum-prices-firm-despite-two-strong-inflation-reports-113928147.html"},
+        {"name": "Whalesbook", "url": "https://www.whalesbook.com/news/English/sebiexchange/Nifty-50-Closes-At-23146-23300-Level-Is-Key-Hurdle/6ad20f6179a16deaeaf4530c"},
+        {"name": "Trading Economics", "url": "https://tradingeconomics.com/united-arab-emirates/stock-market"}
+      ]
+    },
     {
       "id": "wk-2026-10-19",
       "date": "2026-10-17T00:45:00+04:00",
       "title": "Gold weekly setup, week of 19 Oct 2026",
       "bias": "neutral",
+      "markets": ["gold"],
       "points": [
         "Spot sits near $4,166–4,184 after a round trip. The hot September CPI print on 14 Oct pushed gold to about $4,090, then it recovered as the dollar and Treasury yields eased.",
         "The Fed lifted rates to 4.00% in September, its first hike since 2023. Futures pricing points to a hold at the 27–28 Oct meeting, with one more hike possible in December.",
@@ -59,17 +302,22 @@
         {"name": "CNBC", "url": "https://www.cnbc.com/amp/2026/10/16/gold-gains-on-softer-dollar-but-heads-for-weekly-fall.html"},
         {"name": "FXStreet", "url": "https://www.fxstreet.com/commodities/gold"},
         {"name": "State Street Gold Monitor", "url": "https://www.ssga.com/library-content/products/fund-docs/etfs/us/insights-investment-ideas/monthly-gold-monitor.pdf"},
-        {"name": "World Gold Council", "url": "https://www.gold.org/goldhub/research/gold-mid-year-outlook-2026"},
-        {"name": "RoboForex", "url": "https://roboforex.com/beginners/analytics/forex-forecast/gold/gold-xau-usd-forecast-and-prediction/"}
+        {"name": "World Gold Council", "url": "https://www.gold.org/goldhub/research/gold-mid-year-outlook-2026"}
       ]
     }
   ],
   "news": [
-    {"src": "CNBC", "date": "2026-10-16", "tone": "bullish", "title": "Gold edges higher on a weaker dollar but heads for a small weekly loss", "url": "https://www.cnbc.com/amp/2026/10/16/gold-gains-on-softer-dollar-but-heads-for-weekly-fall.html"},
-    {"src": "Business Recorder", "date": "2026-10-16", "tone": "neutral", "title": "Strong inflation data keep Fed hike talk alive as gold firms", "url": "https://www.brecorder.com/news/40444523/gold-gains-on-softer-dollar-but-heads-for-weekly-fall"},
-    {"src": "FXStreet", "date": "2026-10-15", "tone": "bullish", "title": "Gold recovers post-CPI losses as a China bond-buying report drags US yields", "url": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-rebounds-firmly-as-china-treasuries-buying-report-smashes-us-yields-202610150401"},
-    {"src": "Discovery Alert", "date": "2026-10-16", "tone": "bearish", "title": "Why a hot CPI print hit gold before the Fed meeting", "url": "https://discoveryalert.com/analysis/gold-price-outlook-fed-hike-october-2026/"},
-    {"src": "State Street", "date": "2026-10-14", "tone": "neutral", "title": "October gold monitor: resilient despite Fed and dollar headwinds", "url": "https://www.ssga.com/library-content/products/fund-docs/etfs/us/insights-investment-ideas/monthly-gold-monitor.pdf"},
-    {"src": "NAGA", "date": "2026-10-07", "tone": "bearish", "title": "Q4 outlook flags $4,100–4,110 as the support to watch", "url": "https://naga.com/en/news-and-analysis/articles/gold-price-prediction"}
+    {"market": "spx", "src": "TheStreet", "date": "2026-10-16", "tone": "bearish", "title": "AI bubble worries drag the Nasdaq and Russell 2000 lower", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-16-2026"},
+    {"market": "gold", "src": "CNBC", "date": "2026-10-16", "tone": "bullish", "title": "Gold edges higher on a weaker dollar but heads for a small weekly loss", "url": "https://www.cnbc.com/amp/2026/10/16/gold-gains-on-softer-dollar-but-heads-for-weekly-fall.html"},
+    {"market": "oil", "src": "Fortune", "date": "2026-10-16", "tone": "bullish", "title": "Brent climbs above $108 as supply buffers look thin", "url": "https://fortune.com/article/price-of-oil-10-16-2026/"},
+    {"market": "silver", "src": "FXStreet", "date": "2026-10-16", "tone": "bearish", "title": "Silver sellers eye $55 as momentum nears oversold", "url": "https://www.fxstreet.com/news/silver-price-forecast-bears-target-55-as-rsi-nears-oversold-202610161923"},
+    {"market": "nifty", "src": "Whalesbook", "date": "2026-10-16", "tone": "bullish", "title": "Nifty ends six-week slide; 23,300 is the next hurdle", "url": "https://www.whalesbook.com/news/English/sebiexchange/Nifty-50-Closes-At-23146-23300-Level-Is-Key-Hurdle/6ad20f6179a16deaeaf4530c"},
+    {"market": "btc", "src": "Yahoo Finance", "date": "2026-10-16", "tone": "neutral", "title": "Bitcoin and ether hold firm despite two hot inflation reports", "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-october-16-2026-bitcoin-ethereum-prices-firm-despite-two-strong-inflation-reports-113928147.html"},
+    {"market": "btc", "src": "CoinTurk", "date": "2026-10-17", "tone": "bearish", "title": "Traders want a break of $84,200 before calling a Bitcoin reversal", "url": "https://en.coin-turk.com/bitcoin-struggles-below-82000-as-traders-eye-84200-breakout-for-bullish-reversal/"},
+    {"market": "eurusd", "src": "DailyForex", "date": "2026-10-16", "tone": "bearish", "title": "EUR/USD rally runs into resistance near 1.1250", "url": "https://www.dailyforex.com/forex-technical-analysis/2026/10/eurusd-forecast-16-october-2026/250792"},
+    {"market": "usdjpy", "src": "MQL5", "date": "2026-10-16", "tone": "neutral", "title": "Dollar correction keeps USD/JPY around 158", "url": "https://www.mql5.com/en/blogs/post/777826"},
+    {"market": "dfm", "src": "Trading Economics", "date": "2026-10-15", "tone": "bearish", "title": "UAE stocks slip to a six-week low", "url": "https://tradingeconomics.com/united-arab-emirates/stock-market"},
+    {"market": "gold", "src": "Discovery Alert", "date": "2026-10-16", "tone": "bearish", "title": "Why a hot CPI print hit gold before the Fed meeting", "url": "https://discoveryalert.com/analysis/gold-price-outlook-fed-hike-october-2026/"},
+    {"market": "spx", "src": "FXEmpire", "date": "2026-10-16", "tone": "bearish", "title": "Chip stocks set the tone as the Dow holds up on rotation", "url": "https://www.fxempire.com/forecasts/article/nasdaq-and-sp-index-ai-selling-deepens-as-dow-holds-up-on-rotation-1638647"}
   ]
 }
