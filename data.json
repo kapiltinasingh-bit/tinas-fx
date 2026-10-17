@@ -1,0 +1,75 @@
+{
+  "updated": "2026-10-17T03:30:00+04:00",
+  "quote": {
+    "price": 4166.10,
+    "high": 4198.45,
+    "low": 4147.19,
+    "label": "Friday 16 Oct close",
+    "source": "gold-api.com spot, day range via DailyForex"
+  },
+  "macro": [
+    {"label": "Fed funds", "value": "3.75–4.00%", "note": "Hiked in September"},
+    {"label": "Dollar index", "value": "≈102.3", "note": "As of 16 Oct"},
+    {"label": "US 10Y", "value": "Pending", "note": "Awaiting a verified print"},
+    {"label": "52-week range", "value": "3,886–5,602", "note": "Record high 29 Jan 2026"}
+  ],
+  "fomc": "2026-10-28T18:00:00Z",
+  "signal": {
+    "asof": "2026-10-17T00:45:00+04:00",
+    "call": "WAIT",
+    "headline": "Range trade until $4,200 or $4,100 gives way",
+    "reason": "Gold rebounded after the hot CPI sell-off but is boxed between $4,100 support and $4,200 resistance, still under its 200-day average near $4,460. The Fed decision on 28 Oct is the next big catalyst.",
+    "long": {"trigger": 4200, "stop": 4170, "t1": 4230, "t2": 4300, "why": "A break above $4,200 opens the Oct 2 high at $4,230, then the R3 pivot near $4,300."},
+    "short": {"trigger": 4100, "stop": 4136, "t1": 4031, "t2": 4000, "why": "A break below $4,100 support points to the S2 pivot near $4,031 and the round $4,000."}
+  },
+  "levels": [
+    {"name": "200-day average", "price": 4462.70},
+    {"name": "R3 pivot", "price": 4301.99},
+    {"name": "R2 · Oct 2 high zone", "price": 4239.71},
+    {"name": "R1 · $4,200", "price": 4197.80},
+    {"name": "20-day average", "price": 4173.35},
+    {"name": "Daily pivot", "price": 4135.52},
+    {"name": "S1 · $4,100 support", "price": 4093.61},
+    {"name": "S2", "price": 4031.33},
+    {"name": "S3 · $4,000 zone", "price": 3989.42}
+  ],
+  "prices": [
+    {"d": "2026-10-16", "c": 4166.10}
+  ],
+  "calls": [
+    {"asof": "2026-10-17T00:45:00+04:00", "call": "WAIT", "detail": "Buy above 4,200 / sell below 4,100", "outcome": "Open"}
+  ],
+  "posts": [
+    {
+      "id": "wk-2026-10-19",
+      "date": "2026-10-17T00:45:00+04:00",
+      "title": "Gold weekly setup, week of 19 Oct 2026",
+      "bias": "neutral",
+      "points": [
+        "Spot sits near $4,166–4,184 after a round trip. The hot September CPI print on 14 Oct pushed gold to about $4,090, then it recovered as the dollar and Treasury yields eased.",
+        "The Fed lifted rates to 4.00% in September, its first hike since 2023. Futures pricing points to a hold at the 27–28 Oct meeting, with one more hike possible in December.",
+        "The dollar was set for its first weekly fall in five weeks, which supports dollar-priced bullion.",
+        "Bull case: softer yields and dollar, Middle East risk and safe-haven demand lift price through $4,200 toward $4,230.",
+        "Bear case: another hot data print or hawkish Fed guidance sends price back through $4,100 toward $4,000.",
+        "Price remains well under its 200-day average near $4,460, so the larger trend is still corrective.",
+        "State Street keeps a base case of $4,750–5,500 by end of Q1 2027 but cut its confidence to 60%. The World Gold Council's base case was ±5% around $4,100 for the second half."
+      ],
+      "drivers": ["Fed path", "US CPI / PPI", "Dollar index", "10Y yield", "Middle East / oil", "ETF flows"],
+      "sources": [
+        {"name": "CNBC", "url": "https://www.cnbc.com/amp/2026/10/16/gold-gains-on-softer-dollar-but-heads-for-weekly-fall.html"},
+        {"name": "FXStreet", "url": "https://www.fxstreet.com/commodities/gold"},
+        {"name": "State Street Gold Monitor", "url": "https://www.ssga.com/library-content/products/fund-docs/etfs/us/insights-investment-ideas/monthly-gold-monitor.pdf"},
+        {"name": "World Gold Council", "url": "https://www.gold.org/goldhub/research/gold-mid-year-outlook-2026"},
+        {"name": "RoboForex", "url": "https://roboforex.com/beginners/analytics/forex-forecast/gold/gold-xau-usd-forecast-and-prediction/"}
+      ]
+    }
+  ],
+  "news": [
+    {"src": "CNBC", "date": "2026-10-16", "tone": "bullish", "title": "Gold edges higher on a weaker dollar but heads for a small weekly loss", "url": "https://www.cnbc.com/amp/2026/10/16/gold-gains-on-softer-dollar-but-heads-for-weekly-fall.html"},
+    {"src": "Business Recorder", "date": "2026-10-16", "tone": "neutral", "title": "Strong inflation data keep Fed hike talk alive as gold firms", "url": "https://www.brecorder.com/news/40444523/gold-gains-on-softer-dollar-but-heads-for-weekly-fall"},
+    {"src": "FXStreet", "date": "2026-10-15", "tone": "bullish", "title": "Gold recovers post-CPI losses as a China bond-buying report drags US yields", "url": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-rebounds-firmly-as-china-treasuries-buying-report-smashes-us-yields-202610150401"},
+    {"src": "Discovery Alert", "date": "2026-10-16", "tone": "bearish", "title": "Why a hot CPI print hit gold before the Fed meeting", "url": "https://discoveryalert.com/analysis/gold-price-outlook-fed-hike-october-2026/"},
+    {"src": "State Street", "date": "2026-10-14", "tone": "neutral", "title": "October gold monitor: resilient despite Fed and dollar headwinds", "url": "https://www.ssga.com/library-content/products/fund-docs/etfs/us/insights-investment-ideas/monthly-gold-monitor.pdf"},
+    {"src": "NAGA", "date": "2026-10-07", "tone": "bearish", "title": "Q4 outlook flags $4,100–4,110 as the support to watch", "url": "https://naga.com/en/news-and-analysis/articles/gold-price-prediction"}
+  ]
+}
