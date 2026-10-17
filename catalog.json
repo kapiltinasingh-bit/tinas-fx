@@ -1,0 +1,93 @@
+{
+  "groups": [
+    {"id": "fx-major", "name": "Forex majors", "blurb": "The seven most traded currency pairs, all quoted against the US dollar.", "items": [
+      {"id": "eurusd", "name": "Euro / US Dollar", "tv": "FX:EURUSD", "desk": "eurusd"},
+      {"id": "gbpusd", "name": "British Pound / US Dollar", "tv": "FX:GBPUSD"},
+      {"id": "usdjpy", "name": "US Dollar / Japanese Yen", "tv": "FX:USDJPY", "desk": "usdjpy"},
+      {"id": "usdchf", "name": "US Dollar / Swiss Franc", "tv": "FX:USDCHF"},
+      {"id": "audusd", "name": "Australian Dollar / US Dollar", "tv": "FX:AUDUSD"},
+      {"id": "usdcad", "name": "US Dollar / Canadian Dollar", "tv": "FX:USDCAD"},
+      {"id": "nzdusd", "name": "New Zealand Dollar / US Dollar", "tv": "FX:NZDUSD"}
+    ]},
+    {"id": "fx-cross", "name": "Forex crosses and Asia", "blurb": "Pairs without the dollar, plus key Asian currencies.", "items": [
+      {"id": "eurgbp", "name": "Euro / British Pound", "tv": "FX:EURGBP"},
+      {"id": "eurjpy", "name": "Euro / Japanese Yen", "tv": "FX:EURJPY"},
+      {"id": "gbpjpy", "name": "British Pound / Japanese Yen", "tv": "FX:GBPJPY"},
+      {"id": "eurchf", "name": "Euro / Swiss Franc", "tv": "FX:EURCHF"},
+      {"id": "audjpy", "name": "Australian Dollar / Japanese Yen", "tv": "FX:AUDJPY"},
+      {"id": "usdinr", "name": "US Dollar / Indian Rupee", "tv": "FX_IDC:USDINR"},
+      {"id": "usdcnh", "name": "US Dollar / Offshore Yuan", "tv": "FX:USDCNH"}
+    ]},
+    {"id": "metals", "name": "Metals", "blurb": "Precious and industrial metals, priced in US dollars.", "items": [
+      {"id": "gold", "name": "Gold", "tv": "OANDA:XAUUSD", "desk": "gold"},
+      {"id": "silver", "name": "Silver", "tv": "OANDA:XAGUSD", "desk": "silver"},
+      {"id": "platinum", "name": "Platinum", "tv": "OANDA:XPTUSD"},
+      {"id": "palladium", "name": "Palladium", "tv": "OANDA:XPDUSD"},
+      {"id": "copper", "name": "Copper", "tv": "CAPITALCOM:COPPER"}
+    ]},
+    {"id": "energy", "name": "Energy", "blurb": "Crude oil benchmarks and natural gas.", "items": [
+      {"id": "oil", "name": "WTI crude oil", "tv": "TVC:USOIL", "desk": "oil"},
+      {"id": "brent", "name": "Brent crude oil", "tv": "TVC:UKOIL"},
+      {"id": "natgas", "name": "Natural gas", "tv": "CAPITALCOM:NATURALGAS"}
+    ]},
+    {"id": "us-idx", "name": "US indices and volatility", "blurb": "The benchmarks the world watches, plus the fear gauge.", "items": [
+      {"id": "spx", "name": "S&P 500", "tv": "FOREXCOM:SPXUSD", "desk": "spx"},
+      {"id": "nasdaq", "name": "Nasdaq Composite", "tv": "NASDAQ:IXIC", "desk": "nasdaq"},
+      {"id": "ndx", "name": "Nasdaq 100", "tv": "FOREXCOM:NSXUSD"},
+      {"id": "dji", "name": "Dow Jones 30", "tv": "FOREXCOM:DJI"},
+      {"id": "rut", "name": "Russell 2000", "tv": "CAPITALCOM:RTY"},
+      {"id": "vix", "name": "VIX volatility index", "tv": "CAPITALCOM:VIX"}
+    ]},
+    {"id": "world-idx", "name": "World indices", "blurb": "Europe and Asia-Pacific benchmarks.", "items": [
+      {"id": "ftse", "name": "FTSE 100 (UK)", "tv": "FOREXCOM:UKXGBP"},
+      {"id": "dax", "name": "DAX 40 (Germany)", "tv": "CAPITALCOM:DE40"},
+      {"id": "cac", "name": "CAC 40 (France)", "tv": "CAPITALCOM:FR40"},
+      {"id": "stoxx", "name": "Euro Stoxx 50", "tv": "CAPITALCOM:EU50"},
+      {"id": "nikkei", "name": "Nikkei 225 (Japan)", "tv": "TVC:NI225"},
+      {"id": "hsi", "name": "Hang Seng (Hong Kong)", "tv": "TVC:HSI"},
+      {"id": "shcomp", "name": "Shanghai Composite", "tv": "SSE:000001"},
+      {"id": "asx", "name": "ASX 200 (Australia)", "tv": "CAPITALCOM:AU200"}
+    ]},
+    {"id": "india", "name": "India", "blurb": "Indian benchmarks and the largest listed companies.", "items": [
+      {"id": "nifty", "name": "Nifty 50", "tv": "NSE:NIFTY", "desk": "nifty"},
+      {"id": "sensex", "name": "BSE Sensex", "tv": "BSE:SENSEX"},
+      {"id": "banknifty", "name": "Nifty Bank", "tv": "NSE:BANKNIFTY"},
+      {"id": "reliance", "name": "Reliance Industries", "tv": "NSE:RELIANCE", "stock": true},
+      {"id": "hdfcbank", "name": "HDFC Bank", "tv": "NSE:HDFCBANK", "stock": true},
+      {"id": "tcs", "name": "Tata Consultancy Services", "tv": "NSE:TCS", "stock": true},
+      {"id": "infy", "name": "Infosys", "tv": "NSE:INFY", "stock": true}
+    ]},
+    {"id": "gulf", "name": "Gulf markets", "blurb": "UAE and Saudi benchmarks and bellwether stocks.", "items": [
+      {"id": "dfm", "name": "DFM General Index (Dubai)", "tv": "DFM:DFMGI", "desk": "dfm"},
+      {"id": "adx", "name": "FTSE ADX General (Abu Dhabi)", "tv": "ADX:FADGI"},
+      {"id": "tasi", "name": "Tadawul All Share (Saudi)", "tv": "TADAWUL:TASI"},
+      {"id": "emaar", "name": "Emaar Properties", "tv": "DFM:EMAAR", "stock": true},
+      {"id": "fab", "name": "First Abu Dhabi Bank", "tv": "ADX:FAB", "stock": true},
+      {"id": "aramco", "name": "Saudi Aramco", "tv": "TADAWUL:2222", "stock": true}
+    ]},
+    {"id": "us-stocks", "name": "US megacaps", "blurb": "The companies that move the indices.", "items": [
+      {"id": "aapl", "name": "Apple", "tv": "NASDAQ:AAPL", "stock": true},
+      {"id": "msft", "name": "Microsoft", "tv": "NASDAQ:MSFT", "stock": true},
+      {"id": "nvda", "name": "Nvidia", "tv": "NASDAQ:NVDA", "stock": true},
+      {"id": "amzn", "name": "Amazon", "tv": "NASDAQ:AMZN", "stock": true},
+      {"id": "googl", "name": "Alphabet", "tv": "NASDAQ:GOOGL", "stock": true},
+      {"id": "meta", "name": "Meta Platforms", "tv": "NASDAQ:META", "stock": true},
+      {"id": "tsla", "name": "Tesla", "tv": "NASDAQ:TSLA", "stock": true},
+      {"id": "brk", "name": "Berkshire Hathaway", "tv": "NYSE:BRK.B", "stock": true}
+    ]},
+    {"id": "crypto", "name": "Crypto", "blurb": "The largest digital assets against the US dollar.", "items": [
+      {"id": "btc", "name": "Bitcoin", "tv": "BITSTAMP:BTCUSD", "desk": "btc"},
+      {"id": "eth", "name": "Ethereum", "tv": "BITSTAMP:ETHUSD"},
+      {"id": "sol", "name": "Solana", "tv": "COINBASE:SOLUSD"},
+      {"id": "xrp", "name": "XRP", "tv": "BITSTAMP:XRPUSD"},
+      {"id": "bnb", "name": "BNB", "tv": "BINANCE:BNBUSDT"},
+      {"id": "doge", "name": "Dogecoin", "tv": "BINANCE:DOGEUSDT"}
+    ]},
+    {"id": "rates", "name": "Dollar and bonds", "blurb": "The dollar index and US Treasury yields that drive everything else.", "items": [
+      {"id": "dxy", "name": "US Dollar Index", "tv": "TVC:DXY"},
+      {"id": "us10y", "name": "US 10-year yield", "tv": "TVC:US10Y"},
+      {"id": "us02y", "name": "US 2-year yield", "tv": "TVC:US02Y"},
+      {"id": "us30y", "name": "US 30-year yield", "tv": "TVC:US30Y"}
+    ]}
+  ]
+}
