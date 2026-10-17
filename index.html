@@ -40,15 +40,19 @@ header.top{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1p
 .bar{display:flex;align-items:center;gap:10px 18px;padding-block:10px}
 .brand{display:flex;align-items:center;gap:10px;color:var(--fg);flex:none}.brand:hover{text-decoration:none}
 .mono-mark{width:30px;height:30px;border-radius:6px;background:var(--gold);color:#1A1406;display:grid;place-items:center;font-family:var(--f-serif);font-style:italic;font-weight:500;font-size:20px;line-height:1}
-.word{font-family:var(--f-serif);font-weight:600;font-size:22px;letter-spacing:-.01em;white-space:nowrap}
-.word b{color:var(--gold);font-family:var(--f-display);font-weight:700;font-size:20px;margin-left:2px}
+.word{font-family:var(--f-serif);font-style:italic;font-weight:500;font-size:23px;letter-spacing:-.01em;white-space:nowrap}
+.word b{color:var(--gold);font-family:var(--f-serif);font-style:normal;font-weight:600;font-size:22px;margin-left:3px}
 nav.main{display:flex;gap:2px;margin-left:auto;overflow-x:auto;scrollbar-width:none;min-width:0}
 nav.main::-webkit-scrollbar{display:none}
 nav.main a{color:var(--fg-2);font-size:13px;padding:6px 9px;border-radius:4px;white-space:nowrap}
 nav.main a:hover{background:var(--panel-2);text-decoration:none;color:var(--fg)}
 nav.main a[aria-current="page"]{color:var(--gold);background:var(--gold-dim)}
 .badge{font-family:var(--f-mono);font-size:11px;padding:3px 8px;border-radius:4px;border:1px solid var(--line-2);color:var(--fg-2);white-space:nowrap;flex:none}
-.tape{border-bottom:1px solid var(--line);background:var(--panel);height:46px;overflow:hidden}
+.tape{border-bottom:1px solid var(--line);background:var(--panel);height:46px;overflow:hidden;position:relative}
+.tape::before,.tape::after{content:"";position:absolute;top:0;bottom:0;width:48px;z-index:2;pointer-events:none}
+.tape::before{left:0;background:linear-gradient(90deg,var(--panel),transparent)}
+.tape::after{right:0;background:linear-gradient(270deg,var(--panel),transparent)}
+.card .ts{font-size:11px}.card .trg{font-size:12px}
 .panel{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:18px;min-width:0}
 .ph{display:flex;align-items:baseline;justify-content:space-between;gap:8px 12px;flex-wrap:wrap;margin-bottom:14px}
 h1,h2,h3{text-wrap:balance;margin:0}
@@ -201,7 +205,7 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
     <div class="w h480" aria-label="Economic calendar"><div class="wb" id="w-cal-mini"></div></div>
   </div>
 
-  <div class="sec ph" style="margin-top:22px"><h2>Desk calls</h2><div class="filters" role="group" aria-label="Filter desk markets" id="groupf"></div></div>
+  <div class="sec ph" style="margin-top:22px"><div><h2>Desk calls</h2><div class="small">A BUY or SELL tag appears only when price confirms a trigger. ▲ and ▼ mark the levels the desk is waiting for.</div></div><div class="filters" role="group" aria-label="Filter desk markets" id="groupf"></div></div>
   <div class="board" id="board"></div>
 
   <div class="macro" id="macro"></div>
@@ -486,6 +490,12 @@ const itemById=Object.fromEntries(items.map(i=>[i.id,i]));
 const fmt=(m,v)=>v==null?"--":(m.prefix||"")+Number(v).toLocaleString("en-US",{minimumFractionDigits:m.dp,maximumFractionDigits:m.dp});
 const chgTxt=c=>c==null?"":(c>0?"+":"")+c.toFixed(2)+"%";
 const chgCls=c=>c==null||c===0?"small":c>0?"up":"dn";
+const ago=t=>{const h=Math.round((Date.now()-new Date(t))/36e5);return h<1?"just now":h<48?h+"h ago":Math.round(h/24)+"d ago";};
+const stamp=m=>{const q=m.quote;if(!q.asof)return q.label||"";return (q.label?q.label+" · ":"")+gst(q.asof)+" GST · "+ago(q.asof);};
+function triggers(m){const s=m.signal,x=el("span","small mono trg");const t=[];
+  const tf=v=>(m.prefix||"")+Number(v).toLocaleString("en-US",{minimumFractionDigits:m.dp>=3?m.dp:0,maximumFractionDigits:m.dp});
+  if(s.long&&s.long.trigger!=null)t.push(["▲ "+tf(s.long.trigger),"up"]);if(s.short&&s.short.trigger!=null)t.push(["▼ "+tf(s.short.trigger),"dn"]);
+  if(!t.length)return null;x.append(el("span","small","Triggers "));t.forEach(([v,c],i)=>{if(i)x.append(" · ");x.append(el("span",c,v));});return x;}
 const hrefFor=i=>i.desk&&byId[i.desk]?"#m-"+i.desk:"#s-"+i.id;
 
 $("upd").textContent="Desk updated "+gst(D.updated,{weekday:"short"})+" GST";
@@ -504,7 +514,7 @@ function tv(host,file,cfg,link){
 }
 const tvLink=s=>"https://www.tradingview.com/symbols/"+s.replace(":","-")+"/";
 const clear=(...ids)=>ids.forEach(i=>{const h=$(i);if(h)h.textContent="";});
-tv($("tape"),"embed-widget-ticker-tape.js",{symbols:M.map(m=>({proName:m.tv,title:m.name})).concat([{proName:"TVC:DXY",title:"Dollar index"},{proName:"TVC:US10Y",title:"US 10Y"},{proName:"BITSTAMP:ETHUSD",title:"Ethereum"},{proName:"TVC:UKOIL",title:"Brent"}]),showSymbolLogo:true,isTransparent:false,displayMode:"adaptive"});
+tv($("tape"),"embed-widget-ticker-tape.js",{symbols:M.map(m=>({proName:m.tv,title:m.name})).concat([{proName:"TVC:DXY",title:"Dollar index"},{proName:"TVC:US10Y",title:"US 10Y"},{proName:"BITSTAMP:ETHUSD",title:"Ethereum"},{proName:"TVC:UKOIL",title:"Brent"}]),showSymbolLogo:true,isTransparent:false,displayMode:"regular"});
 
 const groupsQuotes=C.groups.map(g=>({name:g.name,symbols:g.items.map(i=>({name:i.tv,displayName:i.name}))}));
 const overviewTabs=[
@@ -541,11 +551,15 @@ function renderBoard(){
   M.filter(m=>grp==="All"||m.group===grp).forEach(m=>{
     const a=el("a","card");a.href="#m-"+m.id;
     const top=el("div","top");const n=el("div");n.append(el("div","nm",m.name),el("div","small mono",m.pair));
-    const chips=el("div","chips");chips.append(el("span","chip "+m.signal.call,m.signal.call));top.append(n,chips);
+    const chips=el("div","chips");
+    if(m.signal.call!=="WAIT")chips.append(el("span","chip "+m.signal.call,m.signal.call));
+    chips.append(el("span","chip "+m.bias,m.bias));top.append(n,chips);
     const pr=el("div","top");const px=el("span","px",fmt(m,m.quote.price));px.dataset.live=m.id;
-    pr.append(px,el("span",chgCls(m.quote.chg)+" mono",chgTxt(m.quote.chg)));
-    const meta=el("div","chips");meta.append(el("span","chip grp",m.group),el("span","chip "+m.bias,m.bias),el("span","small",m.quote.label));
-    a.append(top,pr,el("div","hl",m.signal.headline),meta);box.append(a);
+    const cg=el("span",chgCls(m.quote.chg)+" mono",chgTxt(m.quote.chg));cg.dataset.chg=m.id;pr.append(px,cg);
+    const meta=el("div","chips");meta.append(el("span","chip grp",m.group));
+    const trg=triggers(m);if(trg)meta.append(trg);
+    const ts=el("span","small mono ts",stamp(m));ts.dataset.ts=m.id;
+    a.append(top,pr,el("div","hl",m.signal.headline),meta,ts);box.append(a);
   });
 }
 renderBoard();
@@ -617,7 +631,7 @@ function showMarket(id){
   const m=byId[id];if(!m)return false;cur=m;document.title=m.name+" · Tina’s FX";
   $("m-grp").textContent=m.group+" · "+m.pair;$("m-name").textContent=m.name;
   $("m-px").textContent=fmt(m,m.quote.price);$("m-px").dataset.live=m.id;
-  $("m-lbl").textContent=m.quote.label+" · "+m.quote.source+(m.quote.chg!=null?" · "+chgTxt(m.quote.chg):"");
+  $("m-lbl").textContent=stamp(m)+" · "+m.quote.source+(m.quote.chg!=null?" · "+chgTxt(m.quote.chg):"");
   tv($("m-chart"),"embed-widget-advanced-chart.js",{autosize:true,symbol:m.tv,interval:m.group==="Gulf"||m.group==="India"?"D":"60",timezone:"Asia/Dubai",style:"1",backgroundColor:"#121214",gridColor:"rgba(38,37,42,1)",allow_symbol_change:false,hide_side_toolbar:false,save_image:false,isTransparent:false,support_host:"https://www.tradingview.com"},tvLink(m.tv));
   tv($("m-ta"),"embed-widget-technical-analysis.js",{interval:"1h",width:"100%",height:"100%",symbol:m.tv,showIntervalTabs:true,displayMode:"single"});
   tv($("m-tl"),"embed-widget-timeline.js",{feedMode:"symbol",symbol:m.tv,displayMode:"regular",width:"100%",height:"100%"});
@@ -793,9 +807,11 @@ window.addEventListener("hashchange",route);route();
 
 /* ---------- Live spot ---------- */
 async function live(){for(const m of M.filter(x=>x.live)){try{const r=await fetch("https://api.gold-api.com/price/"+m.live,{cache:"no-store"});const j=await r.json();if(!j||!j.price)continue;
-  m.quote.price=j.price;m.quote.label="Live · "+new Date(j.updatedAt||Date.now()).toLocaleTimeString("en-GB",{timeZone:"Asia/Dubai",hour:"2-digit",minute:"2-digit"})+" GST";m.quote.source="gold-api.com";
+  m.quote.price=j.price;m.quote.asof=j.updatedAt||new Date().toISOString();m.quote.label="Live";m.quote.source="gold-api.com";m.quote.chg=null;
+  document.querySelectorAll('[data-ts="'+m.id+'"]').forEach(e=>e.textContent=stamp(m));
+  document.querySelectorAll('[data-chg="'+m.id+'"]').forEach(e=>e.textContent="");
   document.querySelectorAll('[data-live="'+m.id+'"]').forEach(e=>e.textContent=fmt(m,j.price));
-  if(cur&&cur.id===m.id){$("m-lbl").textContent=m.quote.label+" · gold-api.com";levelMap(m);}}catch(e){}}}
+  if(cur&&cur.id===m.id){$("m-lbl").textContent=stamp(m)+" · gold-api.com";levelMap(m);}}catch(e){}}}
 live();setInterval(live,60000);
 
 function tick(){const n=new Date();$("clock").textContent=n.toLocaleTimeString("en-GB",{timeZone:"Asia/Dubai",hour:"2-digit",minute:"2-digit"})+" Dubai";
