@@ -26,6 +26,7 @@
   color-scheme:dark;
 }
 *{box-sizing:border-box}
+[hidden]{display:none!important}
 html,body{margin:0}
 body{background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:15px;line-height:1.6}
 .wrap{max-width:1320px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
@@ -159,6 +160,9 @@ form.calc{display:grid;gap:12px}
 .out .v{font-family:var(--f-mono);font-size:18px;margin-top:2px}
 .err{color:var(--bear);font-size:13px;min-height:1em}
 .empty{color:var(--fg-3);font-size:14px;padding:10px 0}
+.blocked{display:grid;gap:12px;align-content:center;justify-items:start;height:100%;padding:24px}
+.blocked .btns{display:flex;gap:8px;flex-wrap:wrap}
+.blocked .btns a{border:1px solid var(--gold);border-radius:6px;padding:7px 12px;font-size:14px}
 footer{border-top:1px solid var(--line);margin-top:28px;padding-block:18px;font-size:12px;color:var(--fg-3)}
 footer p{max-width:90ch;margin:0 0 6px}
 footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13px}
@@ -183,7 +187,7 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
     <a class="brand" href="#desk" aria-label="Tina’s FX home"><span class="mono-mark" aria-hidden="true">T</span><span class="word">Tina’s <b>FX</b></span></a>
     <span class="badge" id="clock"></span>
     <nav class="main" aria-label="Sections">
-      <a href="#desk" data-nav="desk">Today</a><a href="#markets" data-nav="markets">Markets</a><a href="#calendar" data-nav="calendar">Calendar</a><a href="#maps" data-nav="maps">Heatmaps</a><a href="#screeners" data-nav="screeners">Screeners</a><a href="#tools" data-nav="tools">Tools</a><a href="#learn" data-nav="learn">Academy</a><a href="#performance" data-nav="performance">Track record</a><a href="#research" data-nav="research">Research</a><a href="#about" data-nav="about">About</a>
+      <a href="#desk" data-nav="desk">Today</a><a href="#markets" data-nav="markets">Markets</a><a href="#india" data-nav="india">India</a><a href="#calendar" data-nav="calendar">Calendar</a><a href="#maps" data-nav="maps">Heatmaps</a><a href="#screeners" data-nav="screeners">Screeners</a><a href="#tools" data-nav="tools">Tools</a><a href="#learn" data-nav="learn">Academy</a><a href="#performance" data-nav="performance">Track record</a><a href="#research" data-nav="research">Research</a><a href="#about" data-nav="about">About</a>
     </nav>
   </div>
   <div class="tape" id="tape" aria-label="Live prices"></div>
@@ -248,6 +252,29 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
   <div class="hero"><div><h1>All markets</h1><p>Every instrument the desk tracks, with live quotes. Tap any market for its live chart, technical rating, key stats and news.</p></div></div>
   <div class="w h560"><div class="wb" id="w-quotes"></div></div>
   <div id="catalog"></div>
+</section>
+
+<!-- INDIA -->
+<section data-view="india" hidden aria-label="Indian stock market">
+  <div class="hero"><div><div class="lbl">India · BSE and NSE</div><h1>Indian stock market</h1><p>Live Sensex and BSE 500, the biggest companies, today’s most active stocks, gainers and losers, the rupee, a full India screener and the desk’s Nifty call. Stock prices are live from their BSE listing.</p></div>
+    <div class="panel" style="padding:12px 16px"><div class="lbl">Market hours (Dubai time)</div><div class="mono" style="font-size:18px">07:45 – 14:00</div><div class="small" id="in-status"></div></div></div>
+  <div class="w" style="height:84px"><div class="wb" id="in-tickers"></div></div>
+  <div class="g2w">
+    <div class="w h480"><div class="wb" id="in-overview"></div></div>
+    <div class="w h480"><div class="wb" id="in-movers"></div></div>
+  </div>
+  <div class="g2w">
+    <section class="panel" aria-label="Nifty desk call" id="in-desk"></section>
+    <div class="w h480"><div class="wh"><h2>Rupee · USD/INR</h2></div><div class="wb" id="in-inr" style="height:430px"></div></div>
+  </div>
+  <div class="w h520 sec"><div class="wb" id="in-quotes"></div></div>
+  <div class="ph sec" style="margin-top:22px"><h2>India screener</h2><span class="small">Sort by price change, valuation or technical rating.</span></div>
+  <div class="w h620"><div class="wb" id="in-scr"></div></div>
+  <section class="panel sec" aria-label="Nifty data note">
+    <div class="ph"><h2>Why the Nifty has no live chart here</h2></div>
+    <p style="color:var(--fg-2);max-width:80ch;margin:0">NSE, which owns the Nifty indices, doesn’t allow its data in free website charts. Tina’s FX shows the Sensex and BSE 500 instead, which track the same large companies, and the desk publishes Nifty levels and calls from sourced research twice a day. For a live Nifty chart, use <a href="https://www.tradingview.com/symbols/NSE-NIFTY/">TradingView</a> or <a href="https://www.nseindia.com/">NSE India</a>.</p>
+    <div class="chips" style="margin-top:12px"><a class="chip grp" href="#l-india">Academy: India primer</a><a class="chip grp" href="#m-nifty">Nifty desk page</a><a class="chip grp" href="#s-banknifty">Bank Nifty</a></div>
+  </section>
 </section>
 
 <!-- DESK MARKET PAGE -->
@@ -566,8 +593,7 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
       <div class="lbl">In memory</div>
       <h1 style="font-family:var(--f-serif);font-weight:600;font-size:36px;margin:6px 0 2px">Tina Singh</h1>
       <div class="small mono" style="margin-bottom:22px">1970–2026</div>
-      <p>My mom was a fighter. She fought cancer the same way she approached everything: with courage, with discipline, and without giving up.</p>
-      <p>She used to say:</p>
+      <p>Tina’s FX is named after Tina Singh. She traded by one rule, and she repeated it often:</p>
       <blockquote class="quote">“In trading, you need to learn how to manage your trades when you are in losses, not the profit.”</blockquote>
       <p>Anyone can look good when a trade is winning. The real test is what you do when it goes against you: whether you respect your stop, cut your size, and stay calm instead of hoping. That was her rule, and it’s the rule this desk is built on.</p>
       <div class="motto" style="font-size:28px;margin:18px 0 2px">Mushkil waqt, commando sakht.</div>
@@ -606,7 +632,7 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
 
 <footer>
   <nav aria-label="Footer"><a href="#performance">Track record</a><a href="#trust">Transparency</a><a href="#risk">Risk disclosure</a><a href="#terms">Terms</a><a href="#privacy">Privacy</a><a href="#corrections">Corrections and contact</a></nav>
-  <nav aria-label="Site"><a href="#markets">Markets</a><a href="#calendar">Calendar</a><a href="#maps">Heatmaps</a><a href="#screeners">Screeners</a><a href="#tools">Tools</a><a href="#learn">Academy</a><a href="#research">Research</a><a href="#method">Method</a><a href="#sources">Sources</a><a href="#about">About</a></nav>
+  <nav aria-label="Site"><a href="#markets">Markets</a><a href="#india">India</a><a href="#calendar">Calendar</a><a href="#maps">Heatmaps</a><a href="#screeners">Screeners</a><a href="#tools">Tools</a><a href="#learn">Academy</a><a href="#research">Research</a><a href="#method">Method</a><a href="#sources">Sources</a><a href="#about">About</a></nav>
   <p class="g" style="font-family:var(--f-serif);font-style:italic;font-size:14px">Built in memory of Tina Singh, 1970–2026.</p>
   <p>© 2026 Tina’s FX. Educational research only. Nothing on this site is financial advice or a recommendation to buy or sell. Trading involves risk of loss; past calls do not predict future results.</p>
   <p id="foot-upd"></p>
@@ -654,17 +680,23 @@ function tv(host,file,cfg,link){
   if(link){const a=el("a","fallback","Open on TradingView ↗");a.href=link;host.append(a);}
 }
 const tvLink=s=>"https://www.tradingview.com/symbols/"+s.replace(":","-")+"/";
+const catByTv=Object.fromEntries(items.map(i=>[i.tv,i]));
+function blockedPanel(host,i,title){host.textContent="";const b=el("div","blocked");
+  b.append(el("div","lbl","Live chart not available here"),el("h2",null,title||i.name),el("p","small",i.proxyNote||"This exchange doesn’t allow its prices in free website charts."));
+  const bt=el("div","btns");const a=el("a",null,"Open live chart on TradingView ↗");a.href=tvLink(i.tv);bt.append(a);
+  (i.ext||[]).forEach(x=>{const l=el("a",null,x.name+" ↗");l.href=x.url;bt.append(l);});b.append(bt);host.append(b);}
+function proxyWidget(host,i){if(!i.proxy||!i.proxy.length)return false;
+  tv(host,"embed-widget-symbol-overview.js",{symbols:i.proxy.map(s=>[s.split(":")[1],s+"|1D"]),chartOnly:false,width:"100%",height:"100%",showVolume:false,hideDateRanges:false,scalePosition:"right",scaleMode:"Normal",fontFamily:"IBM Plex Sans, sans-serif",backgroundColor:"#121214",lineColor:"#D4AF37",topColor:"rgba(212,175,55,.25)",bottomColor:"rgba(212,175,55,0)",lineWidth:2,isTransparent:false,dateRanges:["1d|1","1m|30","3m|60","12m|1D","60m|1W","all|1M"]});return true;}
 const clear=(...ids)=>ids.forEach(i=>{const h=$(i);if(h)h.textContent="";});
-tv($("tape"),"embed-widget-ticker-tape.js",{symbols:M.map(m=>({proName:m.tv,title:m.name})).concat([{proName:"TVC:DXY",title:"Dollar index"},{proName:"TVC:US10Y",title:"US 10Y"},{proName:"BITSTAMP:ETHUSD",title:"Ethereum"},{proName:"TVC:UKOIL",title:"Brent"}]),showSymbolLogo:true,isTransparent:false,displayMode:"regular"});
+tv($("tape"),"embed-widget-ticker-tape.js",{symbols:M.filter(m=>!(catByTv[m.tv]||{}).noembed).map(m=>({proName:m.tv,title:m.name})).concat([{proName:"BSE:SENSEX",title:"Sensex"},{proName:"FX_IDC:USDINR",title:"USD/INR"}]).concat([{proName:"FOREXCOM:NSXUSD",title:"Nasdaq 100"},{proName:"BITSTAMP:ETHUSD",title:"Ethereum"},{proName:"TVC:UKOIL",title:"Brent"}]),showSymbolLogo:true,isTransparent:false,displayMode:"regular"});
 
 const groupsQuotes=C.groups.map(g=>({name:g.name,symbols:g.items.map(i=>({name:i.tv,displayName:i.name}))}));
 const overviewTabs=[
-  {title:"Indices",ids:["spx","ndx","dji","ftse","dax","nikkei","hsi","nifty"]},
-  {title:"Forex",ids:["eurusd","gbpusd","usdjpy","usdchf","audusd","usdcad","usdinr","dxy"]},
+  {title:"Indices",ids:["spx","ndx","dji","ftse","dax","nikkei","sensex","asx"]},
+  {title:"Forex",ids:["eurusd","gbpusd","usdjpy","usdchf","audusd","usdcad","usdinr","eurjpy"]},
   {title:"Commodities",ids:["gold","silver","oil","brent","natgas","copper","platinum"]},
   {title:"Crypto",ids:["btc","eth","sol","xrp","bnb","doge"]},
-  {title:"India & Gulf",ids:["nifty","sensex","banknifty","dfm","adx","tasi","emaar","aramco"]},
-  {title:"Rates",ids:["us02y","us10y","us30y","dxy"]}
+  {title:"India",ids:["sensex","bse500","reliance","hdfcbank","icicibank","tcs","infy","usdinr"]}
 ].map(t=>({title:t.title,symbols:t.ids.filter(i=>itemById[i]).map(i=>({s:itemById[i].tv,d:itemById[i].name}))}));
 
 /* ---------- Bible index ---------- */
@@ -774,9 +806,10 @@ function showMarket(id){
   $("m-grp").textContent=m.group+" · "+m.pair;$("m-name").textContent=m.name;
   $("m-px").textContent=fmt(m,m.quote.price);$("m-px").dataset.live=m.id;
   $("m-lbl").textContent=stamp(m)+" · "+m.quote.source+(m.quote.chg!=null?" · "+chgTxt(m.quote.chg):"");
+  {const ci=catByTv[m.tv]||{};$("m-ta").parentElement.hidden=!!ci.noembed;$("m-tl").parentElement.hidden=!!ci.noembed;if(ci.noembed){if(!proxyWidget($("m-chart"),ci))blockedPanel($("m-chart"),ci);blockedPanel($("m-ta"),ci,"Technical rating");blockedPanel($("m-tl"),ci,"Live headlines");if(ci.proxy){const n=el("p","small",ci.proxyNote);n.style.cssText="position:absolute;left:14px;bottom:6px;margin:0;z-index:1;max-width:70%;background:rgba(10,10,11,.8);padding:3px 8px;border-radius:4px";$("m-chart").append(n);}}else{
   tv($("m-chart"),"embed-widget-advanced-chart.js",{autosize:true,symbol:m.tv,interval:m.group==="Gulf"||m.group==="India"?"D":"60",timezone:"Asia/Dubai",style:"1",backgroundColor:"#121214",gridColor:"rgba(38,37,42,1)",allow_symbol_change:false,hide_side_toolbar:false,save_image:false,isTransparent:false,support_host:"https://www.tradingview.com"},tvLink(m.tv));
   tv($("m-ta"),"embed-widget-technical-analysis.js",{interval:"1h",width:"100%",height:"100%",symbol:m.tv,showIntervalTabs:true,displayMode:"single"});
-  tv($("m-tl"),"embed-widget-timeline.js",{feedMode:"symbol",symbol:m.tv,displayMode:"regular",width:"100%",height:"100%"});
+  tv($("m-tl"),"embed-widget-timeline.js",{feedMode:"symbol",symbol:m.tv,displayMode:"regular",width:"100%",height:"100%"});}}
   const s=m.signal;$("s-asof").textContent=gst(s.asof)+" GST";const c=$("s-call");c.textContent=s.call;c.className="call "+s.call;
   $("s-bias").className="chip "+m.bias;$("s-bias").textContent=m.bias;$("s-head").textContent=s.headline;$("s-reason").textContent=s.reason;
   const sc=$("scen");sc.textContent="";
@@ -801,6 +834,10 @@ function showSym(id){
   $("y-grp").textContent=i.group+" · "+i.tv;$("y-name").textContent=i.name;
   const g=C.groups.find(x=>x.id===i.gid),idx=g.items.findIndex(x=>x.id===id),nav=$("y-nav");nav.textContent="";
   [[g.items[idx-1],"← "],[g.items[idx+1],""]].forEach(([n,pre],k)=>{if(!n)return;const a=el("a","chip grp",k?n.name+" →":pre+n.name);a.href=hrefFor(n);nav.append(a);});
+  const yChartBox=$("y-chart").parentElement,yGrid=$("y-ta").closest(".g2"),yInfoBox=$("y-info").parentElement;
+  yChartBox.hidden=false;yGrid.hidden=false;yInfoBox.style.height="200px";
+  if(i.noembed){yInfoBox.style.height="auto";blockedPanel($("y-info"),i);yGrid.hidden=true;$("y-stock").hidden=true;
+    if(i.proxy)proxyWidget($("y-chart"),i);else yChartBox.hidden=true;return true;}
   tv($("y-info"),"embed-widget-symbol-info.js",{symbol:i.tv,width:"100%"});
   tv($("y-chart"),"embed-widget-advanced-chart.js",{autosize:true,symbol:i.tv,interval:"D",timezone:"Asia/Dubai",style:"1",backgroundColor:"#121214",gridColor:"rgba(38,37,42,1)",allow_symbol_change:true,hide_side_toolbar:false,save_image:false,isTransparent:false,support_host:"https://www.tradingview.com"},tvLink(i.tv));
   tv($("y-ta"),"embed-widget-technical-analysis.js",{interval:"1D",width:"100%",height:"100%",symbol:i.tv,showIntervalTabs:true,displayMode:"single"});
@@ -962,10 +999,31 @@ async function renderPerf(){
   if(!all.length){const tr=el("tr"),td=el("td","empty","No calls yet.");td.colSpan=7;tr.append(td);cb.append(tr);}
 }
 
+/* ---------- India hub ---------- */
+const IN_BIG=["BSE:RELIANCE","BSE:HDFCBANK","BSE:ICICIBANK","BSE:BHARTIARTL","BSE:TCS","BSE:INFY","BSE:SBIN","BSE:ITC","BSE:LT","BSE:HINDUNILVR","BSE:KOTAKBANK","BSE:AXISBANK","BSE:BAJFINANCE","BSE:MARUTI","BSE:SUNPHARMA"];
+function renderIndia(){
+  tv($("in-tickers"),"embed-widget-tickers.js",{symbols:[{proName:"BSE:SENSEX",title:"Sensex"},{proName:"BSE:BSE500",title:"BSE 500"},{proName:"FX_IDC:USDINR",title:"USD/INR"},{proName:"BSE:RELIANCE",title:"Reliance"},{proName:"BSE:HDFCBANK",title:"HDFC Bank"}],showSymbolLogo:true,isTransparent:false});
+  tv($("in-overview"),"embed-widget-symbol-overview.js",{symbols:[["Sensex","BSE:SENSEX|1D"],["BSE 500","BSE:BSE500|1D"]],chartOnly:false,width:"100%",height:"100%",showVolume:false,backgroundColor:"#121214",lineColor:"#D4AF37",topColor:"rgba(212,175,55,.25)",bottomColor:"rgba(212,175,55,0)",lineWidth:2,isTransparent:false,dateRanges:["1d|1","1m|30","3m|60","12m|1D","60m|1W","all|1M"]});
+  tv($("in-movers"),"embed-widget-hotlists.js",{exchange:"BSE",dateRange:"1D",showChart:true,width:"100%",height:"100%",showSymbolLogo:true,showFloatingTooltip:false,isTransparent:false});
+  tv($("in-inr"),"embed-widget-mini-symbol-overview.js",{symbol:"FX_IDC:USDINR",width:"100%",height:"100%",dateRange:"12M",trendLineColor:"#D4AF37",underLineColor:"rgba(212,175,55,.2)",isTransparent:false});
+  tv($("in-quotes"),"embed-widget-market-quotes.js",{width:"100%",height:"100%",symbolsGroups:[{name:"Largest Indian companies (BSE)",symbols:IN_BIG.map(x=>({name:x,displayName:(items.find(i=>i.tv===x)||{}).name||x}))},{name:"Indices and rupee",symbols:[{name:"BSE:SENSEX",displayName:"BSE Sensex"},{name:"BSE:BSE500",displayName:"BSE 500"},{name:"FX_IDC:USDINR",displayName:"USD / INR"}]}],showSymbolLogo:true,isTransparent:false});
+  tv($("in-scr"),"embed-widget-screener.js",{width:"100%",height:"100%",defaultColumn:"overview",defaultScreen:"most_capitalized",market:"india",showToolbar:true,isTransparent:false});
+  const n=byId.nifty,box=$("in-desk");box.textContent="";
+  if(n){const h=el("div","ph");h.append(el("h2",null,"Nifty 50 desk call"),el("span","small mono",stamp(n)));box.append(h);
+    const top=el("div","sig-head");const c=el("span","call "+n.signal.call,n.signal.call);c.style.fontSize="38px";const r=el("div");r.style.textAlign="right";
+    r.append(el("div","mono",fmt(n,n.quote.price)),el("div",chgCls(n.quote.chg)+" mono",chgTxt(n.quote.chg)));top.append(c,r);box.append(top);
+    box.append(el("p",null,n.signal.headline),el("p","small",n.signal.reason));const t=triggers(n);if(t)box.append(t);
+    const lv=el("div","chips");lv.style.marginTop="10px";(n.levels||[]).slice().sort((a,b)=>b.price-a.price).forEach(x=>lv.append(el("span","chip grp",x.name+" · "+fmt(n,x.price))));box.append(lv);
+    const a=el("a",null,"Open the full Nifty desk →");a.href="#m-nifty";a.style.display="inline-block";a.style.marginTop="12px";box.append(a);}
+  const now=new Date(),p=partsIn("Asia/Kolkata",now),mins=p.h*60+p.mi,open=p.wd>=1&&p.wd<=5&&mins>=555&&mins<930;
+  $("in-status").textContent=(open?"Open now":"Closed now")+" · Mon–Fri, 9:15–15:30 India time";
+}
+
 /* ---------- Routing ---------- */
-const WIDGET_HOSTS=["w-overview","w-cal-mini","w-hot","w-cross-mini","w-news-all","w-quotes","m-chart","m-ta","m-tl","y-info","y-chart","y-ta","y-tl","y-fin","y-prof","w-cal","w-map","w-scr"];
-const views=["desk","markets","calendar","maps","screeners","tools","learn","research","method","about","sources","performance","trust","risk","terms","privacy","corrections"];
+const WIDGET_HOSTS=["in-tickers","in-overview","in-movers","in-inr","in-quotes","in-scr","w-overview","w-cal-mini","w-hot","w-cross-mini","w-news-all","w-quotes","m-chart","m-ta","m-tl","y-info","y-chart","y-ta","y-tl","y-fin","y-prof","w-cal","w-map","w-scr"];
+const views=["desk","markets","calendar","maps","screeners","tools","learn","research","method","about","sources","performance","trust","risk","terms","privacy","corrections","india"];
 const navOf={market:"markets",sym:"markets",lesson:"learn"};
+const INDIA_IDS=new Set(["nifty","sensex","bse500","banknifty","usdinr"]);
 let hoursTimer=null;
 function route(){
   const h=location.hash.slice(1);let v="desk";cur=null;
@@ -990,6 +1048,7 @@ function route(){
   if(v==="screeners")mountScr();
   if(v==="tools"){hours();hoursTimer=setInterval(hours,60000);}
   if(v==="performance")renderPerf();
+  if(v==="india")renderIndia();
   if(h)window.scrollTo(0,0);
 }
 window.addEventListener("hashchange",route);route();
