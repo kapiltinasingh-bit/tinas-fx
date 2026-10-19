@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-19T17:54:24.765892+00:00",
+ "updated": "2026-10-19T18:20:30.923103+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -60,25 +60,25 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "MarketWatch",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 7
+   "new": 9
   },
   {
    "feed": "Investing.com",
@@ -387,6 +387,16 @@
    "t": "2026-10-19T13:42:00+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Will the Fed Raise Rates This Month? Here's What Markets Say.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUW9FNFRjZFpiTjh5MHpZVWtBbjRQdlU4RWtManJTSmN4a3p0SmRjSWhPX2lUbUhEMkZIbWdxUFp0dldlQ1pmanRfWFRxNmI3LWEtM1VfN2prOWRVZHdRV2NOOEotOUo0OF8wX0xucG9oc0VGdU9kN3JlTUV4UnRZeVBDNDZhaG5zOHFmM1pmR2Fqdlc2Wkh3?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-19T13:42:00+00:00",
+   "tags": [
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -2707,16 +2717,6 @@
    "t": "2026-10-18T19:52:00+00:00",
    "tags": [
     "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Correcting rupee against fundamentals ultimately futile, says RBI's ex-guv Subbarao",
-   "url": "https://economictimes.indiatimes.com/markets/forex/correcting-rupee-against-fundamentals-ultimately-futile-says-rbis-ex-guv-subbarao/articleshow/135037366.cms",
-   "src": "Economic Times",
-   "t": "2026-10-18T19:45:45+00:00",
-   "tags": [
-    "nifty"
    ],
    "tone": "neutral"
   }
