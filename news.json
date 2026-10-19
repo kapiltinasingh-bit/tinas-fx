@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T23:06:15.393406+00:00",
+ "updated": "2026-10-19T23:38:51.608237+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,19 +12,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "CNBC",
@@ -114,10 +114,31 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "14 dead, 7 injured in Colombia illegal gold mine collapse",
+   "url": "https://www.investing.com/news/commodities-news/14-dead-7-injured-in-colombia-illegal-gold-mine-collapse-4958516",
+   "src": "Investing.com",
+   "t": "2026-10-19T23:30:09+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold tumbles below $4,150 amid elevated US Treasury yields",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHdFOGZuQU9QWkI2NlEydEJEenpoZV9CMXN2enFIOGlpSWJtRXdkdENVYllaVnFiXzM3cUJXb0JQWFZsSEtNeVJ2aWwybTRlMlhNY1c3Nlh5QmMxTll0SFY4ZGRlMWNqVTA2MVdmT1Rxa0FnSk8ydnMwSC02TkxtREhXYVF0THZrZnNsR3FTaUhpcmtzaGxYWHhMN0hOQldINUE?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T23:23:06+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Forget GLD. Investors Sent $500 Million to the Cheaper SPDR Gold Fund",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNEhGSUU3TjJJLXRoNXg2NXdRMWc2bVNEOUx4eVVYbGJvOUd1QkJOVkhYRnlCbXExNTVyLU9sV1cwZy1JQ3JaTDBjR1pXai1uNFNBam0xMkZMVHpManJIZmVTc05zTmtYTjhVXzVhbFE3UGYyc1VzMUVUYl9LMFQzZXJGRmlHOXhNUnpyZjFneTROMFNNb0dPVWpBVEtmV0FISXM2UmZsRUh4SnlFYmhTRGlRN1Frdw?oc=5",
@@ -239,6 +260,17 @@
     "nasdaq"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "S&P 500, Nasdaq advance ahead of mega-cap companies’ earnings",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEItZ2RVNnR4b1o0UXRDSHc0VGlVYTVrSWV0S2dqMTZDNDJlb1JFVFN1b1pZWDJrcTJ3ZXlyNFdVaFFadnVRTzdYbUdnNFpNUzNNUFZFc0F0eWQ1VlBXSzM3M1oyOGltMWVUbVRxUmplcXozT1A3bWczNWhUZUNRaldtT3U3VjB4V2VfajI2czJIeHhuazZwMWo5cU8?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-19T20:03:53+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Oil prices pare losses after more Houthi attacks on Saudi energy infrastructure",
@@ -2687,36 +2719,6 @@
     "nifty"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Euro drops amid high energy prices and street riots in France",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUGwwZHd2R1h3Q1BiZkdpNVVzRFpXZTJEd19TT2tyelhtb21VX0ZOSzN2RVpURkdHMWl5REpraUVJTVRjeFlSQmU4T3V4XzhWV2g0bU1fd0Q0cmhRMFRFbVg5Snhld1owT2IwbmR2d0RwNGNpWEVGWHhYaDRzN3N1UWJwNjhuTXoyc3hsLXIybEt0VEl4VlJOS2JUZTB5TnV2OVFWU2NLYjRiWU5kYnA4?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-19T01:35:00+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Black Monday Fears Fade as Nasdaq Futures Rally After Friday Selloff",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUF9FbkFxa1BxR1lUN0dkWkp6N2t6OTlsYU9qdzd5cENyRXlZcFR3UFdZSE1RN0o3Q2JPa1NyMHlUZy05UEFvRnAzVDA1WUR4M0tMNENibjRlSnFDRWhuYncwZzdtS2tvaE5kSGlBUVE5Q05xMVlWbHFYLUtZaFhycm9IYVVqZUJ5Um9VT1lXZjdrWGxPcnlYekhtMA?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-19T01:31:00+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Jio Platforms IPO GMP today: Reliance-backed ₹30,213 cr issue - Listing gains expectations for Oct 28 NSE, BSE debut",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQNDNZVk0tOE54S3hlOTVkNWdKZnBsTVNzeElfaXI4Q3ltQ2ZKVlpvTmtySV9kX1RLS1MyTF9DbDNENGpWWmMxUDJsNGNrb2k4MlVDRGdKU0QxNXNnUEQwSG5NVHk5aXEzVk01YVV2MzN0cG5jTXhXSGZQd29hZWQ0bkhZN01wVG1Zd1djXzRRUmRKLXV5S1VMcUdUeWNYSHllZzc4LU5DVTczSXVrVS1DV1d5aENvSXBBX0JGTDVYeW5QalNyQzFGdGtvY2pOZy1ZSDZLZDZELU8zd3RmSDkzQVIwaloxR3hmZDg0bFczSGRVQkNxV3ZSUzdHbjVtRWdDM2dyOdIBhAJBVV95cUxQNDNZVk0tOE54S3hlOTVkNWdKZnBsTVNzeElfaXI4Q3ltQ2ZKVlpvTmtySV9kX1RLS1MyTF9DbDNENGpWWmMxUDJsNGNrb2k4MlVDRGdKU0QxNXNnUEQwSG5NVHk5aXEzVk01YVV2MzN0cG5jTXhXSGZQd29hZWQ0bkhZN01wVG1Zd1djXzRRUmRKLXV5S1VMcUdUeWNYSHllZzc4LU5DVTczSXVrVS1DV1d5aENvSXBBX0JGTDVYeW5QalNyQzFGdGtvY2pOZy1ZSDZLZDZELU8zd3RmSDkzQVIwaloxR3hmZDg0bFczSGRVQkNxV3ZSUzdHbjVtRWdDM2dyOQ?oc=5",
-   "src": "Livemint",
-   "t": "2026-10-19T01:30:33+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bullish"
   }
  ]
 }
