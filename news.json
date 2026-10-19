@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-19T10:18:33.725535+00:00",
- "count": 232,
+ "updated": "2026-10-19T10:58:46.841383+00:00",
+ "count": 240,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -54,19 +54,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -108,16 +108,66 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
+   "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
+   "src": "CoinDesk",
+   "t": "2026-10-19T10:26:33+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Have Bitcoin, Ethereum and XRP finally bottomed?",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb041V2F3SktHckNNMVd6X1hHQWw2U3ljVGxZXzlZM3VWaEduZWJkblZzUENoSWh1ZUJ0LUN3ZHZKcmpYcE45QUtlM3UwTmc2N1N1dW04SXU3XzQ2RlBsaU80TjRsTjgwM3BDWldSSEZvZFd5dmxRQUs5SlB0Yi1wNXJpZGlqTGNfYUpoVUY4M0hQcE9obEpZaTA0bUU0d1h5c1ppRnFMZ2J3bDNVeGNZOVp4NC1VckpfZERUWkdhRVdJTk0yNWc4SUFiRQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T10:23:17+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "The S&P 500 is masking a hidden market pullback. Why Morgan Stanley says an index retreat would signal a buying opportunity.",
+   "url": "https://www.marketwatch.com/story/the-s-p-500-is-masking-a-hidden-market-pullback-why-morgan-stanley-says-an-index-retreat-would-signal-a-buying-opportunity-08d079c0?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-19T10:23:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "AI Price Prediction: We Asked Claude AI What Bitcoin and Solana Could Be Worth by 2030",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZHNZQU9pdG1TM0xQQmN5Y3QxQ1A2SHZSWHpGOFBKUHhhR0l1TW11b1AxT29DNDFvdklGT3U0anYzS0gwOGw3TzZCckUzQ2s1X0ZLY2xGcWg4OEVXYl9YVEhWQ3hiVE1wNFk2MnFPdkctWHBBMGN1SVJjRmhWNWVrRld2U2pBYUc5WG00VzlLQzlGSkdkelJIdThBcWhMYlpETTcxbkJ4NXk3cmw4R2l5cnlmOS0wbGRvdW5oVXJZTW5BcW1hS0lUNG1jeUd2QldobGU3bGFja0RCRTNq?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-19T10:22:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Closing bell: Sensex sinks nearly 900 points, Nifty slips below 22,900 as banks drag",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdnBvd191R0ZIaHJOZFhILUxxRC1kMTQ2ZWJmQkZCOVR2SXNQMVlTR0ZZNVl3aXBkRzBnZkRVZ3FMSUVOMWhoLXQwTVJfcFpRcnlMa2llVW8yV1ZtdHVCS0pmblRBc1hvTk84eHlFY0FRUkNaSUppSUhWVENWWlpJTVBDME11T0tqZThWWkYzRHgyaE0tZHYwOS1EWS1VVTVmQmVlaUdaWW1zRGUxTkprbmZucko5all3Mlo5bGFNaDhLRTdJeGhCanJB0gHPAUFVX3lxTE9hZzBFdkRVd1NEVXM3d1hNNXQzb2RUY25qdzRITVFfNS1WT2NHa3ZCWjMwdEVOZEhzTFZJeGU1a3IwSzVoVDY3Z1VoRzZocm9lLTBqcVlKa3gxQWFCYzJfdjZ6ZGZyQk9Rc3gwbHB3bTE5UWRaNnhjdzFFWkQ2bmlyTGlmcTZHTlVqOWVZSEZmT0VfZ0JVNlZ0b0NxelRiYURXQXZwLW9pYmFIVi1IMXZrUW9YaE1Semc4SXBLYnp0WEdUYUw5TTZNZTNBWkIzVQ?oc=5",
+   "src": "CNBC TV18",
+   "t": "2026-10-19T10:18:36+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "XRP Beat Bitcoin as the Most-Traded Coin on Upbit Last Week. Is South Korea Still XRP's Biggest Market?",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNV1h3LWlyYU1kbnlFYTBxSm9faElWMFVDck40d3pTQXBoWmhUMEMzRmo0Zk1uenJJTzRXa0QyS0x2Nnd1X3I3U2FHdXBUcmE1SDBzaHAzLXVxNl8teTlFQTBvT0ZSUlB0YUM3dFpVQWVNYnJvUGp2ekNlR2pQYnY3b3l0eGZnU0F6NUZaQnRvdG5qTWduZkJlcDZsLWszYTVObmg5T0xCUWIzRGVRR2xNUGJWNEV4YmpwelVlS2Rra2oyRm5OaUw4QVJWNC1SRG1rejdDLXBIOFlkUEJjcV9QRDlMcjNnek1wRHZYWWdsVWU?oc=5",
@@ -139,6 +189,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Japanese Yen: Mild upside bias against US Dollar within range - UOB",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMzYxM3VYTVp4c2JNbDhKVFpfWnVSVjFTZUZRWEduWjFHWkJBN0xSeS1PcnlQWF9RVzNXWW44SDJ1eXQyQ0FMWjczejRYUTlpVVNFOVhsbXhNcFpjVEZvTU1tQUZuNnZMdXNQd3AydlFEb3FoSlZ2cWJjUjJpNUF4S2I1dWVPZ1hhdGlWRjlOY1VfdVpRNnIxakk4a2FRTHBtWXVsV2plSmhrRTg?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T10:07:58+00:00",
+   "tags": [
+    "usdjpy"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Cupid, Sterlite Tech among stocks top 10 equity PMS portfolios hold as Nifty, Sensex plunge up to 13% in 2",
    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZVRjbF84cTA3akJFQzh0bVZGcHB6OVZvVVNKSG55UHdLS2tDTDhVTjlEREEtV3R6aFlMQU4tdWlVdnotbWpfRWZMZUdhZTdfcTN3bXVUcXBWbm5fSnZmdEhUVVIzQnlqMEZ1SzhMeWRyVnJ0WmJvRHBKUkVKR2JLNHMyS3JCcTNYYWowaWpyVlBsdmJmTVhhZUJ1ekRDQVdUWnVVSVpaVzEwVjFnNHZ5OENscnV1NUNfN3dkM29RX1dkVHRoMlg3dzRyb19ONW1LMXNPcG15QVdvMndaeTEyZ2piemtSQlIwa19pN185QnUta19FS1RzbjBqQkZ0MEhZb3liSHVkbjZrMURQ0gGSAkFVX3lxTE00SUxuTGwyNXdDQTBFZVQ3cmdldzlFeFlBd1d5U3ZFQ0owUmd2ekRRUU4zNWVxOUFHYmVKenNlZEUyNG9haVVhbEJrSWdidG1Zal9mMzFVdDl3NEZxdExlR0x6TGE4ZkFNbmtacTFWRUh4Rjh5N3JBVDNVaTROS0JPb1FOSXI0Y1JMQVpHWWlFNzFLcmhEMzROWGZKX0JDWm14dTBpa1pBVFhTLV9YU0s1dXpiTGl2WFNpbjgzOFFPX24yQ1p3VmlkOGZNYllRczBkdDZvY0RONEh5M2xSZU83amZjTnRqekRLampFQXluSEw5YTd1Ry1hVTRuLTQ0czN0bEgtb2ZFajlyZW02aHVPWWc?oc=5",
    "src": "The Economic Times",
@@ -155,6 +215,16 @@
    "t": "2026-10-19T10:03:47+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Dollar holds steady as French unrest weighs on Euro",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWWw4QXBoaGxKU3FSeHBkdnBCRXhkOXQxNWdRaGxaX3dsNVJ4RmdLRnpNcFFKejlQRTZ2SldQRy13MEJ5WDVNdVE3WTVuY2FXNGtQS2tLVy1BNVIzYkdVRjFKdHV3eWYtYjVfRW9aMDI4V3VjWnM5X2VUUXl5dnhTb0NUeWtfZXlsTTVSR2lWX3EzV0dPYVRYZFpLUTUxQ1BQS29BVkVMRU1WWi1IajdORkFOMA?oc=5",
+   "src": "Investing.com",
+   "t": "2026-10-19T10:03:07+00:00",
+   "tags": [
+    "eurusd"
    ],
    "tone": "neutral"
   },
@@ -197,16 +267,6 @@
    "t": "2026-10-19T09:51:00+00:00",
    "tags": [
     "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Dollar holds steady as French unrest weighs on Euro",
-   "url": "https://www.investing.com/news/forex-news/asia-fx-ticks-higher-yuan-hits-4yr-high-after-china-q3-gdp-beat-4956302",
-   "src": "Investing.com",
-   "t": "2026-10-19T09:47:37+00:00",
-   "tags": [
-    "eurusd"
    ],
    "tone": "neutral"
   },
@@ -331,6 +391,16 @@
     "nifty"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Australian Dollar holds RBA, China GDP-led gains as Yen stays fragile",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVlA1TU5QalZfMFBFRTRzdUxSS1hTZEhOZVRwckxaZlpLZ2cwb1l3RWpGSmdJNUVhc0xzSHhNMVRMOFIyV3NRV3VrT2pzTXI5X25vZ2NPY1lPRU9CZnJOT0I0cWN1c1FDWnFZNW1VbE5ONGg1cE9FVnNkQVAya3VUZ1o2RXFtMGF0ZERPMGRDR3Q1R3RXNjBtVDBxSUZTUmtTOFJOYTdfbVE2S0hfcjNaSWJBbGc1anZ6aVNIQ3BXaC1iYTlJbnBob0Vn?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T09:00:10+00:00",
+   "tags": [
+    "usdjpy"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Crypto Markets Forecast: Bulls Count on Seasonality",
@@ -985,6 +1055,16 @@
     "macro"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Dollar holds steady as French unrest weighs on Euro By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUs0MVNNRHpXUjVfQkJ4TjRaRDVhTzJjUzRXZ20zT2dMQ2d4WUN4MlNWZV8wLTVvamdsR2dsMVZjcUF4WjZ2dDhOaWJtc0JGaG9jZEZFNU9WNEZiT3g1aWp5dmNqOGZ4eUFHbkJNa0pJTUFLVk44dW4xbXdqUHJ0YUgtaU5mSnBTNTktVGl4N2NrakthQ2hKeTJPQU1aQXlOTzZIS0dDRWpOaHlXenpHb3h3?oc=5",
+   "src": "Investing.com UK",
+   "t": "2026-10-19T04:20:00+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "US Market: Wall Street’s AI rally faces test as Meta earnings loom",
