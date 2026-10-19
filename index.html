@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Tina’s FX · The trader’s bible for every market</title>
-<meta name="description" content="Tina’s FX: 70+ markets with live charts, technical ratings, heatmaps, screeners, an economic calendar, trader tools, an academy and twice-daily desk calls. Educational research, not financial advice.">
+<meta name="description" content="Tina’s FX: 70+ markets with live charts, technical ratings, heatmaps, screeners, an economic calendar, trader tools, an academy and desk calls updated four times a day, tracked live. Educational research, not financial advice.">
 <meta property="og:title" content="Tina’s FX: the trader’s bible for every market">
 <meta property="og:description" content="Live charts and data for 70+ markets, desk calls, heatmaps, screeners, calendar, tools and an academy, with every source linked.">
 <meta property="og:type" content="website">
@@ -509,7 +509,7 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
   <section class="panel sec prose" aria-label="How calls are graded" style="max-width:none">
     <h2>How calls are graded</h2>
     <ul>
-      <li>A call is graded at each research run against the high and low price since it was issued.</li>
+      <li>A call is tracked live by the signal watcher, which checks one-minute prices about once a minute and logs the moment a call fills, hits a target or is stopped. The result goes on the record at the next research update.</li>
       <li>Hit target 1 before the stop: <b>win</b>, scored at the planned reward to risk.</li>
       <li>Hit the stop first: <b>loss</b>, scored −1R.</li>
       <li>Replaced by a new plan with neither level touched: <b>expired</b>, scored 0.</li>
@@ -526,7 +526,7 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
     <h3>Who runs Tina’s FX</h3>
     <p>Tina’s FX is run by Kapil Tina Singh in Dubai and named in memory of his mother, Tina Singh (1970–2026). <a href="#about">Read her story</a>.</p>
     <h3>How the research is made</h3>
-    <p>Research briefs, levels and desk calls are written by an AI research assistant on a fixed schedule, twice each weekday. It reads published coverage from the outlets listed on the <a href="#sources">Sources</a> page and cites the sources it used in every brief. It is instructed never to invent numbers and to keep the previous value when a figure can’t be sourced.</p>
+    <p>Research briefs, levels and desk calls are written by an AI research assistant on a fixed schedule, four times each weekday, and tracked live in between by an automated signal watcher. It reads published coverage from the outlets listed on the <a href="#sources">Sources</a> page and cites the sources it used in every brief. It is instructed never to invent numbers and to keep the previous value when a figure can’t be sourced.</p>
     <p>Briefs are published automatically and are not reviewed by a licensed financial adviser before they appear. Treat them as research to check, not instructions to follow.</p>
     <h3>Live data</h3>
     <p>Charts, quotes, ratings, heatmaps, screeners, headlines and the calendar come from TradingView. Gold, silver and Bitcoin spot prices also come from gold-api.com. We don’t control these feeds and can’t guarantee they are complete or on time.</p>
@@ -631,13 +631,13 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
   <div class="panel prose">
     <h1>How the desk works</h1>
     <h3>Research runs</h3>
-    <p>Twice every weekday, before the London session (07:48 Dubai time) and before New York (15:48), the desk reads the latest coverage for every desk market from several outlets, central-bank and economic data, and the calendar. It writes a brief, updates each market’s levels and call, and logs every source.</p>
+    <p>Four times every weekday, at 06:20 Dubai time (before India opens), 10:20 (before London), 15:20 (before New York) and 20:20 (New York session), the desk reads the latest coverage for every desk market from several outlets, central-bank and economic data, and the calendar. It writes a brief, updates each market’s levels and call, and logs every source.</p>
     <h3>The desk call</h3>
     <p>Each desk market carries one of three calls. BUY or SELL means price has confirmed a scenario. WAIT means price sits between the trigger levels. Scenarios name the trigger and targets, and a stop where the levels support one.</p>
     <h3>Levels</h3>
     <p>Support and resistance come from daily pivots, moving averages, round numbers and levels several independent sources agree on.</p>
     <h3>Live data</h3>
-    <p>Prices, charts, technical ratings, heatmaps, screeners, the calendar and live headlines stream from TradingView. Gold, silver and Bitcoin also refresh every minute from gold-api.com. Desk levels and calls update with each research run.</p>
+    <p>Prices, charts, technical ratings, heatmaps, screeners, the calendar and live headlines stream from TradingView. Gold, silver and Bitcoin also refresh every minute from gold-api.com, and the signal watcher updates prices for every desk market and the status of every signal about once a minute. Desk levels and calls update with each research run, four times each weekday.</p>
     <h3>The record</h3>
     <p>Every call is logged with its outcome, wins and losses alike. Nothing is deleted after the fact.</p>
     <h3>Limits</h3>
@@ -766,7 +766,7 @@ const overviewTabs=[
 /* ---------- Bible index ---------- */
 const lessons=L.lessons;
 [["markets",items.length,"Markets","Live quotes, charts, ratings and news for every instrument"],
- ["desk-calls",M.length,"Desk calls","Levels, triggers and targets, refreshed twice a day"],
+ ["desk-calls",M.length,"Desk calls","Levels, triggers and targets, updated four times a day and tracked live"],
  ["calendar","Live","Economic calendar","Every release and central-bank decision"],
  ["maps","3","Heatmaps","US stocks, crypto and currencies at a glance"],
  ["screeners","4","Screeners","US, India, crypto and forex screeners"],

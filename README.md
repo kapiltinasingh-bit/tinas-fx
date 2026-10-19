@@ -26,6 +26,7 @@ Buy a domain (for example tinasfx.com), add it under Settings → Pages → Cust
 
 - Spot price: every minute in the visitor's browser, from gold-api.com
 - Chart: streamed live by TradingView
-- Levels, desk call, research, news: the Tina's FX research run edits `data.json` twice each weekday (07:48 and 15:48 Dubai time)
+- Levels, desk call, research, news: the Tina's FX research run edits `data.json` four times each weekday (06:20, 10:20, 15:20 and 20:20 Dubai time)
+- Live prices and signal status: the Signal watcher Action (`scripts/watch.py`) publishes `live.json` to the `live` branch about once a minute
 
 Educational research only. Not financial advice.
