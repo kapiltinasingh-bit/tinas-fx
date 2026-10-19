@@ -1,42 +1,42 @@
 {
- "updated": "2026-10-19T00:03:23.603295+00:00",
- "count": 78,
+ "updated": "2026-10-19T00:04:50.296937+00:00",
+ "count": 80,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,25 +48,25 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 13
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -77,20 +77,20 @@
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-   "ok": false,
-   "err": "HTTP Error 403: Forbidden"
+   "ok": true,
+   "new": 1
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 7
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -102,22 +102,33 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 15
+   "new": 0
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 5
+   "new": 0
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 4
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Gold Steady as Rate-Hike Bets Ease, Oil Pushes Yields Higher",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZDRqNjgyVlhZdTl0cnQ0a1NxdEtKSTlrYUwyODBjRmFTM3hldVFFTi1oc2ZHTFdLdm1xdEFQcVZ3MEVza2JBU3FxVDlIUTVtMnVtZ2M1WXBJajdNeGRzdk03YVRMX1NfMmdhWEhwd2hzaDdKc19xZGFIRGFHOW9sN1pfWTF4QXlaR2lWQ2daNTJGbGlLR3F1UGpkazAycktjMWFUZU5qZmp3RVpxSUM5QdIBtgFBVV95cUxPa3haWWNwa3FMRkg2cVdRWnNpT2s5YTlrZXlqYkN6MDJBTG5sNmNYd09iMEpKQVdHRTAxZ25FR1pMR2FUV2VPc2lCdXFmTnVBX183S01Sc1dUWkpyUzV2SHhuV0pxWHA2aV9QS1QzZ2dZLU4xeHFwRzNVbEprXzY2cV9JUTZmUUNlM0MxRm1RXzFVam9tTXZUbHFvdVJ1aWdIcF90Y3FqdWlTVk1tVXhzMWxDWWMzQQ?oc=5",
+   "src": "Livemint",
+   "t": "2026-10-18T23:52:53+00:00",
+   "tags": [
+    "gold",
+    "oil"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5",
@@ -504,6 +515,16 @@
    "t": "2026-10-18T12:34:51+00:00",
    "tags": [
     "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Check out Apple Inc.'s stock price (AAPL) in real time",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9UUm1FMWswVnhPZUF4R01VMTFXMnZJQmZyMnVxaTZXZ0lSSFEyZE5nZVN3aDF2UlM0X3lIWEFOS2U3VUtVcng4?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-18T12:19:36+00:00",
+   "tags": [
+    "nasdaq"
    ],
    "tone": "neutral"
   },
