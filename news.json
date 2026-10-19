@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-19T00:04:50.296937+00:00",
- "count": 80,
+ "updated": "2026-10-19T00:51:14.009841+00:00",
+ "count": 88,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -60,13 +60,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "Moneycontrol",
@@ -114,10 +114,72 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 2
   }
  ],
  "items": [
+  {
+   "title": "Asian stocks skid, Wall Street and bonds aided by oil slip By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaUx3Zkh2djVYV0tQX2VObFBZdWdXUUNwX0FEbUlUaEhlMTlmZzZpc2NLV1ZaWUFoaW9mTFZBZlBWMm9oZ0gxclFUNWR1LXp3amd2U2lxTWtHd1BaX1FGWUlaYnpxcllhbkRPUnV3eUVXUFBsdW1NSUNkZkpLMnAyRjBta0tJUkR4VW1wUm5FbzFaWTVJYWEtYXg1aHFRcTJkSzRhOF9zU3p5YTgzWTNfcUdtZw?oc=5",
+   "src": "Investing.com Canada",
+   "t": "2026-10-19T00:48:32+00:00",
+   "tags": [
+    "oil",
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "BoJ’s Ueda: Underlying inflation near 2% target",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRHZmWUhvZVA1RnBtU0hIWkVmdklfODJSMDBEZ3RWcTVQNEIyNEhQTmxQb2kyZ1kzbElmUnR3cUh0alJweWlsREtwc01JOUhJRDIxZ1dRT3lpaFp6OFgzYV95RlZBNDR6a2JFUHpnd0t3OWpqRC1adElGcHVqbGpqY0llSnN6MWlOVGVQaVd6UzQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T00:40:11+00:00",
+   "tags": [
+    "usdjpy",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Australian Dollar holds gains above 0.6950 as Fed hike bets fade, Chinese data loom",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGJrRm1NSUR6RTY2UE15eGQzNEkyWU50NlhwaUdYX1Iyazl3NTY1SXlFaDhwUFhfTDlTcXZUdnMwcGZVUFZmaFVjdjdSS1NyZU1aUUlZaUhLX0dVRUxKX24yMUZoMjlTRWllc0trbzRUaEdMV3VWNXRuMVZGU0d2STdXQTRtOTRzeGJUT0c4b1IwOUpHbHYyRmVxZUZDWGJYdkR0NHZ2UHVXdnZaNldSYUctTmFvUlJTLVlyZFZXQ3hhUQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T00:33:05+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Stocks in news: Vedanta, HDFC Bank, ICICI Bank, Axis Bank, HFCL, IREDA, Zen Tech and Oil India",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vedanta-hdfc-bank-icici-bank-axis-bank-hfcl-ireda-zen-tech-and-oil-india/articleshow/135037012.cms",
+   "src": "Economic Times",
+   "t": "2026-10-19T00:30:00+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Nifty rally faces crucial test at key resistance levels: Analysts",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-gains-3-as-analysts-predict-recovery-key-resistance-levels-ahead/articleshow/135037107.cms",
+   "src": "Economic Times",
+   "t": "2026-10-19T00:14:32+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Oil prices slide as Trump waives Russia sanctions",
+   "url": "https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158",
+   "src": "Investing.com",
+   "t": "2026-10-19T00:14:24+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Gold Steady as Rate-Hike Bets Ease, Oil Pushes Yields Higher",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZDRqNjgyVlhZdTl0cnQ0a1NxdEtKSTlrYUwyODBjRmFTM3hldVFFTi1oc2ZHTFdLdm1xdEFQcVZ3MEVza2JBU3FxVDlIUTVtMnVtZ2M1WXBJajdNeGRzdk03YVRMX1NfMmdhWEhwd2hzaDdKc19xZGFIRGFHOW9sN1pfWTF4QXlaR2lWQ2daNTJGbGlLR3F1UGpkazAycktjMWFUZU5qZmp3RVpxSUM5QdIBtgFBVV95cUxPa3haWWNwa3FMRkg2cVdRWnNpT2s5YTlrZXlqYkN6MDJBTG5sNmNYd09iMEpKQVdHRTAxZ25FR1pMR2FUV2VPc2lCdXFmTnVBX183S01Sc1dUWkpyUzV2SHhuV0pxWHA2aV9QS1QzZ2dZLU4xeHFwRzNVbEprXzY2cV9JUTZmUUNlM0MxRm1RXzFVam9tTXZUbHFvdVJ1aWdIcF90Y3FqdWlTVk1tVXhzMWxDWWMzQQ?oc=5",
@@ -138,6 +200,17 @@
     "oil"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPREhDWC00MVloSzQ4QWFaYzl1MTdFTG1fRURVRmZzZF8yTms3MGpaYkhYSWd6Z2V6U1U2a1pNVDVKRl80OHdZY0YxSklldWVPR1g0YklVTGQ1MVhNdDJlUXh4dDNsQm1TQnBrMkp5NV9CTzlnS2VEeGR2a3V0bFhNNVBRejRlZlVRUE9sSUtEakxmMUlyQlQzdEYyanI1WXJaVjV2WXFUQjd1Tm9NR29tZUJCMWRGZw?oc=5",
+   "src": "Bloomberg.com",
+   "t": "2026-10-18T23:47:43+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Iran’s IRGC says oil tanker hits mine, catches fire in Strait of Hormuz",
@@ -586,6 +659,16 @@
    "t": "2026-10-18T11:33:09+00:00",
    "tags": [
     "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold Rate Today Live, Latest 22 And 24 Carat Gold Price In India",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ieHFlWW9CNF9vaC03ME9mY29vZnpqTzdmcFpOZ3BfcEQxY3RXamt4VUI3cDBFTTQ3VzIxczNSUlBYTGdhMi1nT01HOUNXUQ?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-10-18T11:26:40+00:00",
+   "tags": [
+    "gold"
    ],
    "tone": "neutral"
   },
