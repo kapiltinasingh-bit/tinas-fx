@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-19T01:28:14.599776+00:00",
- "count": 95,
+ "updated": "2026-10-19T02:02:42.196070+00:00",
+ "count": 109,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -24,19 +24,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Moneycontrol",
@@ -102,22 +102,105 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 2
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+   "url": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+   "src": "CoinDesk",
+   "t": "2026-10-19T02:00:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold, silver prices today: What could drive bullion rates this week",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcVk0dHB6Zl9ZMnJjQnE3R3ZPSE9lRjY1dTNrbkRmc1BtNTFMRmpvZC1XZVpTVHlCbDV0N0ZUeW5VMGdMQl9pS1RvV1cxRW1Ca0xid3UxLWczLVZUQ0d0b0x3c1JaTm53ek1OVmljNjRzbG9LTGdkX3FTRENJalFKUWc1eGN1QjNORG44SEFOU1VsUlpPc3BuZk95WlgzVVJYWG1aOU5wVW5YenFfaWZMVTNqMG9BaHZfN0HSAb8BQVVfeXFMTmxza3c0ZmYtYjczMnBvVFhUUXJQVUtCcjZ1eU5HV3llQ1UzSE1FVEJEZThOWGwzQzdaVGFOSC1IUGFoU2xFMWRxY3FZdGdWUlJRQTNVNjlBUEdlWVpTS3ZVZGxhNmROLWNWdk9GRFR5aWtiWkY1MVpSRTZGWE1nbUwydXhha1BwUHNlQm82WDdPdkJGbWp4bExrNmJxemVzY3NnOTJQcjhjdlB4ZVgyRHFsZDc5SE00NFlwRWViOTQ?oc=5",
+   "src": "CNBC TV18",
+   "t": "2026-10-19T01:54:06+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Canadian Dollar holds gains against subdued US Dollar as Fed pause expectations rise",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY0FPU1pMbmdjU2V5U3VMUm5JbS12N0taWlpoOWllc2YxeVI2UnRBNlVZWk5HYjVwR2lQNFNwRXZtSlgxNkp1RzF3VmNrRVZHVHBoX1pSb3E0OERkLVNCZ3hNWDlqaHZRdzYwa1BwXzlaWXp5NkJIcksxak12LVhIVUVKQmhVY1FHTHppdHgyQlg3VVp3SWZTZGVIR1VKSTlKZ1l2Q3dkYUZfdHU4ZGVnMVhzODdEdFNLS08tWlo2TkMyb2hTNUE?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T01:47:32+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Dollar firmer, euro weakens as French protests turn violent",
+   "url": "https://www.investing.com/news/forex-news/dollar-firmer-euro-weakens-as-french-protests-turn-violent-4956196",
+   "src": "Investing.com",
+   "t": "2026-10-19T01:43:00+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Stock Market Today: Gift Nifty, Banks Q2 Results To Oil Prices; Five Key Factors For Sensex, Nifty 50 On October 19",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcmh6N0VDc1RJUTkycE9zTHBuVzFuUU1XYnIzczk0clpLM214V1cySWpUZ2tmQzRkZENZZmNPRjV3Mm1KVlVSOV9EUGluRm45em50YVZ3UU82cjFtMTNmT1hHZkc5Z0pJeGkxV2RleGJTbnFFSkRFd0w5TE04VnVCSzVIQklUaUpIREZWMzRQblNYdVRLbDVtYmNEYk5XbzhDakJ1Zlh6QV8zYXh0Qk1fYTc1cjRlVzB0eHhWUmVQNFI3T0I0bXRGUjJkWHlYQVNDLXl4NmktTjQySE51MjV5NjlHeVRDb3YtTkF2VWVzWE80SlNNRkoxR3Zn0gGCAkFVX3lxTE01T0NzZUttbFFLaG1MQmtSRXBzaEFXc3dwc1ZtNnZtUmZrS0ZVaDZSUTc4THJHNk82dEZlRUdCTXdRNjc3TkhwUXJHMXlhOXVSY21HM0pYS2lXOFVCMFFQQlJ0VG1FeWRVRnVoOW55T3pUOWJWazcycFZWNXF5TzZMalVJdUpPcnF1QWM4dXFzaERJTXNlYmRSSnB5aUx1RWdURHNCWDVuWHV5OS1GWjQ5U0tMbHllY3NlbDhGcUtGeG9DQnpBS1RlaEZ5RndSZWc3NEJ5cTlwQ2hURXRsc2ZjbXdxc2x5OF9mSGI3WWNqTnRtNTJqMWxmTk40bGFoUEZ4Zw?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-10-19T01:38:52+00:00",
+   "tags": [
+    "oil",
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Black Monday Fears Fade as Nasdaq Futures Rally After Friday Selloff",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUF9FbkFxa1BxR1lUN0dkWkp6N2t6OTlsYU9qdzd5cENyRXlZcFR3UFdZSE1RN0o3Q2JPa1NyMHlUZy05UEFvRnAzVDA1WUR4M0tMNENibjRlSnFDRWhuYncwZzdtS2tvaE5kSGlBUVE5Q05xMVlWbHFYLUtZaFhycm9IYVVqZUJ5Um9VT1lXZjdrWGxPcnlYekhtMA?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-19T01:31:00+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold gains ground above $4,150 as Fed avoids policy signals, geopolitical risks stay in focus",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNjZIQXdTSUlOV2Y0ZS15bjN3YjZISTlDQzFaMkM4MGRGN2FOOHVKaE4tZE8yT1FRMV9DZ2lXd3gzcDh0QkV6czdiQjl4M0FWLVBUZGJsM2Q4UnJ0M1hieXh4SjJRQUEzSVB2SWlXYXBjYzY1c0FXb1owNFdfTnRQMmduYkItR21ucl9ocnlhMUcyeEZvdG9wM0dzalFxd1g2SVg2Z0RyUENCaThJNzhDYXI4RUFXaXJ6b1U5T0V4SXhHYTNTSVpBOEl3bHZFcEk?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T01:29:38+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Easy Exits, Excess Liquidity Behind Indian Stocks' Underperformance, Says Nirmala Sitharaman: Report",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPVlhhVlJSUWQ0NFVfNm5TYi01WjdGSkVEam5QYng0M3Y0Ym94aDA0WlVDT2JTc1dRZElCSzhTalB4SVlzMFJjeE1vRzVoNjhvLUVVUVJmLVVXVGRfajZEVHZEQm0zaGl4dGNxVFgzXzJ5MXUwNDgwZnB1QTl6WHk2QlRfVU1oUk5GYU43NU9CRDVBLWdMYTExcnR1aEItY0tUSFVFWEdiY1p1cUk5QU51WW5SejlNRXNmTjM4cE8zS0dnNWdUU21jbG1uRmNKWXpDaVZwNUJkTVlKdEw0Q2ZoMEk3VW0wMmVmX0s5OVhoaXhMbHRvaU9Qd3V2WHpUdkU1b2pIYldVQ2VJZmh4ejRYLW0xd0ZZQdIBngJBVV95cUxQZTdpYzlaUUQyX21XZk9Gb1BiUzhhUHBOdVYtaGc2VWZFa2toTUVaSnFkb0dCVG9JUEtXUVZ6T0EtTnpuMmhWOWpZem1YOVJHdDJDb1ZHMk1Sem9ZLWFINXFISFV3V1pwblkyNDdGdW5peklzSl9DTzZ5a01wX0dhTnY5RXIzOUdsQlZJRTlmN2ZEZjNEMTJEU1lQVUIxdkZUOEdTYXVFNHY2d2NVSkJrVkJMNVQ0Y1IzM2FqeVM5eDU1eEZRX29lOFpIX3duXzdoR3ppTHFScmFMbU9BVGN4X1VWTzBqNDlWb0JGc3hfZUtaQXBTUzNUQ095eUQ4UHBXMm91MUV4MHpiUDB2UEFOSVYteDVlZGJwelJwcjZ3?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-10-19T01:23:36+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "British Pound holds above 1.3300 as USD steadies on Fed, geopolitics",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWlk1WktNcFJTYkNsbEFiUnE0Yld3SVRqaFR5bmlMU0NTVzV6Z2ZhbG1TOW4xb1g1Ty1KUkJ6VFJpanJHLTkzcDdqa2ZaWlg3N1g3V0lRNlhGM2tzUW5idkhUTk5kRGVobUtIb3J4U1BvQUFDcHA1T0g4RGItaFhaLVByeW9uY0ppSjZPazNmV2RzbHRYWW1uV2QwY2xITU1CaHRQNVRhY29TRm82V2tWVnM5ak9qMTNuNW5KYjVuQWZ6TXVUajhnTTh3?oc=5",
@@ -138,6 +221,17 @@
     "nifty"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Gold rises as Warsh remarks curb Fed hike bets By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNamlYMEtSQjZrM283eVpuYm03MTFQT1Z6N20yQUZlbzNLZDFLTUFBdlRCdUxHT2E0QmtXMmZ5YWliUW9ZMms4eEVOTUhmaHpZcHpmZUV3Skx2OU0yZVJqMGdhc1VsTXdKaW5jU1UyZHBvRmE3TmdSX0xXcGdlQjA0U25UM3dVTncyelJCUC1PajNyR1lpYVRBQWJTM0Y4YS1TaXd3?oc=5",
+   "src": "Investing.com South Africa",
+   "t": "2026-10-19T01:15:12+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "WTI drops to near $97.50 as US waives Russia oil sanctions",
@@ -183,6 +277,17 @@
    "tone": "neutral"
   },
   {
+   "title": "Asian stocks skid, Wall Street and bonds aided by oil slip",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVFWRVZxMkJLTnJJaThPRWdnNTFRbmc2V1FTYW1CbUNZc1hNYkZKd0xCbHJTeUpzYnNzYmx6RS1aZS1FNnBUcGx0VHY5bFZmY2xTMU1nZHlJNTNpWmliOE0tcmJ5d0JpeVJlZmw3Y1RuRnJvQWZSQXJraTNtN1pGOTJ4RQ?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-19T00:38:00+00:00",
+   "tags": [
+    "oil",
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Australian Dollar holds gains above 0.6950 as Fed hike bets fade, Chinese data loom",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGJrRm1NSUR6RTY2UE15eGQzNEkyWU50NlhwaUdYX1Iyazl3NTY1SXlFaDhwUFhfTDlTcXZUdnMwcGZVUFZmaFVjdjdSS1NyZU1aUUlZaUhLX0dVRUxKX24yMUZoMjlTRWllc0trbzRUaEdMV3VWNXRuMVZGU0d2STdXQTRtOTRzeGJUT0c4b1IwOUpHbHYyRmVxZUZDWGJYdkR0NHZ2UHVXdnZaNldSYUctTmFvUlJTLVlyZFZXQ3hhUQ?oc=5",
    "src": "FXStreet",
@@ -213,6 +318,16 @@
    "tone": "neutral"
   },
   {
+   "title": "D-St set for a cautious opening as GIFT Nifty signals muted start",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135036997.cms",
+   "src": "Economic Times",
+   "t": "2026-10-19T00:30:00+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Nifty rally faces crucial test at key resistance levels: Analysts",
    "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-gains-3-as-analysts-predict-recovery-key-resistance-levels-ahead/articleshow/135037107.cms",
    "src": "Economic Times",
@@ -231,6 +346,16 @@
     "oil"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Nifty gains 3% as analysts predict recovery; key resistance levels ahead",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUzZoRXNiQUxIYk42bVZCWkF2UkxSLUFSRWpkSVppMnJoWUJhZ0dVaktPQUROM1o5anh6bWh3UU1KMk1NVHB0bUhMQTh3NlY0ZXh4N2l1N1ZtU1RTNjctd0hOZEJSNTBXS25ITE5oVVI0aEFsVDE1WDV6SkRSRmRoUlBxMVhXYlZIQXpWY0JMUTMtSVlLQUNXc3JFVW04WGFTS0pFRXVuMzFRX3RIYWQwMkpJRWU0VVNCc3hqY19TS3RIaGpPaG9WSGR3Y0ZMOGtmS2FEWUhrNGNWdWIyRDFRYjZR0gHiAUFVX3lxTE1TNmhFc2JBTEhiTjZtVkJaQXZSTFItQVJFamRJWmkycmhZQmFnR1VqS09BRE4zWjlqeHptaHdRTUoyTU1UcHRtSExBOHc2VjRleHg3aXU3Vm1TVFM2Ny13SE5kQlI1MFdLbkhMTmhVUjRoQWxUMTVYNXpKRFJGZGhSUHExWFdiVkhBelZjQkxRMy1JWUtBQ1dzckVVbThYYVNLSkVFdW4zMVFfdEhhZDAySklFZTRVU0JzeGpjX1NLdEhoak9ob1ZIZHdjRkw4a2ZLYURZSGs0Y1Z1YjJEMVFiNlE?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-19T00:14:00+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Gold Steady as Rate-Hike Bets Ease, Oil Pushes Yields Higher",
@@ -392,6 +517,16 @@
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNb1lqNDBhdWp6UlBBV2Q1akMwM2t1d3VIU3RPa1RQdGROLVhXQWFmSDRlWFVIb3VMdFVhOFBiYUVtNnRqSGlHcFREeEtteFBzRTN2US13M1FXUUxyTUxhbEc5Z2xHdFlZQXdyOGJwcnhhMG5HbHR1Z1RCLTctWXJCamc2THpJZ0luNU80TTNqcVJWTVhxcnczNWppM3dVWGNNaWR4ZlBvLTkxa2p0clkwSFhaelZDVVFnRDRRS1M5cnZTLUUzUmc5TnRGa0VodEpHVDY0bTczQkdCc1I3WlExRmtRSloyQVlkZURpV3ZB?oc=5",
    "src": "24/7 Wall St.",
    "t": "2026-10-18T20:40:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Ethereum Price Prediction: Can ETH Get Back to $3,000 Before the End of 2026?",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYXlIam5YSmgxbjF6dnRHSndYTmEwYXVHTjgza0RFT1Bxc1pGTHJnVkNYd1NiS2xwQWZVaTgxN2RTVlE4am9XQUFPWTZNNnpJZUZESTdBNWZzTWt3ME9SV2JnM0NmMWJfbUNPVWM0QUlPcTFDVTF3Q0xpc1p6b09XdFJUaGJuX3dLOC11ZUhYdXRlTzczOHVYRl9YTDFFU1BLOGdGcU5jZ3ZBSTNuV21QMzFVSjIwdTVLclk5UXNJb0haLTRSUVc5bTY5QmI?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-18T19:52:00+00:00",
    "tags": [
     "btc"
    ],
@@ -771,6 +906,16 @@
    "t": "2026-10-18T08:11:02+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "FMCG firms grapple with input cost inflation in Q2, brace for margin pressure in H2",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/fmcg-firms-grapple-with-input-cost-inflation-in-q2-brace-for-margin-pressure-in-h2/articleshow/135037464.cms",
+   "src": "Economic Times",
+   "t": "2026-10-18T07:58:33+00:00",
+   "tags": [
+    "macro"
    ],
    "tone": "neutral"
   },
