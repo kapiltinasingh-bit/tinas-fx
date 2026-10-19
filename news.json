@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-19T21:10:29.367608+00:00",
+ "updated": "2026-10-19T21:39:46.144646+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -54,25 +54,25 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "CNBC",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -108,13 +108,13 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
@@ -166,6 +166,27 @@
    "t": "2026-10-19T20:10:21+00:00",
    "tags": [
     "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "S&P 500 closes at 7,709 as Nasdaq leads a tech-driven rally",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRzcxUmdzb3dQZ2xNYUI3bGdqckFmUE5XNUN0SEd5MmNwcE1ONF9jS0hPUFE3UlVjNkZzNkVkbzkzLWdEZUc0bllRMENsLWtldlo4RWlvSGJ1X2UwbDVlVjU0by1JbEluWVFTcWZ4Qmg2UldoTm04OGVhOXBvMGQ0bTA2UE1oUWJoQjltczRhczk3REU5eGZhejk2RTJHLWVnZjJKRDkyekc2X3pneHlybWtCUVN3Tk9FMmRBa2hkNW4wTTdvWkVxUVRn?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-19T20:07:45+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Oil prices pare losses after more Houthi attacks on Saudi energy infrastructure",
+   "url": "https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158",
+   "src": "Investing.com",
+   "t": "2026-10-19T19:48:02+00:00",
+   "tags": [
+    "oil"
    ],
    "tone": "neutral"
   },
@@ -299,6 +320,18 @@
    "t": "2026-10-19T17:25:57+00:00",
    "tags": [
     "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold falls as dollar, Treasury yields rise; silver holds modest gains - Kitco PM Report",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbGJUTVpVc09hbndpQTA5MmFxbVJ3QkpCa0lobmkzOG42QTFHRUctdEFTRGYtNHhqZ2czQWhXRGtHd3VGQk9MN1BrQXhlWmRrT1EzUlFZcnBQYlJjaGpEbUxFUHBXYloxMWRGY09KclVNbHlxbjBuVGJvMkJ1c0RzdVNuWWhEN2xNeEtrNU9faXFTX2ZWVlppRzdWR3k0VlFlc3BvVDZmRkYxcFg4UHpMSFNXVVlOMFJoNTc4?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-19T17:25:57+00:00",
+   "tags": [
+    "gold",
+    "silver",
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -981,6 +1014,16 @@
     "nasdaq"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Oil: High prices seen easing only gradually – Commerzbank",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSlMxRmQ3cU1fS3RWNVdEYnhQYVZTTlZpeU5vOXNuaUZzVHhlSDFQcTZodU10aVd4OURsUHZXbVpONGloYWpCdm54N2Y5blV2TmhsS05vOHZVdVYtWlNwbEFPOHFoSG9Qd2ZsUkxYaXVrY3czbkpKREZCamNCdVQ3ODRPdnY0NVQxOFVvS21ka3MwMDhPOTh1cUx4elplQQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T11:33:33+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "US Dollar Mixed Early Monday, Fed Officials in Quiet Period",
@@ -2677,47 +2720,6 @@
    "tags": [
     "usdjpy",
     "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Asian stocks skid, Wall Street and bonds aided by oil slip",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVFWRVZxMkJLTnJJaThPRWdnNTFRbmc2V1FTYW1CbUNZc1hNYkZKd0xCbHJTeUpzYnNzYmx6RS1aZS1FNnBUcGx0VHY5bFZmY2xTMU1nZHlJNTNpWmliOE0tcmJ5d0JpeVJlZmw3Y1RuRnJvQWZSQXJraTNtN1pGOTJ4RQ?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-19T00:38:00+00:00",
-   "tags": [
-    "oil",
-    "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Australian Dollar holds gains above 0.6950 as Fed hike bets fade, Chinese data loom",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGJrRm1NSUR6RTY2UE15eGQzNEkyWU50NlhwaUdYX1Iyazl3NTY1SXlFaDhwUFhfTDlTcXZUdnMwcGZVUFZmaFVjdjdSS1NyZU1aUUlZaUhLX0dVRUxKX24yMUZoMjlTRWllc0trbzRUaEdMV3VWNXRuMVZGU0d2STdXQTRtOTRzeGJUT0c4b1IwOUpHbHYyRmVxZUZDWGJYdkR0NHZ2UHVXdnZaNldSYUctTmFvUlJTLVlyZFZXQ3hhUQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T00:33:05+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold outlook: Metal rebounds but downside risks persist",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPckRVYW16T2Z0ZFpHT0JUbjlwajZaMjBxcDdGTUNVenZRTTdaQkVQZWtrR3ZDeXRUbE9Ib2pMOUVld1JDSkk0N1NJclZNQktuYUF2YWZ3TmdTQnVsWnA5TWdIMzFHZjFiU0o3NS1ZM1Z1eUJrOXRMUWw3LTJUbkt1OThxYjVFaXltWWt6c00wcFhUSVJjT2dsNmhYald4XzA?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-19T00:32:01+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Stocks in news: Vedanta, HDFC Bank, ICICI Bank, Axis Bank, HFCL, IREDA, Zen Tech and Oil India",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vedanta-hdfc-bank-icici-bank-axis-bank-hfcl-ireda-zen-tech-and-oil-india/articleshow/135037012.cms",
-   "src": "Economic Times",
-   "t": "2026-10-19T00:30:00+00:00",
-   "tags": [
-    "oil"
    ],
    "tone": "neutral"
   }
