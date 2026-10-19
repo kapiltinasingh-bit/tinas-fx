@@ -1,78 +1,78 @@
 {
- "updated": "2026-10-19T08:22:34.822991+00:00",
- "count": 196,
+ "updated": "2026-10-19T09:06:59.182165+00:00",
+ "count": 197,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 6
+   "ok": false,
+   "err": "HTTP Error 429: Too Many Requests"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 429: Too Many Requests"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 429: Too Many Requests"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 429: Too Many Requests"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 429: Too Many Requests"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 429: Too Many Requests"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 429: Too Many Requests"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 429: Too Many Requests"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 3
+   "ok": false,
+   "err": "HTTP Error 429: Too Many Requests"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 429: Too Many Requests"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 429: Too Many Requests"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 429: Too Many Requests"
   },
   {
    "feed": "CNBC",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Global Market: Euro falls as French political unrest, high energy prices weigh on sentiment",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-falls-as-french-political-unrest-high-energy-prices-weigh-on-sentiment/articleshow/135044480.cms",
+   "src": "Economic Times",
+   "t": "2026-10-19T08:51:17+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Gold (XAUUSD) & Silver Price Forecast: Oil Dip Cools Fed Bets, Can Gold Clear $4,201?",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQUNQWlFsTS15Umt2QlRxWFFtOXl3ZU5rNy1VekpLcVZVNUI0azJSZ1BrSUpGRm96X3lnV1E2OE4zNnp5b0xFT3NKQmxSb3MyQWFPbmh1cDRPbUVoVmJrNU90djRaR0pkMUJXcWVyc2gxTjRfeDJiem5KTldncDBPdkRFeXVqbnhTU2Q2MmJqNUxzbUxlOEZKZE92SFhDTFZ4Q3A2NE5VNEZENjlOd1V2ZmZTYnV1TGpiRVVRWlJoT3dqeW80cUE?oc=5",
