@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-19T11:27:53.562409+00:00",
+ "updated": "2026-10-19T12:03:19.849180+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -84,13 +84,13 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Moneycontrol",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,48 @@
   }
  ],
  "items": [
+  {
+   "title": "0.8403: Euro struggles to find a bottom against British Pound as violence shocks France",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2pfclpqQ2NycWUwNW5jdG1IS19hcWdHN2xWNmdfbHhwMTZjemVQb0xlQnVHRkppWWFnb0l4ak4tdzBmd0xtdU1qV3FIcmdjal9FS05GRG5MeHJqQzRtaEhnNTVTNUlFNURTVTMzUTJueVpxdHlFbjBfRi10WE5PQnpIa1B4TmNsRDNsWXFXcnViaXhqaFFWckFxclUzdjFNZUZyMTFNM1p3RHlxWGNzVkZ1ZUJvMkRRWXAxcmFtRGRWaW1fOEtj?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T11:53:38+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "S&P 500, Nasdaq futures rise as AI stocks rebound ahead of key earnings",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa1dPVUpMX284bG5SR2tYTE5ydE5DYkFBUzI1ZGoyTEJkSnNsZU9ISHd5YVlnbEZEMWNaVVBhT2QxaVN2UEQ2SFRjUEVMUDgteTV4ZWxTUlRwMWtTckhWT2dZSThiU3ZkSE4tSVFnUUsxME9ZdTZLYngxRTYyaG9rbzJoVGwwN0NHVjVCQUlLMTcybktG?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-19T11:38:05+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Tech stocks stumbled. Now comes a crucial week for Wall Street.",
+   "url": "https://www.marketwatch.com/story/tech-stocks-stumbled-now-comes-a-crucial-week-for-wall-street-2a093abe?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-19T11:30:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Dow Jones, Nasdaq, S&P 500 preview: All eyes on Meta, Tesla, SpaceX earnings",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMV9ra3R1TkNrSUZ1TWhPS3BGZzhWREVSZXRacVBuWlFKRGFVNDkyLU1xa0tSdnRuWnZ3THoxVWwxM01jbHlGOUdtQnlySHFocWZDR1pja05zWHdQOGkzWHNwTjBubkNBWFVBNk1md1VjSXp3eWJpTUNMNnRWb2ZJTWN1YVhjUXFxWkhQUllFRlU0U2JnaVBza0JVeXNFVG5kekhCaGh1WnlFY2dOWkJ0Uk1jOHlRZlBoQXpSVm1EbU1fR1lTYkE?oc=5",
+   "src": "Investing.com",
+   "t": "2026-10-19T11:27:01+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Gold prices today, Monday, October 19, 2026: Little change in gold prices as oil sailed to May highs",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSVktUXNWNFhGRlc5TG9pMFJfal9fSXY5cmpHblZKRHR0MlRXQjVOeWZjZkZJOWF2UUdjTnpicHZCQ1FPWDc1MkthVVdNbkhYWHYxbDFCdnJ5VzlUUldpXzJiNS1VUG1Td2w5NTY3TTRQUjRVeENvVnV0ZVMwSWJ6anFRZ0Rpa3p0VTZUaXBzRFdKSFJkUHQ2ZXNyeWFtTE5lTGd4a2tlak5QOTdXblpocGk3d1hzU3dLSk5Yd3UwbE1fV1VfUXF6NnNVMXZCbm5IZ1l6RFZvRjZ3ODJKRC1yd25jR1FoNnFYbE91dFpnbEpieUNJamVxX19mNnJXcHBhM2c?oc=5",
@@ -2655,47 +2697,6 @@
     "macro"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Big Tech's AI auditors will only see what they're shown",
-   "url": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
-   "src": "CoinDesk",
-   "t": "2026-10-16T14:58:22+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
-   "src": "CoinDesk",
-   "t": "2026-10-16T11:15:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-   "url": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
-   "src": "CoinDesk",
-   "t": "2026-10-16T10:52:26+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
-   "url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
-   "src": "CoinDesk",
-   "t": "2026-10-16T10:41:03+00:00",
-   "tags": [
-    "btc",
-    "macro"
-   ],
-   "tone": "bullish"
   }
  ]
 }
