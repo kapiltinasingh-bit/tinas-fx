@@ -1,0 +1,28 @@
+name: Live news wire
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: news
+  cancel-in-progress: false
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch headlines
+        run: python scripts/fetch_news.py
+      - name: Publish if changed
+        run: |
+          git config user.name "Tina's FX News Bot"
+          git config user.email "noreply@anthropic.com"
+          git add news.json
+          if git diff --cached --quiet; then echo "No change"; exit 0; fi
+          git commit -m "News wire: $(date -u +'%d %b %H:%M') UTC"
+          for i in 1 2 3; do git pull --rebase origin main && git push && break; sleep 5; done

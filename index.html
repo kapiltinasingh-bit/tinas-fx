@@ -123,6 +123,13 @@ h2{font-family:var(--f-display);font-weight:500;font-size:18px;letter-spacing:-.
 .wire a:hover{text-decoration:none}.wire a:hover .hl{color:var(--gold-2)}
 .wire .src{font-size:12px;color:var(--gold);font-family:var(--f-mono)}
 .wire .hl{grid-column:1/-1;font-size:14px}
+.live-dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--bull);margin-right:6px;animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.lw{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:0 24px}
+.lw a{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:3px 10px;padding:10px 0;border-bottom:1px solid var(--line);color:var(--fg)}
+.lw a:hover{text-decoration:none}.lw a:hover .hl{color:var(--gold-2)}
+.lw .src{font-size:12px;color:var(--gold);font-family:var(--f-mono)}
+.lw .hl{grid-column:1/-1;font-size:14px;line-height:1.45}
 table{width:100%;border-collapse:collapse;font-size:13px}
 th{text-align:left;font-weight:500;color:var(--fg-3);font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:6px 8px;border-bottom:1px solid var(--line)}
 td{padding:8px;border-bottom:1px solid var(--line);font-family:var(--f-mono);font-variant-numeric:tabular-nums}
@@ -206,6 +213,12 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
   </div>
   <div class="index" id="bindex"></div>
 
+  <section class="panel sec" aria-label="Live news wire">
+    <div class="ph"><div><h2><span class="live-dot" aria-hidden="true"></span>Live news wire</h2><div class="small" id="lw-meta">Loading headlines…</div></div>
+      <div class="filters" role="group" aria-label="Filter news" id="lw-f"></div></div>
+    <div class="lw" id="lw"></div>
+  </section>
+
   <div class="g2w">
     <div class="w h480" aria-label="Market overview"><div class="wb" id="w-overview"></div></div>
     <div class="w h480" aria-label="Economic calendar"><div class="wb" id="w-cal-mini"></div></div>
@@ -268,6 +281,7 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
     <div class="w h480"><div class="wh"><h2>Rupee · USD/INR</h2></div><div class="wb" id="in-inr" style="height:430px"></div></div>
   </div>
   <div class="w h520 sec"><div class="wb" id="in-quotes"></div></div>
+  <section class="panel sec" aria-label="India news"><div class="ph"><h2><span class="live-dot" aria-hidden="true"></span>India headlines</h2><span class="small" id="in-lw-meta"></span></div><div class="lw" id="in-lw"></div></section>
   <div class="ph sec" style="margin-top:22px"><h2>India screener</h2><span class="small">Sort by price change, valuation or technical rating.</span></div>
   <div class="w h620"><div class="wb" id="in-scr"></div></div>
   <section class="panel sec" aria-label="Nifty data note">
@@ -304,6 +318,7 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
     <div class="w h420"><div class="wh"><h2>Live headlines</h2></div><div class="wb" id="m-tl" style="height:370px"></div></div>
     <section class="panel" style="height:420px;overflow:auto" aria-label="Desk news"><div class="ph"><h2>Desk sources</h2></div><div class="wire" id="m-wire"></div><div class="srcs" id="m-srcs"></div></section>
   </div>
+  <section class="panel sec" aria-label="Live headlines for this market"><div class="ph"><h2><span class="live-dot" aria-hidden="true"></span>Latest headlines</h2><span class="small" id="m-lw-meta"></span></div><div class="lw" id="m-lw"></div></section>
   <section class="panel sec" aria-label="Research for this market"><div class="ph"><h2>Research</h2></div><div id="m-posts"></div></section>
 </section>
 
@@ -1019,6 +1034,26 @@ function renderIndia(){
   $("in-status").textContent=(open?"Open now":"Closed now")+" · Mon–Fri, 9:15–15:30 India time";
 }
 
+/* ---------- Live news wire ---------- */
+let NEWS=null,lwTag="all";
+const LW_F=[["all","All"],["gold","Gold"],["silver","Silver"],["oil","Oil"],["fx","Forex"],["stocks","US stocks"],["nifty","India"],["dfm","Gulf"],["btc","Crypto"],["macro","Fed & macro"]];
+const tagMatch=(i,t)=>t==="all"||(t==="fx"?i.tags.some(x=>x==="eurusd"||x==="usdjpy"):t==="stocks"?i.tags.some(x=>x==="spx"||x==="nasdaq"):i.tags.includes(t));
+const agoM=t=>{const m=Math.round((Date.now()-new Date(t))/6e4);return m<1?"just now":m<60?m+" min ago":m<1440?Math.round(m/60)+"h ago":Math.round(m/1440)+"d ago";};
+async function loadNews(){try{const r=await fetch("news.json?v="+Date.now(),{cache:"no-store"});if(r.ok)NEWS=await r.json();}catch(e){}renderNews();}
+function wireInto(host,meta,pred,limit){const box=$(host);if(!box)return;box.textContent="";
+  if(!NEWS){box.append(el("p","empty","Headlines are loading."));return;}
+  const list=NEWS.items.filter(pred).slice(0,limit);
+  if(!list.length){box.append(el("p","empty","No fresh headlines for this market in the last three days."));}
+  list.forEach(i=>{const a=el("a");a.href=safe(i.url);a.rel="noopener";a.append(el("span","src",i.src+" · "+agoM(i.t)),el("span"),el("span","hl",i.title));box.append(a);});
+  if(meta&&$(meta)){const srcs=new Set(NEWS.items.map(i=>i.src)).size;$(meta).textContent="Updated "+agoM(NEWS.updated)+" · "+NEWS.items.length+" headlines from "+srcs+" publishers · refreshes every 15 minutes";}}
+function renderNews(){
+  wireInto("lw","lw-meta",i=>tagMatch(i,lwTag),24);
+  wireInto("in-lw","in-lw-meta",i=>i.tags.includes("nifty"),12);
+  if(cur)wireInto("m-lw","m-lw-meta",i=>i.tags.includes(cur.id)||(cur.id==="spx"&&i.tags.includes("nasdaq")),12);}
+LW_F.forEach(([k,t])=>{const b=el("button",null,t);b.type="button";b.id="lw-"+k;b.dataset.k=k;b.setAttribute("aria-pressed",k===lwTag?"true":"false");$("lw-f").append(b);});
+$("lw-f").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;lwTag=b.dataset.k;$("lw-f").querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b?"true":"false"));renderNews();});
+loadNews();setInterval(loadNews,5*60000);
+
 /* ---------- Routing ---------- */
 const WIDGET_HOSTS=["in-tickers","in-overview","in-movers","in-inr","in-quotes","in-scr","w-overview","w-cal-mini","w-hot","w-cross-mini","w-news-all","w-quotes","m-chart","m-ta","m-tl","y-info","y-chart","y-ta","y-tl","y-fin","y-prof","w-cal","w-map","w-scr"];
 const views=["desk","markets","calendar","maps","screeners","tools","learn","research","method","about","sources","performance","trust","risk","terms","privacy","corrections","india"];
@@ -1049,6 +1084,7 @@ function route(){
   if(v==="tools"){hours();hoursTimer=setInterval(hours,60000);}
   if(v==="performance")renderPerf();
   if(v==="india")renderIndia();
+  renderNews();
   if(h)window.scrollTo(0,0);
 }
 window.addEventListener("hashchange",route);route();

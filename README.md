@@ -7,6 +7,7 @@ Gold (XAU/USD) research desk: live spot price, live TradingView chart, key level
 - `index.html` — the whole site (design, layout, logic)
 - `catalog.json` — every market on the site, grouped by asset class, with its TradingView symbol
 - `learn.json` — Academy lessons and the glossary
+- `news.json` — live news wire, refreshed every 15 minutes by the GitHub Action in `.github/workflows/news.yml` (script: `scripts/fetch_news.py`)
 - `data.json` — everything the research desk updates: price snapshot, levels, desk call, call record, research posts, news, macro numbers
 - `tina-dubai.jpg` — founder photo
 - `.nojekyll` — tells GitHub Pages to serve files as-is
