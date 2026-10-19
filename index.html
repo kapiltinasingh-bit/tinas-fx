@@ -197,6 +197,17 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
 .lots td,.lots th{font-family:var(--f-mono)}.lots tr.me td{color:var(--gold);background:var(--gold-dim)}
 .steps{margin:0;padding-left:20px;display:grid;gap:6px;font-size:14px}
 @media (max-width:760px){.lv{grid-template-columns:repeat(2,minmax(0,1fr))}.lv>div:last-child{grid-column:1/-1}.rules{grid-template-columns:minmax(0,1fr)}}
+.tcsum{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-top:14px}
+.tcsum>div{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:12px 14px;display:grid;gap:4px}
+.tcsum .v{font-family:var(--f-mono);font-size:20px}
+.tnum td{font-family:var(--f-mono);font-size:12.5px;white-space:nowrap}
+.tnum td:first-child{font-family:var(--f-body)}
+.rd{font-family:var(--f-mono);font-size:11px;padding:2px 6px;border-radius:4px;white-space:nowrap}
+.rd.b{background:var(--bull-bg);color:var(--bull)}.rd.s{background:var(--bear-bg);color:var(--bear)}.rd.n{background:var(--panel-2);color:var(--fg-2)}
+.corr{font-family:var(--f-mono);font-size:11.5px}.corr td,.corr th{text-align:center;padding:6px 4px}.corr th{font-size:10px}
+.rng{position:relative;height:8px;border-radius:4px;background:linear-gradient(90deg,var(--bear-bg),var(--panel-2),var(--bull-bg));margin:8px 0 4px}
+.rng i{position:absolute;top:-4px;width:3px;height:16px;background:var(--gold);border-radius:2px}
+@media (max-width:640px){.tcsum{grid-template-columns:minmax(0,1fr)}}
 @media (max-width:1080px){.g3{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}}
 @media (max-width:980px){.grid-desk,.g2,.g2w,.g3{grid-template-columns:minmax(0,1fr)}.macro{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:640px){
@@ -218,7 +229,7 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
     <a class="brand" href="#desk" aria-label="Tina’s FX home"><span class="mono-mark" aria-hidden="true">T</span><span class="word">Tina’s <b>FX</b></span></a>
     <span class="badge" id="clock"></span>
     <nav class="main" aria-label="Sections">
-      <a href="#desk" data-nav="desk">Today</a><a href="#signals" data-nav="signals">Signals</a><a href="#markets" data-nav="markets">Markets</a><a href="#india" data-nav="india">India</a><a href="#calendar" data-nav="calendar">Calendar</a><a href="#maps" data-nav="maps">Heatmaps</a><a href="#screeners" data-nav="screeners">Screeners</a><a href="#tools" data-nav="tools">Tools</a><a href="#learn" data-nav="learn">Academy</a><a href="#performance" data-nav="performance">Track record</a><a href="#research" data-nav="research">Research</a><a href="#about" data-nav="about">About</a>
+      <a href="#desk" data-nav="desk">Today</a><a href="#signals" data-nav="signals">Signals</a><a href="#markets" data-nav="markets">Markets</a><a href="#technical" data-nav="technical">Technical</a><a href="#india" data-nav="india">India</a><a href="#calendar" data-nav="calendar">Calendar</a><a href="#maps" data-nav="maps">Heatmaps</a><a href="#screeners" data-nav="screeners">Screeners</a><a href="#tools" data-nav="tools">Tools</a><a href="#learn" data-nav="learn">Academy</a><a href="#performance" data-nav="performance">Track record</a><a href="#research" data-nav="research">Research</a><a href="#about" data-nav="about">About</a>
     </nav>
   </div>
   <div class="tape" id="tape" aria-label="Live prices"></div>
@@ -387,7 +398,7 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
 
 <!-- TOOLS -->
 <section data-view="tools" hidden aria-label="Trader tools">
-  <div class="hero"><div><h1>Trader tools</h1><p>Size every trade by risk, check whether the reward is worth it, and know which markets are open right now.</p></div></div>
+  <div class="hero"><div><h1>Trader tools</h1><p>Size every trade by risk, check whether the reward is worth it, work out Fibonacci and pivot levels, profit and margin, convert currencies, and know which markets are open right now.</p></div></div>
   <div class="g2" style="margin-top:0">
     <section class="panel" aria-label="Position size calculator">
       <div class="ph"><h2>Position size calculator</h2><span class="lbl">Size by risk, not by leverage</span></div>
@@ -439,6 +450,65 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
       <div class="scroll"><table><thead><tr><th>Account loss</th><th>Gain needed to recover</th><th>Losing trades at 1% risk</th></tr></thead><tbody id="dd"></tbody></table></div>
     </section>
   </div>
+  <div class="g2">
+    <section class="panel" aria-label="Fibonacci calculator">
+      <div class="ph"><h2>Fibonacci retracement</h2><span class="lbl">Where pullbacks often pause</span></div>
+      <form class="calc" id="fb" novalidate>
+        <div class="fields">
+          <label for="fb-hi">Swing high<input id="fb-hi" inputmode="decimal" value="4227"></label>
+          <label for="fb-lo">Swing low<input id="fb-lo" inputmode="decimal" value="4078"></label>
+          <label for="fb-dir" style="grid-column:1/-1">Move direction<select id="fb-dir"><option value="up">Up move (low first, then high): retracements below the high</option><option value="down">Down move (high first, then low): retracements above the low</option></select></label>
+        </div>
+        <button type="submit">Calculate</button><div class="err" id="fb-err" role="alert"></div>
+        <div class="scroll"><table class="tnum"><thead><tr><th>Retracement</th><th>Price</th><th>Extension</th><th>Price</th></tr></thead><tbody id="fb-out"></tbody></table></div>
+      </form>
+    </section>
+    <section class="panel" aria-label="Pivot point calculator">
+      <div class="ph"><h2>Pivot point calculator</h2><span class="lbl">From yesterday’s candle</span></div>
+      <form class="calc" id="pv" novalidate>
+        <div class="fields">
+          <label for="pv-o">Open<input id="pv-o" inputmode="decimal" value="4177.10"></label>
+          <label for="pv-h">High<input id="pv-h" inputmode="decimal" value="4205.40"></label>
+          <label for="pv-l">Low<input id="pv-l" inputmode="decimal" value="4152.50"></label>
+          <label for="pv-c">Close<input id="pv-c" inputmode="decimal" value="4166.10"></label>
+        </div>
+        <button type="submit">Calculate</button><div class="err" id="pv-err" role="alert"></div>
+        <div class="scroll"><table class="tnum"><thead><tr><th>Method</th><th>S3</th><th>S2</th><th>S1</th><th>Pivot</th><th>R1</th><th>R2</th><th>R3</th></tr></thead><tbody id="pv-out"></tbody></table></div>
+      </form>
+    </section>
+  </div>
+  <div class="g2">
+    <section class="panel" aria-label="Profit and margin calculator">
+      <div class="ph"><h2>Profit and margin</h2><span class="lbl">What a move is worth, and what it ties up</span></div>
+      <form class="calc" id="pm" novalidate>
+        <div class="fields">
+          <label for="pm-type" style="grid-column:1/-1">Market<select id="pm-type">
+            <option value="xau">Gold XAU/USD (100 oz per lot)</option><option value="xag">Silver XAG/USD (5,000 oz per lot)</option><option value="oil">WTI oil (1,000 barrels per lot)</option>
+            <option value="fxq">Forex, USD second (EUR/USD, GBP/USD)</option><option value="fxb">Forex, USD first (USD/JPY, USD/CHF)</option><option value="idx">Index CFD ($1 per point)</option><option value="unit">Crypto or shares (per unit)</option></select></label>
+          <label for="pm-side">Direction<select id="pm-side"><option value="1">Buy</option><option value="-1">Sell</option></select></label>
+          <label for="pm-lots">Lots / units<input id="pm-lots" inputmode="decimal" value="0.10"></label>
+          <label for="pm-open">Open price<input id="pm-open" inputmode="decimal" value="4180"></label>
+          <label for="pm-close">Close price<input id="pm-close" inputmode="decimal" value="4199"></label>
+          <label for="pm-lev" style="grid-column:1/-1">Leverage<select id="pm-lev"><option>1</option><option>5</option><option>10</option><option selected>20</option><option>30</option><option>50</option><option>100</option><option>200</option><option>500</option></select></label>
+        </div>
+        <button type="submit">Calculate</button><div class="err" id="pm-err" role="alert"></div>
+        <div class="out" id="pm-out"></div>
+      </form>
+    </section>
+    <section class="panel" aria-label="Currency converter">
+      <div class="ph"><h2>Currency converter</h2><span class="lbl" id="cv-src">European Central Bank reference rates</span></div>
+      <form class="calc" id="cv" novalidate>
+        <div class="fields">
+          <label for="cv-amt" style="grid-column:1/-1">Amount<input id="cv-amt" inputmode="decimal" value="1000"></label>
+          <label for="cv-from">From<select id="cv-from"></select></label>
+          <label for="cv-to">To<select id="cv-to"></select></label>
+        </div>
+        <button type="submit">Convert</button><div class="err" id="cv-err" role="alert"></div>
+        <div class="out" id="cv-out"></div>
+        <p class="small" style="margin:0">AED is pegged at 3.6725 per US dollar. Reference rates update once each working day: use your broker’s live quote to trade.</p>
+      </form>
+    </section>
+  </div>
 </section>
 
 <!-- ACADEMY -->
@@ -465,6 +535,40 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
   <div class="filters" role="group" aria-label="Filter by market" id="rf-market" style="margin-bottom:8px"></div>
   <div class="filters" role="group" aria-label="Filter by bias" id="rf-bias" style="margin-bottom:16px"></div>
   <div id="archive" style="display:grid;gap:16px"></div>
+</section>
+
+<!-- TECHNICAL -->
+<section data-view="technical" hidden aria-label="Technical analysis">
+  <div class="hero"><div><h1>Technical summary</h1><p>Pivot points, moving averages and indicators for every desk market, worked out from daily candles and refreshed every 30 minutes by the signal watcher. Gold and silver are on a spot basis.</p></div>
+    <div class="panel" style="padding:12px 16px"><div class="lbl">Last calculated</div><div class="mono g" style="font-size:18px" id="tc-upd">--</div><div class="small">Source: Yahoo Finance daily candles, gold-api.com spot</div></div></div>
+  <div class="tabs" role="tablist" aria-label="Choose market" id="tc-tabs" style="display:flex;flex-wrap:wrap;gap:6px"></div>
+  <div class="tcsum" id="tc-sum"></div>
+  <div class="g2" style="margin-top:16px">
+    <section class="panel" aria-label="Pivot points"><div class="ph"><h2>Pivot points</h2><span class="lbl" id="tc-pvd"></span></div>
+      <div class="scroll"><table class="tnum"><thead><tr><th>Method</th><th>S3</th><th>S2</th><th>S1</th><th>Pivot</th><th>R1</th><th>R2</th><th>R3</th></tr></thead><tbody id="tc-piv"></tbody></table></div>
+      <p class="small">From the previous completed daily candle. S = support, R = resistance.</p></section>
+    <section class="panel" aria-label="Moving averages"><div class="ph"><h2>Moving averages</h2><span class="lbl" id="tc-mas"></span></div>
+      <div class="scroll"><table class="tnum"><thead><tr><th>Period</th><th>Simple</th><th></th><th>Exponential</th><th></th></tr></thead><tbody id="tc-ma"></tbody></table></div>
+      <p class="small">Buy when price is above the average, sell when below. Daily candles.</p></section>
+  </div>
+  <div class="g2">
+    <section class="panel" aria-label="Indicators"><div class="ph"><h2>Indicators</h2><span class="lbl" id="tc-ins"></span></div>
+      <div class="scroll"><table class="tnum"><thead><tr><th>Indicator</th><th>Value</th><th>Reading</th></tr></thead><tbody id="tc-ind"></tbody></table></div></section>
+    <section class="panel" aria-label="Performance"><div class="ph"><h2>Performance and range</h2></div>
+      <div class="out" id="tc-perf"></div><div id="tc-rng" style="margin-top:14px"></div></section>
+  </div>
+  <section class="panel sec" aria-label="All markets"><div class="ph"><h2>All desk markets at a glance</h2><span class="lbl">Daily timeframe</span></div>
+    <div class="scroll"><table class="tnum"><thead><tr><th>Market</th><th>Price</th><th>Moving averages</th><th>Indicators</th><th>RSI 14</th><th>ATR 14 (% of price)</th><th>20-day volatility</th><th>1 month</th></tr></thead><tbody id="tc-all"></tbody></table></div></section>
+  <div class="g2">
+    <section class="panel" aria-label="Correlation"><div class="ph"><h2>Correlation</h2><span class="lbl">Daily returns, last 60 sessions</span></div>
+      <div class="scroll"><table class="corr" id="tc-corr"></table></div>
+      <p class="small">+1 means two markets move together, −1 means they move opposite, 0 means no link. Holding two markets with high correlation doubles the same risk.</p></section>
+    <section class="panel" aria-label="US Treasury yield curve"><div class="ph"><h2>US Treasury yield curve</h2><span class="lbl" id="tc-yd"></span></div>
+      <div id="tc-yc"></div>
+      <div class="scroll"><table class="tnum"><thead><tr><th>Tenor</th><th>Yield</th><th>Day</th><th>1 month</th><th>As of</th></tr></thead><tbody id="tc-yt"></tbody></table></div>
+      <p class="small" id="tc-ys"></p></section>
+  </div>
+  <p class="small" style="margin-top:16px">Technical readings are mechanical and describe the past. They are not a recommendation: use them with the desk’s <a href="#signals">signals</a> and your own risk plan.</p>
 </section>
 
 <!-- SIGNALS -->
@@ -1211,16 +1315,116 @@ async function loadLive(){try{LIVE=await fetchLive();}catch(e){if(location.hash=
     if(m.quote.asof&&Date.parse(p.asof)<Date.parse(m.quote.asof)){if(p.chg!=null&&m.quote.chg==null){m.quote.chg=p.chg;paintQuote(m);}return;}
     const fresh=Date.now()-Date.parse(p.asof)<20*60e3;
     Object.assign(m.quote,{price:p.price,chg:p.chg,asof:p.asof,label:fresh?"Live":"Last trade",source:p.src});paintQuote(m);});
-  alertNew();if(location.hash==="#signals")renderSignals();}
+  alertNew();if(location.hash==="#signals")renderSignals();if(location.hash==="#technical")renderTech();}
 $("sg-notify").addEventListener("click",async()=>{alertsOn=!alertsOn;
   if(alertsOn&&window.Notification&&Notification.permission==="default"){try{await Notification.requestPermission();}catch(e){}}
   try{localStorage.setItem("tfx-al",alertsOn?"1":"0");}catch(e){}paintNotify();if(alertsOn)toast("Alerts are on. Keep this tab open: you’ll get a pop-up and a sound when a signal fills, hits a target or stops.");});
 function paintNotify(){const b=$("sg-notify");b.setAttribute("aria-pressed",alertsOn?"true":"false");b.textContent=alertsOn?"Alerts on":"Turn on alerts";}
 paintNotify();loadLive();setInterval(loadLive,90000);
 
+/* ---------- Technical ---------- */
+function pivots(o,h,l,c){const r=h-l,P=(h+l+c)/3,W=(h+l+2*c)/4,X=c<o?h+2*l+c:c>o?2*h+l+c:h+l+2*c;
+  return[["Classic",[l-2*(h-P),P-r,2*P-h,P,2*P-l,P+r,h+2*(P-l)]],
+    ["Fibonacci",[P-r,P-.618*r,P-.382*r,P,P+.382*r,P+.618*r,P+r]],
+    ["Camarilla",[c-r*1.1/4,c-r*1.1/6,c-r*1.1/12,P,c+r*1.1/12,c+r*1.1/6,c+r*1.1/4]],
+    ["Woodie’s",[l-2*(h-W),W-r,2*W-h,W,2*W-l,W+r,h+2*(W-l)]],
+    ["DeMark’s",[null,null,X/2-h,X/4,X/2-l,null,null]]];}
+const MA_N=[5,10,20,50,100,200];
+function readTech(t){const px=t.price,ma=[];MA_N.forEach(n=>["sma","ema"].forEach(k=>{const v=t[k+n];if(v!=null)ma.push(px>v?1:px<v?-1:0);}));
+  const mb=ma.filter(x=>x>0).length,ms=ma.filter(x=>x<0).length;
+  const ind=[];const add=(name,val,rd,dp)=>ind.push([name,val,rd,dp]);
+  const zone=(v,ob,bu,se)=>v==null?["--","n"]:v>ob?["Overbought","s"]:v>bu?["Buy","b"]:v>se?["Sell","s"]:["Oversold","b"];
+  add("RSI (14)",t.rsi14,zone(t.rsi14,70,50,30),2);add("Stochastic %K (14)",t.stoch14,zone(t.stoch14,80,50,20),2);
+  add("Williams %R (14)",t.willr14,zone(t.willr14,-20,-50,-80),2);
+  add("MACD (12, 26, 9)",t.macd,t.macd==null||t.macd_signal==null?["--","n"]:t.macd>t.macd_signal?["Buy","b"]:["Sell","s"],null);
+  add("ATR (14)",t.atr14,[t.atr_pct==null?"--":t.atr_pct.toFixed(2)+"% of price",t.atr_pct>2.5?"s":"n"],null);
+  const ib=ind.slice(0,4).filter(x=>x[2][1]==="b"&&x[2][0]==="Buy").length,is=ind.slice(0,4).filter(x=>x[2][1]==="s"&&x[2][0]==="Sell").length;
+  const sum=(b,s,n)=>{const r=(b-s)/n;return r>=.6?["Strong buy","b"]:r>=.2?["Buy","b"]:r<=-.6?["Strong sell","s"]:r<=-.2?["Sell","s"]:["Neutral","n"];};
+  return{mb,ms,mn:ma.length,ind,ib,is,maS:sum(mb,ms,ma.length||1),inS:sum(ib,is,4),all:sum(mb+ib*3,ms+is*3,(ma.length||1)+12)};}
+let tcCur="gold";
+const nf=(m,v,d)=>v==null||!isFinite(v)?"--":Number(v).toLocaleString("en-US",{minimumFractionDigits:d==null?m.dp:d,maximumFractionDigits:d==null?m.dp:d});
+const pdp=m=>m.id==="eurusd"?5:m.id==="usdjpy"?3:m.dp;
+const rdc=([t,c])=>el("span","rd "+c,t);
+function renderTech(){const T=LIVE&&LIVE.tech;const tabs=$("tc-tabs");
+  if(!T||!T.markets){$("tc-sum").textContent="";$("tc-sum").append(el("div",null,"Loading technicals from the signal watcher…"));return;}
+  $("tc-upd").textContent=gst(T.updated)+" GST";
+  const ids=M.map(m=>m.id).filter(id=>T.markets[id]);if(!ids.includes(tcCur))tcCur=ids[0];
+  tabs.textContent="";ids.forEach(id=>{const b=el("button",null,byId[id].name);b.type="button";b.setAttribute("role","tab");b.setAttribute("aria-selected",id===tcCur?"true":"false");b.onclick=()=>{tcCur=id;renderTech();};tabs.append(b);});
+  const m=byId[tcCur],t=T.markets[tcCur],R=readTech(t),d=pdp(m);
+  const sm=$("tc-sum");sm.textContent="";
+  [["Overall · daily",R.all,(m.pair||m.name)+" at "+nf(m,t.price)],["Moving averages",R.maS,"Buy "+R.mb+" · Sell "+R.ms+" of "+R.mn],["Indicators",R.inS,"Buy "+R.ib+" · Sell "+R.is+" of 4"]]
+    .forEach(([a,[v,c],n])=>{const x=el("div");x.append(el("div","lbl",a),el("div","v "+(c==="b"?"up":c==="s"?"dn":""),v),el("div","small",n));sm.append(x);});
+  $("tc-pvd").textContent="Based on "+new Date(t.prev_date+"T12:00:00Z").toLocaleDateString("en-GB",{weekday:"short",day:"numeric",month:"short"});
+  const pv=$("tc-piv");pv.textContent="";pivots(t.prev.o,t.prev.h,t.prev.l,t.prev.c).forEach(([n,a])=>{const tr=el("tr");tr.append(el("td",null,n));a.forEach((v,i)=>tr.append(el("td",i<3?"dn":i>3?"up":"g",nf(m,v,d))));pv.append(tr);});
+  const mt=$("tc-ma");mt.textContent="";$("tc-mas").textContent=R.maS[0];
+  MA_N.forEach(n=>{const tr=el("tr");tr.append(el("td",null,"MA "+n));["sma","ema"].forEach(k=>{const v=t[k+n];tr.append(el("td",null,nf(m,v,d)));const c=el("td");c.append(rdc(v==null?["--","n"]:t.price>v?["Buy","b"]:["Sell","s"]));tr.append(c);});mt.append(tr);});
+  const it=$("tc-ind");it.textContent="";$("tc-ins").textContent=R.inS[0];
+  R.ind.forEach(([n,v,rd,dp])=>{const tr=el("tr");tr.append(el("td",null,n),el("td",null,nf(m,v,dp==null?d:dp)));const c=el("td");c.append(rdc(rd));tr.append(c);it.append(tr);});
+  outBox($("tc-perf"),[["1 week",t.perf["1w"]],["1 month",t.perf["1m"]],["3 months",t.perf["3m"]],["Year to date",t.perf.ytd],["1 year",t.perf["1y"]],["20-day volatility",t.vol20]].map(([k,v],i)=>[k,v==null?"--":(i<5&&v>0?"+":"")+v.toFixed(2)+"%"+(i===5?" a year":"")]));
+  $("tc-perf").querySelectorAll(".v").forEach((e,i)=>{if(i<5){const v=[t.perf["1w"],t.perf["1m"],t.perf["3m"],t.perf.ytd,t.perf["1y"]][i];e.className="v "+(v>0?"up":v<0?"dn":"");}});
+  const rg=$("tc-rng");rg.textContent="";const pos=t.hi52>t.lo52?(t.price-t.lo52)/(t.hi52-t.lo52)*100:50;
+  rg.append(el("div","lbl","52-week range"));const bar=el("div","rng"),mk=el("i");mk.style.left="calc("+Math.max(0,Math.min(100,pos)).toFixed(1)+"% - 1px)";bar.append(mk);rg.append(bar);
+  const ln=el("div","small mono");ln.style.display="flex";ln.style.justifyContent="space-between";ln.append(el("span",null,nf(m,t.lo52)),el("span","g",pos.toFixed(0)+"% of range"),el("span",null,nf(m,t.hi52)));rg.append(ln);
+  if(t.basis_adjusted)rg.append(el("p","small","Spot basis: COMEX futures candles shifted by the measured futures-minus-spot gap."));
+  // all markets
+  const at=$("tc-all");at.textContent="";ids.forEach(id=>{const mm=byId[id],x=T.markets[id],r=readTech(x),tr=el("tr");const a=el("a",null,mm.name);a.href="#technical";a.onclick=e=>{e.preventDefault();tcCur=id;renderTech();window.scrollTo({top:0,behavior:"smooth"});};
+    const c1=el("td");c1.append(a);const c3=el("td");c3.append(rdc(r.maS));const c4=el("td");c4.append(rdc(r.inS));
+    tr.append(c1,el("td",null,nf(mm,x.price)),c3,c4,el("td",null,nf(mm,x.rsi14,1)),el("td",null,x.atr_pct==null?"--":x.atr_pct.toFixed(2)+"%"),el("td",null,x.vol20==null?"--":x.vol20.toFixed(1)+"%"),el("td",x.perf["1m"]>0?"up":"dn",x.perf["1m"]==null?"--":(x.perf["1m"]>0?"+":"")+x.perf["1m"].toFixed(2)+"%"));at.append(tr);});
+  // correlation
+  const ct=$("tc-corr");ct.textContent="";const C=T.corr;if(C&&C.ids){const hr=el("tr");hr.append(el("th"));C.ids.forEach(id=>hr.append(el("th",null,(byId[id]||{name:id}).name.replace("Nasdaq Composite","Nasdaq").slice(0,7))));const th=el("thead");th.append(hr);ct.append(th);const tb=el("tbody");
+    C.ids.forEach((a,i)=>{const tr=el("tr");tr.append(el("th",null,(byId[a]||{name:a}).name.slice(0,9)));C.m[i].forEach((v,j)=>{const td=el("td",null,v==null?"--":i===j?"—":v.toFixed(2));
+      if(v!=null&&i!==j){const k=Math.min(1,Math.abs(v));td.style.background=v>0?"rgba(63,185,122,"+(k*.55).toFixed(2)+")":"rgba(229,83,75,"+(k*.55).toFixed(2)+")";if(k>.5)td.style.color="#fff";}tr.append(td);});tb.append(tr);});ct.append(tb);}
+  renderYields(T.yields||[]);}
+function renderYields(Y){const h=$("tc-yc");h.textContent="";const t=$("tc-yt");t.textContent="";if(!Y.length)return;
+  const W=520,H=200,pl=40,pr=12,pt=14,pb=28,vals=Y.flatMap(y=>[y.y,y.m1]).filter(v=>v!=null),mn=Math.floor(Math.min(...vals)*4)/4-.1,mx=Math.ceil(Math.max(...vals)*4)/4+.1;
+  const X=i=>pl+i*(W-pl-pr)/(Y.length-1),Yp=v=>pt+(mx-v)/(mx-mn)*(H-pt-pb);
+  const ns="http://www.w3.org/2000/svg",svg=document.createElementNS(ns,"svg");svg.setAttribute("viewBox","0 0 "+W+" "+H);svg.setAttribute("width","100%");svg.setAttribute("role","img");svg.setAttribute("aria-label","US Treasury yield curve, today and one month ago");
+  const mk=(n,a)=>{const e=document.createElementNS(ns,n);for(const k in a)e.setAttribute(k,a[k]);return e;};
+  for(let v=Math.ceil(mn*4)/4;v<=mx;v+=.25){svg.append(mk("line",{x1:pl,x2:W-pr,y1:Yp(v),y2:Yp(v),stroke:"var(--line)"}));const tx=mk("text",{x:pl-6,y:Yp(v)+4,"text-anchor":"end","font-size":10,fill:"var(--fg-3)","font-family":"var(--f-mono)"});tx.textContent=v.toFixed(2)+"%";svg.append(tx);}
+  const line=(k,col,dash)=>{const pts=Y.map((y,i)=>y[k]==null?null:[X(i),Yp(y[k])]).filter(Boolean);svg.append(mk("polyline",{points:pts.map(p=>p.join(",")).join(" "),fill:"none",stroke:col,"stroke-width":2,"stroke-dasharray":dash||""}));pts.forEach(p=>svg.append(mk("circle",{cx:p[0],cy:p[1],r:3,fill:col})));};
+  line("m1","var(--fg-3)","4 4");line("y","var(--gold)");
+  Y.forEach((y,i)=>{const tx=mk("text",{x:X(i),y:H-8,"text-anchor":"middle","font-size":11,fill:"var(--fg-2)","font-family":"var(--f-mono)"});tx.textContent=y.tenor;svg.append(tx);});
+  h.append(svg);const lg=el("div","small mono");lg.innerHTML='<span class="g">━ Now</span> &nbsp; <span style="color:var(--fg-3)">┅ 1 month ago</span>';h.append(lg);
+  Y.forEach(y=>{const tr=el("tr"),bp=v=>v==null||y.y==null?"--":((y.y-v)*100>0?"+":"")+((y.y-v)*100).toFixed(1)+" bp";
+    const old=Date.now()-Date.parse(y.asof)>4*86400e3;
+    tr.append(el("td",null,y.tenor+" · "+y.name),el("td",null,y.y==null?"--":y.y.toFixed(3)+"%"),el("td",y.y>y.prev?"dn":"up",bp(y.prev)),el("td",null,bp(y.m1)),el("td","small"+(old?" dn":""),gst(y.asof)+(old?" (stale)":"")));t.append(tr);});
+  const g=k=>(Y.find(y=>y.tenor===k)||{}).y;const s1=g("10Y")!=null&&g("3M")!=null?(g("10Y")-g("3M"))*100:null,s2=g("10Y")!=null&&g("2Y")!=null?(g("10Y")-g("2Y"))*100:null;
+  $("tc-yd").textContent="Yahoo Finance · Cboe yield indices";
+  $("tc-ys").textContent="10-year minus 3-month: "+(s1==null?"--":(s1>0?"+":"")+s1.toFixed(0)+" bp")+" · 10-year minus 2-year: "+(s2==null?"--":(s2>0?"+":"")+s2.toFixed(0)+" bp")+". A negative spread (inverted curve) has often come before US recessions. Rising yields usually weigh on gold and stocks.";}
+
+/* ---------- More calculators ---------- */
+const FIB=[0,.236,.382,.5,.618,.786,1],FIBX=[1.272,1.414,1.618,2,2.618];
+function calcFib(){const hi=num("fb-hi"),lo=num("fb-lo"),up=$("fb-dir").value==="up";if(!(hi>0&&lo>0))return $("fb-err").textContent="Enter a swing high and low above zero.";if(hi<=lo)return $("fb-err").textContent="The high must be above the low.";
+  $("fb-err").textContent="";const r=hi-lo,dp=hi<20?4:2,o=$("fb-out");o.textContent="";const rows=Math.max(FIB.length,FIBX.length);
+  for(let i=0;i<rows;i++){const tr=el("tr"),a=FIB[i],b=FIBX[i];
+    tr.append(el("td",null,a==null?"":(a*100).toFixed(1)+"%"),el("td","mono",a==null?"":f2(up?hi-r*a:lo+r*a,dp)),el("td",null,b==null?"":(b*100).toFixed(1)+"%"),el("td","mono g",b==null?"":f2(up?lo+r*b:hi-r*b,dp)));o.append(tr);}}
+$("fb").addEventListener("submit",e=>{e.preventDefault();calcFib();});calcFib();
+function calcPiv(){const o=num("pv-o"),h=num("pv-h"),l=num("pv-l"),c=num("pv-c");if(![o,h,l,c].every(v=>v>0))return $("pv-err").textContent="Enter open, high, low and close above zero.";
+  if(h<l||c>h||c<l||o>h||o<l)return $("pv-err").textContent="High must be the highest price and low the lowest.";$("pv-err").textContent="";
+  const dp=h<20?4:2,t=$("pv-out");t.textContent="";pivots(o,h,l,c).forEach(([n,a])=>{const tr=el("tr");tr.append(el("td",null,n));a.forEach((v,i)=>tr.append(el("td",i<3?"dn":i>3?"up":"g",v==null?"--":f2(v,dp))));t.append(tr);});}
+$("pv").addEventListener("submit",e=>{e.preventDefault();calcPiv();});calcPiv();
+const PMdef={xau:["0.10","4180","4199"],xag:["0.10","57.00","58.20"],oil:["0.10","97.50","95.00"],fxq:["1.00","1.1230","1.1290"],fxb:["1.00","157.80","158.60"],idx:["1","7660","7720"],unit:["0.05","82000","84200"]};
+$("pm-type").addEventListener("change",()=>{const d=PMdef[$("pm-type").value];$("pm-lots").value=d[0];$("pm-open").value=d[1];$("pm-close").value=d[2];$("pm-err").textContent="";});
+function calcPM(){const t=$("pm-type").value,cfg=PS[t],side=+$("pm-side").value,lots=num("pm-lots"),op=num("pm-open"),cl=num("pm-close"),lev=+$("pm-lev").value;
+  if(!(lots>0))return $("pm-err").textContent="Enter a lot size above zero.";if(!(op>0&&cl>0))return $("pm-err").textContent="Enter open and close prices above zero.";$("pm-err").textContent="";
+  const units=lots*cfg.c,pnl=t==="fxb"?side*(cl-op)*units/cl:side*(cl-op)*units,notional=t==="fxq"?units*op:t==="fxb"?units:units*op,margin=notional/lev;
+  const pip=t==="fxq"?.0001:t==="fxb"?(op>20?.01:.0001):null;
+  const rows=[["Profit / loss",(pnl>=0?"+$":"−$")+f2(Math.abs(pnl))],["Position value","$"+f2(notional,0)],["Margin at 1:"+lev,"$"+f2(margin)],["Move",pip?f2((cl-op)/pip*side,1)+" pips":f2((cl-op)*side,op<20?4:2)]];
+  if(pip)rows.push(["Value per pip","$"+f2(t==="fxb"?pip*units/cl:pip*units)]);else rows.push(["Value per $1 move","$"+f2(units*(t==="fxb"?1/cl:1))]);
+  outBox($("pm-out"),rows);$("pm-out").firstChild.querySelector(".v").className="v "+(pnl>=0?"up":"dn");}
+$("pm").addEventListener("submit",e=>{e.preventDefault();calcPM();});calcPM();
+let FXR=null;const CCY=[["USD","US dollar"],["AED","UAE dirham"],["EUR","Euro"],["GBP","British pound"],["INR","Indian rupee"],["JPY","Japanese yen"],["CHF","Swiss franc"],["CAD","Canadian dollar"],["AUD","Australian dollar"],["CNY","Chinese yuan"],["SGD","Singapore dollar"],["HKD","Hong Kong dollar"],["SEK","Swedish krona"],["NOK","Norwegian krone"],["ZAR","South African rand"],["TRY","Turkish lira"],["MXN","Mexican peso"],["BRL","Brazilian real"],["KRW","South Korean won"],["NZD","New Zealand dollar"]];
+CCY.forEach(([k,n],i)=>{["cv-from","cv-to"].forEach(id=>{const o=el("option",null,k+" · "+n);o.value=k;$(id).append(o);});});$("cv-from").value="USD";$("cv-to").value="AED";
+async function loadFX(){try{const r=await fetch("https://api.frankfurter.app/latest?from=USD",{cache:"no-store"});const j=await r.json();FXR=Object.assign({USD:1},j.rates);FXR.AED=3.6725;$("cv-src").textContent="ECB reference rates · "+new Date(j.date+"T12:00:00Z").toLocaleDateString("en-GB",{day:"numeric",month:"short",year:"numeric"});}catch(e){$("cv-err").textContent="Couldn’t load exchange rates right now. Try again in a minute.";}calcCV();}
+function calcCV(){if(!FXR)return;const a=num("cv-amt"),f=$("cv-from").value,t=$("cv-to").value;if(!(a>=0))return $("cv-err").textContent="Enter an amount.";
+  if(FXR[f]==null||FXR[t]==null)return $("cv-err").textContent="No reference rate for that currency today.";$("cv-err").textContent="";
+  const rate=FXR[t]/FXR[f],dp=t==="JPY"||t==="KRW"?0:2;outBox($("cv-out"),[[a.toLocaleString("en-US")+" "+f,f2(a*rate,dp)+" "+t],["1 "+f,f2(rate,rate<.01?6:4)+" "+t],["1 "+t,f2(1/rate,1/rate<.01?6:4)+" "+f]]);}
+$("cv").addEventListener("submit",e=>{e.preventDefault();calcCV();});["cv-from","cv-to"].forEach(i=>$(i).addEventListener("change",calcCV));
+let fxLoaded=false;
+
 /* ---------- Routing ---------- */
 const WIDGET_HOSTS=["in-tickers","in-overview","in-movers","in-inr","in-quotes","in-scr","w-overview","w-cal-mini","w-hot","w-cross-mini","w-news-all","w-quotes","m-chart","m-ta","m-tl","y-info","y-chart","y-ta","y-tl","y-fin","y-prof","w-cal","w-map","w-scr"];
-const views=["desk","signals","markets","calendar","maps","screeners","tools","learn","research","method","about","sources","performance","trust","risk","terms","privacy","corrections","india"];
+const views=["desk","signals","technical","markets","calendar","maps","screeners","tools","learn","research","method","about","sources","performance","trust","risk","terms","privacy","corrections","india"];
 const navOf={market:"markets",sym:"markets",lesson:"learn"};
 const INDIA_IDS=new Set(["nifty","sensex","bse500","banknifty","usdinr"]);
 let hoursTimer=null;
@@ -1234,6 +1438,8 @@ function route(){
   if(!["market","sym","lesson"].includes(v))document.title="Tina’s FX · The trader’s bible for every market";
   document.querySelectorAll("[data-view]").forEach(s=>s.hidden=s.dataset.view!==v);
   const nv=navOf[v]||v;document.querySelectorAll("[data-nav]").forEach(a=>a.dataset.nav===nv?a.setAttribute("aria-current","page"):a.removeAttribute("aria-current"));
+  if(v==="technical")renderTech();
+  if(v==="tools"&&!fxLoaded){fxLoaded=true;loadFX();}
   if(v==="signals"){renderSignals();sgTimer=setInterval(renderSignals,30000);}
   if(v==="desk"){
     tv($("w-overview"),"embed-widget-market-overview.js",{dateRange:"1D",showChart:true,width:"100%",height:"100%",showSymbolLogo:true,showFloatingTooltip:true,plotLineColorGrowing:"#3FB97A",plotLineColorFalling:"#E5534B",belowLineFillColorGrowing:"rgba(63,185,122,.12)",belowLineFillColorFalling:"rgba(229,83,75,.12)",symbolActiveColor:"rgba(212,175,55,.12)",tabs:overviewTabs});

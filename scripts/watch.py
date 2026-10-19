@@ -158,9 +158,167 @@ def step(p, side, x, bar, events):
             ev("be", x["trigger"], f"{name}: runner closed at entry {fmt(p, x['trigger'])} after target 1")
 
 
+YIELDS = [("3M", "^IRX", "13-week T-bill"), ("2Y", "2YY=F", "2-year (CBOT yield futures)"), ("5Y", "^FVX", "5-year Treasury"),
+          ("10Y", "^TNX", "10-year Treasury"), ("30Y", "^TYX", "30-year Treasury")]
+
+
+def daily(sym):
+    s = urllib.parse.quote(sym, safe="")
+    j = get(f"https://query2.finance.yahoo.com/v8/finance/chart/{s}?interval=1d&range=1y")
+    r = j["chart"]["result"][0]
+    q = r["indicators"]["quote"][0]
+    bars = []
+    for i, t in enumerate(r.get("timestamp") or []):
+        o, h, l, c = q["open"][i], q["high"][i], q["low"][i], q["close"][i]
+        if None not in (o, h, l, c):
+            bars.append({"t": t, "d": dt.datetime.fromtimestamp(t, GST).date().isoformat(), "o": o, "h": h, "l": l, "c": c})
+    reg = r["meta"].get("currentTradingPeriod", {}).get("regular", {})
+    live = bool(bars) and bars[-1]["t"] >= reg.get("start", 1e18) and time.time() < reg.get("end", 0)
+    return r["meta"], bars, live
+
+
+def sma(xs, n):
+    return sum(xs[-n:]) / n if len(xs) >= n else None
+
+
+def ema(xs, n):
+    if len(xs) < n:
+        return None
+    k, e = 2 / (n + 1), sum(xs[:n]) / n
+    for x in xs[n:]:
+        e = x * k + e * (1 - k)
+    return e
+
+
+def ema_series(xs, n):
+    if len(xs) < n:
+        return []
+    k, e = 2 / (n + 1), sum(xs[:n]) / n
+    out = [e]
+    for x in xs[n:]:
+        e = x * k + e * (1 - k)
+        out.append(e)
+    return out
+
+
+def rsi(xs, n=14):
+    if len(xs) <= n:
+        return None
+    g = [max(0, xs[i] - xs[i - 1]) for i in range(1, len(xs))]
+    l = [max(0, xs[i - 1] - xs[i]) for i in range(1, len(xs))]
+    ag, al = sum(g[:n]) / n, sum(l[:n]) / n
+    for i in range(n, len(g)):
+        ag, al = (ag * (n - 1) + g[i]) / n, (al * (n - 1) + l[i]) / n
+    return 100.0 if al == 0 else 100 - 100 / (1 + ag / al)
+
+
+def atr(b, n=14):
+    if len(b) <= n:
+        return None
+    tr = [max(b[i]["h"] - b[i]["l"], abs(b[i]["h"] - b[i - 1]["c"]), abs(b[i]["l"] - b[i - 1]["c"])) for i in range(1, len(b))]
+    a = sum(tr[:n]) / n
+    for x in tr[n:]:
+        a = (a * (n - 1) + x) / n
+    return a
+
+
+def r6(v):
+    return None if v is None else round(v, 6)
+
+
+def technicals(state):
+    out, rets = {}, {}
+    for mid, sym in SYM.items():
+        try:
+            meta, b, live = daily(sym)
+        except Exception as e:
+            print(mid, "daily error", e, file=sys.stderr)
+            continue
+        if len(b) < 30:
+            continue
+        basis = state.get("basis", {}).get(mid, 0.0) if mid in SPOT else 0.0
+        if basis:
+            # shift each futures bar by the futures-minus-spot gap measured on that day; days before the
+            # first measurement use the earliest measured gap, days not measured use the next measured one
+            bh = state.get("basis_hist", {}).get(mid, {})
+            days = sorted(bh)
+            def gap(d):
+                if d in bh:
+                    return bh[d]
+                later = [x for x in days if x > d]
+                return bh[later[0]] if later else basis
+            b = [dict(x, o=x["o"] - gap(x["d"]), h=x["h"] - gap(x["d"]), l=x["l"] - gap(x["d"]), c=x["c"] - gap(x["d"])) for x in b]
+        done = b[:-1] if live else b
+        prev = done[-1]
+        px = state.get("prices", {}).get(mid, {}).get("price") or b[-1]["c"]
+        closes = [x["c"] for x in done] + ([px] if live else [])
+        mas = {f"sma{n}": r6(sma(closes, n)) for n in (5, 10, 20, 50, 100, 200)}
+        mas.update({f"ema{n}": r6(ema(closes, n)) for n in (5, 10, 20, 50, 100, 200)})
+        e12, e26 = ema_series(closes, 12), ema_series(closes, 26)
+        macd = sig = None
+        if e26:
+            line = [a - c for a, c in zip(e12[len(e12) - len(e26):], e26)]
+            macd = line[-1]
+            sig = ema(line, 9)
+        a14 = atr(done)
+        yr = b[-252:]
+        ytd = [x for x in b if x["d"][:4] == b[-1]["d"][:4]]
+        def perf(k):
+            return r6((px / closes[-1 - k] - 1) * 100) if len(closes) > k else None
+        hi14, lo14 = max(x["h"] for x in b[-14:]), min(x["l"] for x in b[-14:])
+        out[mid] = {"price": r6(px), "prev": {k: r6(prev[k]) for k in ("o", "h", "l", "c")}, "prev_date": prev["d"],
+                    "today_open": r6(b[-1]["o"]) if live else None, **mas,
+                    "rsi14": r6(rsi(closes)), "macd": r6(macd), "macd_signal": r6(sig), "atr14": r6(a14),
+                    "atr_pct": r6(a14 / px * 100) if a14 and px else None,
+                    "stoch14": r6((px - lo14) / (hi14 - lo14) * 100) if hi14 > lo14 else None,
+                    "willr14": r6((hi14 - px) / (hi14 - lo14) * -100) if hi14 > lo14 else None,
+                    "hi52": r6(max(x["h"] for x in yr)), "lo52": r6(min(x["l"] for x in yr)),
+                    "perf": {"1w": perf(5), "1m": perf(21), "3m": perf(63),
+                             "ytd": r6((px / ytd[0]["o"] - 1) * 100) if ytd else None, "1y": r6((px / yr[0]["c"] - 1) * 100)},
+                    "basis_adjusted": bool(basis)}
+        rr = {}
+        for i in range(1, len(done)):
+            rr[done[i]["d"]] = done[i]["c"] / done[i - 1]["c"] - 1
+        rets[mid] = rr
+        last20 = list(rr.values())[-20:]
+        if len(last20) >= 10:
+            m = sum(last20) / len(last20)
+            sd = (sum((x - m) ** 2 for x in last20) / (len(last20) - 1)) ** 0.5
+            ann = 365 if mid == "btc" else 252
+            out[mid]["vol20"] = r6(sd * (ann ** 0.5) * 100)
+    ids = list(rets)
+    mat = []
+    for a in ids:
+        row = []
+        for c in ids:
+            common = sorted(set(rets[a]) & set(rets[c]))[-60:]
+            if len(common) < 20:
+                row.append(None); continue
+            xa, xc = [rets[a][d] for d in common], [rets[c][d] for d in common]
+            ma, mc = sum(xa) / len(xa), sum(xc) / len(xc)
+            cov = sum((x - ma) * (y - mc) for x, y in zip(xa, xc))
+            va, vc = sum((x - ma) ** 2 for x in xa), sum((y - mc) ** 2 for y in xc)
+            row.append(round(cov / (va * vc) ** 0.5, 2) if va and vc else None)
+        mat.append(row)
+    ylds = []
+    for tenor, sym, name in YIELDS:
+        try:
+            meta, b, live = daily(sym)
+            last = meta.get("regularMarketPrice")
+            prevc = b[-2]["c"] if len(b) > 1 else None
+            m1 = b[-22]["c"] if len(b) > 22 else None
+            ylds.append({"tenor": tenor, "name": name, "sym": sym, "y": r6(last), "prev": r6(prevc), "m1": r6(m1),
+                         "asof": iso(meta.get("regularMarketTime") or int(time.time()))})
+        except Exception as e:
+            print(sym, "yield error", e, file=sys.stderr)
+    state["tech"] = {"updated": iso(int(time.time())), "markets": out, "corr": {"ids": ids, "window": 60, "m": mat}, "yields": ylds}
+
+
 def run(minutes):
     state = load_state()
     state.setdefault("basis", {})
+    # gap measured at the 16 Oct 2026 close: COMEX GC 4,181.10 vs spot 4,166.10; SI vs spot ~0
+    state.setdefault("basis_hist", {}).setdefault("gold", {}).setdefault("2026-10-16", 15.0)
     end = time.time() + minutes * 60
     desk, desk_at = None, 0
     while True:
@@ -192,6 +350,10 @@ def run(minutes):
                     spot = float(j["price"])
                     if fut and abs(time.time() - ts) < 900:
                         state["basis"][mid] = round(fut - spot, 3)
+                        bh = state.setdefault("basis_hist", {}).setdefault(mid, {})
+                        bh[dt.datetime.now(GST).date().isoformat()] = state["basis"][mid]
+                        for old_d in sorted(bh)[:-400]:
+                            del bh[old_d]
                     basis = state["basis"].get(mid, 0.0)
                     price, src = spot, "gold-api.com spot"
                     ts = int(time.time())
@@ -236,6 +398,12 @@ def run(minutes):
                             p[s]["expired_at"] = vu
                             events.insert(0, {"t": vu, "market": mid, "side": s, "kind": "expired", "price": None,
                                               "text": f"{p['name']} {'buy' if s == 'long' else 'sell'} expired unfilled", "plan": p["asof"]})
+        if time.time() - state.get("tech_at", 0) > 1800:
+            try:
+                technicals(state)
+                state["tech_at"] = time.time()
+            except Exception as e:
+                print("technicals error", e, file=sys.stderr)
         # prune: drop finished, non-current plans older than 3 days
         now = time.time()
         state["plans"] = {k: v for k, v in state["plans"].items()
