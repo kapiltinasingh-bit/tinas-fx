@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T07:00:00+04:00",
+  "updated": "2026-10-19T04:00:00+04:00",
   "fomc": "2026-10-28T18:00:00Z",
   "macro": [
     {
@@ -34,83 +34,79 @@
       "dp": 2,
       "prefix": "$",
       "quote": {
-        "price": 4166.1,
+        "price": 4181.0,
         "chg": null,
-        "label": "Fri close",
-        "source": "gold-api.com",
-        "asof": "2026-10-17T01:00:00+04:00"
+        "label": "Asian session",
+        "asof": "2026-10-19T03:03:00+04:00",
+        "source": "gold-api.com"
       },
       "bias": "neutral",
       "signal": {
         "call": "WAIT",
-        "asof": "2026-10-17T00:45:00+04:00",
-        "headline": "Range trade until $4,200 or $4,100 gives way",
-        "reason": "Gold rebounded after the hot CPI sell-off but is boxed between $4,100 support and $4,200 resistance, still under its 200-day average near $4,460. The Fed decision on 28 Oct is the next big catalyst.",
+        "asof": "2026-10-19T04:00:00+04:00",
+        "headline": "Fade the range edges: sweeps at 4,200–4,205 or 4,152–4,155",
+        "reason": "Daily structure is bearish with lower highs, but price sits in discount and the hourly turned up on Thursday, leaving a 4,152–4,205 range with liquidity on both sides. The desk waits for a 5-minute sweep and change of character at either edge before acting.",
         "long": {
-          "trigger": 4200,
-          "stop": 4170,
-          "t1": 4230,
-          "t2": 4300,
-          "why": "A break above $4,200 opens the Oct 2 high at $4,230, then the R3 pivot near $4,300."
+          "trigger": 4156,
+          "stop": 4141,
+          "t1": 4180,
+          "t2": 4199,
+          "why": "After a sweep below the 4,152–4,155 equal lows into 1h demand, wait for a 5m close back above 4,155 and a CHoCH up; enter on the FVG retest near 4,155–4,158."
         },
         "short": {
-          "trigger": 4100,
-          "stop": 4136,
-          "t1": 4031,
-          "t2": 4000,
-          "why": "A break below $4,100 support points to the S2 pivot near $4,031 and the round $4,000."
+          "trigger": 4200,
+          "stop": 4212,
+          "t1": 4181,
+          "t2": 4166,
+          "why": "After a sweep above the 4,198–4,205 equal highs and Friday high into the 1h bearish FVG, wait for a 5m close back below 4,198 and a CHoCH down; enter on the FVG retest near 4,198–4,201. Third target 4,153."
         }
       },
       "levels": [
         {
-          "name": "200-day average",
-          "price": 4462.7
+          "name": "12 Oct high · BSL",
+          "price": 4227
         },
         {
-          "name": "R3 pivot",
-          "price": 4301.99
+          "name": "1h bearish FVG",
+          "price": 4207.5
         },
         {
-          "name": "R2 · Oct 2 high zone",
-          "price": 4239.71
+          "name": "Fri high · BSL",
+          "price": 4205
         },
         {
-          "name": "R1 · $4,200",
-          "price": 4197.8
+          "name": "Equal highs · BSL",
+          "price": 4199
         },
         {
-          "name": "20-day average",
-          "price": 4173.35
+          "name": "Range equilibrium",
+          "price": 4178.5
         },
         {
-          "name": "Daily pivot",
-          "price": 4135.52
+          "name": "Fri close",
+          "price": 4166.1
         },
         {
-          "name": "S1 · $4,100 support",
-          "price": 4093.61
+          "name": "Equal lows · SSL / 1h demand",
+          "price": 4153.5
         },
         {
-          "name": "S2",
-          "price": 4031.33
-        },
-        {
-          "name": "S3 · $4,000 zone",
-          "price": 3989.42
+          "name": "Daily equal lows · SSL",
+          "price": 4078
         }
       ],
       "sources": [
         {
+          "name": "Yahoo Finance (COMEX GC futures candles)",
+          "url": "https://finance.yahoo.com/quote/GC%3DF/"
+        },
+        {
+          "name": "gold-api.com (spot)",
+          "url": "https://gold-api.com"
+        },
+        {
           "name": "CNBC",
           "url": "https://www.cnbc.com/amp/2026/10/16/gold-gains-on-softer-dollar-but-heads-for-weekly-fall.html"
-        },
-        {
-          "name": "DailyForex pivots",
-          "url": "https://www.dailyforex.com/commodities/gold"
-        },
-        {
-          "name": "State Street Gold Monitor",
-          "url": "https://www.ssga.com/library-content/products/fund-docs/etfs/us/insights-investment-ideas/monthly-gold-monitor.pdf"
         }
       ]
     },
@@ -701,10 +697,75 @@
       "asof": "2026-10-17T00:45:00+04:00",
       "call": "WAIT",
       "detail": "Buy above 4,200 / sell below 4,100",
+      "outcome": "Expired",
+      "r": 0,
+      "note": "Replaced 19 Oct; price stayed between 4,100 and 4,200 after the call was issued."
+    },
+    {
+      "market": "gold",
+      "asof": "2026-10-19T04:00:00+04:00",
+      "call": "WAIT",
+      "detail": "Sell 4,198–4,201 after a sweep above 4,205 (SL 4,212) / buy 4,155–4,158 after a sweep below 4,152 (SL 4,141)",
+      "kind": "limit",
+      "plan": {
+        "long": {
+          "trigger": 4157,
+          "stop": 4141,
+          "t1": 4180
+        },
+        "short": {
+          "trigger": 4200,
+          "stop": 4212,
+          "t1": 4181
+        }
+      },
       "outcome": "Open"
     }
   ],
   "posts": [
+    {
+      "id": "gold-smc-2026-10-19",
+      "date": "2026-10-19T04:00:00+04:00",
+      "title": "Gold SMC playbook: range edges and liquidity sweeps, Mon 19 Oct",
+      "bias": "neutral",
+      "markets": [
+        "gold"
+      ],
+      "points": [
+        "Daily: bearish structure (CHoCH down 28 Sep, BOS down 7 Oct) with lower highs at 4,244 and 4,227. Price is below the 20-, 50- and 200-day averages but in the discount half of the Aug–Oct range, so the market is ranging rather than trending.",
+        "Biggest untouched liquidity: daily equal lows at 4,076–4,080. Overhead sit an unfilled daily bearish FVG at 4,203–4,274 and fresh daily supply at 4,274–4,337.",
+        "Hourly: internal structure turned bullish on Thursday (CHoCH up, then BOS up). On Friday price swept the equal highs at 4,198–4,200 to 4,205, closed back inside and dropped about 50 dollars to 4,155 before recovering.",
+        "Intraday range is 4,152–4,205 with equilibrium near 4,178. Price at 4,181 sits mid-range, which is no place for a new trade.",
+        "Sell setup (preferred, with the daily trend): sweep above 4,205 into the 1h bearish FVG at 4,205–4,210, then a 5m close back below 4,198 and a 5m CHoCH down. Entry 4,198–4,201, stop 4,212, targets 4,181 / 4,166 / 4,153 (about 1.6R, 2.8R and 3.8R). Cancel on a 1h close above 4,210.",
+        "Buy setup (with the hourly structure): sweep below the 4,152–4,155 equal lows into 1h demand at 4,142–4,158, then a 5m close back above 4,155 and a 5m CHoCH up. Entry 4,155–4,158, stop 4,141, targets 4,178–4,181 / 4,198–4,200 (about 1.5R and 2.9R). Cancel on a 1h close below 4,140, which opens 4,119–4,142 and 4,076–4,080.",
+        "Asian scalp (half size): a dip into the Sunday-open FVG at 4,172–4,176 that sweeps today’s low, then a 5m CHoCH up. Entry near 4,175, stop 4,167, targets 4,184 and 4,193.",
+        "Price-action filters: only take the trade after a wick beyond the level, a 5m close back inside, and a displacement candle that leaves a fair value gap. Enter on the pullback, never on the impulse candle.",
+        "Timing and risk: the best sweeps come at the London open (11:00–13:00 GST) and New York open (16:30–18:30 GST). Stand aside around high-impact US data; last Wednesday’s sweep failed into the hot CPI print. Risk 1% per trade and move the stop to breakeven at the first target.",
+        "Levels are spot XAU/USD, converted from COMEX futures at a measured 15-dollar gap; check exact wicks on your own feed (about ±3 dollars)."
+      ],
+      "drivers": [
+        "Liquidity sweeps",
+        "Market structure",
+        "Fair value gaps",
+        "Order blocks",
+        "Fed path",
+        "Dollar"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Finance (COMEX GC futures candles)",
+          "url": "https://finance.yahoo.com/quote/GC%3DF/"
+        },
+        {
+          "name": "gold-api.com (spot)",
+          "url": "https://gold-api.com"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/amp/2026/10/16/gold-gains-on-softer-dollar-but-heads-for-weekly-fall.html"
+        }
+      ]
+    },
     {
       "id": "weekend-2026-10-17",
       "date": "2026-10-17T07:00:00+04:00",

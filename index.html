@@ -796,7 +796,7 @@ function levelMap(m){
     mk("line",{x1:76,x2:W,y1:yy,y2:yy,stroke:col,"stroke-width":1,"stroke-dasharray":"4 4",opacity:.7});
     const ly=Math.max(yy-5,lastY+14);lastY=ly;
     mk("text",{x:W-4,y:ly,"text-anchor":"end",fill:"#A9A59B","font-size":12,"font-family":"IBM Plex Sans, sans-serif"}).textContent=l.name;
-    mk("text",{x:0,y:yy+4,fill:col,"font-size":12,"font-family":"JetBrains Mono, monospace"}).textContent=fmt(m,l.price).replace("$","");});
+    mk("text",{x:0,y:ly,fill:col,"font-size":12,"font-family":"JetBrains Mono, monospace"}).textContent=fmt(m,l.price).replace("$","");});
   if(p!=null){const py=y(p);mk("line",{x1:76,x2:W,y1:py,y2:py,stroke:"#D4AF37","stroke-width":2});mk("rect",{x:80,y:py-12,width:150,height:24,rx:4,fill:"#D4AF37"});
     mk("text",{x:155,y:py+4,"text-anchor":"middle",fill:"#17130A","font-size":13,"font-weight":500,"font-family":"JetBrains Mono, monospace"}).textContent="Price "+fmt(m,p);}
   host.append(svg);
