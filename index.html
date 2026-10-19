@@ -179,6 +179,10 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
 .evs li{display:grid;grid-template-columns:110px minmax(0,1fr);gap:10px;padding:8px 0;border-top:1px solid var(--line);font-size:13px}
 .evs li .mono{color:var(--fg-3);font-size:12px}.evs li.t1 b,.evs li.t2 b,.evs li.be b{color:var(--bull)}.evs li.stopped b{color:var(--bear)}.evs li.filled b{color:var(--gold)}
 .btn-al{font-family:var(--f-mono);font-size:12px;background:transparent;color:var(--gold);border:1px solid var(--gold);border-radius:6px;padding:7px 12px;cursor:pointer}
+#pa-f{grid-template-columns:repeat(4,minmax(0,1fr));align-items:end}
+@media (max-width:760px){#pa-f{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}}
+.btn-al.star{margin-top:8px;font-size:11px;padding:5px 10px}
+#wl-chips .chip a{color:inherit}
 .btn-al[aria-pressed="true"]{background:var(--gold);color:#17130A}
 .toast{position:fixed;right:16px;bottom:16px;z-index:50;max-width:min(360px,calc(100vw - 32px));background:var(--panel-2);border:1px solid var(--gold);border-radius:8px;padding:12px 14px;font-size:13px;box-shadow:0 8px 30px rgba(0,0,0,.5)}
 .sgc .st.win{background:var(--bull-bg);color:var(--bull)}
@@ -298,6 +302,9 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
 <!-- MARKETS INDEX -->
 <section data-view="markets" hidden aria-label="All markets">
   <div class="hero"><div><h1>All markets</h1><p>Every instrument the desk tracks, with live quotes. Tap any market for its live chart, technical rating, key stats and news.</p></div></div>
+  <section class="panel" aria-label="My watchlist" style="margin-bottom:16px"><div class="ph" style="display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap"><h2 style="margin:0">My watchlist</h2><span class="lbl">Saved in this browser only</span></div>
+    <div class="chips" id="wl-chips" style="margin-top:10px"></div>
+    <div class="w" id="wl-box" style="height:360px;margin-top:12px" hidden><div class="wb" id="wl-quotes"></div></div></section>
   <div class="w h560"><div class="wb" id="w-quotes"></div></div>
   <div id="catalog"></div>
 </section>
@@ -330,7 +337,7 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
 <section data-view="market" hidden aria-label="Market desk">
   <a class="back" href="#markets">← All markets</a>
   <div class="mhead">
-    <div><div class="lbl" id="m-grp"></div><h1 id="m-name"></h1></div>
+    <div><div class="lbl" id="m-grp"></div><h1 id="m-name"></h1><button type="button" class="btn-al star" id="m-star"></button></div>
     <div style="text-align:right"><div class="big" id="m-px">--</div><div class="small" id="m-lbl"></div></div>
   </div>
   <div class="w h520 sec"><div class="wb" id="m-chart"></div></div>
@@ -360,7 +367,7 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
 <!-- GENERIC INSTRUMENT PAGE -->
 <section data-view="sym" hidden aria-label="Market">
   <a class="back" href="#markets">← All markets</a>
-  <div class="mhead"><div><div class="lbl" id="y-grp"></div><h1 id="y-name"></h1></div><div class="chips" id="y-nav"></div></div>
+  <div class="mhead"><div><div class="lbl" id="y-grp"></div><h1 id="y-name"></h1><button type="button" class="btn-al star" id="y-star"></button></div><div class="chips" id="y-nav"></div></div>
   <div class="w sec" style="height:200px"><div class="wb" id="y-info"></div></div>
   <div class="w h560 sec"><div class="wb" id="y-chart"></div></div>
   <div class="g2">
@@ -496,7 +503,7 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
       </form>
     </section>
     <section class="panel" aria-label="Currency converter">
-      <div class="ph"><h2>Currency converter</h2><span class="lbl" id="cv-src">European Central Bank reference rates</span></div>
+      <div class="ph"><h2>Currency converter</h2><span class="lbl" id="cv-src">Daily reference rates</span></div>
       <form class="calc" id="cv" novalidate>
         <div class="fields">
           <label for="cv-amt" style="grid-column:1/-1">Amount<input id="cv-amt" inputmode="decimal" value="1000"></label>
@@ -584,6 +591,14 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
   <div class="panel" style="margin-top:16px"><div class="ph" style="margin:0 0 8px;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;align-items:center"><div><h3 style="margin:0">Signal alerts</h3><div class="small">Fills, targets and stops, logged by the watcher within about a minute of happening.</div></div>
     <button type="button" class="btn-al" id="sg-notify" aria-pressed="false">Turn on alerts</button></div>
     <ol class="evs" id="sg-ev"></ol></div>
+  <div class="panel" style="margin-top:16px"><div class="ph" style="margin:0 0 8px"><h3 style="margin:0">My price alerts</h3><div class="small">Get a pop-up and a sound when a desk market trades above or below your price. Saved in this browser; the Signals or any Tina’s FX page must be open.</div></div>
+    <form class="fields" id="pa-f" novalidate onsubmit="return false">
+      <label for="pa-m">Market<select id="pa-m"></select></label>
+      <label for="pa-op">When price is<select id="pa-op"><option value="above">At or above</option><option value="below">At or below</option></select></label>
+      <label for="pa-p">Price<input id="pa-p" inputmode="decimal"></label>
+      <button type="button" class="btn-al" id="pa-add" style="height:38px">Add alert</button></form>
+    <div class="err" id="pa-err" role="alert"></div>
+    <ol class="evs" id="pa-list" style="margin-top:8px"></ol></div>
   <div id="sg-list" style="display:grid;gap:16px;margin-top:16px"></div>
   <div class="sec ph" style="margin-top:26px"><div><h2>Watchlist triggers</h2><div class="small">Breakout levels the desk is watching. They have no stop yet, so no lot size: don’t trade them until a full plan is posted here.</div></div></div>
   <div class="panel scroll" style="padding:0"><table><thead><tr><th>Market</th><th>Buy above</th><th>Targets</th><th>Sell below</th><th>Targets</th><th>Price</th></tr></thead><tbody id="sg-watch"></tbody></table></div>
@@ -972,6 +987,7 @@ function levelMap(m){
 function showMarket(id){
   const m=byId[id];if(!m)return false;cur=m;document.title=m.name+" · Tina’s FX";
   $("m-grp").textContent=m.group+" · "+m.pair;$("m-name").textContent=m.name;
+  {const it=items.find(i=>i.desk===m.id)||catByTv[m.tv];starBtn($("m-star"),it&&it.id);}
   $("m-px").textContent=fmt(m,m.quote.price);$("m-px").dataset.live=m.id;
   $("m-lbl").textContent=stamp(m)+" · "+m.quote.source+(m.quote.chg!=null?" · "+chgTxt(m.quote.chg):"");
   {const ci=catByTv[m.tv]||{};$("m-ta").parentElement.hidden=!!ci.noembed;$("m-tl").parentElement.hidden=!!ci.noembed;if(ci.noembed){if(!proxyWidget($("m-chart"),ci))blockedPanel($("m-chart"),ci);blockedPanel($("m-ta"),ci,"Technical rating");blockedPanel($("m-tl"),ci,"Live headlines");if(ci.proxy){const n=el("p","small",ci.proxyNote);n.style.cssText="position:absolute;left:14px;bottom:6px;margin:0;z-index:1;max-width:70%;background:rgba(10,10,11,.8);padding:3px 8px;border-radius:4px";$("m-chart").append(n);}}else{
@@ -999,7 +1015,7 @@ function showMarket(id){
 /* ---------- Generic instrument page ---------- */
 function showSym(id){
   const i=itemById[id];if(!i)return false;document.title=i.name+" · Tina’s FX";
-  $("y-grp").textContent=i.group+" · "+i.tv;$("y-name").textContent=i.name;
+  $("y-grp").textContent=i.group+" · "+i.tv;$("y-name").textContent=i.name;starBtn($("y-star"),i.id);
   const g=C.groups.find(x=>x.id===i.gid),idx=g.items.findIndex(x=>x.id===id),nav=$("y-nav");nav.textContent="";
   [[g.items[idx-1],"← "],[g.items[idx+1],""]].forEach(([n,pre],k)=>{if(!n)return;const a=el("a","chip grp",k?n.name+" →":pre+n.name);a.href=hrefFor(n);nav.append(a);});
   const yChartBox=$("y-chart").parentElement,yGrid=$("y-ta").closest(".g2"),yInfoBox=$("y-info").parentElement;
@@ -1294,7 +1310,7 @@ function paintQuote(m){document.querySelectorAll('[data-live="'+m.id+'"]').forEa
   document.querySelectorAll('[data-chg="'+m.id+'"]').forEach(e=>{e.className=chgCls(m.quote.chg)+" mono";e.textContent=chgTxt(m.quote.chg);});
   document.querySelectorAll('[data-ts="'+m.id+'"]').forEach(e=>e.textContent=stamp(m));
   if(cur&&cur.id===m.id){$("m-px").textContent=fmt(m,m.quote.price);$("m-lbl").textContent=stamp(m)+" · "+(m.quote.source||"");levelMap(m);}}
-function toast(t){const d=el("div","toast");d.setAttribute("role","status");d.append(el("b","g","Tina’s FX signal alert"),el("div",null,t));document.body.append(d);setTimeout(()=>d.remove(),9000);}
+function toast(t,hd){const d=el("div","toast");d.setAttribute("role","status");d.append(el("b","g",hd||"Tina’s FX signal alert"),el("div",null,t));document.body.append(d);setTimeout(()=>d.remove(),9000);}
 function beep(){try{const a=new (window.AudioContext||window.webkitAudioContext)(),o=a.createOscillator(),g=a.createGain();o.frequency.value=880;g.gain.value=.08;o.connect(g);g.connect(a.destination);o.start();o.stop(a.currentTime+.25);}catch(e){}}
 function alertNew(){const ev=(LIVE&&LIVE.events)||[];if(!ev.length)return;const newest=ev[0].t;
   if(lastSeen==null){lastSeen=newest;}else if(alertsOn){ev.filter(e=>e.t>lastSeen).reverse().forEach(e=>{toast(e.text);beep();
@@ -1315,7 +1331,7 @@ async function loadLive(){try{LIVE=await fetchLive();}catch(e){if(location.hash=
     if(m.quote.asof&&Date.parse(p.asof)<Date.parse(m.quote.asof)){if(p.chg!=null&&m.quote.chg==null){m.quote.chg=p.chg;paintQuote(m);}return;}
     const fresh=Date.now()-Date.parse(p.asof)<20*60e3;
     Object.assign(m.quote,{price:p.price,chg:p.chg,asof:p.asof,label:fresh?"Live":"Last trade",source:p.src});paintQuote(m);});
-  alertNew();if(location.hash==="#signals")renderSignals();if(location.hash==="#technical")renderTech();}
+  alertNew();checkPA();if(location.hash==="#signals")renderSignals();if(location.hash==="#technical")renderTech();}
 $("sg-notify").addEventListener("click",async()=>{alertsOn=!alertsOn;
   if(alertsOn&&window.Notification&&Notification.permission==="default"){try{await Notification.requestPermission();}catch(e){}}
   try{localStorage.setItem("tfx-al",alertsOn?"1":"0");}catch(e){}paintNotify();if(alertsOn)toast("Alerts are on. Keep this tab open: you’ll get a pop-up and a sound when a signal fills, hits a target or stops.");});
@@ -1342,6 +1358,7 @@ function readTech(t){const px=t.price,ma=[];MA_N.forEach(n=>["sma","ema"].forEac
   const sum=(b,s,n)=>{const r=(b-s)/n;return r>=.6?["Strong buy","b"]:r>=.2?["Buy","b"]:r<=-.6?["Strong sell","s"]:r<=-.2?["Sell","s"]:["Neutral","n"];};
   return{mb,ms,mn:ma.length,ind,ib,is,maS:sum(mb,ms,ma.length||1),inS:sum(ib,is,4),all:sum(mb+ib*3,ms+is*3,(ma.length||1)+12)};}
 let tcCur="gold";
+const SHORT={gold:"Gold",silver:"Silver",oil:"Oil",eurusd:"EUR/USD",usdjpy:"USD/JPY",spx:"S&P 500",nasdaq:"Nasdaq",nifty:"Nifty",btc:"Bitcoin",dfm:"DFM"};
 const nf=(m,v,d)=>v==null||!isFinite(v)?"--":Number(v).toLocaleString("en-US",{minimumFractionDigits:d==null?m.dp:d,maximumFractionDigits:d==null?m.dp:d});
 const pdp=m=>m.id==="eurusd"?5:m.id==="usdjpy"?3:m.dp;
 const rdc=([t,c])=>el("span","rd "+c,t);
@@ -1371,8 +1388,8 @@ function renderTech(){const T=LIVE&&LIVE.tech;const tabs=$("tc-tabs");
     const c1=el("td");c1.append(a);const c3=el("td");c3.append(rdc(r.maS));const c4=el("td");c4.append(rdc(r.inS));
     tr.append(c1,el("td",null,nf(mm,x.price)),c3,c4,el("td",null,nf(mm,x.rsi14,1)),el("td",null,x.atr_pct==null?"--":x.atr_pct.toFixed(2)+"%"),el("td",null,x.vol20==null?"--":x.vol20.toFixed(1)+"%"),el("td",x.perf["1m"]>0?"up":"dn",x.perf["1m"]==null?"--":(x.perf["1m"]>0?"+":"")+x.perf["1m"].toFixed(2)+"%"));at.append(tr);});
   // correlation
-  const ct=$("tc-corr");ct.textContent="";const C=T.corr;if(C&&C.ids){const hr=el("tr");hr.append(el("th"));C.ids.forEach(id=>hr.append(el("th",null,(byId[id]||{name:id}).name.replace("Nasdaq Composite","Nasdaq").slice(0,7))));const th=el("thead");th.append(hr);ct.append(th);const tb=el("tbody");
-    C.ids.forEach((a,i)=>{const tr=el("tr");tr.append(el("th",null,(byId[a]||{name:a}).name.slice(0,9)));C.m[i].forEach((v,j)=>{const td=el("td",null,v==null?"--":i===j?"—":v.toFixed(2));
+  const ct=$("tc-corr");ct.textContent="";const C=T.corr;if(C&&C.ids){const hr=el("tr");hr.append(el("th"));C.ids.forEach(id=>hr.append(el("th",null,SHORT[id]||id)));const th=el("thead");th.append(hr);ct.append(th);const tb=el("tbody");
+    C.ids.forEach((a,i)=>{const tr=el("tr");tr.append(el("th",null,SHORT[a]||a));C.m[i].forEach((v,j)=>{const td=el("td",null,v==null?"--":i===j?"—":v.toFixed(2));
       if(v!=null&&i!==j){const k=Math.min(1,Math.abs(v));td.style.background=v>0?"rgba(63,185,122,"+(k*.55).toFixed(2)+")":"rgba(229,83,75,"+(k*.55).toFixed(2)+")";if(k>.5)td.style.color="#fff";}tr.append(td);});tb.append(tr);});ct.append(tb);}
   renderYields(T.yields||[]);}
 function renderYields(Y){const h=$("tc-yc");h.textContent="";const t=$("tc-yt");t.textContent="";if(!Y.length)return;
@@ -1415,15 +1432,45 @@ function calcPM(){const t=$("pm-type").value,cfg=PS[t],side=+$("pm-side").value,
 $("pm").addEventListener("submit",e=>{e.preventDefault();calcPM();});calcPM();
 let FXR=null;const CCY=[["USD","US dollar"],["AED","UAE dirham"],["EUR","Euro"],["GBP","British pound"],["INR","Indian rupee"],["JPY","Japanese yen"],["CHF","Swiss franc"],["CAD","Canadian dollar"],["AUD","Australian dollar"],["CNY","Chinese yuan"],["SGD","Singapore dollar"],["HKD","Hong Kong dollar"],["SEK","Swedish krona"],["NOK","Norwegian krone"],["ZAR","South African rand"],["TRY","Turkish lira"],["MXN","Mexican peso"],["BRL","Brazilian real"],["KRW","South Korean won"],["NZD","New Zealand dollar"]];
 CCY.forEach(([k,n],i)=>{["cv-from","cv-to"].forEach(id=>{const o=el("option",null,k+" · "+n);o.value=k;$(id).append(o);});});$("cv-from").value="USD";$("cv-to").value="AED";
-async function loadFX(){try{const r=await fetch("https://api.frankfurter.app/latest?from=USD",{cache:"no-store"});const j=await r.json();FXR=Object.assign({USD:1},j.rates);FXR.AED=3.6725;$("cv-src").textContent="ECB reference rates · "+new Date(j.date+"T12:00:00Z").toLocaleDateString("en-GB",{day:"numeric",month:"short",year:"numeric"});}catch(e){$("cv-err").textContent="Couldn’t load exchange rates right now. Try again in a minute.";}calcCV();}
+async function loadFX(){const dd=d=>new Date(d).toLocaleDateString("en-GB",{day:"numeric",month:"short",year:"numeric"});
+  try{const r=await fetch("https://api.frankfurter.dev/v1/latest?base=USD");if(!r.ok)throw 0;const j=await r.json();FXR=Object.assign({USD:1},j.rates);FXR.AED=3.6725;$("cv-src").textContent="ECB reference rates · "+dd(j.date+"T12:00:00Z");}
+  catch(e){try{const r=await fetch("https://open.er-api.com/v6/latest/USD");const j=await r.json();FXR=j.rates;FXR.AED=3.6725;$("cv-src").textContent="ExchangeRate-API · "+dd(j.time_last_update_utc);}catch(x){$("cv-err").textContent="Couldn’t load exchange rates right now. Try again in a minute.";}}
+  calcCV();}
 function calcCV(){if(!FXR)return;const a=num("cv-amt"),f=$("cv-from").value,t=$("cv-to").value;if(!(a>=0))return $("cv-err").textContent="Enter an amount.";
   if(FXR[f]==null||FXR[t]==null)return $("cv-err").textContent="No reference rate for that currency today.";$("cv-err").textContent="";
   const rate=FXR[t]/FXR[f],dp=t==="JPY"||t==="KRW"?0:2;outBox($("cv-out"),[[a.toLocaleString("en-US")+" "+f,f2(a*rate,dp)+" "+t],["1 "+f,f2(rate,rate<.01?6:4)+" "+t],["1 "+t,f2(1/rate,1/rate<.01?6:4)+" "+f]]);}
 $("cv").addEventListener("submit",e=>{e.preventDefault();calcCV();});["cv-from","cv-to"].forEach(i=>$(i).addEventListener("change",calcCV));
 let fxLoaded=false;
 
+/* ---------- Watchlist and price alerts ---------- */
+const lsGet=(k,d)=>{try{return JSON.parse(localStorage.getItem(k))??d;}catch(e){return d;}};const lsSet=(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}};
+let WL=lsGet("tfx-wl",[]);
+function starBtn(btn,iid){if(!btn)return;const paint=()=>{const on=WL.includes(iid);btn.textContent=on?"★ On your watchlist":"☆ Add to watchlist";btn.setAttribute("aria-pressed",on?"true":"false");};
+  btn.hidden=!iid;btn.onclick=()=>{WL=WL.includes(iid)?WL.filter(x=>x!==iid):[...WL,iid];lsSet("tfx-wl",WL);paint();};paint();}
+function renderWL(){const h=$("wl-chips");h.textContent="";const its=WL.map(id=>itemById[id]).filter(Boolean);
+  if(!its.length){h.append(el("p","small","Nothing saved yet. Open any market and tap ☆ Add to watchlist: it will show here with live quotes."));$("wl-box").hidden=true;return;}
+  its.forEach(i=>{const c=el("span","chip grp");const a=el("a",null,i.name);a.href=hrefFor(i);const x=el("button",null,"×");x.type="button";x.setAttribute("aria-label","Remove "+i.name);
+    x.style.cssText="background:none;border:0;color:var(--fg-3);cursor:pointer;margin-left:6px;font-size:13px";x.onclick=()=>{WL=WL.filter(z=>z!==i.id);lsSet("tfx-wl",WL);renderWL();};c.append(a,x);h.append(c);});
+  const emb=its.filter(i=>!i.noembed);$("wl-box").hidden=!emb.length;
+  if(emb.length){$("wl-box").style.height=Math.min(560,90+emb.length*44)+"px";clear("wl-quotes");tv($("wl-quotes"),"embed-widget-market-quotes.js",{width:"100%",height:"100%",showSymbolLogo:true,symbolsGroups:[{name:"My watchlist",symbols:emb.map(i=>({name:i.tv,displayName:i.name}))}]});}}
+let PA=lsGet("tfx-pa",[]);
+M.forEach(m=>{const o=el("option",null,m.name+(m.pair?" · "+m.pair:""));o.value=m.id;$("pa-m").append(o);});
+const paFill=()=>{const m=byId[$("pa-m").value];if(m&&m.quote.price!=null)$("pa-p").placeholder="Now "+fmt(m,m.quote.price).replace("$","");};$("pa-m").addEventListener("change",paFill);paFill();
+$("pa-add").addEventListener("click",async()=>{const m=byId[$("pa-m").value],p=num("pa-p");if(!(p>0))return $("pa-err").textContent="Enter a price above zero.";$("pa-err").textContent="";
+  PA.push({id:m.id,op:$("pa-op").value,p,t:new Date().toISOString()});lsSet("tfx-pa",PA);$("pa-p").value="";
+  if(window.Notification&&Notification.permission==="default"){try{await Notification.requestPermission();}catch(e){}}renderPA();checkPA();});
+function renderPA(){const h=$("pa-list");h.textContent="";if(!PA.length){h.append(el("li",null,"No price alerts yet."));return;}
+  PA.forEach((a,i)=>{const m=byId[a.id];if(!m)return;const li=el("li",a.hit?"t1":"filled");li.append(el("span","mono",a.hit?gst(a.hit)+" GST":"Waiting"));const b=el("span");
+    b.append(el("b",null,m.name),document.createTextNode(" "+(a.op==="above"?"at or above ":"at or below ")+fmt(m,a.p)+(a.hit?" · triggered":" · now "+fmt(m,m.quote.price))+" "));
+    const x=el("button",null,"Remove");x.type="button";x.className="btn-al";x.style.cssText="padding:2px 8px;font-size:11px;margin-left:6px";x.onclick=()=>{PA.splice(i,1);lsSet("tfx-pa",PA);renderPA();};b.append(x);li.append(b);h.append(li);});}
+function checkPA(){let ch=false;PA.forEach(a=>{if(a.hit)return;const m=byId[a.id];const p=m&&m.quote.price;if(p==null)return;
+  if(a.op==="above"?p>=a.p:p<=a.p){a.hit=new Date().toISOString();ch=true;const t=m.name+" is "+(a.op==="above"?"at or above ":"at or below ")+fmt(m,a.p)+" (now "+fmt(m,p)+")";toast(t,"Tina’s FX price alert");beep();
+    try{if(window.Notification&&Notification.permission==="granted")new Notification("Tina’s FX price alert",{body:t});}catch(e){}}});
+  if(ch){lsSet("tfx-pa",PA);}if(location.hash==="#signals")renderPA();}
+setInterval(checkPA,15000);
+
 /* ---------- Routing ---------- */
-const WIDGET_HOSTS=["in-tickers","in-overview","in-movers","in-inr","in-quotes","in-scr","w-overview","w-cal-mini","w-hot","w-cross-mini","w-news-all","w-quotes","m-chart","m-ta","m-tl","y-info","y-chart","y-ta","y-tl","y-fin","y-prof","w-cal","w-map","w-scr"];
+const WIDGET_HOSTS=["wl-quotes","in-tickers","in-overview","in-movers","in-inr","in-quotes","in-scr","w-overview","w-cal-mini","w-hot","w-cross-mini","w-news-all","w-quotes","m-chart","m-ta","m-tl","y-info","y-chart","y-ta","y-tl","y-fin","y-prof","w-cal","w-map","w-scr"];
 const views=["desk","signals","technical","markets","calendar","maps","screeners","tools","learn","research","method","about","sources","performance","trust","risk","terms","privacy","corrections","india"];
 const navOf={market:"markets",sym:"markets",lesson:"learn"};
 const INDIA_IDS=new Set(["nifty","sensex","bse500","banknifty","usdinr"]);
@@ -1440,7 +1487,8 @@ function route(){
   const nv=navOf[v]||v;document.querySelectorAll("[data-nav]").forEach(a=>a.dataset.nav===nv?a.setAttribute("aria-current","page"):a.removeAttribute("aria-current"));
   if(v==="technical")renderTech();
   if(v==="tools"&&!fxLoaded){fxLoaded=true;loadFX();}
-  if(v==="signals"){renderSignals();sgTimer=setInterval(renderSignals,30000);}
+  if(v==="markets")renderWL();
+  if(v==="signals"){renderPA();renderSignals();sgTimer=setInterval(renderSignals,30000);}
   if(v==="desk"){
     tv($("w-overview"),"embed-widget-market-overview.js",{dateRange:"1D",showChart:true,width:"100%",height:"100%",showSymbolLogo:true,showFloatingTooltip:true,plotLineColorGrowing:"#3FB97A",plotLineColorFalling:"#E5534B",belowLineFillColorGrowing:"rgba(63,185,122,.12)",belowLineFillColorFalling:"rgba(229,83,75,.12)",symbolActiveColor:"rgba(212,175,55,.12)",tabs:overviewTabs});
     tv($("w-cal-mini"),"embed-widget-events.js",calCfg);
@@ -1466,7 +1514,7 @@ async function live(){for(const m of M.filter(x=>x.live)){try{const r=await fetc
   document.querySelectorAll('[data-ts="'+m.id+'"]').forEach(e=>e.textContent=stamp(m));
   document.querySelectorAll('[data-chg="'+m.id+'"]').forEach(e=>{e.className=chgCls(m.quote.chg)+" mono";e.textContent=chgTxt(m.quote.chg);});
   document.querySelectorAll('[data-live="'+m.id+'"]').forEach(e=>e.textContent=fmt(m,j.price));
-  if(location.hash==="#signals")renderSignals();
+  checkPA();if(location.hash==="#signals")renderSignals();
   if(cur&&cur.id===m.id){$("m-lbl").textContent=stamp(m)+" · gold-api.com";levelMap(m);}}catch(e){}}}
 live();setInterval(live,60000);
 
