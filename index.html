@@ -1202,7 +1202,11 @@ function renderEvents(){const h=$("sg-ev");h.textContent="";const ev=(LIVE&&LIVE
 function renderLiveBar(){const b=$("sg-live"),t=$("sg-live-t");if(!LIVE){b.classList.add("off");t.textContent="Signal watcher not reachable: showing prices from the last research update.";return;}
   const age=(Date.now()-Date.parse(LIVE.updated))/1000,ok=age<900;b.classList.toggle("off",!ok);
   t.textContent=ok?"Live: the signal watcher checked every market "+(age<90?Math.round(age)+"s":Math.round(age/60)+" min")+" ago · prices and fills update about once a minute":"Watcher last ran "+gst(LIVE.updated)+" GST: live tracking is paused, showing the last known prices.";}
-async function loadLive(){try{const r=await fetch(LIVE_URL+"?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw 0;LIVE=await r.json();}catch(e){if(location.hash==="#signals")renderLiveBar();return;}
+const LIVE_API="https://api.github.com/repos/kapiltinasingh-bit/tinas-fx/contents/live.json?ref=live";let apiPause=0;
+async function fetchLive(){if(Date.now()>apiPause){try{const r=await fetch(LIVE_API,{cache:"no-store",headers:{Accept:"application/vnd.github.raw"}});
+    if(r.ok)return await r.json();if(r.status===403||r.status===429)apiPause=Date.now()+15*60e3;}catch(e){}}
+  const r=await fetch(LIVE_URL+"?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw 0;return await r.json();}
+async function loadLive(){try{LIVE=await fetchLive();}catch(e){if(location.hash==="#signals")renderLiveBar();return;}
   M.forEach(m=>{const p=LIVE.prices&&LIVE.prices[m.id];if(!p||p.price==null)return;
     if(m.quote.asof&&Date.parse(p.asof)<Date.parse(m.quote.asof)){if(p.chg!=null&&m.quote.chg==null){m.quote.chg=p.chg;paintQuote(m);}return;}
     const fresh=Date.now()-Date.parse(p.asof)<20*60e3;
@@ -1212,7 +1216,7 @@ $("sg-notify").addEventListener("click",async()=>{alertsOn=!alertsOn;
   if(alertsOn&&window.Notification&&Notification.permission==="default"){try{await Notification.requestPermission();}catch(e){}}
   try{localStorage.setItem("tfx-al",alertsOn?"1":"0");}catch(e){}paintNotify();if(alertsOn)toast("Alerts are on. Keep this tab open: you’ll get a pop-up and a sound when a signal fills, hits a target or stops.");});
 function paintNotify(){const b=$("sg-notify");b.setAttribute("aria-pressed",alertsOn?"true":"false");b.textContent=alertsOn?"Alerts on":"Turn on alerts";}
-paintNotify();loadLive();setInterval(loadLive,60000);
+paintNotify();loadLive();setInterval(loadLive,90000);
 
 /* ---------- Routing ---------- */
 const WIDGET_HOSTS=["in-tickers","in-overview","in-movers","in-inr","in-quotes","in-scr","w-overview","w-cal-mini","w-hot","w-cross-mini","w-news-all","w-quotes","m-chart","m-ta","m-tl","y-info","y-chart","y-ta","y-tl","y-fin","y-prof","w-cal","w-map","w-scr"];
