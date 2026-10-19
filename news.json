@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T20:43:16.135419+00:00",
+ "updated": "2026-10-19T21:10:29.367608+00:00",
  "count": 250,
  "feeds": [
   {
@@ -24,7 +24,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -60,19 +60,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "CNBC",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -102,13 +102,13 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 10
+   "new": 9
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Dollar gains as French turmoil due to violent protests drags down the euro",
+   "url": "https://www.investing.com/news/forex-news/asia-fx-ticks-higher-yuan-hits-4yr-high-after-china-q3-gdp-beat-4956302",
+   "src": "Investing.com",
+   "t": "2026-10-19T20:51:26+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
    "url": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
@@ -129,6 +139,17 @@
    "tone": "bearish"
   },
   {
+   "title": "US stocks today: Nasdaq leads Wall Street gains as chip, AI stocks rebound",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-street-gains-as-chip-ai-stocks-rebound/articleshow/135056194.cms",
+   "src": "Economic Times",
+   "t": "2026-10-19T20:18:35+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Should You Own Bitcoin in Your 401(k) After a 34% Drop From Its Record?",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc3FpNXBzMEZzU1QtMkVURWl0LWtHTXhmTmltTGdwQXBMWWhKMk5VSFh2MlVnS1ZNZUtCWVNTekIzdXF6bXprTnV2akZNVmR0aTJyZjJNUUlXM25Bdm1tZHAtMEN5UUNLN0YzT3htOVNnblZnaktwak54UGJlc0ItNmp2X01LU0N3MmZXLWdiRlZkOGd6cGhjNGpncjJwNTEwWUdyX2FUUnMwQkkxek5lTjFlWlVMbW5BbVo4bXBXekE4SHpN?oc=5",
    "src": "24/7 Wall St.",
@@ -137,6 +158,16 @@
     "btc"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "The turnaround of this beaten-up Dow stock looks for real, says Katie Stockton",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWd2Q3RSVGNIbGJCUWNMdkRsb2pKejE3S3lIR2FCdW5ybm9RcXVzbVdPeEZUYm1iUkMzSGdrc0lyV2hOUm9fcktHY0E5RkhPOGx1SDBLbEZIaVgwVUE4c2g0a3VLUXVmVFFpU0pzT0NHcm5XVDFBbldTa1RjdTV0LVZfcm10akJrY3JHVTFaTVRkc3phVGR2aHpWeDhaYzR5b1JjR2tudmtWM1JXWWRlSXNWbk4?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-19T20:10:21+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Why the Treasury’s financing plans are sparking anxiety on Wall Street",
@@ -278,6 +309,16 @@
    "t": "2026-10-19T17:25:20+00:00",
    "tags": [
     "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Digital gold market triples to $55bn as younger investors pile in",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmkzVEYtaE5URGhXeHRPbzNQV3ZwdVNaX3hUTnE5MWRFcjRtd0JMNHd1S016RVZjTFhTeTZrNVFYbi1oWV9vcThMMWFIaXBLWVdRdU4yNl9ER0tFU041eFMwM2dsYjM1aWRxTU9SUzRwQ2VuNWxuLVdtNzFQNDRacUxMWWw?oc=5",
+   "src": "Financial Times",
+   "t": "2026-10-19T17:24:54+00:00",
+   "tags": [
+    "gold"
    ],
    "tone": "neutral"
   },
@@ -2679,47 +2720,6 @@
     "oil"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "D-St set for a cautious opening as GIFT Nifty signals muted start",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135036997.cms",
-   "src": "Economic Times",
-   "t": "2026-10-19T00:30:00+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "BOJ chief says underlying inflation 'quite close' to price goal",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUlPaThzNFplTl9JQ0oxQjlBY1VFT0N4ZnBGY09mTXZRaG9yeko1M1pzXzNfZ0Zla1RpZlNrVUd1dHRDMzY2cGNmUU13VzNmY2RFTW1VTW5kdDI1NEJsZTBxZ2Y0MHcxTTQweThkSUpZbmRyV1pLMEtpcXc3VWxmd3FqWmhmbzYya1lvSnEwa0J3QXQtMllSTjlfMWlIWVlpQV9KZnFBcDVaRkMtM2R1M1hVb2VJejdUYWRR?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-19T00:17:00+00:00",
-   "tags": [
-    "usdjpy",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Nifty rally faces crucial test at key resistance levels: Analysts",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-gains-3-as-analysts-predict-recovery-key-resistance-levels-ahead/articleshow/135037107.cms",
-   "src": "Economic Times",
-   "t": "2026-10-19T00:14:32+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Oil prices slide as Trump waives Russia sanctions",
-   "url": "https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158",
-   "src": "Investing.com",
-   "t": "2026-10-19T00:14:24+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bearish"
   }
  ]
 }
