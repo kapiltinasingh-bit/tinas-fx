@@ -51,15 +51,45 @@
           "stop": 4141,
           "t1": 4180,
           "t2": 4199,
-          "why": "After a sweep below the 4,152–4,155 equal lows into 1h demand, wait for a 5m close back above 4,155 and a CHoCH up; enter on the FVG retest near 4,155–4,158."
+          "why": "After a sweep below the 4,152–4,155 equal lows into 1h demand, wait for a 5m close back above 4,155 and a CHoCH up; enter on the FVG retest near 4,155–4,158.",
+          "entry": [
+            4155,
+            4158
+          ],
+          "t3": null,
+          "sweep": "Price trades below the 4,152–4,155 equal lows",
+          "confirm": "A 5-minute candle closes back above 4,155, then a 5m change of character up",
+          "cancel": "A 1-hour close below 4,140"
         },
         "short": {
           "trigger": 4200,
           "stop": 4212,
           "t1": 4181,
           "t2": 4166,
-          "why": "After a sweep above the 4,198–4,205 equal highs and Friday high into the 1h bearish FVG, wait for a 5m close back below 4,198 and a CHoCH down; enter on the FVG retest near 4,198–4,201. Third target 4,153."
-        }
+          "why": "After a sweep above the 4,198–4,205 equal highs and Friday high into the 1h bearish FVG, wait for a 5m close back below 4,198 and a CHoCH down; enter on the FVG retest near 4,198–4,201. Third target 4,153.",
+          "entry": [
+            4198,
+            4201
+          ],
+          "t3": 4153,
+          "sweep": "Price trades above the 4,205 Friday high",
+          "confirm": "A 5-minute candle closes back below 4,198, then a 5m change of character down",
+          "cancel": "A 1-hour close above 4,210"
+        },
+        "setup": "Liquidity sweep + 5m change of character (SMC)",
+        "valid_until": "2026-10-20T00:00:00+04:00",
+        "windows": [
+          [
+            "London open",
+            "11:00",
+            "13:00"
+          ],
+          [
+            "New York open",
+            "16:30",
+            "18:30"
+          ]
+        ]
       },
       "levels": [
         {
