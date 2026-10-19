@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-19T05:38:53.496402+00:00",
- "count": 162,
+ "updated": "2026-10-19T06:11:41.651851+00:00",
+ "count": 172,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 8
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -24,7 +24,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -60,13 +60,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "MarketWatch",
@@ -119,6 +119,88 @@
  ],
  "items": [
   {
+   "title": "Investors Keep Buying Gold ETFs Even as Prices Fall",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWROX2ZxNkgxTVpVdTlFSmdaT1paOVpfN1RxY0x1Y2djX2ZqSXB3b2wzUVZaakpEd1FvZTQxejl3ck9IVjBNaXdJVVN2ZFdsUTJWQy1yTDJzUnVhcTZxMl9seDBrUm83TThTTHBxM3hpaGVjaXU3N01qODFicnZSeWZpcWhvbk1NYTdDa2pZYUNWc00yRkc0Ng?oc=5",
+   "src": "Morningstar",
+   "t": "2026-10-19T06:03:26+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Oil and geopolitics in focus after turbulent weekend",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY0k5ZVFUdWhBWm9pdEsxSGlDbjl6RFFwMTlIczFNd21EdDRUZEFIdUdmTC1kYjRvbmhCaFFVOGtzOVdhYUtCZFRKS25Qanl4OV80STQzZzlPRmNNU3Z1WkdFTk92N2s0Q0IyV1BZTjRMWXpwZGs3N2NoM0xWWG5KRkV1a2RkRU50aWNKczFzU1NnSmF2aEVWZkltNnlPV09a?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T05:51:50+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Dollar steady, euro weakens after French protests turn violent",
+   "url": "https://www.investing.com/news/forex-news/dollar-firmer-euro-weakens-as-french-protests-turn-violent-4956196",
+   "src": "Investing.com",
+   "t": "2026-10-19T05:48:41+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "USD/CAD Price Forecast: Hangs near multi-week low, holds above 1.4100 ahead of Canadian CPI",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOTI3SUR2VG05aWJYZFdVcmR2cERMSVd5UWt1QUtNRmZYVThHdkMxOWJoNXpTcXpEdzJiZ2lYemJ3LTVhSnUwU3l5TWVPdnVmclVhWjdwdDhvU3BBNjdWYUFjUEU4Y29ZWnAwX0VTWDVISXhXN21naW5vMk1TeHFramhTRWhwY3BMdXdPUldEWDk3cGlibVliUkk1dXZudUVNUzVubXdGTE4td25SbGtaWEEzbmhETV8zdjE0UFA5STljSmg1MlJlcUZlYw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T05:48:29+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold, silver prices rise as traders pare bets on October Fed rate hike",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR0lNQnYyQ2loRU85T1QzbW1WN1ItSmhTZmVhMV9wZVUtNmhKNFpsblVMZWp0V1NwMmtHNmJYbTdDYUJRemI2UTF0NTgtV1NlZk1QZ1A5R2ZSamk0U1l2OEl2Qi1xM0hnalQwZld6cUdsZXE0NFlYVkdEcldmXzZ1R2M2RElhaU5KYUIyVHN5YnVVTmRhLUREcVR1UUE3UUxWZkJrNEJud0dTRHZkM3czdzdON1VDMkp1dUVOVGZqZGlkckdqTW11OHM2V2lWa0NvdmxrTU1Fa3pNR0XSAeABQVVfeXFMUF82RWFqaC05dC1POXc5VHZ6ZFZFMXFOaW50eGpJWUNVdFY5bmlvVFhrcGJDTFZ0UXowcnRhUG1fUHZJSXFvd2lqWkJmT3J5SXIzTkJmUUZ2aEtGaEFPZnFFN0FDalBWZjdDa2N4aW4waTI1RVRkQUNrcjhaY1Q1OGhEUndpUWttTlZvelE3Rlc4WWNQSEw5cFcwQzlocThuRjBDZnZjb3N3cFMyTDZYUEhlN3p3d3JxVndTcUxaMkR2MXcxN0JraUE2RVlUNTZIVWxZNnJ0NkYzSEZFVURJeno?oc=5",
+   "src": "Business Standard",
+   "t": "2026-10-19T05:46:19+00:00",
+   "tags": [
+    "gold",
+    "silver",
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Did Mutual Funds Stop Gold Investments? What Investors Need to Know",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/did-mutual-funds-stop-gold-investments-what-investors-need-to-know/videoshow/135040974.cms",
+   "src": "Economic Times",
+   "t": "2026-10-19T05:41:55+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Indonesian Rupiah gains as Fed pause odds hit US Dollar",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaDFqM09YZXBLS3RmNEhQZGV3LXNfT0tqcWlNMVJmd2JTdUx6S3QwQVk2cVl2NWNnWEZLZC1fX25lVGhpdnZ3b00wZjFKRC11X3NKMTFrY2gxRG1jZVRHbFFBM25fVjFMSlpfOEQ3Z0hFRHY0MndmUEdEQUlBT2dZWGU0b3NSVFQ3d21sRjZ4NnlpeldFN2J2OUVuSG1LUDA?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T05:34:20+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
+   "url": "https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html",
+   "src": "CNBC",
+   "t": "2026-10-19T05:29:51+00:00",
+   "tags": [
+    "usdjpy"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Dussehra Stock Market Holiday: October 20 or 21? When will NSE, BSE remain closed?",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY1c1Sm12a292TXIzWERIZThDUVU1dmVPWEhCZVIwWWlNNmpqZm5XSG1XcUdtSFg5Vk1teG0xa0lmRm1ndkh1RGlvT2NjMGlJemZ5dlA1Y1JxbHBrdzRxSy11ODNvSTJBYVJIWVJzUzZZT1hrTXBhczFQVVR5TFpyM1ZYd3NyME9FZFl5cFUteS1ySDBvMVhlZVY1NGgxd1dMVjY5c3gtaUNVc3VwN0p3aUJKdDlZWFp1NjM1Z1ByV2tyaXpfdGVTSGljWHBrMnJfRmtXc1JGVkpCQzRJMDRFeWhjTW1zcnhJcVBjbkdPMmpTUW44dEIw0gH8AUFVX3lxTE5LallrYjlBYkZHSXFSUkVJRTFLdHp3MnlUbEJYT3p2aWxwdEZvOXJXLWlzb3lGYzAtZ1V0S0F3VXN0Z1Aybk9ZRTFoZmo0VFhCS18zdTluZkZjaDhkeWJnd19INnF4bHltTFhIOFVFNzJyVFAtUE9QOEV2UUhWZTNfa3pXVUk3R1pwUUFyX3pxWWMzR01feXdNNVdDTlVPZmJzVko4UWVLNEtnM2JqZURaM0NuYXhibFBjOGxzYUNzdmhORjQ5OUJiYzN4WHBpSGVzdlpSZGlBQXFnTTJmOEw0THZUQ3lZSWNNTjdTQmJIcU9KZW9uR2JlU1JFXw?oc=5",
    "src": "Moneycontrol.com",
@@ -129,14 +211,15 @@
    "tone": "neutral"
   },
   {
-   "title": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JVnBSTjI4Y21rVlR6Y1laVmg1VVJKQkNKTFh0ZXlrQWRrUUtBbWhUMmJlVUZXYVFmY1NEM3BaaU12ZHBVdWduajRlMVpFZTBiTDNDVnZxZTdJQ041V1J3clNKc1ZNRVJweC11MWpNWnhidHfSAXhBVV95cUxOUWgzZ3hhZUJVYXZRMWFFOWc0UjJrOGszMklNdzVidTBrb3ZkWG5PQW5nQUQxcVU1RS1sTkZDZmlHbnVwRUprN1UxZlhIendadzduQ0V6bXdBemdaYTdBd25rTURiNnl1RTlZdVM2ZFBybmFmZXVvWVA?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-19T05:29:23+00:00",
+   "title": "Gold climbs as rate hike bets fade, putting explorers in focus",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3U1WDZBQks5ekRObXRZUkQzcU1GNm5TNVdUZEREU29HWnI0OVQwWEQzNEc5S3BBUnZhWU9xaFp5SmNReFF1SktFUmIwQUNZV3pIR243T3J6bHRkYmdXLXdQSnh3V21YcnhlRGtOZ3Z3YmkwdFgwUkdiQWhYMmptWTdtTDV0eXBBWGlrMw?oc=5",
+   "src": "Mining.com.au",
+   "t": "2026-10-19T05:26:39+00:00",
    "tags": [
-    "usdjpy"
+    "gold",
+    "macro"
    ],
-   "tone": "neutral"
+   "tone": "bullish"
   },
   {
    "title": "Easy exits hurting Indian stocks: Nirmala Sitharaman explains why equities are underperforming",
@@ -230,6 +313,16 @@
     "spx"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Dow Futures Rise Despite 'Black Monday' Calls: Market Commentator Says Selloff Worries Are 'Overdone'",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS3VLSkJSLV9RdzJsbUxpNkVsa2pzRi1tNVBQRmc5ZzlEYU9LeEZzcXVCTHVpYVJwWlFPcHVTMVdlb3VzTXZyeU92Qmp4OWVCdzUwNjhEZl91bVljaHJDXzRGTWVyelRHZmJObTY3cEhNQkVWTzU4d2d6eE5jSm9lOUlvbVVPQQ?oc=5",
+   "src": "Yahoo Finance Singapore",
+   "t": "2026-10-19T04:46:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Gold rangebound as easing October Fed bets clash with firm December hike pricing",
@@ -366,6 +459,16 @@
     "nifty"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Kusumgar Ltd. Share Price Today - Kusumgar Ltd. Stock Price Live NSE/BSE",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YbUxkTjFQR1BSQjI0djNhRUhqTDY4bnZVSWJQN0tpSVB6S29sNnAtdmJuYW5CZGVQTUFfR3hpd2tteV82WnRZQ01aUlllVnVlaGFybnNJQUpTd1FfRGc1bkFqQWlxUDQyYnFoQUEzMDZzODkxOWdkQnE4OA?oc=5",
+   "src": "CNBC TV18",
+   "t": "2026-10-19T03:47:00+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Bitcoin jumps to $82,500, stocks rise as China GDP beats estimates",
