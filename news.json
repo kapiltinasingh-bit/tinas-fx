@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T15:49:17.267541+00:00",
+ "updated": "2026-10-19T16:13:46.231076+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,31 +48,31 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "CNBC",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Moneycontrol",
@@ -108,7 +108,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Amazon says its AI chips will work with popular coding language, challenging Nvidia",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-nvidia/articleshow/135051867.cms",
+   "src": "Economic Times",
+   "t": "2026-10-19T15:52:49+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Could Bitcoin's Next Big Catalyst Come From the $300 Trillion Bond Market?",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX1Eyc1dxVS1LcXdidGgta1lJN1ZndTFzMWJuekRFTkxyMFhlSTlEUWdsU19ZODNsODBESndLcHZ6aVFNZURyTllPSWJpZFFPSlJiX3Z2bmlpcDBoY2JqZjQyTTY1dnZUeG5TNzNaTFhPbXpMc2l6ejRsLTRXUVlqelNVSHVMMXVTMDVZY3pHUzRsaUtSM3VIWUZTbXNiMk1nZGFfUk9pQWFSekhCNGlYTVEtcFdOd2I1dTJYcWhtX0VSeGNvY2loOGp5VFNqZw?oc=5",
@@ -129,12 +139,32 @@
    "tone": "neutral"
   },
   {
+   "title": "US Treasury yields nudge higher as AI fears ebb",
+   "url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-nudge-higher-as-ai-fears-ebb/articleshow/135051546.cms",
+   "src": "Economic Times",
+   "t": "2026-10-19T15:21:19+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Bitcoin Analysis: BTC's Price Swings Are the Narrowest in 2.5 Years. What Happened the Last Time?",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZlBDNXFFaWlPdEZsWVNrREw3YTJVdFlxUldIMjI0RGd2RXFHOU1nT2NhYWZFM2dBTHZkejBNUk1tWnZzNU5PaGtheVFtd1FDZHdzNDZEc0R0OEFIdlZVZkZLRzVQdENGWkRIaEhLYVI0YXdQT2JSZTcyVnFRR1F6cjY3cFJCWENUdGtxY1RXR3ZkMHRuOHlVMzNSbzFNaGhtTzBGSldmYXhMbUNmaDItZ1QwbVZ3ekhGb0lfS3FjbE1hc0hjNUtXQjBxbUlnZ1BGS0doREdjUWNadnJFWTVUQ3hyWnYtS28?oc=5",
    "src": "24/7 Wall St.",
    "t": "2026-10-19T15:00:00+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "The US Dollar fell. Gold didn't rally. That tells you everything",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkxxOVJ2QVV3TDVRcFdXQnZONnhBUUR5aGV3SEZINWhkdS1qck55ekYyVDJpRjdMNGZvY0V1eXpkZktyNXBuWmFpaG5RT0Q4d2kyLTVRT2dNUVl5VlJaaWRlTjUwOXJ6bWJjTHBGdDRpYXVCdUpUR0tzM1EzVncyYUJfZU02V0RTY0s5aTVfUUl5MUZBYTU5YUIwOGhaTjRrSzhKS1dxbDhBTndj?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T14:59:28+00:00",
+   "tags": [
+    "gold"
    ],
    "tone": "neutral"
   },
@@ -289,6 +319,16 @@
    "tone": "bullish"
   },
   {
+   "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcVZSc3AzamZnZTJIcHgtT2JvT01kRE1tU2dZMWt3M2R6U3JvczlHLU9tUGJYMVh6MVNhRmtfVUpMWnFuTlFCZjRDUnRSalotazJPUFFaam1HOElwbGhlR1JYczVwWElfRjhMenJHTzJwSDQxcm0wcjR3ckFSVC1zSTlPTkRVM01vXzhpdnlxazJicEprSXBLdWtZUERMajZURElXQ1YtY0RPWWtId2s1ZjBxcnF4dm9FNUx6Zmp4SDZ4cHVXbUE?oc=5",
+   "src": "CoinDesk",
+   "t": "2026-10-19T13:30:38+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Strategy Buys Another $22 Million Of Bitcoin",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLXZTSTJaS1RzeE9MR3MzX1VnRTltb3gxTnN6T0RVUF9YNnN2SzJKRngzSkl5U3V4VmlXQjdETy01cG1qZUhMMEJLaHlyRGhWV2VESzlrbnR3bVhGZVpsY29zTGlLa0QyZnljLTh6T1JleTF2UXdaZFVuaWxzUFpkZXUtSGk1RW85TDBZOU14X2hFV0tQZHRkLVVpZm5BQQ?oc=5",
    "src": "Yahoo Finance",
@@ -350,6 +390,16 @@
     "macro"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Euro US Dollar (EUR USD) Forum",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JMUlRSVliRkxyaGkxbDJxVVNYeUtUYVlnYjIwaFlzS1ZwUl93cFRfclctbWlBQmJ5RmpEbXNUbUV4SlNYQXNib1AwSXN0WjJNd3NvdnJNdDF1ZUhLdFZaUFYxQWV3dw?oc=5",
+   "src": "Investing.com",
+   "t": "2026-10-19T12:30:29+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Here are Monday's biggest analyst calls: SpaceX, Nvidia, Apple, CoreWeave, Amazon, Meta, Eli Lilly & more",
@@ -763,6 +813,17 @@
     "macro"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Technical outlook: EUR/USD, GBP/USD, Oil [Video]",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzVLbTlJQzM2b2JtODM1cGw5aXdGTmUyZEJnV3hWcHY5RzVIUFJkWmp2SVJuckphU1Q2d1pVa2x3bVAyWDRSNjZyMVdpWVB5SnBHeDdDNFk3YkNNQTgtemU3QVNTTHFvcVpsWUNIbVNscllpbkJVVGRrcnRLdzdPNHY5NWQzYTkwLVR0ZWlvT000Smdu?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T10:09:36+00:00",
+   "tags": [
+    "oil",
+    "eurusd"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Japanese Yen: Mild upside bias against US Dollar within range - UOB",
@@ -1319,16 +1380,6 @@
    "t": "2026-10-19T06:25:14+00:00",
    "tags": [
     "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-   "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
-   "src": "CoinDesk",
-   "t": "2026-10-19T06:23:16+00:00",
-   "tags": [
-    "btc"
    ],
    "tone": "neutral"
   },
@@ -2129,6 +2180,16 @@
    "tone": "bullish"
   },
   {
+   "title": "US Dollar Weekly Forecast: The rally stumbles, but the Fed holds the line",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXF6MFhOSlQ5NXdJQU1wN1BtMkx1c0VmUmZXZjNrWi1XTHdDQnlxalVJaUxLWkNJN05JclI3RTRpM2J2akpMLUt2NVNRWTZ3WlowcWN4MXNJeW9PelMzWGtldjJjdWVUZnlWdHByMHlWUVRmOE8yWUVGLVBwaXJrT1pwejVIMDdoYmpsdTVyMWJLVV9zb3dXd3JvNU01bFJueXMxWkJBZWp5b2NzSGl6NG9B?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T01:11:00+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "WTI drops to near $97.50 as US waives Russia oil sanctions",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3V6d2QzZmhCeVBvU1VwMlB1UTlGWkY1MFh3bDNpb29RU1BVc0VhN0pYWXFPTkI3Q2JTTHd6WTZ6VXljVGJVTEExY3d1TGZNNlkxVk1HYjdVVlRQVnhPalFRTEdyRFZ6UllJS1dlMmxwZmV4YmtjTFU4SXdPOEY4a1kzRnhURzYxTlU1NW4ydlZESU9UUkRsOWpXbFkzeWJ6?oc=5",
    "src": "FXStreet",
@@ -2651,68 +2712,6 @@
     "spx"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Oil lifts Saudi bourse; Egypt tumbles on regional tensions",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdkJ2LXpMXzV0dEQ2b1NYcm9XT1FZMTUyZUlVQlZaZ2RYNFhvVFlnVFRJM1RJTU5CNzlDNVdKTmtzX2E0S0xvV2h6UEpOWFJtUlNGczZxeGR4a2NYQlU5NktIN0JQbE54SlRaS3QzRVVvWUdSRGpqWmNYWXlQSWtMbkM2R3lnRWtERTVLcTNadXMwbGxVQm9GXzVLRmVpZDY1OFFDVmI1ZlM3cGVZ?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-18T13:51:43+00:00",
-   "tags": [
-    "oil",
-    "dfm"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Analysis-Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom",
-   "url": "https://www.investing.com/news/commodities-news/analysiscarneys-pipeline-push-is-unlikely-to-bring-back-canadas-oil-jobs-boom-4955902",
-   "src": "Investing.com",
-   "t": "2026-10-18T13:36:16+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Shock Leak Triggers Sudden Bets On A Massive Bitcoin ‘Bailout’ Amid Price Crash Fears",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0VXdExqeEhJLUdMN1FqYjFKcGc1VTFlalRubDBkSXRXWTZVVVk0bmpOdkVnWTE5TFl2bnNBclBGVWZtYmVxUkJlRU5rbW1xbnZKS0VkcXY4NHVkUzRTUEx6SDJxNEZjNWZnTW9kVEFWV2hMdzN0dHczeUd4ZmFveThBd3pLSDJKWXdUMlFNZENhZlRodnhZMk8yUVpqVmJscXNzaTYtblF1dEhsZS1FclNnWlNhSjB3S0E?oc=5",
-   "src": "Forbes",
-   "t": "2026-10-18T13:03:37+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin’s path to $100,000 splits analysts as rate risks loom",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNHVkdW16ZXYyc29pVlJldlV0U1dnUks3anJGbU91WURXcEdBNVlBbWFrMEk1b21aRjVURWt0aXpNdTVyYlhHYzNmYnlkMkdBZVY4UkpNME1vV1NSNV9ldW1zOWQtTUZFTVk5MzRqOEQxT2p1S2hJa1g4OFVzX1RrTVFfRnRvRm5wNkJUYkJjVlFLb3VKaGhqMG0yRW5VLXJpdjNVejEyZGZ0eUR5aUppZ3V5Wkx4QnJIOTFza1NQM3Q?oc=5",
-   "src": "CoinDesk",
-   "t": "2026-10-18T13:00:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
-   "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
-   "src": "CoinDesk",
-   "t": "2026-10-18T13:00:00+00:00",
-   "tags": [
-    "btc",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
-   "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
-   "src": "CoinDesk",
-   "t": "2026-10-18T13:00:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
   }
  ]
 }
