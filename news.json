@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T19:41:23.121650+00:00",
+ "updated": "2026-10-19T20:12:17.004039+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -54,25 +54,25 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "CNBC",
@@ -118,6 +118,26 @@
   }
  ],
  "items": [
+  {
+   "title": "Why the Treasury’s financing plans are sparking anxiety on Wall Street",
+   "url": "https://www.marketwatch.com/story/why-the-treasurys-financing-plans-are-sparking-anxiety-on-wall-street-b49b5e17?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-19T19:45:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Silver Price Forecast: Weak rebound leaves $55.00 exposed",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOalpMb2tQamZCWUxnYmlRaWdBVDlFVVZ2Z1dEbnd2T2ttNk5fUnJMa0JXODZwRFpKVDNOUTVCdDVrVWZzYXBZQ3ZuMjJrSzhfSktTQmdJSS13Y1JkZkNFUzhFLW9pMUh3SzZPM0hKU185YlZNZ3hzWlpWbW1OZHJDaXhzMzVSZXJtbGoyakZXVlE4TTFFcWF1VHBqOTlEdw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T19:35:13+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "CoreWeave’s selloff is a lesson in ‘Finance 101’ — and Wall Street says the stock can recover",
    "url": "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories",
@@ -168,6 +188,16 @@
     "oil"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "TAG: gold price prediction 2027",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LcnBvNXM3UE41VWtvSmQ1SmlXZ2tpUFdGV3BXaEZhNTBiNnlkTHN4UkQ5Y1N6amhhS1FrNHptbmpScXNIVTNDblgyamQ5T2lqR3pvRUdxUXdSU01OU3FLVlVGUzh4OGZy?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-19T18:09:01+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Dakota Gold funded to shovel-ready as Richmond Hill targets 2029 production, Robert Quartermain",
@@ -428,6 +458,18 @@
     "eurusd",
     "usdjpy",
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "‘Short the dollar’ and hold gold or Bitcoin as inflation erodes wealth – Ledn’s Leeds",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeFJKY0FwaXNCTUZhYXJOSTBpa1VMZkRzMzhQb0VfLVlnQnJNN0lmSTNySzQ5OEVGb2YzMVl0QXF0cklqM0RQQUFtNVRfQzRYQm9SN3dhdlEtRkRJbjdQQmRqYXdnS29hMTlsNkhpcU55Tkh4NXVGMUF6NjJGdTNQVTUyZUp0RE96Q25mNEpMNTRpQlExYU5UaXN3dTZXTnRZbWlYZkVmdkRVNGtKVm5OTjVmOUVTaU9hLTBj?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-19T14:10:28+00:00",
+   "tags": [
+    "gold",
+    "btc",
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -2676,47 +2718,6 @@
    "t": "2026-10-18T22:36:08+00:00",
    "tags": [
     "usdjpy",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Check out NVIDIA Corporation's stock price (NVDA-CH) in real time",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12bDA2TmgwVjRUR004Sl9uR0dIUmFWXzF4UWZXQmhIeUp3R2xQd3FxTWEtd3RrNF9ab3FoRGFGSmJZQkxCeGNEMFIyOA?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-18T22:34:13+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Check out NVIDIA Corporation's stock price (0R1I-GB) in real time",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVbkZvRXREYmwtbVRiVHQ3dWpRNlYtdVdEOXFKWVpFUDJTWEQ5b0ktS1VUdUFzRFg1MHpqay1lOFhuQ2V2RUxVcG54Yw?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-18T22:34:05+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Check out NVIDIA Corporation's stock price (NVDA) in real time",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5oYzZvTnBzNElXWTh3SERGby1VMGVVWFZTekRWQk5WcmVwZjFWcWVBMFZyWll2NXdXQlRhZzR4Ym14dml4WmJ3?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-18T22:34:01+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Weekly column: Surging inflation and the Pluto direct tech wreck in the Nasdaq",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRVZ6RzZsYm5COWZnMVVCRnJuYjYyRl9QM2RYVHN5RmE3Ukl3X1JHZHRxZHVLZUQ3bTBvSDFzSXU4WnQ0cXB0cEFxRGdKdEhHOW1KeUxHX0Z2S1d2ZHdxOFpNSWM5aG9OMjNFX1NidjVhOUk0bHA3UVhvTjNub2FkcWZ4TkRaTFNfMV9fZENjcEllV0RMT1BJV1BaN3NhTjZvMUhOOE40R2pxNkQ5TGpFaXNBSkRwRW8tdnkxOWVkVnFVUQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-18T22:27:34+00:00",
-   "tags": [
-    "nasdaq",
     "macro"
    ],
    "tone": "neutral"
