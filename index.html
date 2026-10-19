@@ -1155,7 +1155,7 @@ function renderSignals(){
   plans.forEach(([m])=>(m.signal.windows||[]).forEach(w=>{const key=w.join();if(seen.has(key))return;seen.add(key);const[t,on]=winState(w,m.id);
     const d=el("div",on?"on":null);d.append(el("div","lbl","When to trade · "+w[0]),el("div","mono",w[1]+"–"+w[2]+" GST"),el("div","small "+(on?"up":""),t));wh.append(d);}));
   const lh=$("sg-list");lh.textContent="";
-  if(!plans.length)lh.append(el("div","panel","No full trade plans are live right now. The desk posts new ones each research run (07:48 and 15:48 GST, Monday to Friday)."));
+  if(!plans.length)lh.append(el("div","panel","No full trade plans are live right now. The desk posts new ones each research run (four times each weekday: 06:20, 10:20, 15:20 and 20:20 GST)."));
   plans.forEach(([m,k,x,dir])=>{const s=m.signal,c=el("article","panel sgc");
     const hd=el("div","hd"),h=el("div");const t=el("h3");t.append(el("span",dir>0?"up":"dn",dir>0?"BUY ":"SELL "),document.createTextNode(m.name+" "+(m.pair||"")));
     h.append(t,el("div","small",(s.setup?s.setup+" · ":"")+"Posted "+gst(s.asof)+" GST"+(s.valid_until?" · valid until "+gst(s.valid_until)+" GST":"")));
