@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-19T17:19:43.390096+00:00",
+ "updated": "2026-10-19T17:54:24.765892+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -66,19 +66,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "MarketWatch",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -102,13 +102,13 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 6
+   "new": 7
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,47 @@
   }
  ],
  "items": [
+  {
+   "title": "Dakota Gold funded to shovel-ready as Richmond Hill targets 2029 production, Robert Quartermain",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbi15TWxqU3AyTFljVTJwM1pQcUc0eE1ZTlNlR05Iakc3ZkVjMG04NjFQZGduUXk0NHM0TnVUTFhudl9ER3dOb2J1ZWNBdTR6WUlOQ2tka1ZSd1BQOE4zeGJ4TFlLdkV2NnNYSHJ5NDRMdHotQUxrTW1FX1NldXpjam5oSENnUk00bjF5VXotb3hPWW0xOGNwbG1CVXFPTE40LThpWWs3dEpMeVJpWU51YVUzOTRCeG5S?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-19T17:50:04+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back As Dollar Rebounds",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWnJoM3BOMXJpRUpvZ1N4SVF2a0J3Zk5DelY3UTRfN0l6VGw2Vl92NjRZRnpVWVVRX1Q3bTdFRFIwanRYZms4UWFYZW9PMDVhZEJFUlBmLXJvTmZRR3RQWDQ2Y2x5ZHdvcVZ2ZFVDR0hPZ19WMGpZdGVBTGp5MnVZQWMwQkdLcnRGLXlFNkxGMlhld2ZsQ0oxX1B3UUduY0xXZ0JycGJqLUd5TUswa2JrS3ZNclR5alQ3ZEVZVkFGUVhodVE?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-10-19T17:49:52+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
+   "url": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
+   "src": "CNBC",
+   "t": "2026-10-19T17:25:57+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Apple's iPhone Duo is proving itself the catalyst that Jim Cramer said it would be",
+   "url": "https://www.cnbc.com/investingclub/2026/10/19/apples-iphone-duo-is-proving-the-catalyst-that-jim-cramer-said-it-would-be.html",
+   "src": "CNBC",
+   "t": "2026-10-19T17:25:20+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Precious Metals Prices Canada | Gold, Silver, Platinum, Palladium, Rhodium in CAD",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5",
@@ -630,6 +671,16 @@
     "btc"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Digital Gold: Unlocking a $700-Billion Opportunity",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CRWVfZHRsd1hEVU5QcVRfaTJNTnYxbDhVeVpleEFZR05rUW41bG9pZUZGS1dVeVVqWllIbmw1SENnWGdua1NCMlZyRHpyN3RWSWItSEVyaENBbnVBZmhhNkxOc2tlTk5HUl9SUVk5TzRkUQ?oc=5",
+   "src": "World Gold Council",
+   "t": "2026-10-19T12:00:00+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "U.S. treasury yields ease near 1-month lows; Euro spreads widen amid French unrest",
@@ -1295,6 +1346,18 @@
    "tone": "neutral"
   },
   {
+   "title": "Technical update FX, Gold, Silver, Crypto and yields [Video]",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHU0ZnBLWjNjdXY3VzlNZEc3SFBNejBIdzkzMkg1bDR3a2JpUGQ5N1BINU01MDltaF9CbTRNNDlNTnNEdmIxQjdNQjZrMkhkT0JZTzZOVklQdnlELV9XZlNfM0JRYXV2M2Y5SEZ1THBzUjVoQlZWU0E4MExCYlYwQXdHTE5wanpMSEdhajZfZnZKSS12VXZ5V0dEaEE4QVZiVmtwNg?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T07:59:18+00:00",
+   "tags": [
+    "gold",
+    "silver",
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Gold Rises Amid Falling Oil Prices",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZU5uN1haS1FQQW82aVdiWmxlbDJrMkszT091U2xWR3dGOTdBeVZ6Z0gzSGpqQ2ZNTE96MG1kckxxY2NVV0I0THpteE9lWGZTdHUxa01OTzJkUndWcVVRWDVZWHVYeFZPcm5VckhaZFBVRDRjcmgyRDg5OUJ1WFBlTlotVGlnekE3SVFDVkpFMHBQbTVPWmd4WTNSSTd1X0ZJNDFlUmVWcGxlSE5oWG1ENmZoYk1oVTdKZlE?oc=5",
    "src": "WSJ",
@@ -1520,6 +1583,16 @@
     "gold",
     "silver",
     "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold Spot/US Dollar pressing against 0.5 arc – Potential breakout toward 4,277",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObW52R2ROYXBlVjFMd3NLZUlWZGdoR1FpVkV5clQtVTZ6VFNkVDNYZ1JLSmJvVlhDcGp3S194LTB4UWl0dW1GdnVnSk9kYk5RQ2lmdnUxcmZMU2Rwd3NoQUlLWFRVWGdkLW5vWlBfRVZ3Nkp3RFp3VWtoelZfRm5odDlReW9jWGN2WkxYdVBIczU5b3FGLUN6emc1cTFqVzF0Vnk5cGVWanowWkxqM2gyMWtQUGNZSVQ2Qjc5U0pQaw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T06:17:50+00:00",
+   "tags": [
+    "gold"
    ],
    "tone": "neutral"
   },
@@ -2644,79 +2717,6 @@
    "t": "2026-10-18T19:45:45+00:00",
    "tags": [
     "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US dollar strength masks growing disconnect with Treasury yields",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVFpxTXI3cEN0ZG9xWmRxa2MtU0dZZzFwRXhTQVZXeWJwV2pyR1ZIWk1TMzFOUG5rTkhSTDlrSm1pb1BfTEJ6R2diWWVka01aMXdISjNCRWt2UGxuZ3FSQURaNTRXQlJfUVkzR2xvN1RJcDU2bVZETDYyU3JCMUhnWjBoQ2J0TGZXb2EwX0VXVVJsWURqZnhVd2J0UkNwOVNORGdydDBGMnhIOENvSmtLLQ?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-18T18:32:10+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "The White House's crypto chief departs: State of Crypto",
-   "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
-   "src": "CoinDesk",
-   "t": "2026-10-18T18:30:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Apple Keeps Hitting Record Highs. Bitcoin Hasn’t Set One All Year. Which Is the Better Buy?",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNME11cGtjc0dPZDBkbkhxYkxaUFkwdktZbGpzY1VkZjBISlRWZ24tSDVMSExoSDJ4eGptcGdOampzZTkzR0p0dTBZWHNqRlJnS0l3VkVkY19DakttMVVkMEVlUmtCOWYxRXE4Y0ItN2tONGxJbGVnZXI2SzRMRnFBUHFBYXBYcFdyb0tSSEI3WURreEdwbHBhMnhHZ0FaWlRaVFViZno0Q2U1T09IZWlkYVRNUUc2N2g5cWROdHBleEpLa1FDUW44bmVUTnFsNndDTDVOT3ppSXlXejBQYV9B?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-18T18:00:00+00:00",
-   "tags": [
-    "nasdaq",
-    "btc"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Dow Jones, Nasdaq 100, S&P 500 Outlook: Top Catalysts to Move US Stocks This Week",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM2FSOGlyTjN2c1NmUEFJc1RiRmVXcFA3SEFPdG0wdFk5Y29jUTA5YXRBSmhGQzhyTnpvd0w0S3hUMklFWUJVaXlQUjA4TkFsdERGejYwUmtJWjFqV0RXczJCOU1IY3d5eXJFX3BVSVJTWlMxT3hqazdIZy1pbmVNR0NSUXdYZ2Q5aEFVM1VfZE50R2JHbnY5SjJSVGNRcllQUmlFWVFNQjhvaVJvRldwOEdYZ0h1VTNiZVVLZVVWTmNDWkVrbEE3YVBCNzJnY3BVWmltVQ?oc=5",
-   "src": "Benzinga",
-   "t": "2026-10-18T17:45:23+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmVDUVQyZjhnbFN2MHQ1MHVPMHVpLVVsUFE1aU44Y2QzMUx2a25MRXR5OWtkTGd5RkViaG9fM3lZcnFHblYyT2xMeGZ3MHI3NkFjQ0FhdWFVRWlmdHlPRDRFRVRsclFpbUExakpiN3Z4aGMtODdDb09Mb0xXbnIxdU04ZmQ3UTEyTkhQd2EyMFhDNzQzYVgzZG9FeDlNYTJTanNOOThVSGRTb2RnRWdCajBVXzFMcDB4MWZpbXR1STMzZ1JaOXRr?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-18T17:19:48+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnJwR3hJZTBhVVpqN0J0a2g0SDJHd29HWDIyUS1ndXZfOXJsTERSMnExTGlaSnRKN19ZYVRqdkh3bk5NNW16cG9tVks2NUE5eGl0VkQ3eXEyLXBWVFFNa2plZGpYQ3M3OE4tSENJZ2dRVWdHcFJCLXY5OFBBek5KTWNGc3RsR1VIV09kUHo2NTR0dw?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-18T16:52:52+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
-   "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
-   "src": "CoinDesk",
-   "t": "2026-10-18T16:33:00+00:00",
-   "tags": [
-    "spx",
-    "btc"
    ],
    "tone": "neutral"
   }
