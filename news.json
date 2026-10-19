@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-19T03:10:18.894988+00:00",
- "count": 123,
+ "updated": "2026-10-19T03:41:35.161618+00:00",
+ "count": 132,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -54,7 +54,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Moneycontrol",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Investing.com",
@@ -114,10 +114,87 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 2
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+   "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
+   "src": "CoinDesk",
+   "t": "2026-10-19T03:36:58+00:00",
+   "tags": [
+    "nasdaq",
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Gold and silver price today, October 19: Check rates of 24K, 22K gold in Delhi, Mumbai, Kolkata other cities",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTnZ1WTByUmtLRXFVQTJSRUFiOV84anVqeDVyX2w2STNRSTA1R2Y2eDBHQjFhcWhkdnVnbUQ4UGhFYS1yTGhPUkFjUm5MMVVSVVRUc0VBLTN4cVNuYVRuZ2tRaUFqNXJ4NjVlWmNxY216emF1VFFwdDdwZy1zdFU3TmpsdEF6YTVmS1pDZ2pFaDJ5YUstUnVZTTY5d2w4WFpQVDhnR2oyY2sxTllpTW5iM3FoNlVrV0tGTlBUYmVaT2pDa0VTRTZ0Y1dzWFhnc3BRdDQ3TXJhUTNpZ19QdWxEdUwwZ2hHeXBZQXpleWMzVGlXZUVkbGpNS2ZVbF93aXhTVDBLb1hucGQ?oc=5",
+   "src": "Moneycontrol.com",
+   "t": "2026-10-19T03:20:41+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC rebounds to $82,500 as ETH and XRP hold support",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQjJNZUllRlVybnJmbmMyRHlMbm40YjUzZEVnMnM3dHE2VHBadU9KdmVaY2xFY1lUaEUzZUZqUjNhMFdTdHpIM0lyU1l1eF85QUZwRVJXXzh1WERXaks4V2ZfS1FTUDlBVTN2a3lGTTNIMHRhUVlLUkRxbEVCcnJ6NWhYallvdFZic2pLQzd4Z094YXBpenZDdF9nSk1lSkJTSDQ4ak5lZUp0SWVFYVByVzZSaEVhN2xscV9kZWFkZFoxV1h4VE5QLXNtaW9YQWNrSHYzV2IwQjJ4b3oyUllIS21rQlRnSHd0LUZkSEJkMA?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T03:18:24+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Silver Price Forecast: XAG/USD gains above $57.50 as Fed rate hike bets decrease",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbXIzNGVlYVQweFNySGZ1Z2xmY0JONWlYYXlRaGZKeFE1WFFGTlVRYm9NYlJQdndFSUYwMmRRX2Q0UlpwNlF0Mmx3WXlVdml6Y0ItQkU4T1FGZEtIOVpURk56YTB1ZUNBb2hHTjZhR2xXa3BVdlV6aEhwbHV5OEMyVjZIampqRmYtVkYwQm1wQnBnb0JGWEtRaEtxT2hYLTZVaDJuYTE4RmgzWTZRMHZGUzVhSktwOEVnelBfWg?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T03:16:50+00:00",
+   "tags": [
+    "silver",
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Gold edges higher on softer oil; Fed rate outlook in focus",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHBoaXFtRmhELVpxR3BOYzNDX3IzS1Y1UHZaZUlWRnBiY0Y3WWxwa19vSlVRUENyTGtpZVJFSEFSLW9hVWhEaktYRTVhVWpObTFOYThBVXNRX19VY0phaUJjSkdSMjFZQ19FUFZGMm44UnNpZkZGSnNCeUc2SFZ4c1ZZUU9lV2tiUk1odm44Wmc2WGVjSG5pYUU3QnE2NGYx?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-19T03:11:00+00:00",
+   "tags": [
+    "gold",
+    "oil",
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Gold and Silver Price Forecast: AI Funding Fears Fuel Rebound",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmRnZGpxbEducVItVG1QUU1xaDB6YkRMQXNfbUJadmp3TkVBSUtYbzhJVXMwMlFTT3YwRWZvQ2pPN3QyY1YtWUxMcWJlUnhOM2U1Mm5KYm9lZlFOeHdDaXZTblhscXVfVWMzdFFseHpUWHBpdGE4Z2QxLVhNekxRYldSMEQySzk2aE1JRjZmTjRKTEp3bzUwV1hNbDY3clhkeE9KdDEzR2E0QkVaU1dWSg?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-10-19T03:07:26+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Stock market today: Asian markets fall on AI valuation concerns, crude oil risks; will Sensex, Nifty follow?",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWlNUQVFmVlZwM3RjMFNGOUVuNk9BdDFjRVVGb3dKUkVaaWhJaXRkQmxKUUpUVkhFcGVlRkRwck9TR3JFZVowaXdCNEZ1aHFvV25jbUlkNF83XzBvTXVWYmdsOVhZQnBVNmlEdWlVZnc3OFY5eXdELVQ3MTNoLWFJdmJBdTZfYXlzS3IxNWZXTTNqUlpJai1pb24zeGNyWV9wTHgxTXowdTNDLVJ2QzROdHBLQ2tENjVnYlRLTW04UnMxRTA1SjBZbEVZUVhJRWFVbmVsZzV3dU9yQWgyTl8tQdIB7gFBVV95cUxQb1JDcWxJaUxJZlFmek9tcnVQVDY5a3dKeGwyYUhQWkN3YnFQYlZoUXBaUzVIWm0xbXp6cHpQY3gtZmV3a2drQXVadGNtT0kzYXNYelRlOVVGMjFhczVWaDlsVUljN0N3Y3dIQ1pWdG10aXVZWWlKLWIyS19uVjNoalhhdTB2bUhBN0d3T3NSRndMaFVIb3c1WjZ5MWhURHRoTl9oajNoUklVSC13ZkdfM05hMEswdUxDRlNOcHBwVWVfcEc5Y3EtMkdQdUFjVy1DY0xHT2R6M1dOOWprb05QUXBweUNnMTkySERYZzFR?oc=5",
+   "src": "Fortune India",
+   "t": "2026-10-19T03:03:58+00:00",
+   "tags": [
+    "oil",
+    "nifty"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "$4,200 remains a tough nut to crack for Gold bulls",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1BBZ2p0WVlHdXZ5ZEF4ZHBsTXM0dXMyZzBVTm5uQTlHaTQ1XzRkbDBVY2EtX05UQlNxWWFYcjBSODhwaDYteFFpMEU4ZW03UzZ0U1ZpOElfYllqaEw1dXFqdE9YUUp5amdhYlZEZTFVTG8ydHBqTGRtNVRsWjNJekV3MFhlZ3p6bEpHN0ZKZUlTelB6OG1JM3BaT3Y?oc=5",
@@ -125,6 +202,16 @@
    "t": "2026-10-19T03:01:53+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Oil, foreign flows in focus for rupee; bond traders eye rate-hike bets",
+   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/oil-foreign-flows-in-focus-for-rupee-bond-traders-eye-rate-hike-bets/articleshow/135038371.cms",
+   "src": "Economic Times",
+   "t": "2026-10-19T02:56:35+00:00",
+   "tags": [
+    "oil"
    ],
    "tone": "neutral"
   },
@@ -658,6 +745,17 @@
    "tone": "neutral"
   },
   {
+   "title": "S&P 500, Nasdaq, Dow and Russell 2000 For the Week Ahead",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVVNCRlA3SmFoeUhiTUhGZ3VMS3ZXYXNiQlVZT1N6VFF5bENqTF9LWnlmTldBaDU0akJGYjRwVkZoMkpHVFBIQWJ6aG5fSUIzS0w5RWlxYURMRFV6YXE0eldLUkgtbHMydDFUUW92SXJXRVRpQ0JPTFd5SXVQY3laOUhsVHRKS09lNjJjVktqWWpVVk13NC1RZlJKOTh1ZzRVdDZhSldR?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-18T20:13:19+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Ethereum Price Prediction: Can ETH Get Back to $3,000 Before the End of 2026?",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYXlIam5YSmgxbjF6dnRHSndYTmEwYXVHTjgza0RFT1Bxc1pGTHJnVkNYd1NiS2xwQWZVaTgxN2RTVlE4am9XQUFPWTZNNnpJZUZESTdBNWZzTWt3ME9SV2JnM0NmMWJfbUNPVWM0QUlPcTFDVTF3Q0xpc1p6b09XdFJUaGJuX3dLOC11ZUhYdXRlTzczOHVYRl9YTDFFU1BLOGdGcU5jZ3ZBSTNuV21QMzFVSjIwdTVLclk5UXNJb0haLTRSUVc5bTY5QmI?oc=5",
    "src": "24/7 Wall St.",
@@ -1036,6 +1134,17 @@
    "tone": "neutral"
   },
   {
+   "title": "USD Sets Fresh Yearly High as EUR/USD Drops Dramatically, USD/JPY Stable",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZFZqMlFMWmRwMmxjUGtxTG5GM2RNT3ZFY05QRWpwOWdsNGhYY0JRSFpJLUVYSThqOG52ZnFNT1FNdmhDTVl0d3gzWXUyV05uR3V6bFZMSFJmeW5HR2JBc3RBN21CQVpSdXFGZzI2SmdNRGpMWUZoZ1lTMHh1eXphUnQ5RG1MRG5MZ1p2cHlCVWdhUGNEVm5MUDZQR3BJRlJtU2V0Q2ZDMVdIQkk1OWhzS29ieHRzcjF6amfSAcYBQVVfeXFMUG9LalQ3WmNMay15YVhFWXlYVm1aTTdzRlZiNmRGMEFtRTMydEZNako1VkMwMVFkSnJOOFRaTkw3dHVfbmFlTmdZX0FBbXdxcVlOYUJwZGI0Q3YteExQM2dlMndJV3B4LWtIQzJKZVA0ZHhiMmZkVnE0eVFEVFVsbmxkTTNpY09CSENpN1FsckpsSVFkalhHVHBSQjB4elNfaFVMWTNlV0V2VUhmN1RhSXRnZmc3LTZ5X090bGxiei1RQl9KcFln?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-18T09:22:36+00:00",
+   "tags": [
+    "eurusd",
+    "usdjpy"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "USD/JPY Update: Can the Japanese Yen Sustain Its Recovery?",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGdFSXlsZ3FVYllUZWR4c1ZDbkRVZkZSLWRVQ0tCY2hmRmg5ejU5bEFBRDJQaXVnWmkxcHhBdTNrSldqOTNGdERrRllhMzh0bmt6Y3ptbHhiMEdRRVJUQTBpd3lPSlZjSldaWjhRWnJpU1VyanQ4RlI0WTVWbGpfS0RRRVhCNEh3SUMzY3lvS3IwRklBMVItVzE3T2N6R1JsYWRBaDh3?oc=5",
    "src": "FOREX.com",
@@ -1124,17 +1233,6 @@
    "tags": [
     "nasdaq",
     "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "S&P 500, Nasdaq, Dow and Russell 2000 For the Week Ahead",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTTNLSjZCeUhTR0s5a0JpMmctMXFCNnpWOUY2b19Lc2xzcGNoMDBQYlktTzNTc3FCQk1TVGhQMXNheVNBM0VMZnh5c2ZaaHBJa2xIaTh0WFV1S0cxVGwwVHE2dG11R1B1cWtGYjRGTFR6V05tcWFsNGNqWjhlYzdBWU5tQ0NKNUZHLXlJSjdzTzFwbWpKbjh3MVRNeTNoXzRTLXpjMXhZbW9BOHdsWUHSAa4BQVVfeXFMT00zS0o2QnlIU0dLOWtCaTJnLTFxQjZ6VjlGNm9fS3Nsc3BjaDAwUGJZLU8zU3NxQkJNU1RoUDFzYXlTQTNFTGZ4eXNmWmhwSWtsSGk4dFhVdUtHMVRsMFRxNnRtdUdQdXFrRmI0RkxUeldObXFhbDRjalo4ZWM3QVlObUNDSjVGRy15SUo3c08xcG1qSm44dzFUTXkzaF80Uy16YzF4WW1vQTh3bFlB?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-18T05:14:31+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
    ],
    "tone": "neutral"
   },
