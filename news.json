@@ -1,84 +1,84 @@
 {
- "updated": "2026-10-19T09:06:59.182165+00:00",
- "count": 197,
+ "updated": "2026-10-19T09:44:57.424069+00:00",
+ "count": 219,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
-   "ok": false,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "new": 6
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "MarketWatch",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Investing.com",
@@ -119,6 +119,139 @@
  ],
  "items": [
   {
+   "title": "Bitcoin Mining Just Got 6% Harder While BTC Fell. Could Miners Start Selling?",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb1puWV9HTlZOWnIwVGZORDRVZ3lXVUtFSmFheUdaVVBEV29YYXd0X1R3QXc3Um1lLVRFano0c3VjajRyUmFWYlJpRVExUE4zM2xFUUQ1ZFVFMm9ibnplS2VlMWgwWHBoSmVNSUF1TlYtT0FudWNENms4alVSLThNQlQ0a29XeG1oYW85Z050dVhLYW1ZLWxKU2hJUG03MnNnaDk5U1ZhUDdFTFNkeGZMTFZxQmZNRkZDYmp2RjFLYnpOd2hWZXdfWEFFcG1XUQ?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-19T09:36:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Gold Price Forecast: XAU/USD bids its time below $4,200 in a dozy week opening",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaWR1ejhrTlJyT295cXBrNmQtdVZfYVVnODB1dElfbF9EUFRqT2xINV9ON1VBZmJDczJTMkNLM0pZbU1rMDZ6UVlQYjMwNGZ4NFZ1Yl9BcDB2LWJrQm5ITDhTTEdRM2wtSFlOVEtXbmNMMUJ6aFYyQnlEdFlMYUxZUzdOMXM2RDU0LUVCVEVOcWFGOWVuTnFsLXdPUlZaSlZUcDdhM1ZpTFUyMF85UjlNQWtGenljakt2ZFp3?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T09:32:39+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
+   "url": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
+   "src": "CoinDesk",
+   "t": "2026-10-19T09:32:38+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Oil: Supply risks offset reserve releases – OCBC",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWo3YlpqdVZsTXVyTmFQUGt2T3hsbDRCWWJRdTN6X1Rtbk5SczFIaHBZcEVsdlhwbTJXRkc0akxrb1VnSExXNnkwdUd0OGVUYkUtRjhsTncxUTkzSWRjUUhXQlhxWXk2RVFrNlZ0RkNBZTBHbTZPZnJJOTNYVXBwR1Jldm51ZlRiT090aHhRbXMyZw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T09:25:00+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Scott Bessent Links September Inflation to 'Energy",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOTnZtV29mRUFZenNNOGFrakpkUXpVWmVMVmo2Uk5LLXk0T0lNMllDNWUxMXR3SzBVVXNiNEdFbHBaQUpKbU5aSV8yRVE0Zkc0Y01pWFNDU2hLV2hLR0E5NjJTcjVDV2ZtZlJmazY1dkgtNU1MYjZJbl9HLVI2ZTVHM1VDd09sZzNqakNWM0ZFd0RpT3JEWVh1Z1dwUk5IVUppS3F3SHVMeHBjSTVIbzJsbjVYcVVzSmg0LU1nZTJyQ19TdDlTUGFpazNqODZiVXBqeHd3YTJBell5RERqeWNyWnJJUkZGN2RUYlkyNGZDeUxiNk5UbTZSamNxT2M4ajBQZlBFajl4NnVlUjdEWUZad28zZGozQU0?oc=5",
+   "src": "Benzinga",
+   "t": "2026-10-19T09:24:45+00:00",
+   "tags": [
+    "spx",
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Euro drops against Canadian Dollar amid wave of protests in Europe",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjdsbml0bTFERFNmM2RfX2RpZGZyeDR3cmZyWThMdXRuV0dzeXhjZmdrS1lHd2w1aHRyM1RFMHlid1ZIbl9LRFN5TDkzY3l0djItMkNOX1ppN1ZvR3JzZU5OaTB0THcyeWo5bjFtTTdVRERxelI3TkxDMXM3QURzXzhaRWpwcEl3MzF5blZyNGJMRWwzbDhnRk0tbGJJTjZGaFBFNmpMdFFVbGhGMHc?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T09:18:44+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Hackers Are Moving Stolen Crypto Into Zcash. Could That Hurt ZEC Before Its Upgrade Decision?",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVjIwRVItT25pM3JZamRydmh5LW1RLVJwWV8xZU5OTVpMcEJtVUhzU09iczc2NTh4T0ppeUNQWDNlMjdUZkNwWWNMdEJyUDN3TE0xZkxERlZ6aGJIbkZUQklZN1V5RGM0dXZnRE5nUXBjRjgxeWp5RHVkc1duZW5LTndxbjhtREhOQWhRaTlEeERJdGFjMGRzUThjbmVPRWlfQ1lvMkNaSVptajA4bWRtU1Y2bW92a1E4MHNQLW5iajUzZ2VZLWRvT0hvS1NnOWM5YTdXMlpNYzdIQko2djJDV0Nydkk?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-19T09:13:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+   "url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
+   "src": "CoinDesk",
+   "t": "2026-10-19T09:12:39+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Only 2 of the 26 Biggest Cryptos Rose This Week. Are They Worth Buying?",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZTBPT2JOdTdGcUdWdkZCSk1mQ2E0TV9PRHdZeDZseTdPUXVLbHU2WGRoNXBOcE15TVAtcjJOU2JVWlRabWhtb1J5eDdiRWdIMlo1MlJXTXhUZWNsVnJ5QVh1cVlfREs2Nnh3X0swRG13UlJVWDVqalRIZ0YwcGNoMUJVWU1Pa1Zyb041X1BhNGN6TERDcHIzcXBOMlVPaEplUHFQMzdoZ1I3b1NKMlYxc3NRVFBhVVFqTGhQXzFWLTMxT3ZWRk84?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-19T09:09:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
+   "url": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
+   "src": "CNBC",
+   "t": "2026-10-19T09:07:09+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Rs 4,666,514,600,000 Wiped Out! Investors Face Wealth Erosion As Sensex Tumbles 1,000 Points, Nifty Sheds 1.3%",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSVlPUmdRSnVjaDVNQmIya1RJZWpHd1dvaVVFdk1XbGlaeUo3bHpSU1U0aHl0M2xDbHhlcE5WdG5ScWEwZExmTi1ONnhwbTNVNHRTVjdtVkE0VVd3X2hHWk1ZU3J6cGs2TmtsT3JBME5fMFpvaDA4YzdYelNUWVhwRlZheGlJVW8wZks3WHpNdHFrc0pIWEVNWHF4OTM3Z3hNWE1RMjBnNGlNQWMxcm1oOC00TkNWUDJoczZGRU9ydHN4NkoyR2pDcG96VEdVM3pFSEdmdVlHOXpTN0hKVUluMEJmV182d9IB7gFBVV95cUxPZ1F4Ql8zSW1KMHRFbTdsOHhZdzUyYkcxM2hqXzdxeUhrVXlQMG1FWFBvQ0NvTi1RMjdxazg5aEJfVFNDWVhPek5XN3FUOWNQNmNWQXgzTVpDUVEwV0g4V2VsMjlDYzE2MHROSnM5dVFWZGRsb2pFUGhJcURyd04tUFVBQ0tId3dfX2ZzdzVnUHZHc0N2T3gtWUpkTkdiejZBSGdsTDMwT29xWTJZYkxpQnVXX0VDaHE1RzBUQjJidnpjRFUxYzUxWTc0eXVIenpzMHBieEwxdnk0SW16SHVMM0xabVA4M0N0a0l1NC1R?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-10-19T09:01:48+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Crypto Markets Forecast: Bulls Count on Seasonality",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeENpMUx4Q1JsX0xpbmtjYy14cFlZVXlSbU5SYkdtbjV0ZGtaYnN6a2hfbmlaMWdmWkFYRVJpaXVTeGFRcHpKaHhEYk5lUlhnN3hSblhFMWtoSU9KWWFpUEJpQW80TTNTZmMyT3dpV21xM1dHOFFKX2syd2hJYmhwUkVxV3U0RzVRVlhwTURIZkdEZE9Kd08zMUQ1VG9td3paYVE4?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-10-19T08:59:56+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Dow Jones futures rise as Fed rate hike fears ease ahead of big tech earnings",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRFdXazFlcUh5VnVWYklHYU84MXEtbDZUUlBwNlZQMDJMbVQ0blplZzFwZzFLenZhMkZMSmExNjhLcG5rdHJCaHcxMU1DNXczSVBiMDF2czFSdkRwcVpwWXVBR1cxbWxrUW5uSFZoSE9jT2tNcm8xTzZ2R1ZlZzhWdV9RS2lpSXZkTGxxdlROWlFfUzNEdkFxWEs0QVdFYW9vR3dna1pPM3c1V3VzX2FRQ09qMXZmRWI4aU9rbQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T08:58:24+00:00",
+   "tags": [
+    "spx",
+    "nasdaq",
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Global Market: Euro falls as French political unrest, high energy prices weigh on sentiment",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-falls-as-french-political-unrest-high-energy-prices-weigh-on-sentiment/articleshow/135044480.cms",
    "src": "Economic Times",
@@ -127,6 +260,46 @@
     "eurusd"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Treasury yields move lower as investors assess U.S. inflation backdrop",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nUzdzVnFiMmJCeWJJaVF2cjY5c1lrdkNyMFhqZGRqcGdDaU42WG9icUlJM1daS05OeThBNFpGQVJ6MjZFN2psQkI1WGFGMXJpRHY3RTVzdVI3ZExKVkN3ZVNMcDRwbk9zaVRoLVZrQdIBdEFVX3lxTE1mWUNCVkNBVTBnTHdJcGtFQnpqVzFnV2ZVVnNSUUxTMzlrQkwwLVJudmI2RHRwVUx1bzBCV1FPT3RqRmlMMzlOOXBfeUtWRVE2b1N2ZV8xMkVKOWlPWmNZSVFldDVzdjh5Z3VlRnZkNTFfLWY5?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-19T08:45:49+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Euro: French risks cap upside against US Dollar – ING",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ0pDLWE0MU4zWlRfMmkxTHVtSndnR0JxN2pLNjVqaXhJczFUWTVEeGRHakdYeU0yd1J1YWhiVkNnZEU2YmhmVzRoSEFnRThaMUxwbGljN3VSbXNnVnNIcXFFcUVrTktINDJ0VVkxVjBUcmpiSUhIclRsVmpUdzJmX1hGRTdNTV9DazZ2blh5MlNRMDh0TmZrNg?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T08:45:29+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Why Are Nasdaq Futures Soaring Premarket? NBIS, MU, TSLA, SPCX, ASTS, SLS Stocks In Focus",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSno5VWxiSnJOS1N0aXFvUXpOb01ITHR5XzVxSFhoRV9uWTkxN1k0R3EzSXZFMTRVZFR6N0E3Q0tOTDFDQnNqS21DV3k4OTkxWFNIQ0Z0TDBJY2dReTFvQ3lkWi1qVGo4UUVkUTZucW0waHp6dmV6NzJET1YtOE1qVENvQ09EbXhiZEMwMUdId1ctVlRHYlNhcDE3dUVPX1dLbnVv?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-19T08:31:12+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "WTI Oil eases below $97 amid hopes of higher supplies from Russia",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzVPTFJvMWt4aFl1TVdmZGxwREFDTmJiYWs5WFRnN0ZKaC1ycldVWUVPdHZSMW42Y0dwUTgycGg0RXNfODAyWmdsV3VsRjBaMzNQT2JjZzRSN0E0Q09OdDBPSXFZVVpDSFh0Yk1sVlpXNURrZzc3LVFURHhtcld4QVpvdWVtMmtMNXFHQVRGa25JZ2R6bkpITTlKbUJnSHVoQVVqYVQtU2N3dzQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T08:23:03+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Gold (XAUUSD) & Silver Price Forecast: Oil Dip Cools Fed Bets, Can Gold Clear $4,201?",
@@ -138,6 +311,17 @@
     "silver",
     "oil",
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold Rises Amid Falling Oil Prices",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZU5uN1haS1FQQW82aVdiWmxlbDJrMkszT091U2xWR3dGOTdBeVZ6Z0gzSGpqQ2ZNTE96MG1kckxxY2NVV0I0THpteE9lWGZTdHUxa01OTzJkUndWcVVRWDVZWHVYeFZPcm5VckhaZFBVRDRjcmgyRDg5OUJ1WFBlTlotVGlnekE3SVFDVkpFMHBQbTVPWmd4WTNSSTd1X0ZJNDFlUmVWcGxlSE5oWG1ENmZoYk1oVTdKZlE?oc=5",
+   "src": "WSJ",
+   "t": "2026-10-19T07:56:00+00:00",
+   "tags": [
+    "gold",
+    "oil"
    ],
    "tone": "neutral"
   },
@@ -160,6 +344,16 @@
     "macro"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Canada CPI Preview: Inflation expected to grab some pace in September",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb3VmYTliZXU0WVpmYjNCZTJnekJkOEVIN3YtUTdsRWJhTWNCbVZMMVhnT0RRZkJ5VFVUWXVJWnFlcV9CWElBeGFVTUllVEp4ZU5LUWJxVXhFX2dUUWxMenpZUmRXTl9sRFEwS1JTMW4xUFd2bXpWZkplRTcxS2FCNjBxeW1KZ1huOVZvT3BITGRkMUgxZHBkS2w5NUNvZnFzcjJkaEZDWjhTZw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T07:30:00+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Silver Price Forecasts: XAG/USD stalls below $58.00 despite US Dollar weakness",
@@ -198,6 +392,17 @@
    "t": "2026-10-19T07:15:44+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Stocks on Watch After CPI-Fueled Breakdown: SPX, Nasdaq, NVDA",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd1I2S1JGU1ZNdWhqa3hHZExTQnFJYWNUVk1SQy1rYThTZGZtNXpEYnh6VTB4QzlvamRDY240Ql9RSzRwLS1ZZUdHNHNwUEczOWVCRmJkaGcxekQxR0NGcVdLODVuN0k2UGd3aWxrbjBTNEhDaW42T1p5Zi1wckhpWURJWGM1eHNDRlhQZmh4bGs3NlY2bnNGMXVrb0ZZd2FMWTFEWXZtREo?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-19T07:15:13+00:00",
+   "tags": [
+    "nasdaq",
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -294,6 +499,16 @@
     "nifty"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Oil: Brent eases after US Russia waiver – Danske Bank",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdG1NRWc0WTlWSEJVdUp5MVBpSmJtN2QwbUpkQktqNkwwR054S01WNDFyTGFoQlNhZW5nXzZVSFlrYWN6U1B2Z0daRTlhR1pFTmJSM0czQVFiRF80dXgwTWVmbzFaREYwb0ZzM01GT2dlVlViRGo5RThfZjlvX1dUMExPSk5WdGkwdTlHRzk0MllKU1FlLTBOXw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T06:26:06+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Euro remains under selling pressure against British Pound on France's political turmoil",
@@ -1027,6 +1242,16 @@
     "nifty"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Euro drops amid high energy prices and street riots in France",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUGwwZHd2R1h3Q1BiZkdpNVVzRFpXZTJEd19TT2tyelhtb21VX0ZOSzN2RVpURkdHMWl5REpraUVJTVRjeFlSQmU4T3V4XzhWV2g0bU1fd0Q0cmhRMFRFbVg5Snhld1owT2IwbmR2d0RwNGNpWEVGWHhYaDRzN3N1UWJwNjhuTXoyc3hsLXIybEt0VEl4VlJOS2JUZTB5TnV2OVFWU2NLYjRiWU5kYnA4?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-19T01:35:00+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Black Monday Fears Fade as Nasdaq Futures Rally After Friday Selloff",
