@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-19T16:49:16.600339+00:00",
+ "updated": "2026-10-19T17:19:43.390096+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -66,19 +66,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 5
+   "new": 6
   },
   {
    "feed": "Investing.com",
@@ -137,6 +137,16 @@
    "tags": [
     "eurusd",
     "usdjpy"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "AI stocks rebound as CoreWeave jumps on Goldman Sachs upgrade",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stocks-rebound-as-coreweave-jumps-on-goldman-upgrade/articleshow/135052127.cms",
+   "src": "Economic Times",
+   "t": "2026-10-19T16:17:35+00:00",
+   "tags": [
+    "nasdaq"
    ],
    "tone": "bullish"
   },
@@ -288,6 +298,17 @@
    "tone": "neutral"
   },
   {
+   "title": "Gold's path to $6,000 and silver's return above $90 depend on renewed investor confidence – Metals Focus",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUx1Ym03aUVBcWtTT2RBZ25OSDl6X1l1YVlCTmc3SnFoLXlzZjNXWEFoZ21QYlJ6Y3Yxa0hRZnkySU9nbGVfNFBCNVR6bFdrUFVmdjQyQUFVSld1a0VBNWtMZWEyNmtOQ3ZGeWtlYUxlTjFKOFVhZXU2bGFzVzVaNS1WOFJDUFQyMlRXdmx3SVotbkpWR0NQeUl5ZEwyZ3UzZnlMb2l4ZWZiSG0zVDJnbzRFVQ?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-19T14:02:00+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "OceanaGold: A Growing Gold Miner Trading Below NAV (NYSE:OGC)",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGNGcTk5N2I3eTRTVkRJSkV3WTIwbzJSdG1kSE1Lb0FxYm5UVTQtdlU4UklSb2ZFQi1feldIcGtOVXdIc3lSb1JKZ3p0SExGMnJIaGhFdkE4NklQV21Rd1BTRklCbTk0SzRIMmJYTmcxQVFLSFM4dnJwSmFMTkVaR2NsODFGd1NjdnlJZlVzcjFCc3VO?oc=5",
    "src": "Seeking Alpha",
@@ -411,6 +432,17 @@
     "gold"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "S&P 500, Nasdaq open higher, rebounding after posting their worst week since June",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNG0wZDlsTTFsdnFkdUtyazNYUGluaWloRS0wY3Z5bldNeDc4MjM5bXhOWHpOVlprVGlvWS15bnFHSVRZY2ZZbzU0VWFSckJfYU85czU4bGR4STBtemViUVA0Ykk4OE9CZjBXOTJ2X0VoX25QYk1WYVB4YkNHYmJYU092NnpiOGw3aThKLVh0RThoakNQcVk1OXMtSWtFWEpzVWlpMERWb1dzUDZLalVfcXMxcGpHYmtvcld2dml3SjNXZw?oc=5",
+   "src": "Investing.com Nigeria",
+   "t": "2026-10-19T13:07:27+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "S&P 500, Nasdaq set to open higher as AI stocks rebound ahead of earnings rush",
@@ -2687,36 +2719,6 @@
     "btc"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
-   "url": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
-   "src": "CoinDesk",
-   "t": "2026-10-18T16:00:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Ethereum and Solana ETFs Keep Losing Money. Which Coin Is Holding Up Better?",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTGVlMTloUDdPRXowSks0d0kzUE0wTGxwSGJaOEhLUjc0UU1xZ3lTT0g4cnVTeGJiNkZ2ODRjdE90V295ZVFuYXBKaHdPSmk0UGIwalo4dHVlUG5lUGhZUUNiV0RuVXY2dzBXNXNISEl5U1J4NzBlaElUajQ1TGpUc250TVJQbmozdVo0QWE1ZEZnaldJb2ExRm43T0lRemlHX1BvdDNmVmxpT3VDNWlZenZsbzFmZ3MzYlcyWlBwZWtFY3Y5cnhIZDVhZnlSZw?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-18T15:30:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Cardano Fell 12.6% This Week, More Than 6 Times Bitcoin’s Drop. Can ADA Hold $0.20?",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS1BZQkNxSnRpU2xkWWFVZ0Y1ZmtXMnRLcFZRY2NzYlBtTmt1RC12d29XdTlUM25TcmtEaFUyMHN6NEFhbHkweS0zWVBlNm5jeWhzMkEzSHFSVTJBUHlXV2ZYd0JrZUQxTUR2SWF6WFk1ckU3dDdPNkpyRjdiRWxkR1UydHlJV0J4T2pURTdBZjFRVV96RmwxbDZOd095M0VRdnBMVGNrLXlMcG9rdEpKVXZEampzaENGc0FQdjIyTmN3Mm50Uy1xWjAtTWtSdmJEdVE?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-18T15:05:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
   }
  ]
 }
