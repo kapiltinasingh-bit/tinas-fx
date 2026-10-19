@@ -173,6 +173,15 @@ form.calc{display:grid;gap:12px}
 footer{border-top:1px solid var(--line);margin-top:28px;padding-block:18px;font-size:12px;color:var(--fg-3)}
 footer p{max-width:90ch;margin:0 0 6px}
 footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13px}
+.sglive{display:flex;gap:8px;align-items:center;margin-top:14px;font-size:12px;color:var(--fg-3);font-family:var(--f-mono)}
+.sglive.off .live-dot{background:var(--fg-3);animation:none}
+.evs{list-style:none;margin:0;padding:0;display:grid;gap:0;max-height:300px;overflow:auto}
+.evs li{display:grid;grid-template-columns:110px minmax(0,1fr);gap:10px;padding:8px 0;border-top:1px solid var(--line);font-size:13px}
+.evs li .mono{color:var(--fg-3);font-size:12px}.evs li.t1 b,.evs li.t2 b,.evs li.be b{color:var(--bull)}.evs li.stopped b{color:var(--bear)}.evs li.filled b{color:var(--gold)}
+.btn-al{font-family:var(--f-mono);font-size:12px;background:transparent;color:var(--gold);border:1px solid var(--gold);border-radius:6px;padding:7px 12px;cursor:pointer}
+.btn-al[aria-pressed="true"]{background:var(--gold);color:#17130A}
+.toast{position:fixed;right:16px;bottom:16px;z-index:50;max-width:min(360px,calc(100vw - 32px));background:var(--panel-2);border:1px solid var(--gold);border-radius:8px;padding:12px 14px;font-size:13px;box-shadow:0 8px 30px rgba(0,0,0,.5)}
+.sgc .st.win{background:var(--bull-bg);color:var(--bull)}
 .sgwin{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px;margin-top:16px}
 .sgwin>div{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:12px 14px;display:grid;gap:3px}
 .sgwin>div.on{border-color:var(--bull);box-shadow:inset 3px 0 0 var(--bull)}
@@ -466,7 +475,11 @@ footer nav{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px;font-size:13p
       <label for="sg-risk">Risk per trade (%)<input id="sg-risk" inputmode="decimal" value="1"></label>
       <div class="small" id="sg-riskusd" style="grid-column:1/-1"></div>
     </form></div>
+  <div class="sglive" id="sg-live"><span class="live-dot"></span><span id="sg-live-t">Connecting to the signal watcher…</span></div>
   <div class="sgwin" id="sg-windows" aria-label="Trading windows"></div>
+  <div class="panel" style="margin-top:16px"><div class="ph" style="margin:0 0 8px;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;align-items:center"><div><h3 style="margin:0">Signal alerts</h3><div class="small">Fills, targets and stops, logged by the watcher within about a minute of happening.</div></div>
+    <button type="button" class="btn-al" id="sg-notify" aria-pressed="false">Turn on alerts</button></div>
+    <ol class="evs" id="sg-ev"></ol></div>
   <div id="sg-list" style="display:grid;gap:16px;margin-top:16px"></div>
   <div class="sec ph" style="margin-top:26px"><div><h2>Watchlist triggers</h2><div class="small">Breakout levels the desk is watching. They have no stop yet, so no lot size: don’t trade them until a full plan is posted here.</div></div></div>
   <div class="panel scroll" style="padding:0"><table><thead><tr><th>Market</th><th>Buy above</th><th>Targets</th><th>Sell below</th><th>Targets</th><th>Price</th></tr></thead><tbody id="sg-watch"></tbody></table></div>
@@ -1111,6 +1124,14 @@ function winState(w,market){const n=gstNow(),a=toMin(w[1]),b=toMin(w[2]);
   if(n.m<a)return["Opens in "+dur(a-n.m),false];
   return[(n.d===5&&market!=="btc"?"Next: Monday ":"Next: tomorrow ")+w[1],false];}
 function sgStatus(m,side,x,dir){const p=m.quote.price,s=m.signal;const lo=x.entry?x.entry[0]:x.trigger,hi=x.entry?x.entry[1]:x.trigger;
+  const lp=LIVE&&LIVE.plans&&LIVE.plans[m.id+"|"+s.asof],w=lp&&lp[side];
+  if(w&&w.state&&w.state!=="waiting"){const at=k=>w[k+"_at"]?gst(w[k+"_at"])+" GST":"";
+    if(w.state==="filled")return["Entry touched at "+fmt(m,x.trigger)+" · "+at("filled")+". Trade live: stop "+fmt(m,x.stop)+", target 1 "+fmt(m,x.t1),"live"];
+    if(w.state==="t1")return["Target 1 hit · "+at("t1")+" (+"+w.r+"R). Bank half, stop to entry","win"];
+    if(w.state==="t2")return["Target 2 hit · "+at("t2")+" (+"+w.r2+"R). Trade complete","win"];
+    if(w.state==="be")return["Target 1 hit (+"+w.r+"R), runner closed at entry · "+at("be"),"win"];
+    if(w.state==="stopped")return["Stopped at "+fmt(m,x.stop)+" · "+at("stopped")+" (−1R)","void"];
+    if(w.state==="expired")return["Expired without a fill","void"];}
   const call=(D.calls||[]).filter(c=>c.market===m.id&&c.asof===s.asof).pop();
   if(call&&call.outcome&&call.outcome!=="Open")return[call.outcome==="Expired"?"Expired":"Closed: "+call.outcome,"void"];
   if(s.valid_until&&Date.now()>Date.parse(s.valid_until))return["Expired: waiting for the next research run","void"];
@@ -1124,6 +1145,7 @@ function sgStatus(m,side,x,dir){const p=m.quote.price,s=m.signal;const lo=x.entr
   if(p>=lo)return["Price is in the entry zone: wait for the 5m confirmation","live"];
   return["Waiting: price is "+fmt(m,lo-p)+" below the sell zone",""];}
 function renderSignals(){
+  renderLiveBar();renderEvents();
   const bal=num("sg-bal"),rp=num("sg-risk"),ok=bal>0&&rp>0&&rp<=100;
   $("sg-riskusd").textContent=ok?"You risk "+usd(bal*rp/100)+" per trade. Most professional desks keep this at 0.5–1%.":"Enter a balance above zero and a risk between 0 and 100%.";
   try{localStorage.setItem("tfx-sg",JSON.stringify({b:$("sg-bal").value,r:$("sg-risk").value}));}catch(e){}
@@ -1159,6 +1181,38 @@ function renderSignals(){
     tr.append(td,el("td","up",L?fmt(m,L.trigger):"--"),el("td",null,tg(L)),el("td","dn",S?fmt(m,S.trigger):"--"),el("td",null,tg(S)),el("td","mono",fmt(m,m.quote.price)));wt.append(tr);});
 }
 ["sg-bal","sg-risk"].forEach(i=>$(i).addEventListener("input",renderSignals));
+
+/* ---------- Live watcher feed ---------- */
+const LIVE_URL="https://raw.githubusercontent.com/kapiltinasingh-bit/tinas-fx/live/live.json";
+let LIVE=null,alertsOn=false,lastSeen=null;
+try{alertsOn=localStorage.getItem("tfx-al")==="1";lastSeen=localStorage.getItem("tfx-al-seen");}catch(e){}
+function paintQuote(m){document.querySelectorAll('[data-live="'+m.id+'"]').forEach(e=>e.textContent=fmt(m,m.quote.price));
+  document.querySelectorAll('[data-chg="'+m.id+'"]').forEach(e=>{e.className=chgCls(m.quote.chg)+" mono";e.textContent=chgTxt(m.quote.chg);});
+  document.querySelectorAll('[data-ts="'+m.id+'"]').forEach(e=>e.textContent=stamp(m));
+  if(cur&&cur.id===m.id){$("m-px").textContent=fmt(m,m.quote.price);$("m-lbl").textContent=stamp(m)+" · "+(m.quote.source||"");levelMap(m);}}
+function toast(t){const d=el("div","toast");d.setAttribute("role","status");d.append(el("b","g","Tina’s FX signal alert"),el("div",null,t));document.body.append(d);setTimeout(()=>d.remove(),9000);}
+function beep(){try{const a=new (window.AudioContext||window.webkitAudioContext)(),o=a.createOscillator(),g=a.createGain();o.frequency.value=880;g.gain.value=.08;o.connect(g);g.connect(a.destination);o.start();o.stop(a.currentTime+.25);}catch(e){}}
+function alertNew(){const ev=(LIVE&&LIVE.events)||[];if(!ev.length)return;const newest=ev[0].t;
+  if(lastSeen==null){lastSeen=newest;}else if(alertsOn){ev.filter(e=>e.t>lastSeen).reverse().forEach(e=>{toast(e.text);beep();
+    try{if(window.Notification&&Notification.permission==="granted")new Notification("Tina’s FX",{body:e.text,tag:e.plan+e.side+e.kind});}catch(x){}});}
+  lastSeen=newest>lastSeen?newest:lastSeen;try{localStorage.setItem("tfx-al-seen",lastSeen);}catch(e){}}
+function renderEvents(){const h=$("sg-ev");h.textContent="";const ev=(LIVE&&LIVE.events)||[];
+  if(!ev.length){h.append(el("li",null,"No fills, targets or stops yet on the current plans."));return;}
+  ev.slice(0,25).forEach(e=>{const li=el("li",e.kind);li.append(el("span","mono",gst(e.t)+" GST"));const b=el("span");b.append(el("b",null,{filled:"Filled",t1:"Target 1",t2:"Target 2",be:"Breakeven",stopped:"Stopped",expired:"Expired"}[e.kind]||e.kind),document.createTextNode(" · "+e.text));li.append(b);h.append(li);});}
+function renderLiveBar(){const b=$("sg-live"),t=$("sg-live-t");if(!LIVE){b.classList.add("off");t.textContent="Signal watcher not reachable: showing prices from the last research update.";return;}
+  const age=(Date.now()-Date.parse(LIVE.updated))/1000,ok=age<900;b.classList.toggle("off",!ok);
+  t.textContent=ok?"Live: the signal watcher checked every market "+(age<90?Math.round(age)+"s":Math.round(age/60)+" min")+" ago · prices and fills update about once a minute":"Watcher last ran "+gst(LIVE.updated)+" GST: live tracking is paused, showing the last known prices.";}
+async function loadLive(){try{const r=await fetch(LIVE_URL+"?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw 0;LIVE=await r.json();}catch(e){if(location.hash==="#signals")renderLiveBar();return;}
+  M.forEach(m=>{const p=LIVE.prices&&LIVE.prices[m.id];if(!p||p.price==null)return;
+    if(m.quote.asof&&Date.parse(p.asof)<Date.parse(m.quote.asof)){if(p.chg!=null&&m.quote.chg==null){m.quote.chg=p.chg;paintQuote(m);}return;}
+    const fresh=Date.now()-Date.parse(p.asof)<20*60e3;
+    Object.assign(m.quote,{price:p.price,chg:p.chg,asof:p.asof,label:fresh?"Live":"Last trade",source:p.src});paintQuote(m);});
+  alertNew();if(location.hash==="#signals")renderSignals();}
+$("sg-notify").addEventListener("click",async()=>{alertsOn=!alertsOn;
+  if(alertsOn&&window.Notification&&Notification.permission==="default"){try{await Notification.requestPermission();}catch(e){}}
+  try{localStorage.setItem("tfx-al",alertsOn?"1":"0");}catch(e){}paintNotify();if(alertsOn)toast("Alerts are on. Keep this tab open: you’ll get a pop-up and a sound when a signal fills, hits a target or stops.");});
+function paintNotify(){const b=$("sg-notify");b.setAttribute("aria-pressed",alertsOn?"true":"false");b.textContent=alertsOn?"Alerts on":"Turn on alerts";}
+paintNotify();loadLive();setInterval(loadLive,60000);
 
 /* ---------- Routing ---------- */
 const WIDGET_HOSTS=["in-tickers","in-overview","in-movers","in-inr","in-quotes","in-scr","w-overview","w-cal-mini","w-hot","w-cross-mini","w-news-all","w-quotes","m-chart","m-ta","m-tl","y-info","y-chart","y-ta","y-tl","y-fin","y-prof","w-cal","w-map","w-scr"];
@@ -1198,9 +1252,9 @@ window.addEventListener("hashchange",route);route();
 
 /* ---------- Live spot ---------- */
 async function live(){for(const m of M.filter(x=>x.live)){try{const r=await fetch("https://api.gold-api.com/price/"+m.live,{cache:"no-store"});const j=await r.json();if(!j||!j.price)continue;
-  m.quote.price=j.price;m.quote.asof=j.updatedAt||new Date().toISOString();m.quote.label="Live";m.quote.source="gold-api.com";m.quote.chg=null;
+  m.quote.price=j.price;m.quote.asof=j.updatedAt||new Date().toISOString();m.quote.label="Live";m.quote.source="gold-api.com";m.quote.chg=LIVE&&LIVE.prices&&LIVE.prices[m.id]?LIVE.prices[m.id].chg:null;
   document.querySelectorAll('[data-ts="'+m.id+'"]').forEach(e=>e.textContent=stamp(m));
-  document.querySelectorAll('[data-chg="'+m.id+'"]').forEach(e=>e.textContent="");
+  document.querySelectorAll('[data-chg="'+m.id+'"]').forEach(e=>{e.className=chgCls(m.quote.chg)+" mono";e.textContent=chgTxt(m.quote.chg);});
   document.querySelectorAll('[data-live="'+m.id+'"]').forEach(e=>e.textContent=fmt(m,j.price));
   if(location.hash==="#signals")renderSignals();
   if(cur&&cur.id===m.id){$("m-lbl").textContent=stamp(m)+" · gold-api.com";levelMap(m);}}catch(e){}}}
