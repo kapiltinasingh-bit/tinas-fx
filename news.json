@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T18:08:17.977387+00:00",
+ "updated": "2026-10-20T18:44:31.443642+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -66,13 +66,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "CNBC",
@@ -119,6 +119,26 @@
  ],
  "items": [
   {
+   "title": "Gold Update: XAU/USD Remains Directionless Despite Falling Yields",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaXVFSG1oQ1Q0NUFNT2dtVF9PVVFCZ0x3WFpLS3JuZFVaT0RBX3R6YUNrbnhuSW9xYVhGS3VLOTdXNG5WLTY5NG1CS3psXzFpOHNUYnZqZXVNTUlqSjlndE13VllsenJ5SmJHV2dtbUg2RFlwY2pReUc3WGVMTU5LbEpwYkU5ZFlBLVNCRWdKeGZoejRQSm45QzNlV1RfdTJDOWxFckpDeUxMWHh5dy1mUdIBvAFBVV95cUxNZTJFY2dyNGszUTd5VWo4WWdFZmZ2dFhHTVNXQ0ZMV2paaVo4YmNjV0NUeUd4d1RGN0ZjdVJyNVRiSFpqZjZVSjAwT1RyVW56Z052SzNad2M4RTM5Ylk2d3RSaHZ3cnV5SjFsR0xJQmNIQUEyVDNOZFV4TGZpSjlqNzdmYkNwZWxBa1FTOUxCWXBhQlhiejdETms2VjEyU0k4YkdUUUpsa3ZkZVNVdzJGVjFRYjhLUFV3M0Y0eQ?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-20T18:29:19+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Stocks try for back-to-back gains — plus, Qnity gets iPhone business from Apple",
+   "url": "https://www.cnbc.com/investingclub/2026/10/20/stocks-try-for-back-to-back-gains-plus-qnity-gets-iphone-business-from-apple.html",
+   "src": "CNBC",
+   "t": "2026-10-20T18:09:42+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
    "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
    "src": "CNBC",
@@ -138,6 +158,16 @@
     "spx"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Webull to Launch Crypto Perpetual Futures with Kalshi",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQzNtZTRkQ3JZRFZ4OTVwLVJFaXpIRERyZVNVclhmemN6ZnUzQ1VLWXBIcmE5bTROcXp0Vms0RlkyaDhsekdaYWhwSzlqUlg1anhzTFVnaV9IZzVXNzJheW15ZlRTcjFFVElscWlqTjBzNzRReWZyWGJIMk9FTkxPelNUYzhxNXVfd2Z5cGxJWUJFekRmRjc0bWJNS2NrMmx5VEJiU0lR?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-20T17:52:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "BoE’s Greene warns stalled wage disinflation raises inflation risks",
@@ -167,6 +197,16 @@
    "tags": [
     "gold",
     "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold just failed at $4,150. This is the next stop",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd282MG91azhodW1TdUVKTURlQjdBdVZEd01aT2tmRTFMekVJU2psbjZHYjNFYzdqUU9PTGVyMmd1ZGtRNUdvYkFDSnVmUVA4STBxSTZRSldHYkplTDhSYWh0SS1nVW56cjdlQVRJemlGa3N6ckFzNzlEbGhmLUJGdUY5emFyUVpLZENudzloSXY2YnRteDFqLWZn?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T17:25:16+00:00",
+   "tags": [
+    "gold"
    ],
    "tone": "neutral"
   },
@@ -220,6 +260,17 @@
     "btc"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "US Treasury yields retreat as Iran deal hopes pull WTI lower",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNVQwbThQTV9hbGgzbTN0UjlvY29iSG1Sai1OQ2xxNFQ5Z3pOVDF3eWpBb1VZRWUxMDdacTlGb0RiTllWRmk3Vy1hazNTemdZSmJjTDg1Tmx6X21aM29VTUFwdmY3TkdvVmVyZGR0SmNBeTU5QU1iUE1FNHNOX19JQzd5cEIyQ3YwLWx5bzl5X1hkcGhOaVJwS21jQ0QwMV94NEk0Ykl3?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T16:49:08+00:00",
+   "tags": [
+    "oil",
+    "macro"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Michael Saylor Says Bitcoin's Next Bull Run Has Begun",
@@ -490,6 +541,17 @@
     "oil"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUDZuTEpfaEowRGpOY18xcWF6c1d5M0J5T1lvLUtwZXVNbjlkUjk5ZW1SUGx0QXFxRE43akdiUVl6WmZYWWh4a1ltUU5TcEFlTG5oZXFZdjhSZER6RGE4M0gzNlJhZHJjZldER25WZXBzeWoxeExtd1hlcXU4QkdmeGdtR21lblk3RXlZNlBYT094Z1BuTTZPN1lLYzhVU2tpdW9fQnJ3T2x3N2tzeTFrMHpPUmhwVjZTaHZJYXM1OTdKZ09YVWFoeU5n?oc=5",
+   "src": "CoinDesk",
+   "t": "2026-10-20T13:16:36+00:00",
+   "tags": [
+    "gold",
+    "btc"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Massive ‘Endgame’ Flip Leaves Bitcoin Suddenly Braced For A $1.5 Trillion Price Crash Shock",
@@ -777,17 +839,6 @@
    "src": "CoinDesk",
    "t": "2026-10-20T11:14:21+00:00",
    "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-   "url": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
-   "src": "CoinDesk",
-   "t": "2026-10-20T11:10:40+00:00",
-   "tags": [
-    "gold",
     "btc"
    ],
    "tone": "neutral"
@@ -2647,61 +2698,6 @@
     "btc"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "US stocks today: S&P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPR2tVWFl1V3BoYklvaW9JUVpCb1gweXJqX2ZSV095VkFUZmlOV3B0MXlKNW9ncWhDeENHS3kya0V6alBIQ1ZKdXhxd3JWSjFjeXM1bU9ROWFLbWtkT09RaERxemE4Qm9seHFEOWVuSkJ5ek1Vb3ZRX043RklreUZrT2NMeXBGMnpUYkY4UmgySFhLRVdSZ0hiU3NDazU0dmp3U2FvMTBVRjhjc2F3UmcxQ1MwTHJaZml3ZGRkUXRVT0M0c0JHa1E5ZlVLZERkTkJUSF9rX1FLVGE1dnhsTkQ3OWYtOEJXcEIyNWVWU0s5cmR1NmQ4UHJYaFJ1WlAyTjlDTTNPQWtBRdIBjAJBVV95cUxNR3lRMTg0ODI2U184UmpXOEZwWU9zelpjZ0QwQkF5WWEtRjEtalBnR3p6WVBEdnJnc2ltb2M3cGcyMzVhOEJNRTBTR2xVazBLU1VIWlkzcW4xUnI2UDVNaFVNQ09vQzBIZmFmWnVVVWRsdllXRlNOcWJKV3h0NHFzeXZZTmlEWmIycGgxekdoSkVtbVBYcXZ5TDFVMGp0MlZjZzlOLWZsbWhZZDVBYmczbUZfTXZ4VnB0Y294a1VfQU5Mc2x6RXNyMmwzdnFELVpscnBqRDM3elFjYUM1YzZRRExQZGNpb0NmLWJ4emVid3ppTFVwVDk0ZHV2R1R1VklWd2xDdHBBXzRhSHRh?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-19T13:38:31+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "US stocks today: S&P 500, Nasdaq climb as AI-linked stocks recover ahead of earnings",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-ai-stocks-rebound-ahead-of-major-earnings/articleshow/135050156.cms",
-   "src": "Economic Times",
-   "t": "2026-10-19T13:38:31+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "S&P 500, Nasdaq open higher, rebounding after posting their worst week since June By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa3dudGkyaGp5QzNMdWtnQ2dNbGRfMzZIWWtyaC11WWdvbUtIdEFXSVRiazhOWW5nUlVOb2lldjdfM2htb1YxUHBINk5qYmcza3E0cXJMbko1a0JSNHRFcS1PYzFwU0FJUk5IMHBVVE9qSU1kNHdVY1ZxRHUtVmoxb2JIYUJoaGlWY2dTQy02RUJjbjVfWFBUWUtsSWJiUl9pTW9OOVEweVk4bDVOT1Ftd2NUUFh0M29WTlFxSlJ6N05Sdw?oc=5",
-   "src": "Investing.com South Africa",
-   "t": "2026-10-19T13:38:18+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "S&P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMjN0YXZlVDZQeDdTODdwdkxjNEVxOFN0VHNDWmpWclNTci1LV1BmUEQ0T283SGxubjdCRmhhX09iVXZZdHpsZEpZT0RxR19sSC03ei1UQW9nZld2dE1KTFppNUlfV2MydTZOdVVCcE5TRS1Odk5Ca2dDRGxTcjFHV0tHS244azlXNHhoMzluTU9SOE0?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-19T13:35:16+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "US Stock Market Today: S&P, Nasdaq Trade Higher As AI Stocks Lift Wall Street Ahead Of Tech Earnings",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVzY4MDB4VnBWWkFuTkRhaHV6ZXpHdTRmX1pFUkVfTFdycHF5ZWd5N2o0cGcwZGx5ZzdrRDcwOHBHVzlVVmQxWjVNM2RsV3lkaDRHSHNSQmpibHRuRzVpbTNrRXA4TXpxaXhNV0Z4M1NxZTJuSi0wTWNrVWU1ZWw1RVlQMHozRk1la21sVWdCSXZrd1FQbEl4M1dNYmdnaFZTV1pqb3RVOVZDeWw1ckZqdWluZVZzOWNhTHFZS3NB0gHGAUFVX3lxTE8wWHFQanpBVzBhejZsVlhwT2dWdFFnb2FqX0YtRUp3UFlCOUpwajUxR1pqb1FpYXkwdHh0eGRJaEE1YkdpRGVZUWtBdHNZdE9lX0VZQndPOW9LanQxZ3lsN2dLcERRX1VJNHo0QUlTTjVyUFFIWGJmeThNeXF3UFZMYjZKVExCYUZrQ1JXaUNtV0Q4VUFxUjJoRS1CMUR4anlLOUpKQXRrYjJlWGRNb0RZLWs1MXFCaU9ZcTVfQXczX1I3UjhxUQ?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-10-19T13:34:29+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bullish"
   }
  ]
 }
