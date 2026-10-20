@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-20T19:56:16.368454+00:00",
+ "updated": "2026-10-20T20:20:46.169462+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -24,7 +24,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,31 +48,31 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "CNBC",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Economic Times",
@@ -114,10 +114,43 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 3
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "Gold struggles near $4,150 as global rate hike risks loom",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEJRVF9YVjNwSkg2cFBZMHVvZmVtWWhvalVsakhnZ2RzRzA2VjZRTVEwN1UzYzgySmduRTRQQnNMdmFVbVlWLXJrUmM0SjFCc0c5d01pc0RBaHEzVzRQWWZvRktVbGdjcTRfajEzSmE1VER5cWZVT2E5TWpaY0VtYzJLZmxleHNKbGpRaGx3bm5ZTzc3c1FPOTNLSWo3NmpW?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T20:13:00+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Nasdaq stays below waters; S&P 500, Dow push higher amid tech trade turbulence",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEcyY0djVThlMnE2NFQ4eXI3Z3VnREhodkMyOG9vOU91THRmTkxTaEEwM1JJbzVNVjJXOXRCNzV3ZG9nYVhWRVUtQ3dfYUZfUWlUVmFPTVkxYktKZm8xRnExbWN6ZG5mS3BabzlEaDduUXZadTlvcVE1Skw0NmFmUVJkUXlVYUZodTFmR2U4SWR4VG42d2dpYVJ6eFlWQ0JsdDZFVV9zVmJIMWJYZ1VCUUNkMA?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-20T20:06:57+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Dow Jones Industrial Average rises on earnings, cheaper Crude Oil",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTU4M1J6ek9McDVuRFk3RzF1bnNJRXFVLV91VHlOWUg0R2hGemc1djlGTHIwYlFwbW1nZXpGbjZIRkFUY2sxMkZ3aDVQaEFXbFBVNXJ0eWZTTGFQcE5wZFNoR05vQmpvdzdnMHdlY3BOY2FBRHk2S2lraUEtZlBOcW1zd2U1QVotVzJKdUNUUXJoQ1lTNF80bGduVWhRMU9Jd25DZ1dlcElneHM?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T20:04:48+00:00",
+   "tags": [
+    "oil",
+    "spx"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Gold edges lower as investors weigh Fed rate signals",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzEwRm9qY0V4emwwc1htR0xQalBPSW1tRzhoa2FGcVZUMXpzMC1kSV9FcVgzdkdUaU4wTGZWbk9ZbjdhVVV2c3JjX3Nfb0NKd0s1UDVTQ2NlVHNrWFVEM2M4WVdHRHVvYjVtZmFlakxDM3NuY2Iwa0wwMHdfQTZ0ZjNDXzBQOFhseXBhdkN0Ym5SUWxVVFdYSXZTZGdCRHhDblE?oc=5",
@@ -136,6 +169,16 @@
    "t": "2026-10-20T19:35:00+00:00",
    "tags": [
     "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVhMTXdnSnZxSGdTMFB2dzZ2Zjk4UXZnbkVrWk1aaWk0SHo0eG9lM3AyMVNzWWpqOU9qRG8zcV94MGpROXpidV9mNFZJM0V3Y3RSWmdlRkJkQVhUSFlsZ1hkWmk4c284ZVlWdUZXcFUtcE1Dam5TY2FzcXhMOUFlYzRBSEFSeUg5UjU3bklFdVVvNV9ZMG5xY3ZRQ2xyeThDWURuVl9sXzNEbTN2LWs3OThYakFGV1ZzOGtqaw?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-20T19:34:36+00:00",
+   "tags": [
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -210,12 +253,32 @@
    "tone": "bearish"
   },
   {
+   "title": "TAG: LBMA digital gold panel",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PUXFzd0ZzeXlTaFhmTDFNYy1fTkoyN2hRRnZQMlhGR204bTVnci1CVE9ZTEJtc0UyUFVBQjFpVWVKZUxfakljeHBkRjlQNXJzZ1hRZVpKOFpqRVBkTWtqRGltbTc?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-20T18:56:16+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUN6akpfd2ZYNjF1U0Y5Yjc5RVJzRXJKT0tZLUlYcm9mNWRPdVZ6bk9pS1UxVnREcVdqRHRydmtyZmF6a2ZCeC1nb3puclZpQmxJTXFuLS1ORU5jQzJnMEFoYlBLcjFleHF4cU9CbTM1TWVNWmcwSFFuVnFfU0hFS0hST005UkstQWZvSnRmTkE?oc=5",
    "src": "Decrypt",
    "t": "2026-10-20T18:31:04+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Forex Today: UK inflation comes to the fore",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT0FPUmx1YnNWV0dWZTNVRmttYzdZTVhJc181ZHR3TGNCUEh0U2RVcVN6MjlqcVM3bExZOVdybEhtSzJhclJ0Yl9iVGZiUWhDNGVJLVE2dDJlcUpRb3dNR3B1RVpKaGdKYnZkLV9mUF9RZEg3NlpPSkoyenRWRVlCWkRsNl83UEVwZHgtVjFB?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T18:10:43+00:00",
+   "tags": [
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -462,6 +525,17 @@
    "src": "24/7 Wall St.",
    "t": "2026-10-20T15:40:00+00:00",
    "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold steady as investors await fed rate signals",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM09USHp5SG1hTHFYREFaTld3TUFJQ2RCUThZUzYxZ3E0bHlQbDVzNHFtV01sTDV3U2R4NlFYckhGZU52a0xaZVZuWnJjcFNHVGpQZUw1NEI1SjBtSl9KUFFhVUZ5SWNvY1B3S0FFVlZGbHpoRFFrdEFCckEwd0UzaXZPZWlPaENhUWdKd0gxS1V0RHhsRkdjMzNwWWJPUEIzbVJfUmlwZF8?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-20T15:39:32+00:00",
+   "tags": [
+    "gold",
     "macro"
    ],
    "tone": "neutral"
@@ -757,16 +831,6 @@
    "tone": "bearish"
   },
   {
-   "title": "Fed to skip October but raise rates again in December, nearly all economists say",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-20T12:43:49+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
    "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
    "url": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
    "src": "CoinDesk",
@@ -928,6 +992,16 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWJ0WUpzR0w2cnFpS2x1d0dWV1F1SFgwNlpXeEpzcVJhVlhNaGRPQlhtd1BJWVI2ZjhVM3ZFQ2lNdHZmaFVSRENORWdJaW9HNFZRRFFfX0N2NG04N0NfZW56STBCN1FFemdWT1dBVlRQM3pYeDB4WDBCQWhsbXRkNXFNcnFic1JTb0Q5Rjk0V0x4UzZ5dnZDemh3cTJ3eElBWmxiMjV4eHZ5S2RTZG1BWUhR?oc=5",
    "src": "Reuters",
    "t": "2026-10-20T11:39:46+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "IEA oil stocks release timing is up to individual members, chief says",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbjQwUGZrTC00LUMtdFBsaTRfQTJoUWp5MzdPTG04MllSbUZXSDN4RW1IQkkyYmNHT2pCM1BKdlVaQWJkbEQ1ck5rWWF2U2VWVlZzOEFIdkJRNjN6YkZxZ3djNVBRcVIzTWR5QXpPQzVMTkZJVFJwYlVRODFqTW11WXZBSmwwaXAyUGtQNEJ2LXh0N05seUVGSk5wbTZTNGpXT29xRTlBcFFuMy1mbm1WNkt1d25QX1hF?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-20T11:39:42+00:00",
    "tags": [
     "oil"
    ],
@@ -2617,80 +2691,6 @@
    "src": "24/7 Wall St.",
    "t": "2026-10-19T15:00:00+00:00",
    "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "The US Dollar fell. Gold didn't rally. That tells you everything",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkxxOVJ2QVV3TDVRcFdXQnZONnhBUUR5aGV3SEZINWhkdS1qck55ekYyVDJpRjdMNGZvY0V1eXpkZktyNXBuWmFpaG5RT0Q4d2kyLTVRT2dNUVl5VlJaaWRlTjUwOXJ6bWJjTHBGdDRpYXVCdUpUR0tzM1EzVncyYUJfZU02V0RTY0s5aTVfUUl5MUZBYTU5YUIwOGhaTjRrSzhKS1dxbDhBTndj?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T14:59:28+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
-   "url": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
-   "src": "CoinDesk",
-   "t": "2026-10-19T14:58:40+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Spot Prices | Silver Prices | Platinum & Palladium",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UZW9OY3B0aUpxd0RPZEJjSHhJXzZzd1lZSTZyOHgtMU96OU1fVlpCcENYQ0R4Ylp3OTc5YzdtMzZsdVVJOWNHOEYzVEdZbkdrTHp5VGRR?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-19T14:58:40+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "TAG: October Fed rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wbVNaNW9Nd1V0U3EzSFdNRDNuRHZnQmFRbDQ0ODN3MFNCWkJmWmVRc1h4SXE3YTBYZzdaUm8zaFRIRTZuU01SeGJfbVVKVUlRTVVSZnJmMThKYVA3MF9wNFRB?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-19T14:38:48+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Price Analysis – Gold Continues to Look for Answers",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUTRfRkM0OEJMS194Y2k0TkdzWDFZb0NXWXRpbTJqRGNuc1VhNmNmOTA0Z3hScnFXX3NTYkgxVFNSRmUwZFptYUNscnZyZW8zZUhiQ0ktWkRVdUJZLTFYY0ZyMkswWHlLaVpJUVJYbnlDZkJzaDhOMTFNOG5Dam1zc1I4MnZFQXVvZEhXdlNPSnkzWmZPZEd6eHNMVGp1WE9nX19IN0pUTTI?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-19T14:37:40+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold and silver prices pressured by hot inflation, but gold ETF holdings buck trend to hit 2026 highs – Heraeus",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWS1XbUdWTEt4Vjd3MHRGSWhndDhGUFNnaDR1OExpajlpX1kwVVAxZXpPb1l5N1dPRm5QRTkyRjRVc0dKRDdiTVJ0Z09nQmpzaU9Ub2M3MVhDYksxelZOc1htWXg0UlIydGE4VE1iVkplbnFDWDVJMG1UWVNESk1TUmZRQWdzWUF0SWVaQTl1Zk1jLTZadlRRaWN6ZjVPS2drM1NvQ1Z4SHh6dHdjWXB2WjltU2VzU2RjY0VzQXV3?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-19T14:30:45+00:00",
-   "tags": [
-    "gold",
-    "silver",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Ether ETFs Have Given Back 62% of This Year's Inflows. Is Wall Street Giving Up on Ethereum?",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVFI4TEZoUjc1OVQtRWg0dnhxb0t4XzdjMTJqTU41VWp4SmVTNkloYUVrazByeVZXYm9LMnlhaW91T1Jaa3NWbWc3akZwcFRFWTJpUFh4dVNvd29QaVdfcTY2YjV6MGxmSW5YLTN5YVZpckt2SWRpRW9iYXl0dUVFeDVtempyZFFiOVJUYW93UTczVlgxYThicHg2MnpUNlpaUUVieWVnVlZZOGNRZW1nQTRNSXM5dE42NDVjT3M2dkFYQVdpbVQ3NkQwLUg1N2FTcVBtY095T0djcGpyNXJ4bQ?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-19T14:30:00+00:00",
-   "tags": [
-    "spx",
     "btc"
    ],
    "tone": "neutral"
