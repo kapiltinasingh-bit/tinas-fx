@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-20T02:01:02.609580+00:00",
+ "updated": "2026-10-20T02:38:49.922731+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -114,10 +114,52 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "NSE, BSE to hold Diwali Muhurat Trading on Nov 8; check timings",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVUplNlpYOTJYSnY2T0dYaHFoVElDTW5YN0N0SU13bVZKaXdBczBYSXR5Qm5YN0VaOWc1NFMwMTdVSWdVc1FGM1hZdFJaZl9vajI2dHZBRWpHVGtrZ0N3WDdWTEtRNG82d0Y0aFRUSHFTeWxyOGk3b2ZqTXJPbFFwVjdqdEMtZ0VrUGpicElqVUFieUZaME9BVUZTZk9tWjFHZVVOdkxOek1uVHVZM1pScHM3SFdJcGxnZkMyLUZsWE1LNTNSZ2VZ0gHMAUFVX3lxTFBWYXVlYVdOSHZLbUhnUHhsMmhobk9scDIzR2p3SmM4QkNrelhzdUt3cGtfdExEN0lJZVlmQ1hyY1pwZ25ldDhDWmZIMjA4Mk96MXVOeVk2bHB4dWE5OFVvdkpFX1M3UGhidHJxd19pdDMtVFMwUnlTRjRyRXdqb1FYbGlHdGhIYU4zaXFydkdjUXRWQmE1TkcxQmdhWTM0ZEhreVAzbnctQzJoUWwxTUhfaUdsTTFiSVdlOXRrYUdsNGdONGlXdXlGMk5Ybg?oc=5",
+   "src": "Business Standard",
+   "t": "2026-10-20T02:16:59+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
+   "url": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
+   "src": "CNBC",
+   "t": "2026-10-20T02:16:25+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Dollar and euro drift, yen slips as markets seek direction",
+   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-and-euro-drift-yen-slips-as-markets-seek-direction/articleshow/135059705.cms",
+   "src": "Economic Times",
+   "t": "2026-10-20T02:04:00+00:00",
+   "tags": [
+    "eurusd",
+    "usdjpy"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold slips as investors weigh Fed rate outlook",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-investors-weigh-fed-rate-outlook/articleshow/135059635.cms",
+   "src": "Economic Times",
+   "t": "2026-10-20T02:00:02+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Gold Slips in Asian Trade as Investors Await US Federal Reserve Decision",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGdsOFFUV1E2MGdPUVlmdDF6TVdqOVFaTWlsMEptelNkXzQ4dTZXZ0tIdlNDZTc5cWVaYUIzREFUSHhTVGEwVjNKbjNEZ1Y3Y0VUeDFDYjVmZ0NHV3d3WnRaY0JkVl92a0swYjJRNGZZYk9VdVVOaHVod25VYkhodkJnSnlpSkhnTHRlaDU1QVFHUUgwY0lXZ1BNSzdtSGx2a1piSDF30gGrAUFVX3lxTE9CbDMwaXY5NHJ5S3hWQWoyelFpQXctTzIweVNhMXd6V0M5NVlHRHEwbk9BUzVPV2xPdkxfS2xMN3gzeTRCNHRnZjNMUEJ5cjRhbDBsSkt4ZGdFR1M4MVRpbE5xdy16M1l1NGlfWWlKZU1LTEFRSHV1bERSZ1l6M3Y1N2tYZS13aXdGS3BKNVlqTTN2UVMtOVdROW9BRGJDUXNUQzdCejRwRXUwWQ?oc=5",
@@ -140,13 +182,12 @@
    "tone": "neutral"
   },
   {
-   "title": "Gold slips as investors weigh Fed rate outlook",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJCYm9CRFhWY01aUkRqYnVXb0RzRC1RUnhfOEFicHItalFBMnRMc0ZjcWRVcGNnZVg3ZXQ3WXNXeUZLN183enN0NFAtdmxuUHJhRU5jOHlQbTg1TldhNVdtbF9IWU1GZ1BfOEZvTnJpUEhGTE5xUkRSbl9FZVR4NlFJMEE2V1VYZ1hVRzk3SmpJMi1qelE?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-20T01:33:00+00:00",
+   "title": "Market holiday: Are BSE, NSE closed or open on account of Dussehra 2026 today?",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOUswRFp0ZXVjdHdibFNScnFTRDJNdm4tQkExX3lNOE1nbWNxYjdnb1NKR094RjI2YkxVTGNOTUNfZzdzbEZRZEZsVkw4WU9ETDdhdjNsU0RMSUU1VlAzbDFGWW43ZVBDS216UVlmRTFzbWV3b3JYeEVoQnJEaFdBdG05RG9xQmtUdEhOQVVvaE1DTElmdmFzMVBfaklHaEl6dDJHOEZJZ0VsUExMTUtyc0ZFdF9OUmlkSzhwRTF4aDNOTGVzaTRhZlFFNlpOU1I0YWVnRVdrMUk0TmfSAeABQVVfeXFMTnRJcDQyc3FtcXUtbUVsRGVTbXFyRDJUQ0tvWGJzbGIyemJRWlVlNno3cGZRaXVUNUJnYmNDWXFVM2hEa1g1Vl91cXV1c1BsZktLdW9ORmJ3MU9DQ3UzRTBvZ3lNUGhrWkdqX0JrUVBLVlpuUHpfajZ6dTJOZVJvbzJTYS1oTG5qSFQzbVZkcVIweTRpYzdpR2phYmNQSk5zajJkQUlQNmxocWVlQ25RNnRlUzl2alg5R0hYNXB1N3YtSmpFc2NtamJwSWZVcENKY1RNWGtzc0JPM3VxOWxfVTc?oc=5",
+   "src": "Business Today",
+   "t": "2026-10-20T01:35:02+00:00",
    "tags": [
-    "gold",
-    "macro"
+    "nifty"
    ],
    "tone": "neutral"
   },
@@ -167,17 +208,6 @@
    "t": "2026-10-20T01:26:33+00:00",
    "tags": [
     "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Dollar and euro drift, yen slips as markets seek direction",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSUxQSVRjRjl6anBfSHI3bzZ2NlV3S040MFA0T3A4alRwMk1tYzRqbjJzN1FYTHhMRHhscmptLWVyVGlIS05DVVhIdDV2blRFRzN3dHlGaTNHSTR4QWNoUk16V1pXS3ZGalA3SmtoUHhKV1FhNTJjeXU1T0hKUGVMMmtZMDRYRlFPUDZUUjdNVTN1MDl1UWVGMldBOUIwWjNDdm93Ul9RTWMtbWx0M0HSAbMBQVVfeXFMT1FSQUNSTFNCVVlrTUQ4NDZMblMyOE83cHZpOGdqYlk2dk1KVTN5NzdBM0F3WGplNnVyaG01RTJkZEZ0VjVfNC1rZmprck84bVdEcjhILUt0ZUMxenFSRVZ3UWJQWEFiMGZGZV8zR1d4bm9SWC1zOXU2U3dySWNuUUZPMS1yY1FGbnFmVjhsYU9IODJ6UGV3a3dCbjJQRFE2bHJWZjduaEZoN2JLWF9LN2MzWWs?oc=5",
-   "src": "Livemint",
-   "t": "2026-10-20T01:13:47+00:00",
-   "tags": [
-    "eurusd",
-    "usdjpy"
    ],
    "tone": "neutral"
   },
@@ -303,6 +333,16 @@
     "gold"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "S&P rises and Nasdaq jumps over 1%, rebounding after their worst week since June",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNnV6LWd2MkRIazdMYll3QjUxbUxKVDV6MTg5bGI1cENTOXFSV1l1MHpKNklrTGViOWZEMkVBTDRQMmZTbnhUUHI4RzZlbmltYkxSdWpUTzRCOUhkZE1QSzN1Vzk4NHhvRnhHblZWN2V4TkhvODBfdnkxbVdIazNwN1RpMGhWeEhSRVBaMkdRN0NlVXAxZkwzUi1BUVcxTHFrbnAtZUs0Qk5WY0EyaVFzTkZ0RXdBak5lRzltNFU1SGxoUQ?oc=5",
+   "src": "Investing.com India",
+   "t": "2026-10-19T21:23:34+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "TAG: gold ETF allocation",
@@ -2673,48 +2713,6 @@
     "macro"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Gold and Silver Price Forecast: AI Funding Fears Fuel Rebound",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmRnZGpxbEducVItVG1QUU1xaDB6YkRMQXNfbUJadmp3TkVBSUtYbzhJVXMwMlFTT3YwRWZvQ2pPN3QyY1YtWUxMcWJlUnhOM2U1Mm5KYm9lZlFOeHdDaXZTblhscXVfVWMzdFFseHpUWHBpdGE4Z2QxLVhNekxRYldSMEQySzk2aE1JRjZmTjRKTEp3bzUwV1hNbDY3clhkeE9KdDEzR2E0QkVaU1dWSg?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-19T03:07:26+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Stock market today: Asian markets fall on AI valuation concerns, crude oil risks; will Sensex, Nifty follow?",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWlNUQVFmVlZwM3RjMFNGOUVuNk9BdDFjRVVGb3dKUkVaaWhJaXRkQmxKUUpUVkhFcGVlRkRwck9TR3JFZVowaXdCNEZ1aHFvV25jbUlkNF83XzBvTXVWYmdsOVhZQnBVNmlEdWlVZnc3OFY5eXdELVQ3MTNoLWFJdmJBdTZfYXlzS3IxNWZXTTNqUlpJai1pb24zeGNyWV9wTHgxTXowdTNDLVJ2QzROdHBLQ2tENjVnYlRLTW04UnMxRTA1SjBZbEVZUVhJRWFVbmVsZzV3dU9yQWgyTl8tQdIB7gFBVV95cUxQb1JDcWxJaUxJZlFmek9tcnVQVDY5a3dKeGwyYUhQWkN3YnFQYlZoUXBaUzVIWm0xbXp6cHpQY3gtZmV3a2drQXVadGNtT0kzYXNYelRlOVVGMjFhczVWaDlsVUljN0N3Y3dIQ1pWdG10aXVZWWlKLWIyS19uVjNoalhhdTB2bUhBN0d3T3NSRndMaFVIb3c1WjZ5MWhURHRoTl9oajNoUklVSC13ZkdfM05hMEswdUxDRlNOcHBwVWVfcEc5Y3EtMkdQdUFjVy1DY0xHT2R6M1dOOWprb05QUXBweUNnMTkySERYZzFR?oc=5",
-   "src": "Fortune India",
-   "t": "2026-10-19T03:03:58+00:00",
-   "tags": [
-    "oil",
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "$4,200 remains a tough nut to crack for Gold bulls",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1BBZ2p0WVlHdXZ5ZEF4ZHBsTXM0dXMyZzBVTm5uQTlHaTQ1XzRkbDBVY2EtX05UQlNxWWFYcjBSODhwaDYteFFpMEU4ZW03UzZ0U1ZpOElfYllqaEw1dXFqdE9YUUp5amdhYlZEZTFVTG8ydHBqTGRtNVRsWjNJekV3MFhlZ3p6bEpHN0ZKZUlTelB6OG1JM3BaT3Y?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T03:01:53+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "IAUM: For Gold-Oriented Investors That Emphasize Cost Efficiency",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc0UxZkxQQU1mUjR1aFdTM3FLdF9QZXZBYjhmZElLdzJJYkhzY3ROaGd5QlgwSm1nUDB0VmN4ZkJfN2I5REdERHdCUzlQWHBoVEM1NzduZnp0NGRidmkwbmxsN3pwVHF6S2xqNnd1b3d0TERXcngzVnN0TXRsMm1XWTJxNGhMcFZoaFBqcHJUWUdsazlWSFhvTGpNOEpJMTNYTzdLQkl0Yw?oc=5",
-   "src": "Seeking Alpha",
-   "t": "2026-10-19T02:57:14+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
   }
  ]
 }
