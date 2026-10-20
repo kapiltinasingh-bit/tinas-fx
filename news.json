@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-20T04:13:25.483530+00:00",
+ "updated": "2026-10-20T04:44:14.154681+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -114,10 +114,40 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 2
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Gold price in India: Rates on October 20",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcWVfdHUtQXRxNVJqWlo3djVhZmhJTjcxN1Eyell4Tmh0M3h6SndzdzhjQXM1eEJpWjQ0ZzFicndzX2FwMjRwZWVfRlY1X1MzWllEWE1EV2NTR1NJbTRic0VHcEpPajRINGxDTXRqb0lkNGtIbkd1SUZBNXhJWEFjNDkwSkkxOHhGTlNfUlplMGJDUDhSLUp1eUVKWk1nTnhTekZIZHkzb2hIZw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T04:35:27+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "EUR/USD Price Forecast: Multiple headwinds for Euro backs downside bias",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYlFzUjUxR0U2cUtHMzBZTm5oX01SQU1panNjdnlnY1luTXJLTkZhUWxreUdyajN5NnRsQ2tjSDRkeU1rZkI1VkhkTmo4OTBoZ2hYaHUzOWlDZFIzOTN1bndaOXVmckxLdXJUU2ZBRTl3R0JtMWZVeGdEVTdoeVdLMW10LU00LV9LTFN0eFJPeVo1QVpLOHN3TGk2eGUzMzJqdzV5NTJwLWw4QmJoWVhZQ0laRQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T04:30:44+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Korea’s KOSPI crashes another 5% as AI rout deepens; AI bellwether down over 40% from peak",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-another-5-as-ai-rout-deepens-ai-bellwether-down-over-40-from-peak/articleshow/135061021.cms",
+   "src": "Economic Times",
+   "t": "2026-10-20T04:08:50+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Brent crude holds near five-month high on Middle East tension",
    "url": "https://www.investing.com/news/commodities-news/oil-eases-as-markets-assess-potential-waiver-on-russian-energy-middle-east-supply-risks-4958607",
@@ -265,6 +295,17 @@
    "tone": "neutral"
   },
   {
+   "title": "Gold slips as investors weigh Fed rate outlook By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTXdnMWo4OFhJRXd6dG9kZ1hvSWZXLUQ2MV9VUWljeEhjc3hkUmt2SzNhWmx0akdfTXQwcW1yZzZJQlZvOWZjYkRBTHItQy1ocVJXS3lxZkdlZHJYaEpGaVFQMk5DV1ZVOEhFWEV1MWxqWENySi1oVTFIRTFEbWZNQU55dGJfZXA1N2NhNUtXVkRUMFE5NUlYVW1LalBsX00?oc=5",
+   "src": "Investing.com",
+   "t": "2026-10-20T01:48:09+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Stock market holiday: BSE, NSE shut for trading today due to Dussehra",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWG4tNkZZdHZiVXdPeE5qVEh4aGdIdjROZVNiTlFuWFExZWZ1THNWWDE3SHA1OWd5RXF6MVBkM1ZiTUtlYjJBNDRtWEt5eWdiNkw4bTdoalBsUUJ4LWE3QW1fcHk1bDhQMHc3emJSa0pJNUlMcWxPODZ4ZXhfY0Z4Snl1TEZSSkZlcFZVLTlIQ1ZRWUEyNWYySGRtVjAtajRHZkUyaHBaeEl0ckoyT3VjNXVKT3M2d1pVWnp6ZVlfZHJVaWZSTUVaVG9OcjFObFXSAdQBQVVfeXFMT0tNZXVYU3Rod1VIMVlIRTdORGxHMDVYQzZoMG1NV2JGM3hWa0dtT3NFaEE3RUJwUVFrSmhYZ0RkQkJUUmpjbUtHRk1WM0ozakswZVVpMDBUQ1NFUGI5eFRtcFBCQUJPekRGRkMtakJ0Y2p6TjZDMnZBaHVxUVhZZUhSc3NrUXdVNFQtSmtpTkFlUnJmc2NzcjVORnFBMHdpX2pma1l2aFNUWVJOREVtOG0zdVl5X0tWWGJqNy1FX0NVVldsckJXY0FIOU9uWk5EYVI0ZHo?oc=5",
    "src": "Business Standard",
@@ -281,6 +322,17 @@
    "t": "2026-10-20T01:35:02+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold inches up on softer dollar as investors assess Fed rate outlook",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJCYm9CRFhWY01aUkRqYnVXb0RzRC1RUnhfOEFicHItalFBMnRMc0ZjcWRVcGNnZVg3ZXQ3WXNXeUZLN183enN0NFAtdmxuUHJhRU5jOHlQbTg1TldhNVdtbF9IWU1GZ1BfOEZvTnJpUEhGTE5xUkRSbl9FZVR4NlFJMEE2V1VYZ1hVRzk3SmpJMi1qelE?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-20T01:33:00+00:00",
+   "tags": [
+    "gold",
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -376,6 +428,16 @@
     "macro"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Nasdaq 100 Sees Best Day In Nearly A Month As AI Rout Cools — AMZN, BE, CRWV, AAPL, PLTR In Focus",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmhicmtORkZuWXluYUZYd1lobHB1UDNlZk04YWRMZlg0blppUTdhdm0xYmhCOGNOS0ttdjdSbWlJSzNkb0JHeFBHMnFHdWxyTi1oLVl1dEljTXd0Q2dJNXcwQ0QyY1lHdUZkblF3dGppS1hfTmN5NDVKT3NxYVliR2xnX3p5QmxfeVpHZEJZZkpCOHc?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-19T23:00:23+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Forget GLD. Investors Sent $500 Million to the Cheaper SPDR Gold Fund",
@@ -2645,69 +2707,6 @@
     "nifty"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Bulls retreat as Sensex falls over 200 points, Nifty slips below 23,100. What's next for D-Street?",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-200-pts-nifty-below-23100-what-lies-ahead-for-dalal-street/articleshow/135039622.cms",
-   "src": "Economic Times",
-   "t": "2026-10-19T04:34:53+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "EUR/USD Price Forecast: Weakens below 1.1250, bearish tone prevails below 100-day SMA",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOVQxdmhDWVh2YXNXeDhTUzFuM1doNS1CRzhCcThCN0NPNkJETUtfRHYzNzlUc0pIekQyTVc1Mnp1U0xNMkR3WHEtUS1WT3ZzWXp4X1dNOWNPLS0yMExoMkJDWkFZakhzYWZzd0NydXNTbk14SFpEQVFlcV9oaGx6NHpKMVdBY0NuanJMQ0hSSG9fbUhocnZCT2lPYWFSSTBaZUFVOUdYWkRQcTYwRER5MFUxOUZmRFJZeHpXNlJyai1Uek0?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T04:31:30+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Sensex falls 400 pts from day's high, Nifty near 23,050: Selling in bank shares among key factors behind market decline",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPX0ZrR01tNEtyWERzY1BYZmZPbVhvSDJSakNTSUFLdm5Hd3lOUmNQeTR4Tmk3djA0NlcwY3hEQUtvTFFRWU85SXZuU0NScmJUbXdLLV84UV93U0xLdWdMV3JOT2RCVWNBMGhNcUZVZHZhRGp0Y0xxLUJoTnNLMWl2NkVLWkJncnVOTXZpZ29sRWZOaVhsby1oMkFMYm40Y2pGTzBwM2pJNGwyR1I3R0RWR3ZTZktKUzN4Z21GM25TemxxNl9VZ0UwNXNZMHM4R0cxY05CdHFPS19oWGZCRWRMM0t1cmdoa0pXeXM5RFpBazJ3QVpfRE1BR08zWWVIVi1TclltZ3RFLVlLQzFH?oc=5",
-   "src": "Moneycontrol.com",
-   "t": "2026-10-19T04:27:35+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Sensex falls 900 pts from day's high, Nifty below 22,950: Elevated crude oil prices among key factors...",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPX0ZrR01tNEtyWERzY1BYZmZPbVhvSDJSakNTSUFLdm5Hd3lOUmNQeTR4Tmk3djA0NlcwY3hEQUtvTFFRWU85SXZuU0NScmJUbXdLLV84UV93U0xLdWdMV3JOT2RCVWNBMGhNcUZVZHZhRGp0Y0xxLUJoTnNLMWl2NkVLWkJncnVOTXZpZ29sRWZOaVhsby1oMkFMYm40Y2pGTzBwM2pJNGwyR1I3R0RWR3ZTZktKUzN4Z21GM25TemxxNl9VZ0UwNXNZMHM4R0cxY05CdHFPS19oWGZCRWRMM0t1cmdoa0pXeXM5RFpBazJ3QVpfRE1BR08zWWVIVi1TclltZ3RFLVlLQzFH0gGSAkFVX3lxTFBLZ0l1amRpdlJzczhRcUk2UURKdlJpVE5BS3RUUG1zMEc0U1JFYkduaGwwMU02eV9URFFQWlQ3eHZYeXZhX00xaUhVQ0hCUnlSeXY1Ny1fV055Wmk3RFFwQ2E0R1YxOGtwdDBTT1dTcFJPSnRYUGE0Y0lNRWNveTk4M082MllkeDVCc3RHUEh1N1p0Mzd4RGNUZ3pZbmZreFdUc1NWOHczWGx4UURjdVFPd1E4V3BQemVjQi0xTE45bHpwTXR1dzF1T3NEN3c5cUZhSllxY0VOVjlsSEZxbFVKakFfYnc1b3oyTUc3UWZabXBheDA3dm91QnpyMFhQT3JxdEVLaDRTSWVjWmxpSWp0elE?oc=5",
-   "src": "Moneycontrol.com",
-   "t": "2026-10-19T04:27:35+00:00",
-   "tags": [
-    "oil",
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Gold edges higher on softer oil; Fed rate outlook in focus",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXUxeVVHc0hZNU4zazIxT2JkM2Vxd3I3N0wyemRBd3M3dkVSY0hmSGhiS3JPTkhseEU5TlRqZWg4aXl5N0ZWRE01SjgwSXpBZXNyUFllbHdHNHd6SkYzNEMxTURyYkE5blNfLXU5V0N2RkRaS1B2cEtqMG03YWlqeDIyWlBhNHJPT2NpdTh0QXhGNl91UjgxZjhB0gGfAUFVX3lxTE1JMkc3czdPbDRmdlB2VENWaGU1SE5hVXY2WmM0QmNmNVlualhDQThsTnMwaEdhYVMtM2taemNfZmdWWEZXUjlTdTV2ZXlOWXQ5dTlyalBtc05SN0tHTlc4akpsY1psaHdvd0owMl81cXBJNUFRN0NheGoyTU54TVFkWDBXUkl0NHpTd3kzdlc3NnR0WlBqYi1LQ2hMVVlZWQ?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-19T04:23:04+00:00",
-   "tags": [
-    "gold",
-    "oil",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "US Market: Wall Street’s AI rally faces test as Meta earnings loom",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-wall-streets-ai-rally-faces-test-as-meta-earnings-loom/articleshow/135039431.cms",
-   "src": "Economic Times",
-   "t": "2026-10-19T04:15:16+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bullish"
   }
  ]
 }
