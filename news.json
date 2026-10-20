@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-20T10:24:20.530522+00:00",
+ "updated": "2026-10-20T10:57:15.131183+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 8
+   "new": 7
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,26 @@
   }
  ],
  "items": [
+  {
+   "title": "U.S. oil surges to top $107, Brent crude at five-month high amid Mideast tensions",
+   "url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+   "src": "CNBC",
+   "t": "2026-10-20T10:48:27+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Why smaller stocks face worse prospects than the S&P 500 in the coming years",
+   "url": "https://www.marketwatch.com/story/why-smaller-stocks-face-worse-prospects-than-the-s-p-500-in-the-coming-years-f9f703ae?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-20T10:30:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
    "url": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
@@ -139,12 +159,45 @@
    "tone": "neutral"
   },
   {
+   "title": "Stock Market Today: Dow Jones Futures Rise, Nasdaq 100 Falls as Iran Threatens to Target Undersea Cables",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaGktMy0xS2JTeVBCNDh4V2s4cnB2VExWM0p1WmV0RmFGdTM5ekdRTUl0eDBYb2txWnFSeUdFV0J2TVNpWXNzTUY3UmFnMHdtUTE4YXJfbE9ybWNuSkcwVXpwdzR1Y3czS1ZoWS02SWxwNUtWaWEwZnNpUUd4QXh5Q0gwbzA2X0dTOEtNLUhWUFdpWGRnV2pscWRtQ0JfWmE2dV9yX0ZMUVZSYTJfWURhLXh4WE1tTnMwNTk4MWFzcnhLakp0MXhwbnhJSXdQMnZxVXFaTVZNcDBZSXdtT3g4T2dROGQ0aDVobVFZdWJVUUNiUTd5R1llSEY0VGk1MnFuUkY4SXRiVzlLcFg0NW1TZA?oc=5",
+   "src": "Benzinga",
+   "t": "2026-10-20T10:13:26+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold Prices Fall for Third Session as Oil-Driven Inflation Concerns Shift Focus to Fed Rates",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1kzd3RhLXZ2MWc1b3JaaDFhbV9JcWZpdGNDaWVsRUZfdTJDWGlIaWUzbHQ5aHV1T2NWYVduTUF1RXF0eHAyRUExcTRqbGE2Q0Q5U2xJcVJGeFFQejFBMlJuNXFCYWdJWnpHdnpUSVptMXBjNTRGZU9WX1BENUY0ajNSZFNJR2M1SW85RG16aWtaNDNkNlhFYi14ZVRPLVg3NlE?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-20T09:53:52+00:00",
+   "tags": [
+    "gold",
+    "oil",
+    "macro"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Dollar surrenders gains as record Japanese bond auction sparks Yen rally",
    "url": "https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775",
    "src": "Investing.com",
    "t": "2026-10-20T09:48:03+00:00",
    "tags": [
     "usdjpy"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Euro gives back early gains as US Dollar bounces back",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTzFfQWJlYXJBMGV2RmZ6dnN3UzJLbFB0YTVoZDFBdGU5WXNVR2M2N1JEdU51bk03WDNlMmozUDFMYzhEWWdCc1lZR2JnZW9mZWozQnBlc3pEQWRKT19EbmFiV1R1Uk93Xzhvemg1VGd1Sy1JRUN1eDlpRjJSUXJubUVBbl9QejItRWNxaHhOWXNLZUItYURPbHAtZnU?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T09:39:16+00:00",
+   "tags": [
+    "eurusd"
    ],
    "tone": "bullish"
   },
@@ -2652,58 +2705,6 @@
    "tags": [
     "nasdaq",
     "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Crude Oil WTI clings to $96.50 support amid bearish MACD: Live",
-   "url": "https://www.investing.com/news/commodities-news/crude-oil-wti-clings-to-9650-support-amid-bearish-macd-live-93CH-4956493",
-   "src": "Investing.com",
-   "t": "2026-10-19T07:15:10+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Brent Oil stuck near $107 between double top and support: Live",
-   "url": "https://www.investing.com/news/commodities-news/brent-oil-stuck-near-107-between-double-top-and-support-live-93CH-4956491",
-   "src": "Investing.com",
-   "t": "2026-10-19T07:14:44+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Silver tests bear flag at $58.60 resistance: Live levels",
-   "url": "https://www.investing.com/news/commodities-news/silver-tests-bear-flag-at-5860-resistance-live-levels-93CH-4956490",
-   "src": "Investing.com",
-   "t": "2026-10-19T07:14:42+00:00",
-   "tags": [
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold stuck below $4,225 resistance as ADX signals chop: Live levels",
-   "url": "https://www.investing.com/news/commodities-news/gold-stuck-below-4225-resistance-as-adx-signals-chop-live-levels-93CH-4956488",
-   "src": "Investing.com",
-   "t": "2026-10-19T07:14:27+00:00",
-   "tags": [
-    "gold",
-    "dfm"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin rises to near $83k amid some relief from falling oil prices",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHlYQzVndnRaMzAtZVphSjdTa3ZuRkZvb05WVVhONmU3SDVqN0w1RTJONUF1YjItZ2dXcC0wTGNVRTNvMno3SEYzSXZBQ1dkakw3ZWl0SjJtNGN5dEhxcWVQRWJkWVpDdlY4LWxvWXlUM1U5YVZka1JNREdvWkhkMGxxbUJBc0xwTFN3UGZxQmJoLXU0Wllj?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-19T06:57:48+00:00",
-   "tags": [
-    "oil",
-    "btc"
    ],
    "tone": "neutral"
   }
