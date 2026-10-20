@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-20T21:56:43.254111+00:00",
+ "updated": "2026-10-20T22:21:35.898788+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Update: US Equity Indexes Mixed as Weakness in Communications Services, Technology Restrains Nasdaq Composite",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUVphOUhDSF9vMDZ4OFRleG9EbUd3Y3k1Nzl0eWM5RUZTMGF1c29NMVRGSEV0SUtfd3J4cUxpTnFheVBjX3ZFT2hKbVkzd2VuRzM2VDNrV0pOUm1EbVZMSU5PUXk2MGxjV2VDYjNmLWxUMmhQa3RSNUJUWEUyUE5YdlF2WHNadm9LcG82N2xiNGFyd2plejQxQTBFOXVKUQ?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-20T21:34:59+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "CIBC cuts Q4 gold price forecast to $4,500, then sees bounce to $5,200 in 2027 (GLD:NYSEARCA)",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUFrNzIzWFVHUlc1aVVWX0FjMWIzMk13ekdhOGdQRDRFREVfNUFyNU0tbExsMzQ5b3M2UjE5SFh3cWhIQ0w5N1Bkb21TamM0WkQyY2VRVXQweVp5dDZGVTJqWHVZd3dLMTgwVlRiUjk0WWNubWFEYm9xTDdNWV9VVldWT1RwbWc4TVdoa04yRWp5Q2VQVjFTakQ5ZXJHOGk5eXRjT2lQWXBGOW1FYWFpcw?oc=5",
@@ -562,6 +572,16 @@
    "tone": "bullish"
   },
   {
+   "title": "Webull to debut crypto-linked perpetual futures in November",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQnU0YmVvcFVMMHlzTV9BdWNGdm0wXzJWOXNldUxJNkUwcExnczVWRzRDaGRwdEVNU252VENjVmpNV19fWEUwc3FBYmRZa0NsTWw2Z0NIdTNDb1lzMTFFSjVHdHlwYTQ4M2lhMmxzVWk4V3BGLWJxbmVsclZaQzNDNWVPS0ZWYld1TVpmeThWcjZOamdTSG9Cb3A3LWFFSkU?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-20T16:27:35+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Silver rebounds on weaker US Dollar, but Fed hike risks cap recovery",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHNmTkZTTmpHSDJrem5DNEFWakR2bFV0emxxTWVJeWM4bzFJZDlPUjBWdGVHdjdXRlc1Q0N0ck5HSmN3RkVSektLUEJENWlxZkFfN3RUYWl3ajB0enNSa0xET3h3TXZJVkNrYXMyOWIyRVhWQng0Szc1NmtjNXRoMmFRdTNzOEFhbC1Ebk9hOHgyWmJ0NlU0RGJRWWhVd0hnOWxxbTZTMkVTTWEzX0o4?oc=5",
    "src": "FXStreet",
@@ -852,6 +872,16 @@
     "oil",
     "spx",
     "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "US stocks today: US stocks gain as healthcare stocks hit record high, oil prices fall",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdDd6elZmZzMzVjVxQ1JfUE1kY3pOamJyTWNEa0J6QVM2dkVhek5MUFltcjN2cC1HbGdJU1JrUjBvUDhUd2VWTXh4bjVBZWNrSXZPYV9SZlVEOEp3UkdFbTFHZ281WVFHYm9JLVhUZF9sZnpwenNvbV9hTlM3OWUzekNpc19SZWItNDB6UUEtUk9kdFNnRENHaHU0ZkpSdmZHV3hOSmVoUXdLZXU4OTFKNWp2VEJxcmx1eGFIMENVODBYQThBdUI5VlYwdDhYOVVPb3ZrVjFBYTlnUldLcDBDSlQ3c3dWTTZjM2hIaTRESXpvQmRIN0HSAfsBQVVfeXFMUG51SlM5YTFrbEI3RDZHajZoTXo1R0U2TTdSbXh5elA3cGlfQWxkTVQ5WDlhUm8zM1JJVDlDbUNzbnpHVk9xVHp4RGNiWW1YZFBiN1ZYMWF6dDc4N3dnNWR5VWtkc2YxUTQ0N2FVWGFtSkxwQ2pNVnJpaHhOcDZJSjEwbkNIN2JEcEhxZjdIMHJSYXZKT3N4Rm0zVmppM3o0WDlTS3A5djBwM0pTUTN6WUJXNWJEMXBwdXRTQlMwdkxqb0hXNmp6eUE0RXNqMlhnQ01paUFiNTVCVWlfYTRJWXcxQVlvOTM1bFpINnlLYm1Uc3JFTjBlQnRsdFE?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-20T13:39:30+00:00",
+   "tags": [
+    "oil"
    ],
    "tone": "neutral"
   },
@@ -2662,38 +2692,6 @@
    "t": "2026-10-19T17:25:57+00:00",
    "tags": [
     "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold falls as dollar, Treasury yields rise; silver holds modest gains - Kitco PM Report",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbGJUTVpVc09hbndpQTA5MmFxbVJ3QkpCa0lobmkzOG42QTFHRUctdEFTRGYtNHhqZ2czQWhXRGtHd3VGQk9MN1BrQXhlWmRrT1EzUlFZcnBQYlJjaGpEbUxFUHBXYloxMWRGY09KclVNbHlxbjBuVGJvMkJ1c0RzdVNuWWhEN2xNeEtrNU9faXFTX2ZWVlppRzdWR3k0VlFlc3BvVDZmRkYxcFg4UHpMSFNXVVlOMFJoNTc4?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-19T17:25:57+00:00",
-   "tags": [
-    "gold",
-    "silver",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Apple's iPhone Duo is proving itself the catalyst that Jim Cramer said it would be",
-   "url": "https://www.cnbc.com/investingclub/2026/10/19/apples-iphone-duo-is-proving-the-catalyst-that-jim-cramer-said-it-would-be.html",
-   "src": "CNBC",
-   "t": "2026-10-19T17:25:20+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Digital gold market triples to $55bn as younger investors pile in",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmkzVEYtaE5URGhXeHRPbzNQV3ZwdVNaX3hUTnE5MWRFcjRtd0JMNHd1S016RVZjTFhTeTZrNVFYbi1oWV9vcThMMWFIaXBLWVdRdU4yNl9ER0tFU041eFMwM2dsYjM1aWRxTU9SUzRwQ2VuNWxuLVdtNzFQNDRacUxMWWw?oc=5",
-   "src": "Financial Times",
-   "t": "2026-10-19T17:24:54+00:00",
-   "tags": [
-    "gold"
    ],
    "tone": "neutral"
   }
