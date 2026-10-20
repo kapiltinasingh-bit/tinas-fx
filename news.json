@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-20T09:22:51.909567+00:00",
+ "updated": "2026-10-20T09:58:25.087832+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
@@ -108,21 +108,52 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 2
   }
  ],
  "items": [
   {
-   "title": "Gold dips as oil prices fuel inflation fears, Fed outlook in focus",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHRoMVBGRXVRTWhCb2RFUlUtcWtYeDFCbFF1RmJaZTFINWpiOFJXcGJOM1NUczZ5a0U5emZGRk1zUjNYcVg4aE5HR2gzUTR4SERSaFk2NjEzMnZzZkV1azJveUppMEFBY2c5bmNBRTNZTVIxcFZaSXpRSUtmVlRPRVZIM1dMY0EzcWE3QWUwc2Z4SUd1UEJaaUFyeE5wZUx1aFE1c1dKNGJaVUdrSDFOMnVrdEtjVFJGSmxxNUZn?oc=5",
+   "title": "Dollar surrenders gains as record Japanese bond auction sparks Yen rally",
+   "url": "https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775",
    "src": "Investing.com",
-   "t": "2026-10-20T09:00:00+00:00",
+   "t": "2026-10-20T09:48:03+00:00",
+   "tags": [
+    "usdjpy"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Saudi Aramco sells more fuel oil cargoes for November loading",
+   "url": "https://www.investing.com/news/commodities-news/saudi-aramco-sells-more-fuel-oil-cargoes-for-november-loading-93CH-4959281",
+   "src": "Investing.com",
+   "t": "2026-10-20T09:37:02+00:00",
+   "tags": [
+    "oil",
+    "dfm"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "South Korean IPO plunge deepens AI market jitters as brent tops $111",
+   "url": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
+   "src": "CoinDesk",
+   "t": "2026-10-20T09:32:24+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Gold dips as oil prices fuel inflation fears, Fed outlook in focus",
+   "url": "https://www.investing.com/news/commodities-news/gold-dips-as-oil-prices-fuel-inflation-fears-fed-outlook-in-focus-4958694",
+   "src": "Investing.com",
+   "t": "2026-10-20T09:02:09+00:00",
    "tags": [
     "gold",
     "oil",
@@ -263,6 +294,16 @@
    "t": "2026-10-20T06:36:15+00:00",
    "tags": [
     "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Brent hits five-month high as attacks on ships, Saudi sites fuel supply worries",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFZyUDJYWGtXR0pfNlJDaEd6dzlYV1YyVkJwbllEWGxJV3dETklVMG9sWG5hbHlkV0RWeDhWZl9vYzVBOVoxOFdlX3Jja3IyYzlSRHo4dkZ6NGRFek80VDZlYUZZNGdNWFc5WUM2WEsxVjFnUDdYeURhRk5tb0xjRVZRVThub2pEZTJfbjRlRjNFOGxkbDZ0WHViWdIBoAFBVV95cUxQTy1lNnluVjY1WWtJSVNYd3JRd1pJczhXRkFyMmxxZnNOSXFDaHYtOWNNRXZLVHhyNWptX1pkUzctWUQyRXhob0JTWm5wdmQxWVYyLUZWVFhYWm1lTS1nOHpYTjFRckZLMkhJb2xmYlgzbmJiX2haN0xSMFBXSVVUc3FTeVYwZThsbkQyOGk2b01FZmRZSzNMMnBaYXBlZGtW?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-20T06:20:02+00:00",
+   "tags": [
+    "oil"
    ],
    "tone": "neutral"
   },
@@ -1464,6 +1505,16 @@
    "tone": "bullish"
   },
   {
+   "title": "Strategy (MSTR) on verge of golden cross, just weeks after bitcoin (BTC) did the same: Crypto Daily",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMEQxcEhxMUdXcTJDVHFreXRnel9BQzNLU01FdnIyV3dxNXluUU4xQncyb1FNMXBJMzdwZXRJdnk5QWtVT0FacWdrdllYQVB4R2lvdDhGbXYtdUt6RHFHVEliQUg3cXlidjE2SlV5YnFZVkI3empzWGdHclJaMTU2OFJGU3JWLXpOTkhKZWRURllkTUhGUjNtWVR5VGU1TmkyUkI3UExvN2hfSWJTNGlzQVA1bmVtSks2U29UUndkd1BibVVPcGtCV0lGeE1XUQ?oc=5",
+   "src": "CoinDesk",
+   "t": "2026-10-19T13:38:45+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "US stocks today: S&P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings",
    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPR2tVWFl1V3BoYklvaW9JUVpCb1gweXJqX2ZSV095VkFUZmlOV3B0MXlKNW9ncWhDeENHS3kya0V6alBIQ1ZKdXhxd3JWSjFjeXM1bU9ROWFLbWtkT09RaERxemE4Qm9seHFEOWVuSkJ5ek1Vb3ZRX043RklreUZrT2NMeXBGMnpUYkY4UmgySFhLRVdSZ0hiU3NDazU0dmp3U2FvMTBVRjhjc2F3UmcxQ1MwTHJaZml3ZGRkUXRVT0M0c0JHa1E5ZlVLZERkTkJUSF9rX1FLVGE1dnhsTkQ3OWYtOEJXcEIyNWVWU0s5cmR1NmQ4UHJYaFJ1WlAyTjlDTTNPQWtBRdIBjAJBVV95cUxNR3lRMTg0ODI2U184UmpXOEZwWU9zelpjZ0QwQkF5WWEtRjEtalBnR3p6WVBEdnJnc2ltb2M3cGcyMzVhOEJNRTBTR2xVazBLU1VIWlkzcW4xUnI2UDVNaFVNQ09vQzBIZmFmWnVVVWRsdllXRlNOcWJKV3h0NHFzeXZZTmlEWmIycGgxekdoSkVtbVBYcXZ5TDFVMGp0MlZjZzlOLWZsbWhZZDVBYmczbUZfTXZ4VnB0Y294a1VfQU5Mc2x6RXNyMmwzdnFELVpscnBqRDM3elFjYUM1YzZRRExQZGNpb0NmLWJ4emVid3ppTFVwVDk0ZHV2R1R1VklWd2xDdHBBXzRhSHRh?oc=5",
    "src": "The Economic Times",
@@ -2658,58 +2709,6 @@
     "nifty"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Oil: Brent eases after US Russia waiver – Danske Bank",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdG1NRWc0WTlWSEJVdUp5MVBpSmJtN2QwbUpkQktqNkwwR054S01WNDFyTGFoQlNhZW5nXzZVSFlrYWN6U1B2Z0daRTlhR1pFTmJSM0czQVFiRF80dXgwTWVmbzFaREYwb0ZzM01GT2dlVlViRGo5RThfZjlvX1dUMExPSk5WdGkwdTlHRzk0MllKU1FlLTBOXw?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T06:26:06+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Euro remains under selling pressure against British Pound on France's political turmoil",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdHp2RE5UUUdHZFdwNHlyMlVOZl9IS1lzZGVXeFlkYmpmbWI2Qm1qWGJQUHlNa185eVJ2NGdfdmliZmtGcDFwZnE4WkRsV010V1FFNDk2cjVNbDJMTGh2d1dVSkF4d2pyR1lVQWc1bURqa0lIYjdWNkFQMHZnbG9oWWFab1R5Q2oyby1YQk1qUW1CejdQVzVEODN3NVNEWXY5eXBoNzFPNlQ3M2pUWnQxNDk0Q0NnUUg4ZU9fNEJwX21jT0tNUnl0Mw?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T06:25:14+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "EUR/USD, GBP/USD, Gold and Silver outlook is negative for the start of this week [Video]",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSGtWTHl5Q2JLSTZqNzA4NjNhNjRXU0toRkx3U0xzSUgxU0M3RWZmTklDR05nOXU3QlI2WGZhQ2JZaWdkTEtLVjNYVFdiSmxMeVNVUWZQTUtZdGc3VTZ2OW1FZS14cHA3Tk5teDljbHF3Znlzb2hqSXlKazNLMHRlSjAtMkFtcmRwVzZOS21Edkl1MzVrZk5vMUk1bnE1dzM3RmVJY3J1YXFqLVBvb0N0NmdySEk2UkhQSVNjUjNsZlNHRVpaakdOMVh3MA?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T06:22:00+00:00",
-   "tags": [
-    "gold",
-    "silver",
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Spot/US Dollar pressing against 0.5 arc – Potential breakout toward 4,277",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObW52R2ROYXBlVjFMd3NLZUlWZGdoR1FpVkV5clQtVTZ6VFNkVDNYZ1JLSmJvVlhDcGp3S194LTB4UWl0dW1GdnVnSk9kYk5RQ2lmdnUxcmZMU2Rwd3NoQUlLWFRVWGdkLW5vWlBfRVZ3Nkp3RFp3VWtoelZfRm5odDlReW9jWGN2WkxYdVBIczU5b3FGLUN6emc1cTFqVzF0Vnk5cGVWanowWkxqM2gyMWtQUGNZSVQ2Qjc5U0pQaw?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T06:17:50+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Euro: Range trading bias around recent rebound against US Dollar– UOB",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVkpyTUxWNTR2eXVEbEFLUHc5YVJpWjI3dFJYUm9iVHphTi1UdUFWaDkxRUZiaThxemZKZWZsRWVfcTRSNUIzYXhSbkRFTi1mX2dHU1MweTVNZzYtVnRNMlY0eHVlaFltN2s4UVl1czBYWUFoeG80R1JOVHZxdVo0MlotT2V1VUVyMWY3R2NUWjdvOHAwb3R4dWhmUzdCXzZldjQ2ZkxNVi03RjkxOEtr?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T06:11:35+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "bullish"
   }
  ]
 }
