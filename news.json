@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-20T21:23:49.920048+00:00",
+ "updated": "2026-10-20T21:56:43.254111+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -60,13 +60,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 10
+   "new": 11
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "CIBC cuts Q4 gold price forecast to $4,500, then sees bounce to $5,200 in 2027 (GLD:NYSEARCA)",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUFrNzIzWFVHUlc1aVVWX0FjMWIzMk13ekdhOGdQRDRFREVfNUFyNU0tbExsMzQ5b3M2UjE5SFh3cWhIQ0w5N1Bkb21TamM0WkQyY2VRVXQweVp5dDZGVTJqWHVZd3dLMTgwVlRiUjk0WWNubWFEYm9xTDdNWV9VVldWT1RwbWc4TVdoa04yRWp5Q2VQVjFTakQ5ZXJHOGk5eXRjT2lQWXBGOW1FYWFpcw?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-20T21:25:29+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Gold (XAU/USD) Price Forecast: $4,217 Breakout Puts Bulls Back in Control",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1pDY1h6aGUtRjBicXJnQ1Z2bjVMczhBMDdTNWRvNk1lSXREelZtYVlCS0c2OHFiNURONmR1RjBuWF9sQk83Q2t0blZXUEpnbWUtWHNZUFBYc1dFR1BFeTA2YzY5c0NlS1JsX3VwdC1CdElHallqZGhZNXhzQVdpVmxsbXdoVFhaS1V1ZklhY0dQMElIbHo3MHFITW14WUhEZk1ZTVB2UW5yNWYxOHE3UWxfeUlUUENZOUNB?oc=5",
@@ -244,6 +254,17 @@
    "tone": "neutral"
   },
   {
+   "title": "Why is silver cheaper than gold? 6 reasons behind the price gap",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KWVJvZXVvNkp6bnQzR1RjVGtSUXRPR0NudDZfamxpVnFjWFY2X3dmREFoVXI2R0ZKTXQ1WS1MWDhMZjVQbHBtRWhzVlJfcFF3MmFhSU8tQlBIN3hSMm5vaGNzVjNGaEpiaHdWSVo3ZTBkTUlEWE96bFBBZ3BPdXM?oc=5",
+   "src": "Yahoo Finance Singapore",
+   "t": "2026-10-20T19:25:02+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "London Gas Oil stuck in choppy range at $1,463: Live levels",
    "url": "https://www.investing.com/news/commodities-news/london-gas-oil-coils-in-14001450-range-breakout-watch-93CH-4956497",
    "src": "Investing.com",
@@ -322,6 +343,17 @@
     "gold"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Gold pressured despite falling yields as Hormuz diplomacy sparks oil price reversal - Kitco PM Report",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPejlMMkZCWFdON19uclJ6REx1NXdMUkw5MEhGVEVaYng5QmRCUTNyU1FYSW4wblhBVDl5Z2FwYVdFVV9FSFI3bVk5MGRKNmtHYldFem8tR09yZzYwV2pXa2NyQk55VWlpT1BaMnJHVVdZcWpxYXlMQ2VSZTNfb1NsQUR1Tkt5ZnhLYlRzZEszVmxpTHdLLUNjLTRHbXlsM1N1Q3FORUI5YzNneE5FOWtmSENXQ1FHYmxD?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-20T18:32:00+00:00",
+   "tags": [
+    "gold",
+    "oil"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
@@ -643,6 +675,16 @@
    "tone": "bearish"
   },
   {
+   "title": "Oil gives up early pop: Here's what you need to know",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY1I1VVo0QXZRajVnTXJJVkxKZm8taWlveXVuZldTN29OVlhqckxGeklyZk9taWNjRXMtTWtZRkN2akdibENQNXpoclgyUHIzdUgxQThiMGxRWkl2X2k3MWk4Q0VZSjZjRmxyOTNVMmlkVFNaNU1zU013QmRoUkZmQVNSdjE5V3VrMGNuT3lkNF9tTlhjbXlnQg?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-20T15:24:16+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Bitcoin Holds Above Its 50-Day Average as the Broader Crypto Market Weakens",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeFJjcVJCb2I2a0ZEOHY4X24zQUJrUEVJa2RKejZYbk9BQjBPcnVfU1VjUlk4UjFOa2lVNjRKU0MtdERTY3NreHhFOW02SENsclZuV0luZGZCYW5aanUxekQyN2ZlQ0Y2UU83cjBkMjFVdHlBYkRDLUJZUVhra2lGekd5QXRUZi03U0FON2xDQTR1M2dOck5EdGxDclVfcGxoUTZNNk1LUGd3ZVBBcDlfVXk0dFVkQWNGenkw?oc=5",
    "src": "Investing.com",
@@ -873,6 +915,16 @@
    "t": "2026-10-20T13:13:06+00:00",
    "tags": [
     "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin ETFs Post Best Day In A Month",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRmRWamxFYkRXX01ZM0dRaE8wc2hWb09rUVJCNUIyT2NOQ2l6SjVHSi05RGRkdWN3aUFZOVRyamZRM1FTU3hJcHFNZXJtd3FmVHlmbG8ybjZVM2EwcWpqVFFWd0FOY0FZMHkydVBWQi1HUHlpQTE3c1BvVlZSVmw2ckFGUjJkYlVpOHRqRU5MZnVzSFg4Ync?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-20T13:06:00+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -2644,58 +2696,6 @@
     "gold"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Loonie gives back part of its rally on soft Canadian inflation",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT0FrWWJoVGc4VXRZMUhIZnZjYkZNdzFZUHFXc3Z6NjJvX0VWZGVXMVRLekh3c1NOQ0dMVWgyczJqU1hGQnZmUHBndW5rcmh0Unp6cGc4c3J5TkN3MDB5bk5ycnFSSk1DbDlyR2NZc1NvVHNnTmg1XzFUeFV0TExHeEVTVTBrUnQ5MEc5ZmpMV2pKbk9POS01NUZjaW15OFE3ZzBRcDhHaWI?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T17:02:38+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Stock Market Today: SanDisk Jumps 7%, Nasdaq 100 Rises - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ), Vangua",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUGJDcXUtSmtxb0VqbjZfMldtZGxFaHdKTllfNVdIR0R4aFVSLTZVRlRsMG5ITEJYQmUtWGl5YVhpdUVUSGg2bW1oeXpHYzZ1WnQweHd1UVBPTERsNGhRR0dOMnB3NElhZXBTYkdjYmJCOUlINlp1N1JKUnUzWi1Cc3lfQkhQV0xzUU5hcm5ZeVYyMmNCdlRkOWtFaGE0dFdSdkFHVnh5SlVwTXBvX2dya0EyRno5R0R3b3IyYUVGU3k3cVEyXzNZ?oc=5",
-   "src": "Benzinga",
-   "t": "2026-10-19T16:58:22+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Paras Healthcare Share Price Today, Paras Healthcare Stock Price Live NSE/BSE Updates",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEE3ZDZUVW1wQXVxbmMwbU00SC03WVYzY2NYaHpmNTU5ZDR0bWx1LVlTSjhXcW1oWlp0NDJxdWc4aE96bmJxdk13dVRXU1BXa0IwRUFYSURwbG1iYy1neDB4WDhMYVdqYVFiaFUtVndBQnZfTnAwcDhGMzVtTGItZ0FNbw?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-19T16:43:23+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Precious Metals Prices Canada | Gold, Silver, Platinum, Palladium, Rhodium in CAD",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-19T16:28:11+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "U.S. Dollar Gains Ground Amid Unrest In France: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb19PSHVaZkYzWnFDeU1uRG80R0ZTNnhtai1vRnh0dU1pODhZaS1YeW9Ja3lGRXBFNkhIbTNyQmlMWTdzT0pzSVU2TktfMDBsTUEtZmtmaDFNSG1JOW1zQ0wzUEI3Nm5RWE5Uckc2ckpkaDNIYUdrbVdwWDJ1M0lIOHdIZWdza3BnbnFkdFlvVUFNSlhMWV9TV2xRX3I3RFdtTXdoNW5rTzlXaTNGM1dwcFFrelNoTkw1TE5LRjNYTUFQdXNIV1ZYb2I0cno2S3FTRUxVQkJIcEc?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-19T16:27:18+00:00",
-   "tags": [
-    "eurusd",
-    "usdjpy"
-   ],
-   "tone": "bullish"
   }
  ]
 }
