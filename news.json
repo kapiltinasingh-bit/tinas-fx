@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-20T03:10:30.954186+00:00",
+ "updated": "2026-10-20T03:40:57.325443+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -66,13 +66,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "CNBC",
@@ -108,7 +108,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,26 @@
   }
  ],
  "items": [
+  {
+   "title": "Gold Price Forecast: XAU/USD sellers remain in control while below 21-day SMA",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT1l1ZkhGdW9FTjJWYUQxa05xaGZrTzZHUUhuVFJ0XzhQVjRGX0ZsWVIxRGVORTY3em9RQ3ZRZUgyTFdDNW9FWWdvN3RNTGJRTkxGUUZxQkpJVVFyNTZXbkVZOGtZSHVGajFsalFCX1FJSUVTY0tHRGVzNGlUbnNZbVBORDMtSmRwOGRpcnNNMWpzLTV3Wl9FT1BvTll1MFVKdDRsMTNuUWNBQUo2Ukh4REdQX2dsM1oxQ0tNVlZ2X18?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T03:25:53+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Global Market: Japan's Nikkei falls as higher yields, inflation fears weigh",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-falls-as-higher-yields-inflation-fears-weigh/articleshow/135060522.cms",
+   "src": "Economic Times",
+   "t": "2026-10-20T03:20:23+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Bitcoin, Ethereum, XRP, Dogecoin Dip Even as 'Greed' Runs High: Analyst Sees 'Strong Bullish Setup' if Th",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU0lHWGhaQjRxLWF4VWtzRURPZzVQcE9kSGlJYWxWeHVHZE5yN1lFQmlNN3dtdVVEOTY4cmh2c2ZrNGlwS0FIREQ4UVlKWHM4UDJ4d3pOeExBSlU0MmFDdlZWWTRpZ2JpUlNYLXRSMXZYOGNRc0MtNDFWeHd1NWtqWUcxd3JVNGJJRTVVOG8xRXlvQWV4bFJ3T04tWEtvQjY4WVIzNVRsMEM?oc=5",
@@ -639,6 +659,16 @@
     "macro"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Pound Sterling Price News and Forecast: GBP/USD clings to 1.3300 as UK inflation test threatens recovery",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeUI3ZUstemNEWFhDdWdrTnlDOXdLRkhZWVgwMkw1dTlWbWxSZS01bGdhNkxoQUhSamtRYzVmRUVZcnAtTzJzcVhoSklXUXBrbnBNc2JiRGxPTnZIa1hjTUhLSmRTU2N5NGYtd2cwNm5tamNUQ094ZGZSTjhPMlFZdXI4aW9XMy1aRlJyRDJUVDZXSnN4NGQzcE5KS21PT3BwZU5aR2NhTG4yS1pxa2tpTkhfSmp2ZWpWOHZJbjVnUWd0VWNZblhZZkt1NFhMSU5ubE8ybkQ2WHlNNk50cEE?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T17:55:26+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Dakota Gold funded to shovel-ready as Richmond Hill targets 2029 production, Robert Quartermain",
@@ -1921,6 +1951,16 @@
    "tone": "bearish"
   },
   {
+   "title": "Rs 468,772,747,100,000 Wiped Out! Investors Face Wealth Erosion As Sensex Tumbles 1,000 Points, Nifty Sheds 1.3%",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLUF2LVNWZzFBdHJvdjg4V2UzZEl2T3JRRTV4RnBVVDR2RTFSSXlsdkJsemVwbGt6anF4cDhkMGtlbzZtWm5ZWGZ2WDZKcmUzbnhodXNJdVhPVFM4ek5CUkdxY044and6YWtSQ2UtYjVNa0s2dVRmWFViOUlpc0VEbHBJZ1ZVSzZkLWp5eml2d3VsV2tsaEFER0otR25yTWg3aXd3UlVXOU9uNThyX2VETXR1a3YwTk1ZTUMxLVR2VlBJdGdwTmZxRzZUaTdhY2pPaU5rMGwyZlItRDRDb09LZ2FKc2UwdDk0YS15MGp3VDXSAfABQVVfeXFMTy1Bdi1TVmcxQXRyb3Y4OFdlM2RJdk9yUUU1eEZwVVQ0dkUxUkl5bHZCbHplcGxrempxeHA4ZDBrZW82bVpuWVhmdlg2SnJlM254aHVzSXVYT1RTOHpOQlJHcWNOOGp3emFrUkNlLWI1TWtLNnVUZlhVYjlJaXNFRGxwSWdWVUs2ZC1qeXppdnd1bFdrbGhBREdKLUduck1oN2l3d1JVVzlPbjU4cl9lRE10dWt2ME5NWU1DMS1UdlZQSXRncE5mcUc2VGk3YWNqT2lOazBsMmZSLUQ0Q29PS2dhSnNlMHQ5NGEteTBqd1Q1?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-10-19T09:01:48+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Australian Dollar holds RBA, China GDP-led gains as Yen stays fragile",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVlA1TU5QalZfMFBFRTRzdUxSS1hTZEhOZVRwckxaZlpLZ2cwb1l3RWpGSmdJNUVhc0xzSHhNMVRMOFIyV3NRV3VrT2pzTXI5X25vZ2NPY1lPRU9CZnJOT0I0cWN1c1FDWnFZNW1VbE5ONGg1cE9FVnNkQVAya3VUZ1o2RXFtMGF0ZERPMGRDR3Q1R3RXNjBtVDBxSUZTUmtTOFJOYTdfbVE2S0hfcjNaSWJBbGc1anZ6aVNIQ3BXaC1iYTlJbnBob0Vn?oc=5",
    "src": "FXStreet",
@@ -2669,48 +2709,6 @@
     "nifty"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Kusumgar Ltd. Share Price Today - Kusumgar Ltd. Stock Price Live NSE/BSE",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YbUxkTjFQR1BSQjI0djNhRUhqTDY4bnZVSWJQN0tpSVB6S29sNnAtdmJuYW5CZGVQTUFfR3hpd2tteV82WnRZQ01aUlllVnVlaGFybnNJQUpTd1FfRGc1bkFqQWlxUDQyYnFoQUEzMDZzODkxOWdkQnE4OA?oc=5",
-   "src": "CNBC TV18",
-   "t": "2026-10-19T03:47:00+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin jumps to $82,500, stocks rise as China GDP beats estimates",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOG04VV9paTdUeWhZMXhoaHVDLUJXLUt4RnplUzd1aFlIWWN0QjBSdW5Ia05ZMHh6bjdtZzdUWFk2TUh0dUhpUE1vbXN0eXpkaG91MC1HTGdIQW1CTWZ5aWVLS1IxM25FczJxdkg0NTJ3bFowclJuQXNkUDZNYm41Qm5xbE5YcWpSU1BuWWFtM0ZXQWdSUG1TUjZieDBHXy04ZUdWUDZyaHJNTlJvTDJTTWlkVTRtbmJZbW5B?oc=5",
-   "src": "CoinDesk",
-   "t": "2026-10-19T03:38:00+00:00",
-   "tags": [
-    "spx",
-    "btc"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
-   "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
-   "src": "CoinDesk",
-   "t": "2026-10-19T03:36:58+00:00",
-   "tags": [
-    "nasdaq",
-    "btc"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "RBI announces $10.5 billion liquidity infusion via repo",
-   "url": "https://economictimes.indiatimes.com/markets/forex/rbi-announces-10-5-billion-liquidity-infusion-via-repo/articleshow/135038836.cms",
-   "src": "Economic Times",
-   "t": "2026-10-19T03:33:42+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
   }
  ]
 }
