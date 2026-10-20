@@ -1,84 +1,84 @@
 {
- "updated": "2026-10-20T05:44:01.289365+00:00",
+ "updated": "2026-10-20T06:12:18.627855+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 4
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
+   "url": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
+   "src": "CNBC",
+   "t": "2026-10-20T05:57:34+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Gold braces for volatility amid recovery in bond yields, higher oil prices",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcElOaFcyOFE1Y1A0TXU1Ym4wYWJva1lsdUJsYXFaaU40eUoyRVdIUTlvanZSa1dpcmIzeV9nSUJLWlJOaGcwdENYdy1hRGJPS19yRUx0OTMzbHdPWEJXSE83R2dUcURhWFQtalRHS3dBNTUxQVdoWVBmUnFOZURjTnJnR1F2VC1Zc0FlTzJGOXBJTDh1cjVZTDZTN2ZiRTFHVzFBbU1ZcFMzTzk2Q29SenBaMTFKRGs?oc=5",
@@ -2698,16 +2708,6 @@
     "spx"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Dow Futures Rise Despite 'Black Monday' Calls: Market Commentator Says Selloff Worries Are 'Overdone'",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS3VLSkJSLV9RdzJsbUxpNkVsa2pzRi1tNVBQRmc5ZzlEYU9LeEZzcXVCTHVpYVJwWlFPcHVTMVdlb3VzTXZyeU92Qmp4OWVCdzUwNjhEZl91bVljaHJDXzRGTWVyelRHZmJObTY3cEhNQkVWTzU4d2d6eE5jSm9lOUlvbVVPQQ?oc=5",
-   "src": "Yahoo Finance Singapore",
-   "t": "2026-10-19T04:46:00+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "neutral"
   }
  ]
 }
