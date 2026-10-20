@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-20T08:49:27.696266+00:00",
+ "updated": "2026-10-20T09:22:51.909567+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -102,13 +102,13 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 11
+   "new": 10
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,29 @@
   }
  ],
  "items": [
+  {
+   "title": "Gold dips as oil prices fuel inflation fears, Fed outlook in focus",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHRoMVBGRXVRTWhCb2RFUlUtcWtYeDFCbFF1RmJaZTFINWpiOFJXcGJOM1NUczZ5a0U5emZGRk1zUjNYcVg4aE5HR2gzUTR4SERSaFk2NjEzMnZzZkV1azJveUppMEFBY2c5bmNBRTNZTVIxcFZaSXpRSUtmVlRPRVZIM1dMY0EzcWE3QWUwc2Z4SUd1UEJaaUFyeE5wZUx1aFE1c1dKNGJaVUdrSDFOMnVrdEtjVFJGSmxxNUZn?oc=5",
+   "src": "Investing.com",
+   "t": "2026-10-20T09:00:00+00:00",
+   "tags": [
+    "gold",
+    "oil",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "EUR pairs: Gaps to the downside, Gold and Silver in descending triangles [Video]",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjlDVTVZNkpRM19IZVkzZTZqUGFNY29pMVNQQU9aeEtKNW5zWVEwR1FNWkNmMFdaOFlNLWtpVy1jdUprRXNFTnE2dUJvcU11Q1YzTHowYVRiaWIxekxBaHIyREYzdWZBMmFKdk9hSVI0R1R2WlF6Y1UxNWVpdmlTS255VWdJdm9oQTNQYzc3Z3VKekVzOUU4R1YweTdOWkxuQmJFZENBUzNnc19lUF8wMkRBQ0FUakZ3VDFxRmMtYzY?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T08:49:47+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Gold (XAUUSD) Price Forecast: Oil Premium and December Rate Bet Keep Sellers in Control",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOGNldjdXczdOMlY1M1c2RGhDaHN1WW1TZm1VOW1mdTFUZGUxb0V3ZzkyNDR6MnBvdlFnT3VQS05lXy1mOFRVNXdQeUVhMURuRmloZ0l4dkpnN1VGVVpLcEFvdGtOdl9OY1U3STZLX0dnZVZJUk9qUWdsaHlPUmh3eDhqU3lWbzJYTWs2WGVOTk44MXZESGtaMWMtek9RejJyWFlCYmZ4dFpTMjY0SlNrOEJnQ0VLM1VITnN5NlFCT1RVdEJyQUxPXzV1eE9BeGRR?oc=5",
@@ -224,18 +247,6 @@
    "tone": "bullish"
   },
   {
-   "title": "Gold dips as oil prices fuel inflation fears, Fed outlook in focus",
-   "url": "https://www.investing.com/news/commodities-news/gold-dips-as-oil-prices-fuel-inflation-fears-fed-outlook-in-focus-4958694",
-   "src": "Investing.com",
-   "t": "2026-10-20T06:46:00+00:00",
-   "tags": [
-    "gold",
-    "oil",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
    "title": "Brent crude holds near five-month high on Middle East tension",
    "url": "https://www.investing.com/news/commodities-news/oil-eases-as-markets-assess-potential-waiver-on-russian-energy-middle-east-supply-risks-4958607",
    "src": "Investing.com",
@@ -254,6 +265,16 @@
     "spx"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "WTI rises above $99.00 as Iran warns of wider blockade",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa09JazdSY1NMNDVkWkxjVjVnWE56cFZaTk11clFmSDBseWxhdWtwUWNiR3pacjQyNlR1cGJ4ZFZzSWpfU2lnREoyR1NDUVRJQkZxZDNBNm9SR0hlXzZsNmNwWmJVT01tMjY5ZmV2UkJLZzR1RlJCV2JINFhpaS1vd3k2ak1INk9XTnhuWHhqZlgxcXZOZ3kxaHJBcw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T06:15:46+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
@@ -335,6 +356,16 @@
    "t": "2026-10-20T04:08:50+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "General Motors is set to report earnings before the bell. Here's what Wall Street expects",
+   "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+   "src": "CNBC",
+   "t": "2026-10-20T04:01:01+00:00",
+   "tags": [
+    "spx"
    ],
    "tone": "neutral"
   },
@@ -534,6 +565,16 @@
     "oil"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Euro rebounds as French protests ease, dollar slips",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazFGS3ZwNDhmME9ZUDdoZVQzMkV3UEJQUEJsTE1LdnFTcjNXRzI2emE2Z3VvZE1YNGRpam95VTF3UGgyTVFjRExnWkJ1TGxpenBQUHFhbmU1MUpEYVhDcURRS05xQ1BycHRUT3F3bExRQjZfaUFVeGlKcHpmaGFEMkVwQ0RxSk5iLU4zaDVaVDJzQzEyQ0R4OVFZeHZuVXJKZ3pESWtudFQ?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-20T01:14:00+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Oil holds near five-month high as Hormuz attacks threaten supply recovery",
@@ -2669,47 +2710,6 @@
     "eurusd"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "ICICI Bank stock falls 1% after Q2 results, among top Nifty losers; brokerages bullish on growth,...",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeUZNakZueDdQbFZ4X2xmNnkyaEotVWUwaDhtSWJGUGd0YWJZR3dCTWpWRlh0Y0tLcF9TVnhaM2tpTEVNRWNXZ2d2dGt6V1BzNFJ2amZyVkE2WTdZemtZcUZFQWVQc0JKaGw2cF82LWNHS2ZqS0swWHMtTHJBWFdGMWFMTWVvWmV2ZmRLMVpxMkxXOW5Td2FZblkwa1o5LVpSOUhaR29sTzRGZVlwZm8wSm9lUkdFQUlrRk9BUDExcDhDUmtadlphS2JaLUlOUno2SFhKUlhMQWNEa1dDN3JLRGpSMGZjRGMyOEk1WXY1ZldpS2xHZWhFN0hSMW9CTXc2dUHSAYcCQVVfeXFMUG9la0Jubk5VNHFROVFObTZVWmpKcGRQaTgwRlVZbXZzM25IaWJ5bDJxTWdvVnE1NnZxWWEtVkl2YVRkS2RKbWtJcXZXVnV0UlVKUHRFVjNVU3JjTVZZTUxIeWJTcUJhNFZkTWYtWGNzdWZnV1NqUUl5Mllua3RVajEzZEFyQnVScEFqa0JkVU5oejU2OW51RlZTZWR2THJVRHRqQkY2dmdJUW12Z1lUeGdkc1ZzSTlTMXpVUmlzN09RX01GQjJSRDh5dlA2LTc2aEhaVnBGeUdSQnBKVDJQU3R2YUQtUXpvcEVqTDk2ck9fMER5d254YzV3WUtuYWZfeXBqT2tkQTQ?oc=5",
-   "src": "Moneycontrol.com",
-   "t": "2026-10-19T06:07:53+00:00",
-   "tags": [
-    "spx",
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Investors Keep Buying Gold ETFs Even as Prices Fall",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWROX2ZxNkgxTVpVdTlFSmdaT1paOVpfN1RxY0x1Y2djX2ZqSXB3b2wzUVZaakpEd1FvZTQxejl3ck9IVjBNaXdJVVN2ZFdsUTJWQy1yTDJzUnVhcTZxMl9seDBrUm83TThTTHBxM3hpaGVjaXU3N01qODFicnZSeWZpcWhvbk1NYTdDa2pZYUNWc00yRkc0Ng?oc=5",
-   "src": "Morningstar",
-   "t": "2026-10-19T06:03:26+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "COMMENTARY: Asian refiners' pain is Middle East oil producers' problem: Bousso",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORXo3cnhIZDJzWmtCS3BfenR2LVNIbWYxQ2dfNTVOdFlnMm8wZGIwemtWUC1vdTlTd2V3SzhIUTJWRmY5cG1JbWg5QzJfUGQ5UlZ0aDlydmVQbTZWNURyWGtFWlY3NDY4Y215MnpVT0xMdFlBaWlBMllnd0h0Zjh6TzdDMk5UT1JxR1FQSHkxRlhJeE5qQjF6SzduTTVOMUdLTFdDSG9hOGVoY3BPY2t3eUVVa0g2MDV1SktDc2ljaUJzWUkycGhubEgxUl8?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-19T06:00:00+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Oil and geopolitics in focus after turbulent weekend",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY0k5ZVFUdWhBWm9pdEsxSGlDbjl6RFFwMTlIczFNd21EdDRUZEFIdUdmTC1kYjRvbmhCaFFVOGtzOVdhYUtCZFRKS25Qanl4OV80STQzZzlPRmNNU3Z1WkdFTk92N2s0Q0IyV1BZTjRMWXpwZGs3N2NoM0xWWG5KRkV1a2RkRU50aWNKczFzU1NnSmF2aEVWZkltNnlPV09a?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T05:51:50+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
   }
  ]
 }
