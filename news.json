@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T09:58:25.087832+00:00",
+ "updated": "2026-10-20T10:24:20.530522+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -60,13 +60,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
@@ -102,22 +102,42 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 10
+   "new": 8
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 2
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
+   "url": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
+   "src": "CoinDesk",
+   "t": "2026-10-20T10:22:55+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Strategist Tom Lee says he’s buying the AI stock dip, and Cisco holds the key",
+   "url": "https://www.marketwatch.com/story/strategist-tom-lee-says-hes-buying-the-ai-stock-dip-and-cisco-holds-the-key-33233a9d?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-20T10:15:00+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Dollar surrenders gains as record Japanese bond auction sparks Yen rally",
    "url": "https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775",
@@ -294,6 +314,16 @@
    "t": "2026-10-20T06:36:15+00:00",
    "tags": [
     "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Brent: Risk premium sustained as Middle East tensions persist – ING",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVZDV3U2aVdGaVdqOXdzTUo1TnZ6M0VITDBpb2JDTFVvdGRuLWYzSFZTRnJLSjVaSC1wTEFiQzN2ZzNTbWE0ZXdWclZESHh2cHJHa3c5YTlvX0JwbThta1RIeXNQb0ZmaDY1dFNvSmowRVpuRUZNNWNaQWM1UVdNMmhHaGNWejBWQXc3ZUxQZkE1QV9EcE9NQWpPY1JkUTdjMG1mVlRBdEUtSzQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T06:20:58+00:00",
+   "tags": [
+    "oil"
    ],
    "tone": "neutral"
   },
@@ -634,6 +664,16 @@
    "t": "2026-10-20T01:03:54+00:00",
    "tags": [
     "oil"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "U.S. stock futures steady after Wall Street rebounds on tech recovery",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc3RONS1WcUhUam1hQkFZbWlZX0VoUWdRSTNtYXI5UVAwZHpGOXZ5dW1kOTJQLS1iMGVXMjgwcUh5Q2ozeklSRkFmT2pWRXlJVDRjWDU3SlpVblBITlhyUXlTVVBtMDBSQldnSVltaXRZNXdvNW1rdWZRaDNXd1ZVbjVNS3ZjdWNjMVV5YXF5SHJJd09pUmpNOGhXSmF3NmlOdGVrX2Nza2pkRlcxVkRQZ1o3c19sVVgyMUs2QzVfRTNGUQ?oc=5",
+   "src": "Investing.com",
+   "t": "2026-10-20T00:55:36+00:00",
+   "tags": [
+    "spx"
    ],
    "tone": "bullish"
   },
@@ -2666,49 +2706,6 @@
     "btc"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Japanese Yen holds steady near 158.00 as BoJ's Ueda says underlying inflation close to target",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdGdXc1hGY0lHcnRldGxNWTQ0SFFoWFdLQmk0SjdjQ1BiR2VtT2w2ZHRjZ2RzVkNSbm5VOWRaTGZKQnlwWkdrUzhrZ3BVVTAxOERNQm1kckZ1bXUxTS1say1BMVpBZ254MXRjOGl0eTdnUF9PS1dKaE9xVXhGaTNFNlVzQjJwQmZuekJFMnJBMi1Ha3VRTmdyUFRBVm9WdXY4T3NyZzQyUmZjLUJ1dDkwTW5Ka2ViWWJxeUlWWUExWkZBaENVcGlJY2hEdDNybEU?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T06:52:44+00:00",
-   "tags": [
-    "usdjpy",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold rises as Warsh remarks temper Fed hike bets, futures top $4,200",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0F6Y3V5YkFSNTFBMlhySUlMQnFmbDNCWVBjNlA2bVhCZ0s4aDl5SnNEdTRSUHl0TnY3bUJ4dE12ak1pZmJhMTBhQ2c2dndxZDRSaV82bm0wRGFtUDBqZVY2UjBwa2JMVzhCSXpCRVFkRldpTTczUEUtOVBUMHpLcGpVRlpGNW1FcG1WVmE2UzFNQ0h4VGd1SWtDMVU0MVJDemNV?oc=5",
-   "src": "Investing.com Nigeria",
-   "t": "2026-10-19T06:33:47+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold rate silver rate today (October 19, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Mal",
-   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQVml4TzZFaDBQREZ5VVNDaDZ1UE5yTEpFSFo5cDB0TjdQOXk0UHp6QjdKM3Z2YjkyWWUySWgwR0VCSDNveVVVY1gwVWNnQVlNQ2MwRmtDb09NbWFwdk1YY1k4NFBxRF9iN3lKZ0VJT2JUd0p0N1NFTW5XZVRKc1RZcFdvRkFNMlV3emJkeVFIM2QyUXRsZlB5Q0xLeFV2ajRndDNIak83Y1c0bzJ2b095dE9JZk5Xcmk1b05fajNzc01lS0Jxa1Zucm1BdVhHdDVjaXdKd3dmZENtalpEUzRxMFg5R25ZT3duLTdVeEZBcDMwQVRqZ3VvcUNfNEpSR0JHa1lzdWNxcUJ3Z1hCb2hpaVRHNEFpTFlLY0IwaXRuQUNXWmpYNHdXSWlVLTBSVFVlVWs40gG4AkFVX3lxTE1TVTFHMF9tXzFsZEdad3h3TXh2TjU1SHAxeE9Hc0NaV0pGTTFJRWctRnI2aUpnQnVSSXZIcDJVQll4RldSZldYTVFmZHY3SEduMFhzdGxzQU1KRnBMdzdDVWpCOG4yV3UtSHAzcTFMVkRZdXdiNUdUcVNqam5TaG1RZDFJZWpLY2xNaW96SXR2N05LbXNCTndQSmtJZk40MG1uelQwUDJHWmk4cEdRcmFiNnZlN0ZJdnJlRHAzX0EzNFlvcEMyVFg0VDRaZlQzRjZHMEZyUHNFYkVoQjZ5QUY1WHJ6dU50LWg1TkxFZFBQNm5FQ0JhYUk2SXRjMHJBU0FFeENaWWFqNWJWZU1mRVNWMkVyeVFONHppdm1xTHl6SkMxbGFvZWlmbGEtb0lSR0NvcFdLWjRycw?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-19T06:28:18+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Sensex falls 558 points, Nifty under 23,000 as private banks drag markets; Axis Bank, HDFC Bank weigh",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObG85STBwYjU3YnZqM3JHNTEybHZDcXVELVRmeUdZVDhabGFQaXNOQjVqeW9xTWFYNi1CN05VYUNWMktkMmdvTUJoZnRjQkJsUG5tS2NDZVpxdVJsNWZzeVFpblJSdnZiSUlUZkhSOFJiaS1vQXZsZU01T2IycThzOVI2cnJXMVBVOFhuTmdEalM3YXROc0dtVHFCZUNFX0tMWFE4T252ZjBIRlFjeWxlRFQ4QW16N05jR1ZYbDBVeHVnd3Y3S1RMYmZodnlGdTk4R2RHX1RhekJreS1lcDJJMdIB7gFBVV95cUxOaFVNWWpXV0xKSjRsQWJ3R1JtNDBLQmdDbHE2YVY3VmttUS1HQlNDMjh5T1JPcnJXVER5NTVudURrenNaa3piczV4X29JT2Q3Nmg2dGZQYVU5aVl4RUNheUd1a1NRaktMUGxMZ2NZMEp5MnhQWjh4eGtYZGV2TXZTTks4R1pITEV5ZzVxYThBYlo5QUZFazliMWJEMFMwZ2xvTl9vNFBhM2V5Ym42OUhqQW1LRVd1U3dpUDVtUU5INkdaSHEyRU9kSUp2VnRuRVl1TGtmOHJlY1pwcGMxMkxOdmFleHV2UlhuRlBuVHJB?oc=5",
-   "src": "Fortune India",
-   "t": "2026-10-19T06:27:14+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bearish"
   }
  ]
 }
