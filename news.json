@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-20T23:17:14.574884+00:00",
+ "updated": "2026-10-20T23:50:00.875880+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -72,13 +72,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "MarketWatch",
@@ -118,6 +118,28 @@
   }
  ],
  "items": [
+  {
+   "title": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
+   "url": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
+   "src": "CNBC",
+   "t": "2026-10-20T23:34:14+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold declines below $4,150 as elevated oil prices reinforce prospects of further Fed tightening",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSDZ1d0NVRTZjclFidU9Hb2liR1U5d1liaUxDMU0xMVRDTUg3NkZGd05tX2p0cmV5NTRYeGJYLXRNaktyYndZNGhiOGk0YVk1WHEwNnNyZ1NmTXRjc0tFcmZhdlZ4VnN6QWNTanNoakFFRklPWk9zUW56XzhRdTFiQzRJenFjZHU4OWh3RjY0X055dE5VaFN5YzN2M3hTZWxwN09mWnVYVTRkWnpZbEMzT3BiNHdveGw4bTRySlB4cklOTUJET2hTTHpRYUJ3VjBxWTNB?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T23:24:15+00:00",
+   "tags": [
+    "gold",
+    "oil",
+    "macro"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
    "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
@@ -270,6 +292,17 @@
    "t": "2026-10-20T19:26:24+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "US Dollar Price Action Setups: EUR/USD, GBP/USD, USD/JPY, USD/CAD",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONlh2bGdEX3Q2bkZCb3JfWFB1aGxSekRYX1F0VUlMREZDeDFjRTB3YnJhODIzcjBod3ZCRnJ5bXdpbE80SXJHTEFiRGN0aS1DN3Q4NFZFa0hKeThOTno4T01fUmxvcVdhYWo3OFRkTl9jb3hGc0FTcU0zQks5UUZ1QzNJRzZBUWt5NTFMaXdJVGsxekJNcGFuVlNHWFgtLVk1MmdrVENqc3dpckQyVTc2NkFHdlNfMDTSAcMBQVVfeXFMUEpHVlgzR0lIUEM0bDZJN0dPSGFORU9iU0VFMW1hSmdSdnhsQ1RZUi1OVC1WcU1PR3ZCZTVaaTFwako0bWlRLS1fd0p5YVpYdld6ZlN2SmpMTnhkRi1vcGRuVzZpNHd6S2NKV3YwaTFqQTlRWDVLTGdNdEZZb3pob1F2dzVlbHdmbWpPU3ZDcUhuM3V6ajVpRGpuTGNBdlAzcUwwbGVnNVZ6a1BZRnVxWm5mN1BtQ0p5eDlMT0VndTVjTnF3?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-20T19:26:07+00:00",
+   "tags": [
+    "eurusd",
+    "usdjpy"
    ],
    "tone": "neutral"
   },
@@ -2668,36 +2701,6 @@
     "oil"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "TAG: gold price prediction 2027",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LcnBvNXM3UE41VWtvSmQ1SmlXZ2tpUFdGV3BXaEZhNTBiNnlkTHN4UkQ5Y1N6amhhS1FrNHptbmpScXNIVTNDblgyamQ5T2lqR3pvRUdxUXdSU01OU3FLVlVGUzh4OGZy?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-19T18:09:01+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "New Zealand Dollar gains as traders await third-quarter inflation data",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSHJJWXYwRkhRWTNsb1d0T1lyV3lOZXloQmV6eXo2YXlseENYeXZFVHFka29xVjlRSUJDcVF5cnRWMFpiOG9kSUhWUHZNTTR3U212RVNPR3NrVVJVa3BkOHlwYTFIX0UtSmJGMnlhUnVoV29rZ1EyemRuVTN1QWVmdXo4RHFXRnFSRmRvLUdaX2pNVEl3S0FkdldNSGoxdXJUOUIyT0tsa25OY3BUWnRCYTd1NA?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T17:56:44+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Pound Sterling Price News and Forecast: GBP/USD clings to 1.3300 as UK inflation test threatens recovery",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeUI3ZUstemNEWFhDdWdrTnlDOXdLRkhZWVgwMkw1dTlWbWxSZS01bGdhNkxoQUhSamtRYzVmRUVZcnAtTzJzcVhoSklXUXBrbnBNc2JiRGxPTnZIa1hjTUhLSmRTU2N5NGYtd2cwNm5tamNUQ094ZGZSTjhPMlFZdXI4aW9XMy1aRlJyRDJUVDZXSnN4NGQzcE5KS21PT3BwZU5aR2NhTG4yS1pxa2tpTkhfSmp2ZWpWOHZJbjVnUWd0VWNZblhZZkt1NFhMSU5ubE8ybkQ2WHlNNk50cEE?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T17:55:26+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
   }
  ]
 }
