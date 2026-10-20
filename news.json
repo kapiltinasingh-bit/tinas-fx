@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T20:20:46.169462+00:00",
+ "updated": "2026-10-20T20:57:12.996268+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -54,19 +54,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -84,13 +84,13 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 9
+   "new": 10
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,47 @@
   }
  ],
  "items": [
+  {
+   "title": "Dow leads Wall Street higher, investors focus on healthcare stocks",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDctNm9JQVVvS2lZb3ljSlBpSkdwM3hjNkZ6S0ZkV3QwYVBpQmRaWWJLcFktVFJPaHZEMkU2ZmNyVVEyeWxzTE9BekJXeEVUMDBZLW83dExMMjdTQllDZTRBZFdnT0tVOUs1a2pyWVV1SkJkaGtzZzZtMjg5MEN6eHRIamxGYVRTMzRlRXRWdVRNd3NfSE84Q1BlRXUzajBHZ01taWJDUlZZU0lQVkl6elJLZw?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-20T20:55:57+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Gold and silver ALERT: Why risks may grow after the election",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzc4MEVydWNpVENYNGVkeVU4VzBEcVc4dGloOVJPcl91NTRYb0hRb1l3YTkzYkFYb0lKVWtUV3pIaGRxdVV6ZFY3d3c2MkxFSFFlZkhQV3NJTnFRS1ZMMkM5VHVrckRpQUFjcVI0ZnJ3OFYydHNTa3kxR2I5eHNBUkduRG1mVzI4SFpGTjVGUWF5WU1qNkVPWEZhVXA?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-20T20:49:37+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
+   "url": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-20T20:45:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "US stocks today: US stocks end higher as healthcare stocks lift Dow, tech a breather",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-healthcare-stocks-lift-dow-tech-a-breather/articleshow/135076667.cms",
+   "src": "Economic Times",
+   "t": "2026-10-20T20:24:39+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Gold struggles near $4,150 as global rate hike risks loom",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEJRVF9YVjNwSkg2cFBZMHVvZmVtWWhvalVsakhnZ2RzRzA2VjZRTVEwN1UzYzgySmduRTRQQnNMdmFVbVlWLXJrUmM0SjFCc0c5d01pc0RBaHEzVzRQWWZvRktVbGdjcTRfajEzSmE1VER5cWZVT2E5TWpaY0VtYzJLZmxleHNKbGpRaGx3bm5ZTzc3c1FPOTNLSWo3NmpW?oc=5",
@@ -257,6 +298,16 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PUXFzd0ZzeXlTaFhmTDFNYy1fTkoyN2hRRnZQMlhGR204bTVnci1CVE9ZTEJtc0UyUFVBQjFpVWVKZUxfakljeHBkRjlQNXJzZ1hRZVpKOFpqRVBkTWtqRGltbTc?oc=5",
    "src": "Kitco",
    "t": "2026-10-20T18:56:16+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "TAG: digital gold market fragmentation",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CUmdHTDZ5U1ZiV1RGNGx4R0M5aVRNQ0p3TDFULTh5LVhDamlTaks0ekMxQ1IyQUY0dlotSHRLZFlvM1BDRVROajJGVXZJTnJGRHIxcFZrTGR2RWFNcE5LaDEyTF9MT20yS0V4Nlk3TjRNZw?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-20T18:56:15+00:00",
    "tags": [
     "gold"
    ],
@@ -627,6 +678,29 @@
    "t": "2026-10-20T14:28:39+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold's path to $6,000 and silver's return above $90 depend on renewed investor confidence – Metals Focus",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUx1Ym03aUVBcWtTT2RBZ25OSDl6X1l1YVlCTmc3SnFoLXlzZjNXWEFoZ21QYlJ6Y3Yxa0hRZnkySU9nbGVfNFBCNVR6bFdrUFVmdjQyQUFVSld1a0VBNWtMZWEyNmtOQ3ZGeWtlYUxlTjFKOFVhZXU2bGFzVzVaNS1WOFJDUFQyMlRXdmx3SVotbkpWR0NQeUl5ZEwyZ3UzZnlMb2l4ZWZiSG0zVDJnbzRFVQ?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-20T14:25:00+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold and silver prices pressured by hot inflation, but gold ETF holdings buck trend to hit 2026 highs – Heraeus",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWS1XbUdWTEt4Vjd3MHRGSWhndDhGUFNnaDR1OExpajlpX1kwVVAxZXpPb1l5N1dPRm5QRTkyRjRVc0dKRDdiTVJ0Z09nQmpzaU9Ub2M3MVhDYksxelZOc1htWXg0UlIydGE4VE1iVkplbnFDWDVJMG1UWVNESk1TUmZRQWdzWUF0SWVaQTl1Zk1jLTZadlRRaWN6ZjVPS2drM1NvQ1Z4SHh6dHdjWXB2WjltU2VzU2RjY0VzQXV3?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-20T14:25:00+00:00",
+   "tags": [
+    "gold",
+    "silver",
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -2619,79 +2693,6 @@
    "t": "2026-10-19T16:06:30+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Amazon says its AI chips will work with popular coding language, challenging Nvidia",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-nvidia/articleshow/135051867.cms",
-   "src": "Economic Times",
-   "t": "2026-10-19T15:52:49+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold stalls below $4,200 as Fed rate-hike bets limit upside",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONEg2bVBwaUxJLXZRNlNxa05zcS1ISzV6UEVJZWhrUFJxUVIzNjQwVHdXVVhmWVdYVTQtNktiMUxaWEhPcFQ4Rm1kenpoUnYxUkdzd0V4LUJzcGo2bUZ6Rml1WTJkbmE5TFdNT0QwMWhOMWREVmtQNzJBcDQzcTdsUDFkU3U4aENYOEdBT1lWUlJhOU04RHZkNkpQdFlDQkxUeGVJ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T15:44:08+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Could Bitcoin's Next Big Catalyst Come From the $300 Trillion Bond Market?",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX1Eyc1dxVS1LcXdidGgta1lJN1ZndTFzMWJuekRFTkxyMFhlSTlEUWdsU19ZODNsODBESndLcHZ6aVFNZURyTllPSWJpZFFPSlJiX3Z2bmlpcDBoY2JqZjQyTTY1dnZUeG5TNzNaTFhPbXpMc2l6ejRsLTRXUVlqelNVSHVMMXVTMDVZY3pHUzRsaUtSM3VIWUZTbXNiMk1nZGFfUk9pQWFSekhCNGlYTVEtcFdOd2I1dTJYcWhtX0VSeGNvY2loOGp5VFNqZw?oc=5",
-   "src": "Benzinga",
-   "t": "2026-10-19T15:29:29+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "S&P 500, Nasdaq climb as AI-linked stocks recover ahead of earnings",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWmNDSnA2WkxMQWd1N01wOVp3RWtXbXlnU0dZVGhWZFE5c1pIcmJhN0lsUnF5Rk5KSlRzZVFTU1JOWUtSV0xwNkFRNjhGNGFXc2ZiMG5mOTdTMnhvbTNHMTFwN0tRQ1ZLLV90cG14anE4ckp1dVBDaklRazZWUmNheU16b2RqVndrOVd5YlY3cVhpaU5HQUlfNXBKNXRaaWdEeDBBOXFtYjRuWUpBNGJF?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-19T15:24:00+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "US Treasury yields nudge higher as AI fears ebb",
-   "url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-nudge-higher-as-ai-fears-ebb/articleshow/135051546.cms",
-   "src": "Economic Times",
-   "t": "2026-10-19T15:21:19+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "S&P 500, Nasdaq climb as AI-linked stocks recover ahead of earnings By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZzgtdy1SRlJ3eUF5LVlieWk3T0V3OW1CeEVKbW14akZwN2lJSldKSWxMZXJyZE9kaklmSk1pZnRxblB3dmM2ZUhJeDNvYmVRcjYzTnFxOGtLdm9Rb3VQd3JCem1Rb2d3RUkxaU1yRHZjcFIyQXR2S01qbGVkcElEalE3RU5yNWZHQVdvNTM5QlE0clQyR2Q5aV80UkVSYkd4R01uWVZONFI0MU9Ba25R?oc=5",
-   "src": "Investing.com",
-   "t": "2026-10-19T15:00:05+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Bitcoin Analysis: BTC's Price Swings Are the Narrowest in 2.5 Years. What Happened the Last Time?",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZlBDNXFFaWlPdEZsWVNrREw3YTJVdFlxUldIMjI0RGd2RXFHOU1nT2NhYWZFM2dBTHZkejBNUk1tWnZzNU5PaGtheVFtd1FDZHdzNDZEc0R0OEFIdlZVZkZLRzVQdENGWkRIaEhLYVI0YXdQT2JSZTcyVnFRR1F6cjY3cFJCWENUdGtxY1RXR3ZkMHRuOHlVMzNSbzFNaGhtTzBGSldmYXhMbUNmaDItZ1QwbVZ3ekhGb0lfS3FjbE1hc0hjNUtXQjBxbUlnZ1BGS0doREdjUWNadnJFWTVUQ3hyWnYtS28?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-19T15:00:00+00:00",
-   "tags": [
-    "btc"
    ],
    "tone": "neutral"
   }
