@@ -1,84 +1,84 @@
 {
- "updated": "2026-10-20T06:12:18.627855+00:00",
+ "updated": "2026-10-20T06:52:57.314236+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 2
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
@@ -119,6 +119,16 @@
  ],
  "items": [
   {
+   "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYjR5UzZHRl9laG9oOXgwcHEtaENWbmw1SlNsR01zNl9ib0pCSDRSWWFra05MbTFjaGp2dE9XTXlOQjM2NzBNT3d0SmxaV2VubVAwc0J6ZmthSS02Sm1pZjBaZU4zNVFzVkZXV09jbllLRTJZWi1EdjVpVVdhQ09ZOTNBWXlna2E5Y2dnZ3dpTmJIMl9vQXhZWHlsWmZMeG9pMVpmOVgyRFc5WGRnMnF0emJLbXNOSlk?oc=5",
+   "src": "Benzinga",
+   "t": "2026-10-20T06:36:15+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
    "url": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
    "src": "CNBC",
@@ -127,6 +137,17 @@
     "gold"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Gold holds decline as energy-led inflation weighs on rate path",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc1JxOVZXakI1NDdUbVRHb3RjSEhuc19vVEUzZFV0aFBjVVNNWWxKeEVwa3V1ZGhoS01GMHVXaGRoUTIxdlB1azZGSllBTHplN2tlR0pBOHl0OEM4bm1MZWxRY0N6alBBOFBFVkpJR1VPeWxVVnJEdzlldG83Z1BKRHc3Wk92blJhbVZhbFNqU1Zoa2hsTHljcnRndlJ4WUNWWFdNaUs5MUdwNXJueWJXTHhlazR4VlV2dTMyUXVwZUJQWHQ4dTlBSVpDbDjSAdMBQVVfeXFMTWtLV2d5SFBMSEt5UDNfOHdveWVQWVJmX0RSdnFObDh3SWljRjlRV0ZWel9rUWpVWXdQUl9WZXhvWERTUjFFOUVLajlMQ3d4MV9CeUhiLV9LY3A1ekx1M01uSHJMMmFjRTR1WWRHTUctNkVUYWwwUUx0TkoxNTl5Nk81TTdYM2pQX3JDcVRLZWxvLW54YU13UF9sdnpHczdLUzFnVFFraWZDdHRVN3pDN0dOTnBzVTlrX3k1WGdlUERMR0ZVMHpWTnRmYXJaMGo5enVVZw?oc=5",
+   "src": "BusinessLine",
+   "t": "2026-10-20T05:33:27+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Gold braces for volatility amid recovery in bond yields, higher oil prices",
@@ -294,6 +315,16 @@
    "tone": "neutral"
   },
   {
+   "title": "British Pound gains ground amid diverging Fed-BoE expectations",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPckVaMlprUmFXTVhQX1RLcTFST1Y3RVJlOGRnTzNaWFV5OGFaZ250VUhqdzZZN0k3TnhFREFaNVkyVE1tSGg1TFlaZTJkc2JFMXVjV3FSeHdxTWl6TVVtbHNTRFRxSHJzcVRhSVFQYmpwRV9MakdhMFhrY0k3ck9ZQUVaLTZHeXllQ3VlVkh1OFA2UDBiOWhNWHdseDZHanJpeDh0STVQQU8?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T02:03:01+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Gold slips as investors weigh Fed rate outlook",
    "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-investors-weigh-fed-rate-outlook/articleshow/135059635.cms",
    "src": "Economic Times",
@@ -408,15 +439,14 @@
    "tone": "neutral"
   },
   {
-   "title": "Gold Holds Decline as Energy-Led Inflation Weighs on Rate Path",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQam5BWU83ajI3anMzVEx0dTdFN2QwX1Nnd3VzODVOY0NPQVNGNlk4d3dGOC1UNWhBc05uYWFNaThSalNqMGh2ZnQ3VE5sQVNuazlHeDYzUUVmTkg1TjBwa3B2TDV6dWE2bDhoZWxLaGlQTEJiZUFvaEFFWDBLUWE4N1hPYXRVM3U4NzVQZ0dBRUdDTzY1OEIwT0xLcU5BWk9tSllRSl9fNXlwWnNsbkxnYVZaMW7SAboBQVVfeXFMTnhWc0U2RXRKV3p4cF9NaFhlTFpCdTA3dnZ4M2gxanFfdkdlMGxQQWFRYzJBZXN3Z1lWekI1TUFITDQ5OXR2aUx3bWpKTW9VaVRNOGY1Q1M0bDVVSURhb19DcTZrczNBSXpnNGlYZHk4RTBBN0tmelA3NllZREhVcExiTFlXb0xiQUg0UlltbU9iVGVWbWtIcnBLVE9ibVZCcnNmZzJld2gtblgzRWdmN3ZqR0RIVTRsTERn?oc=5",
-   "src": "Livemint",
-   "t": "2026-10-20T00:39:22+00:00",
+   "title": "Euro holds gains above 1.1200 despite French turmoil",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkxuM2VwdFlpcExuaTU5UURQSUt6a1NtU3pRU1NzeDg2dFFGT3V5QV93RVNqX0V4dDdiZ0pVdE5ma3VKX2FJYktveV8xTW44Zjl4XzVRMEg2Wk1OVk8yYi1KR2JsTzlvNmxuUVZCc2c5b09QY05TenhGdW8wRjZfdTMtY1FPOU1OeElQb1ZmZmNHR3RfV1NkNFNB?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T00:50:33+00:00",
    "tags": [
-    "gold",
-    "macro"
+    "eurusd"
    ],
-   "tone": "bearish"
+   "tone": "bullish"
   },
   {
    "title": "Banking stocks, high oil prices drag Indian markets lower",
@@ -495,6 +525,16 @@
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNFNCUFZLeGVvTVJtWm5MdXpGMWYxOVdCTGw1R3BWOE44ck1tMy05Sk1YYXZpem9NYmlnTVdxZjkxcW1LZnhFSmZpakx0TWQ1VXRUX3ZIRlpjdXV6aDF4TVFST3hzVERPeTdHZ2ZLSjBLVFJhLUx3VS1henV4NnRPT0pjVmp3MFowbllIdzNyc3JqRVlqTmFNQ09ybmw3Q1hLbTNick9wcXJnclU?oc=5",
    "src": "Kitco",
    "t": "2026-10-19T22:35:49+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Dollar gains as French turmoil due to violent protests drags down the euro By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQTVFeUxaY2VDZGw1aTVvUDJGdlFOTkNkWVF2bW5KYU9JaHNxTk1PVGdlZERWYmd0blZoVElZSGZiaGxqNXp3VWxndFl5YzQ5Q29aekhsTGRhOFF1eFlCVGUtTWE1U3JneGZiTDc5amJ2b3hjV0ZrZW9meERUMUhwa1lZTjd5T1YzU1ZmYzR3blhoY0ZRdmRIZ3kxWEcxM0ZBY0RGU3JETmpZcXU5a0hGaXpB?oc=5",
+   "src": "Investing.com South Africa",
+   "t": "2026-10-19T22:28:33+00:00",
    "tags": [
     "eurusd"
    ],
@@ -2168,6 +2208,17 @@
    "tone": "neutral"
   },
   {
+   "title": "Gold bulls hesitant below $4,200 as Fed risks and firmer USD cap intraday gains",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmN6bEE1aFhNWFJLc2hJMmFacFZJdWpVQWk5MTVncW8tZFpNb3JPMl91SUZiNkNKeXhWV1ZRRmdNbHJzSno5WlVMbDBJQXVaMlhiaDM4bWEyY0lRRmJLRmhaWURFNFBXRktBRWhBMWhQMldTcWtjYkFyZllnczV6bU1xNjh0Tk9PbHVCUzJtUW9RZzRtNXp3dGdKcFNRREVORjY5QkZRTzF0UEtmLV9xcHlIdS0xMFhTMHc2UFcwVVA?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T08:31:41+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Why Are Nasdaq Futures Soaring Premarket? NBIS, MU, TSLA, SPCX, ASTS, SLS Stocks In Focus",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSno5VWxiSnJOS1N0aXFvUXpOb01ITHR5XzVxSFhoRV9uWTkxN1k0R3EzSXZFMTRVZFR6N0E3Q0tOTDFDQnNqS21DV3k4OTkxWFNIQ0Z0TDBJY2dReTFvQ3lkWi1qVGo4UUVkUTZucW0waHp6dmV6NzJET1YtOE1qVENvQ09EbXhiZEMwMUdId1ctVlRHYlNhcDE3dUVPX1dLbnVv?oc=5",
    "src": "Yahoo Finance",
@@ -2395,16 +2446,6 @@
    "tags": [
     "usdjpy",
     "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVV4MEFDYUhYekF0S1NRNUp0aXFhTGJEWFFIZFJTWHpBbC0wTzFKbkFENUxnNng1OFFMS0hwU1lVSllnSDRuQUpzUUk2d0pLS29xRGREU0dFYnF2V3N2NWhHbU9RYWQ5Y2tGalVWRFY4eWd1NUJocmNuaFRlc20tNklya1daUkJ4OVY4Ui1RVkxOdVhnaWpPQU13?oc=5",
-   "src": "Benzinga",
-   "t": "2026-10-19T06:36:27+00:00",
-   "tags": [
-    "spx"
    ],
    "tone": "neutral"
   },
@@ -2664,48 +2705,6 @@
    "t": "2026-10-19T05:04:47+00:00",
    "tags": [
     "nifty"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Global Market: Japan’s Nikkei falls 2% as tech selloff, rising oil prices fuel inflation fears",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-falls-2-as-tech-selloff-rising-oil-prices-fuel-inflation-fears/articleshow/135040186.cms",
-   "src": "Economic Times",
-   "t": "2026-10-19T05:00:36+00:00",
-   "tags": [
-    "oil",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Edges Higher As Softer Dollar Supports Prices Amid Fed Policy Uncertainty By Kedia Advisory",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObHJzZnFLMHZ0cWJKUU8tVHN2V0FLc0lFbWUyRkJUV2wybVRzcUQ0blVkS3ZtUkswNlpFb2JZcnJWTVU2YVFmZ0NrX2hjZ1Zkd1o3aDJqNGE3b0ZkN3JCbE52SFpTMm1QRWJYTDhIeENjRTZJUTh2UE80c2lkdXhQQnUxa0VnOThRZEkwMFFFd0wtVS1ORnY5b2xDRFQ2VlVjaGhZeFp2QkJJaTZkbVNBQksyYnFwaHRoVVNPQ0t0QVZlVXlQaEZkZElfWkhjZw?oc=5",
-   "src": "Investing.com India",
-   "t": "2026-10-19T04:51:56+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Nifty PSU Bank index surges 3%; PNB, PSB, Canara, Union Bank soar up to 8%",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaC1ueUNDSGRPUC1GSUU2MkJ1cVJYZFJQdHBiZ3d3WWdSSUpVbXdrLUR1WE1wcVVNbkVQUDZ0a3N3YzduZDUtQm96WWQwWHVKWGIwQXlreTdIajNkdTVham94SlpSUlo0VURlUHZPaXFZM050ZGY4RWZrZnhxOEVhTURYV2dwX3B4UUVHSWxYSTFRd3BnT1JRQmcxVWZFLW9HQjlzU1hZSVdKTEtsaTFOTDZXRGNYN24tTFpiUmFEbFBodmxhLUptTHo3SVpHb1c50gHWAUFVX3lxTE94ckVqTU5vaVk5UVV4RTl2TDNOaVVXSW4yYTBWVXNpM1VHWWpDYmlJZXU4di1DTHJid3Z4dGJjLUoySlE5UVRkQkFSZTlhelZBRXphLUVZcTVYTHJJTVVKM0V3eThvS0FZTEo0RE5KbWtRdDdCY1dXUTRPQ1hlRHhQZWxCbUZKREVQRzFNZUg4d0tZWmdhakFaYjhRTzItc01VdWRoZlZxN2NSQTJEVU5aMWJSX3ZPZVVUQzlBMlhIOS1ub1ZKaTBycmI3cE5SUzAySUtSTVE?oc=5",
-   "src": "Business Standard",
-   "t": "2026-10-19T04:51:48+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Stock Futures Rise Late Sunday Despite Black Monday Calls Trend - State Street SPDR S&P 500 ETF Trust (AR",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTXNQN1pKRWVmX0NtUUpRejZqcE5wMVk2OExHcTB4aW5kV1NGUi1LMTlZUFJObERuYktmOFk3TXI3eTV6cHlqUWMwTnhrNTBMbENDOVBDT0RLeFg2NmJ6dlloOElabzd3OUJ2TUVNVG9XMlFyTV9pa2FJbG1pZHZpVHR2MHotM2NwbUxYNnU4SjVmVlFiRUIxZVF2Vmd1LVgwSnc?oc=5",
-   "src": "Benzinga",
-   "t": "2026-10-19T04:46:14+00:00",
-   "tags": [
-    "spx"
    ],
    "tone": "bullish"
   }
