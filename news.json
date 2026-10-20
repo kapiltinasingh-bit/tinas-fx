@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T03:40:57.325443+00:00",
+ "updated": "2026-10-20T04:13:25.483530+00:00",
  "count": 250,
  "feeds": [
   {
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,31 +48,31 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "CNBC",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 10
+   "new": 11
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,27 @@
   }
  ],
  "items": [
+  {
+   "title": "Brent crude holds near five-month high on Middle East tension",
+   "url": "https://www.investing.com/news/commodities-news/oil-eases-as-markets-assess-potential-waiver-on-russian-energy-middle-east-supply-risks-4958607",
+   "src": "Investing.com",
+   "t": "2026-10-20T03:48:18+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Dow, S&P 500, Nasdaq Edge Higher Amid Tech Rebound As Q3 Earnings Season Forges Ahead: DJT, AMZN, CBRS, CRWV Stocks In Focus",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZlpacWkwZ2Ewc2JXVnBxcTl6b3JpOFBuaGF4R0V5czJfYWdpSlBRaWNYV2RiVzJDaGdCcGdoRDZmek1FcmFTTVRIYXVPUEJ2bUt2TVltdmJsU2N3UjV1RmxJV2tFemNWeXgxYWkyN1A2eS1kbHZRU0xGbGd4U1pCSGxWVVhIV2VnbFljem1xUQ?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-20T03:31:00+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Gold Price Forecast: XAU/USD sellers remain in control while below 21-day SMA",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT1l1ZkhGdW9FTjJWYUQxa05xaGZrTzZHUUhuVFJ0XzhQVjRGX0ZsWVIxRGVORTY3em9RQ3ZRZUgyTFdDNW9FWWdvN3RNTGJRTkxGUUZxQkpJVVFyNTZXbkVZOGtZSHVGajFsalFCX1FJSUVTY0tHRGVzNGlUbnNZbVBORDMtSmRwOGRpcnNNMWpzLTV3Wl9FT1BvTll1MFVKdDRsMTNuUWNBQUo2Ukh4REdQX2dsM1oxQ0tNVlZ2X18?oc=5",
@@ -167,6 +188,16 @@
    "t": "2026-10-20T02:20:53+00:00",
    "tags": [
     "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Horizon Gold DFS: Eyes 2028 production at Gum Creek",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FbXVKVEg4RjYyeHUwYndHWS0xT0dMMDNWRFBudDFQNEJaNGRsdEpUVHcyTmtjbHAwQ3dlVWhfYjFtSlI5dm9sd2tuNF90Z1BhTmdSN253WEVnWkhDVHZ5ZEtkU1d6SVIwZ2tiMFVNUElLWlB3aTdyaXRoMUt6Zw?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-20T02:18:00+00:00",
+   "tags": [
+    "gold"
    ],
    "tone": "neutral"
   },
@@ -990,6 +1021,16 @@
    "t": "2026-10-19T14:19:15+00:00",
    "tags": [
     "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Nvidia wins fast-growing AI startup Modal for new central processors",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUklvMHh4T2thUkdNSndrQ3BVOTZjalQwRnJ2ZFdhb3Q4aC1NT2k2LTBLX1AxZmlHdTdheHp1ZDF1ZGVSd2JLc3VFUU1ycWRndnRmS2ZyYVpGeU52OU9IQU5qVHdJb1BXNjJ1MlN4MF9aajQ5QXhmQnhYTXowWEFUa29BQkYySzBxeG1CU0Z0MHB6U3psLU1EcTB4Z3N2dkVYSFM3cEgtNlQ4Uk5VTlE?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-19T14:12:53+00:00",
+   "tags": [
+    "nasdaq"
    ],
    "tone": "neutral"
   },
@@ -2119,6 +2160,17 @@
    "tone": "bearish"
   },
   {
+   "title": "Bitcoin jumps to $83,000, stocks rise as China GDP beats estimates",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOG04VV9paTdUeWhZMXhoaHVDLUJXLUt4RnplUzd1aFlIWWN0QjBSdW5Ia05ZMHh6bjdtZzdUWFk2TUh0dUhpUE1vbXN0eXpkaG91MC1HTGdIQW1CTWZ5aWVLS1IxM25FczJxdkg0NTJ3bFowclJuQXNkUDZNYm41Qm5xbE5YcWpSU1BuWWFtM0ZXQWdSUG1TUjZieDBHXy04ZUdWUDZyaHJNTlJvTDJTTWlkVTRtbmJZbW5B?oc=5",
+   "src": "CoinDesk",
+   "t": "2026-10-19T07:37:34+00:00",
+   "tags": [
+    "spx",
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Canada CPI Preview: Inflation expected to grab some pace in September",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb3VmYTliZXU0WVpmYjNCZTJnekJkOEVIN3YtUTdsRWJhTWNCbVZMMVhnT0RRZkJ5VFVUWXVJWnFlcV9CWElBeGFVTUllVEp4ZU5LUWJxVXhFX2dUUWxMenpZUmRXTl9sRFEwS1JTMW4xUFd2bXpWZkplRTcxS2FCNjBxeW1KZ1huOVZvT3BITGRkMUgxZHBkS2w5NUNvZnFzcjJkaEZDWjhTZw?oc=5",
    "src": "FXStreet",
@@ -2656,59 +2708,6 @@
     "spx"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Dollar firmer, euro weakens as French protests turn violent",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYUQyU1Itd0VIWG9TX0VsaXJ0VEZTY19LTjUwYVFWRmdnQkFzaWJVOElfUkNTNzZ6Z0RWb0MxMXF5X0RXaVZHS3NLZ2hsYlJrcnJaN1ducDA1UkdMczFwX0cxU1pHbWV2OF9jWWNzNHpkcXcycHBOWUMtbDlGN0JiRFRGWl9LRlNlVC1DWWtCbW5uNnZTa185RTNRTdIBoAFBVV95cUxOa3VZMk1lZHFUZTFVZnBYYWlKSmFnRW1MNjlkY21UMUNCRW5FOHF4M1dobUtmbDlUbFBMMTh0UlVyUHpoVGt6VEthOWR5UWNGTllzQWs5X214a0FZYUt2UmYxcG9uME1pRENBSmhLSWdLMEd5SkFxYXVyRUp0YzBUb1JNQ29lekNlUkRvbjlwOU9STmtwTVJQbDhiRW9pSEkt?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-19T04:14:39+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Morning briefing: EUR/USD may rise towards 1.1300",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcEEtTWd6a1BjbHBwdmVWUjJTVUxSR0ZxRVRtejB4Q2E0b0d1UmQtaUNkQjhhbFhMRXVSYmhqSTJjN2VCQ0dRY0s2M2ZNWnlTckljcmdIb3lvLTJMVjhvckxmRUY2RWRZbXdMVzF4VHJaTzB3aC1fanl5NTVKNTE2S0k2VzRoMXFfY242MVNqa3Q0bXlaMG90aUV3?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T04:08:52+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbGtzY3RHLXBKS05JREhZb2FSUjdPWC1VdmVYaVQxQjctWm92ZDI5UUExWFJBN25WZG42dFRud3J3bjFtRy1yX05TcmRSWC1mQV9qVTZpZXpnNWNacmNwUElfMXJQSlhxU3VvSldxUGRaV0E0enF4VHBTcV83WEFHVGdBa0tTT19mM3kxUjR5ZU1PYms?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-19T04:07:00+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold, silver prices today, 19 October: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPeHA0TUJ4aWh5bVZCNC14d0RaTTNiU3AwUkZDWGFjTkgyREh6dnc2MGNUOGFRNHFqVFdHVTU3Wk9sQkVYSEFhanVLcVpMOEgxQmhLZnh2azFGS2FwUHhzMTZpUVZHOTlOUmtOdUlQZmFMNUN2UGZfdnVPZ1lzQkk0eTFPMUNXTGEzM0ZJZ2tDLVhTSlJJanhuSkdhc3BzZHpyS3ppaFVOMHRVM3NPaE9tOEhEWUVjRnFDMjUzMmlQMmowN1dNdDhFLURzczhxVlNmcEVteTFkTjhBRnl5ZkRqQ0tQVmZYSS0zejlTeUcxanV6N2VMYmFiYmhyUHhYSU5VOWtmbnlsSXPSAY4CQVVfeXFMT0xHRTNlaHRobHpaSzVmMzl6d1N1OUZWZmN3c0ZqcDh4cURUQXpJWWYxQS1mTmMxMnYwekxxdEpjNmxqdEdJMkdSRlBTbXFPMnNfUXdlU2lNS0tnTFBuclRoRjlqNjBFeWhHSkZHT0RfZV9VUld5Um9sWXBVOFJTUWxHcUp4SjMzcGpraG82RkRoSDk1TGpSakxmX3NuRENYOFZXSTRocWNUVkttcUVPNUpfYmxPRlFvQlZNaHl5OEM0dmJNNGhFcXpKRGdfNHFLV01icHdnWEYzbVNUbUpQeXc2S3ZESmJNMTgzV2ZLRUtwRndvSzB0NWdnMVE1cF9KZkZfQVBYSkNiQkx0TzNB?oc=5",
-   "src": "Livemint",
-   "t": "2026-10-19T04:02:54+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "HDFC Bank stock falls 2%, among top Nifty losers after Q2 results; brokerages flag margin pressure",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDRpQTlZYmxGMjQwWFBqQkUtd2dvbEl6VzNuTzVfY29PdFM3bjNELUtTSzRnYzhNbThDTlc3UTNyQXRJYjFpLVJUd3FqeHR5T1Y0ZDI1VnhGMHRUSVNjQnpPNk80UzZQbm84dmwtRXVScHo5THRUY0t0ZmJaZ09mQ29zbllhZkFZbnVRVmFkYXVSRnFKdzExTmFQU3BuLVJ0RUdGeWZnVkx0RjY1cmloUU5kbW5VOGNlR1NkbDRwYTM4LS1qSTdvMC1mWlhFdFM0Nzg3MmUtOFRvRGdLdWl1MHU2aS1DOWswdEVzTHVPcnQtQdIB9wFBVV95cUxPcGVTN1V5NnJqb2pFVTB4Y1dhTzdlZ2ZReWNEVjNmeU5DMDNXWTZoeDFxUllHVkIxR2sxclN0Z0x5M2huOV92alRTcWg5NXdOTWF5MmN6WThXUDlHWktvYVhsclh5cHZ2SVlfNmZNa2xjQ2JlVHBocmQtUWtLTkdJUFUxX1p1ZVBNb3BqVmN6elIyQjN3d1RZSlBFaUJHYXBRZ081MmZaYm9LYW1IUVA4bjJQRjFoX21FbWxjc0l3bVBGWHMyakhxZTEwcnpjRWRDQ01PWEdvR3hmeUxfS1RnWUw3UlVSNEM5REhfRXdBSVBrMzNVeWQw?oc=5",
-   "src": "Moneycontrol.com",
-   "t": "2026-10-19T03:59:26+00:00",
-   "tags": [
-    "spx",
-    "nifty"
-   ],
-   "tone": "bearish"
   }
  ]
 }
