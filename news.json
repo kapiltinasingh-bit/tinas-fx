@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T00:04:17.895152+00:00",
+ "updated": "2026-10-20T00:51:32.980312+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -54,13 +54,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "CNBC",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 4
   },
   {
    "feed": "Moneycontrol",
@@ -118,6 +118,38 @@
   }
  ],
  "items": [
+  {
+   "title": "Gold Holds Decline as Energy-Led Inflation Weighs on Rate Path",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQam5BWU83ajI3anMzVEx0dTdFN2QwX1Nnd3VzODVOY0NPQVNGNlk4d3dGOC1UNWhBc05uYWFNaThSalNqMGh2ZnQ3VE5sQVNuazlHeDYzUUVmTkg1TjBwa3B2TDV6dWE2bDhoZWxLaGlQTEJiZUFvaEFFWDBLUWE4N1hPYXRVM3U4NzVQZ0dBRUdDTzY1OEIwT0xLcU5BWk9tSllRSl9fNXlwWnNsbkxnYVZaMW7SAboBQVVfeXFMTnhWc0U2RXRKV3p4cF9NaFhlTFpCdTA3dnZ4M2gxanFfdkdlMGxQQWFRYzJBZXN3Z1lWekI1TUFITDQ5OXR2aUx3bWpKTW9VaVRNOGY1Q1M0bDVVSURhb19DcTZrczNBSXpnNGlYZHk4RTBBN0tmelA3NllZREhVcExiTFlXb0xiQUg0UlltbU9iVGVWbWtIcnBLVE9ibVZCcnNmZzJld2gtblgzRWdmN3ZqR0RIVTRsTERn?oc=5",
+   "src": "Livemint",
+   "t": "2026-10-20T00:39:22+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Banking stocks, high oil prices drag Indian markets lower",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/banking-stocks-high-oil-prices-drag-indian-markets-lower/articleshow/135058914.cms",
+   "src": "Economic Times",
+   "t": "2026-10-20T00:05:48+00:00",
+   "tags": [
+    "oil",
+    "nifty"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Apple India in sweet spot as FY26 revenue crosses Rs 1 lakh crore, profit soars",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/apple-india-in-sweet-spot-as-fy26-revenue-crosses-rs-1-lakh-crore-profit-soars/articleshow/135058877.cms",
+   "src": "Economic Times",
+   "t": "2026-10-20T00:00:00+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "14 dead, 7 injured in Colombia illegal gold mine collapse",
    "url": "https://www.investing.com/news/commodities-news/14-dead-7-injured-in-colombia-illegal-gold-mine-collapse-4958516",
@@ -279,6 +311,16 @@
    "t": "2026-10-19T19:48:02+00:00",
    "tags": [
     "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "RBI injects Rs 1 lakh crore as liquidity tightens before festive season",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-injects-rs-1-lakh-crore-as-liquidity-tightens-before-festive-season/articleshow/135059068.cms",
+   "src": "Economic Times",
+   "t": "2026-10-19T19:47:23+00:00",
+   "tags": [
+    "nifty"
    ],
    "tone": "neutral"
   },
@@ -2677,48 +2719,6 @@
     "nifty"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Canadian Dollar holds gains against subdued US Dollar as Fed pause expectations rise",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY0FPU1pMbmdjU2V5U3VMUm5JbS12N0taWlpoOWllc2YxeVI2UnRBNlVZWk5HYjVwR2lQNFNwRXZtSlgxNkp1RzF3VmNrRVZHVHBoX1pSb3E0OERkLVNCZ3hNWDlqaHZRdzYwa1BwXzlaWXp5NkJIcksxak12LVhIVUVKQmhVY1FHTHppdHgyQlg3VVp3SWZTZGVIR1VKSTlKZ1l2Q3dkYUZfdHU4ZGVnMVhzODdEdFNLS08tWlo2TkMyb2hTNUE?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T01:47:32+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Dollar firmer, euro weakens as French protests turn violent By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcnh1QjEzZ2R1UWtYMXR6ejhWcE42eWEzSk44Tmc2MkFCNXg5WlR2bGthXzRkd0pYZ3puaWd2N0JJZXRzRnU3Zmp1SFA3SHRtSUFEV2dvbF9zdUk1TllUcm15UlI0cXl6V2ZSdmJOVTVKbWFuelBpdDNZdVFIaWlMZW9WMkFoS2FoMi1RWTNkUnlXcUQxSmd6bVkyc0VWZTd6SnMzZ1dULUZFNFVY?oc=5",
-   "src": "Investing.com",
-   "t": "2026-10-19T01:44:47+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold rises as Warsh remarks curb Fed hike bets",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1FUb0VZNnVtMmVoeHNlLTFsM3RrRW5pdm5LdDdVZVIxbHpGT1RCcWppM2s0Ukt1eW5qN3hxS2tnbEx0Nm1YdHJ5bWlTMm9QQUFpTUlvZkhNcGtQeS16amx3V284M05jTUpaRGp0bVp3eDZ6ME9hSGN1SWRmQ3pUY3FjMVA?oc=5",
-   "src": "Yahoo Finance UK",
-   "t": "2026-10-19T01:42:00+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Stock Market Today: Gift Nifty, Banks Q2 Results To Oil Prices; Five Key Factors For Sensex, Nifty 50 On October 19",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcmh6N0VDc1RJUTkycE9zTHBuVzFuUU1XYnIzczk0clpLM214V1cySWpUZ2tmQzRkZENZZmNPRjV3Mm1KVlVSOV9EUGluRm45em50YVZ3UU82cjFtMTNmT1hHZkc5Z0pJeGkxV2RleGJTbnFFSkRFd0w5TE04VnVCSzVIQklUaUpIREZWMzRQblNYdVRLbDVtYmNEYk5XbzhDakJ1Zlh6QV8zYXh0Qk1fYTc1cjRlVzB0eHhWUmVQNFI3T0I0bXRGUjJkWHlYQVNDLXl4NmktTjQySE51MjV5NjlHeVRDb3YtTkF2VWVzWE80SlNNRkoxR3Zn0gGCAkFVX3lxTE01T0NzZUttbFFLaG1MQmtSRXBzaEFXc3dwc1ZtNnZtUmZrS0ZVaDZSUTc4THJHNk82dEZlRUdCTXdRNjc3TkhwUXJHMXlhOXVSY21HM0pYS2lXOFVCMFFQQlJ0VG1FeWRVRnVoOW55T3pUOWJWazcycFZWNXF5TzZMalVJdUpPcnF1QWM4dXFzaERJTXNlYmRSSnB5aUx1RWdURHNCWDVuWHV5OS1GWjQ5U0tMbHllY3NlbDhGcUtGeG9DQnpBS1RlaEZ5RndSZWc3NEJ5cTlwQ2hURXRsc2ZjbXdxc2x5OF9mSGI3WWNqTnRtNTJqMWxmTk40bGFoUEZ4Zw?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-10-19T01:38:52+00:00",
-   "tags": [
-    "oil",
-    "nifty"
-   ],
-   "tone": "neutral"
   }
  ]
 }
