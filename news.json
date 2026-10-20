@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-20T22:21:35.898788+00:00",
+ "updated": "2026-10-20T22:54:33.125669+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
+   "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-20T22:33:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Update: US Equity Indexes Mixed as Weakness in Communications Services, Technology Restrains Nasdaq Composite",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUVphOUhDSF9vMDZ4OFRleG9EbUd3Y3k1Nzl0eWM5RUZTMGF1c29NMVRGSEV0SUtfd3J4cUxpTnFheVBjX3ZFT2hKbVkzd2VuRzM2VDNrV0pOUm1EbVZMSU5PUXk2MGxjV2VDYjNmLWxUMmhQa3RSNUJUWEUyUE5YdlF2WHNadm9LcG82N2xiNGFyd2plejQxQTBFOXVKUQ?oc=5",
@@ -788,6 +798,18 @@
    "tone": "neutral"
   },
   {
+   "title": "Gold falls as dollar, Treasury yields rise; silver holds modest gains - Kitco PM Report",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbGJUTVpVc09hbndpQTA5MmFxbVJ3QkpCa0lobmkzOG42QTFHRUctdEFTRGYtNHhqZ2czQWhXRGtHd3VGQk9MN1BrQXhlWmRrT1EzUlFZcnBQYlJjaGpEbUxFUHBXYloxMWRGY09KclVNbHlxbjBuVGJvMkJ1c0RzdVNuWWhEN2xNeEtrNU9faXFTX2ZWVlppRzdWR3k0VlFlc3BvVDZmRkYxcFg4UHpMSFNXVVlOMFJoNTc4?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-20T14:25:00+00:00",
+   "tags": [
+    "gold",
+    "silver",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Fed sneezes, but emerging markets aren't catching a cold yet: McGeever",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-sneezes-but-emerging-markets-arent-catching-a-cold-yet-mcgeever/articleshow/135071362.cms",
    "src": "Economic Times",
@@ -949,6 +971,18 @@
    "tone": "neutral"
   },
   {
+   "title": "Gold eases as higher oil prices stoke inflation concerns By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNjdXa2ZiZm9iMXRPdzAxaFBpZXgwN2pHLUtOcHRxSlNCckxSVWFXVGV6OHNIQmFGSmRZQTlzUUllckFnYjdwTzhlNUdTYTZ0VDl0MGdLYkFIZkZ3T213cGhmdFpBYjFHeWVNZGN3VUk4UWdJMmctTzlpTHZjU2JUNEs4bThadnNtajVfa1VoeHpJcjRGVnNOa05wZFNodw?oc=5",
+   "src": "Investing.com Australia",
+   "t": "2026-10-20T13:06:11+00:00",
+   "tags": [
+    "gold",
+    "oil",
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Bitcoin ETFs Post Best Day In A Month",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRmRWamxFYkRXX01ZM0dRaE8wc2hWb09rUVJCNUIyT2NOQ2l6SjVHSi05RGRkdWN3aUFZOVRyamZRM1FTU3hJcHFNZXJtd3FmVHlmbG8ybjZVM2EwcWpqVFFWd0FOY0FZMHkydVBWQi1HUHlpQTE3c1BvVlZSVmw2ckFGUjJkYlVpOHRqRU5MZnVzSFg4Ync?oc=5",
    "src": "Yahoo Finance",
@@ -1017,6 +1051,16 @@
     "gold"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "The crypto market is holding just below a key level",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ05GSUc0YkMzVUU0dVdxcEVwYTFuOGFrMGl4LWRyWEhuaE0tOUtQTk1PLVg4dHRQYzhxTjlYaTNKcWthSmhjUk5aNS1pNC1YajZFVlpGWDVQZGhOSXJ2Q3Nuc3RPeXBVeUNYQXBnT0lZMk8yUm1WSFE3UGRidGNCWXBwenFIcVRWdjk3eWl6cEk5VnJJNG1NRTVQNm5hNjlEQmNZRnpqdGhkUS1aczRLNQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T12:41:41+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
@@ -2653,47 +2697,6 @@
     "silver"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Digital gold could triple by 2031, WGC estimates",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BTTc0ZlRWZVAydllKTU5TY0dWdDNKOGZHSzBDallHLTJyU3F0aUFuekFndWxjU21oaVFRY3ZsNEZLMUJuV00yMmF4aWhpcGx5OG1fRkNtNkRJcm96YlhuenF0Zkt2SDlJbGs3OVBtN0I0d19aYUF1d2xRSQ?oc=5",
-   "src": "Mining.com",
-   "t": "2026-10-19T17:46:26+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "‘I got out of my bank stocks’: Why former Fed insider Chris Whalen is betting on gold",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORS1UVmtBQ0ZsbG9zVUl5QWo5U2lTUmZRdEdqNVRxaXdhWVBpN0U0VHc1N3B5NzJ4ejk0VjdZcU41bndGM0wxUHJEOUpiSThyOVk4Sk9tWUNLbkg1NW56ZjkwUzBlQmlCZGk1SVpDYVZ1UldtOXZiWTA4LVpWSUpKOEQwMlB0QjBWaEtOcWJTNDdkVEJKendNM2lHaE1WSG9YN2oxTjRqaldRN0lsNERPekJIdUdoT250bFc4?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-19T17:36:01+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Crude Oil turns higher on unconfirmed reports of US strikes on Iran",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0poem1sSFpzcmFNLUVUX2JTTXhQX3h0RUNxYl8wNjVwbnM3ZGlTOGRsbFcwSjJhOGhtZC1JcEx0cTBSbXN3cUhqQ2lld2gtaUJ0dDh0cURoVWpjWlBQakNCdDdLSlNnVXhZMzdfXzNxQms1bk12Z01FZXJEaE1LbGwtTVZUUVdPNDBtM3F2SFdWdGJMb0V4Rl91T0EzOTlsXzNuV3pwc2VObHpyNnpR?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T17:30:39+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
-   "url": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
-   "src": "CNBC",
-   "t": "2026-10-19T17:25:57+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
   }
  ]
 }
