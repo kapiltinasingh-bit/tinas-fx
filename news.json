@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-20T04:44:14.154681+00:00",
+ "updated": "2026-10-20T05:13:09.900232+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -118,6 +118,17 @@
   }
  ],
  "items": [
+  {
+   "title": "Gold braces for volatility amid recovery in bond yields, higher oil prices",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcElOaFcyOFE1Y1A0TXU1Ym4wYWJva1lsdUJsYXFaaU40eUoyRVdIUTlvanZSa1dpcmIzeV9nSUJLWlJOaGcwdENYdy1hRGJPS19yRUx0OTMzbHdPWEJXSE83R2dUcURhWFQtalRHS3dBNTUxQVdoWVBmUnFOZURjTnJnR1F2VC1Zc0FlTzJGOXBJTDh1cjVZTDZTN2ZiRTFHVzFBbU1ZcFMzTzk2Q29SenBaMTFKRGs?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T04:55:39+00:00",
+   "tags": [
+    "gold",
+    "oil"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Gold price in India: Rates on October 20",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcWVfdHUtQXRxNVJqWlo3djVhZmhJTjcxN1Eyell4Tmh0M3h6SndzdzhjQXM1eEJpWjQ0ZzFicndzX2FwMjRwZWVfRlY1X1MzWllEWE1EV2NTR1NJbTRic0VHcEpPajRINGxDTXRqb0lkNGtIbkd1SUZBNXhJWEFjNDkwSkkxOHhGTlNfUlplMGJDUDhSLUp1eUVKWk1nTnhTekZIZHkzb2hIZw?oc=5",
@@ -365,6 +376,16 @@
     "oil"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "WTI rebounds toward $98.50 as traders weigh escalating conflicts",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnRSWGg4dG1vbUJzVDd5cW90d2lQWk1Vc3dHcng2LXo1M25IT1N6UDM4N2ZNaTJpRTN0WkM4dlVKOUxsUURPYnRMbFpKZU5ac281SFJZdU96ZHQ0T0lGVHIyekZBLXU5cjExX1ozQVhUWDhKQWgtU2xVWWJLWks4S0lIQ3VVb1MyeW5SbHNTZzJGZWduc0pSQnRtTjlJYmFMNVVfRzdqaUY?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T01:03:54+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "NSE, BSE to hold Diwali Muhurat trading on November 8",
@@ -2687,26 +2708,6 @@
     "macro"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Gold price in India: Rates on October 19",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkJyVTBOZnRMZmNfUTdlaDZEX2dqNFZaeTVOdWktbnhOeS1VSHM3cFdEa1pZYUlvVENBdVcwTldvaTU4azFlbzkzeUV0Qzdack1FVnNUZ2NPTGlNS05TZzFMdEF5RVFmcWlydnFPMUhOZThQTm1PNXRNaUxYR1R4MG5ObklQMEZYaGhsZEJaU3dnOXNzZDJza1BrTC1kblhKX3VuOHZn?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T04:35:14+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Sensex falls over 200 pts, Nifty below 23,100. What lies ahead for Dalal Street?",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVE1WVFozNExmdnRCZ1gtTE1heUt1SG1OZWRWeUloZWtaWWEteFNQWVdJN21GNnY3MlltdldxdThKcENBSjFnYXM2dDhueWFORFloZTl3REF2bHVETjlKVUZVUzFZd01OOU8tYUh4RTZGYnVCckZONU14amQ0cWppdE91R0JUcEZwcDJEb0o0TUVuSUI0ai1qclpIZHNXNW13aGpOYWhKMmpvcWJ6VjVWYzVnQWlpRmZQUzJXS2dPVlQ3ZFp6ZWVnSFJYTDBwZG5PaHdHaE90RjJoN1hLZ2fSAeMBQVVfeXFMUFVnLTFLcFpoQlNpTmZnemlTOERpSHdidk51SjMzdTJyeXkwckdEbjZ0MWVubmRDQVdCUmlDSUNaeFNlTDNvWHloMkZiMGwwelZfcHJZNzduSUZ1X2dCOExIa0xpLUF2UzlSV081eXl4cXhPMk9MbG1MdklXdXRqTmtQWmJfbHpTeVFWQkg0dG9MRERkdHFGb1lLQWVOb1Y1d0VHQ3VBWlZIV1BrLV9WZFg3ejdkSG5GNjlDV1pvVFdCQmFkOGpsOXZMSEFxMnlsMWRaRjRqZE4tZ08wU2lGVzJLRlE?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-19T04:34:53+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bearish"
   }
  ]
 }
