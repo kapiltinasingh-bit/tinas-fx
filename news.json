@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-20T17:40:01.056348+00:00",
+ "updated": "2026-10-20T18:08:17.977387+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -66,19 +66,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "MarketWatch",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 9
+   "new": 8
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,37 @@
   }
  ],
  "items": [
+  {
+   "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+   "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+   "src": "CNBC",
+   "t": "2026-10-20T18:03:57+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Wall Street gains ground on healthcare stocks rally, oil retreat",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSGRRUEo0a1FOeEZMN1NlSV9YQVhhb29kellfUXBFZmtwOXVjeXN4U3k0ODlPcjhPeXEtdGJfY1RPNDR5THRSQlhxRkJjajZpRTdkQlQ4VzZ5QXJZVlVVR1FJa3hOcHp5T3gtMmFVMG85YUlkbzctNl91VnJFeDNtM2dNcFRFTk1NVE1zUjlxSGF6TFllVGhOa1o5SV9xOWgtVmlTdEZGVnh2NDdOMWNUTA?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-20T18:01:54+00:00",
+   "tags": [
+    "oil",
+    "spx"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "BoE’s Greene warns stalled wage disinflation raises inflation risks",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOek1aRXo1eHZ5TGM3bUpob3BmaUZoNmN5bWo3dDE0X2czVHB0bzF6cmhKbVgySThVVXY5UnpXdk1hbE80d1psQzBieW9vQkFjZUxDTk9jQ3ptWXNnRjFOVnpxbHBuTzZQS1RyYl82MWJSZF9aMlB2NjFCOEdyQThLbldkWldKSUViN25NcGxxRGZaeHY2d2dKT3lRZzREallQcFFKcERLX2FfMVNleGc?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T17:46:49+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Cabral Gold plans to double Phase 1 output as Cuiú Cuiú nears commercial production, Alan Carter",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZGVlcWRCNndJdDNYdUx1V2UwTzNFY3hubzk4dWt1c1ZFRXIwa18tclpXWjlRNExEaFc4eUJSTE9QN1JOMnhoUS1ONHN1bVhJT2RBOWxVbThKNHI1R0dtLVRjaWZ6MFlOeEVHQ1o1OHB2T1dJZjgtV19iM21oWnZrNzJFLXFhUnhJek9qbnpaYXpZdUl6MHAyODF1M2ZzN3h3dGxmMnVjc2tIc1VEN1I3Sk5Ia3k?oc=5",
@@ -1731,6 +1762,16 @@
    "tone": "bullish"
   },
   {
+   "title": "Nasdaq climbs as chip and AI-linked stocks bounce back",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX21SVVhfUjZRQ255YlFzVWVEZ3BFMmt3aWlDdkVPVENFOExuRE9KOXZ6WjNqbzdHelUwdzZudy02TjlyNkxVZWcxQmFzZF9NaUE0SFZYaWI3dmxlYTBVdjdULWhLMkNQNnlMUXFaM1J5T1dPMEo3ajhkb0RQLUM3M0pkYlFqbHNKQ1U1c3k5WlUtdjR1UkNCV0JkdjJZTzdIa2c?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-19T23:31:42+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "14 dead, 7 injured in Colombia illegal gold mine collapse",
    "url": "https://www.investing.com/news/commodities-news/14-dead-7-injured-in-colombia-illegal-gold-mine-collapse-4958516",
    "src": "Investing.com",
@@ -2661,46 +2702,6 @@
     "nasdaq"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcVZSc3AzamZnZTJIcHgtT2JvT01kRE1tU2dZMWt3M2R6U3JvczlHLU9tUGJYMVh6MVNhRmtfVUpMWnFuTlFCZjRDUnRSalotazJPUFFaam1HOElwbGhlR1JYczVwWElfRjhMenJHTzJwSDQxcm0wcjR3ckFSVC1zSTlPTkRVM01vXzhpdnlxazJicEprSXBLdWtZUERMajZURElXQ1YtY0RPWWtId2s1ZjBxcnF4dm9FNUx6Zmp4SDZ4cHVXbUE?oc=5",
-   "src": "CoinDesk",
-   "t": "2026-10-19T13:30:38+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "FIIs sell ₹1,149 crore worth of Indian stocks as Sensex falls 876 points; DIIs buy ₹3,201 crore",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd3NZbGd3N2czQnU3X25tUXMzX0NONFZkeWdWT1RXbjBUWlRNMjJkNHZGekduMjUzaEtmTFBUYW00T0tmeERQRS1GcjhrclRTbTdtWmhjVTBKS2UyWU5oWVcxVFlfRW91LTFudnJtOS03Qjlpc2k3eUZUMmpTM0pMVFc5NVJHbHlISEFUWXpKckQ4d2dYc05LeW1VWS1EUkczdVFneGpLUEVtZkhoOW530gG0AUFVX3lxTE1DTnh2eEZ3clNfbWt4VmZTczZhTk9SZ2RmV1Vwb1V6T04xbVo2UmNwMi0xZmRKZkl2WnQxbXpLcW1tbE96Smw0cnB5VHBLWmJiOTBabEE3M3Z0M3VTbmlWZ2pDRTlqS1ZwbjAzLUVhdXV1XzZ2SmpaXzFvVFJDaXc5Z2NjdDQwblZHZ1Q0ajJKY01qQmFxMGNUWXZZLWRBMjV3TGlEdUNTOFVKTzlaOFlVYjByZg?oc=5",
-   "src": "CNBC TV18",
-   "t": "2026-10-19T13:23:45+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Nifty Midcap 100 Live | NSE Nifty Midcap 100 Index Today - S&P CNX Nifty Midcap 100",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Say1mSUZMSWM1U1JaV05oRWFlUnVTVjQ1UVpxaXFydGVCaUZhcDRMNXJzZWNONzVUTWhYVUdMRWJLMGZ1TUdUS2RQdy1MTzhRSU9LTW5NWEt5WHhMeEgtZXpVTmVyMjBKZUhsVDIyQkRpck53b01rX0g5OA?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-19T13:22:20+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Strategy Buys Another $22 Million Of Bitcoin",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLXZTSTJaS1RzeE9MR3MzX1VnRTltb3gxTnN6T0RVUF9YNnN2SzJKRngzSkl5U3V4VmlXQjdETy01cG1qZUhMMEJLaHlyRGhWV2VESzlrbnR3bVhGZVpsY29zTGlLa0QyZnljLTh6T1JleTF2UXdaZFVuaWxzUFpkZXUtSGk1RW85TDBZOU14X2hFV0tQZHRkLVVpZm5BQQ?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-19T13:12:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
   }
  ]
 }
