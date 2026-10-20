@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-20T22:54:33.125669+00:00",
+ "updated": "2026-10-20T23:17:14.574884+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "CNBC",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Economic Times",
@@ -805,6 +805,17 @@
    "tags": [
     "gold",
     "silver",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "‘I got out of my bank stocks’: Why former Fed insider Chris Whalen is betting on gold",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORS1UVmtBQ0ZsbG9zVUl5QWo5U2lTUmZRdEdqNVRxaXdhWVBpN0U0VHc1N3B5NzJ4ejk0VjdZcU41bndGM0wxUHJEOUpiSThyOVk4Sk9tWUNLbkg1NW56ZjkwUzBlQmlCZGk1SVpDYVZ1UldtOXZiWTA4LVpWSUpKOEQwMlB0QjBWaEtOcWJTNDdkVEJKendNM2lHaE1WSG9YN2oxTjRqaldRN0lsNERPekJIdUdoT250bFc4?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-20T14:25:00+00:00",
+   "tags": [
+    "gold",
     "macro"
    ],
    "tone": "neutral"
@@ -1943,6 +1954,17 @@
    "tone": "neutral"
   },
   {
+   "title": "Dow Jones, Nasdaq, S&P 500 preview: All eyes on Meta, Tesla, SpaceX earnings",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMV9ra3R1TkNrSUZ1TWhPS3BGZzhWREVSZXRacVBuWlFKRGFVNDkyLU1xa0tSdnRuWnZ3THoxVWwxM01jbHlGOUdtQnlySHFocWZDR1pja05zWHdQOGkzWHNwTjBubkNBWFVBNk1md1VjSXp3eWJpTUNMNnRWb2ZJTWN1YVhjUXFxWkhQUllFRlU0U2JnaVBza0JVeXNFVG5kekhCaGh1WnlFY2dOWkJ0Uk1jOHlRZlBoQXpSVm1EbU1fR1lTYkE?oc=5",
+   "src": "Investing.com",
+   "t": "2026-10-20T03:53:46+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Dow, S&P 500, Nasdaq Edge Higher Amid Tech Rebound As Q3 Earnings Season Forges Ahead: DJT, AMZN, CBRS, CRWV Stocks In Focus",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZlpacWkwZ2Ewc2JXVnBxcTl6b3JpOFBuaGF4R0V5czJfYWdpSlBRaWNYV2RiVzJDaGdCcGdoRDZmek1FcmFTTVRIYXVPUEJ2bUt2TVltdmJsU2N3UjV1RmxJV2tFemNWeXgxYWkyN1A2eS1kbHZRU0xGbGd4U1pCSGxWVVhIV2VnbFljem1xUQ?oc=5",
    "src": "Yahoo Finance",
@@ -2676,27 +2698,6 @@
     "macro"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Dakota Gold funded to shovel-ready as Richmond Hill targets 2029 production, Robert Quartermain",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbi15TWxqU3AyTFljVTJwM1pQcUc0eE1ZTlNlR05Iakc3ZkVjMG04NjFQZGduUXk0NHM0TnVUTFhudl9ER3dOb2J1ZWNBdTR6WUlOQ2tka1ZSd1BQOE4zeGJ4TFlLdkV2NnNYSHJ5NDRMdHotQUxrTW1FX1NldXpjam5oSENnUk00bjF5VXotb3hPWW0xOGNwbG1CVXFPTE40LThpWWs3dEpMeVJpWU51YVUzOTRCeG5S?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-19T17:50:04+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back As Dollar Rebounds",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWnJoM3BOMXJpRUpvZ1N4SVF2a0J3Zk5DelY3UTRfN0l6VGw2Vl92NjRZRnpVWVVRX1Q3bTdFRFIwanRYZms4UWFYZW9PMDVhZEJFUlBmLXJvTmZRR3RQWDQ2Y2x5ZHdvcVZ2ZFVDR0hPZ19WMGpZdGVBTGp5MnVZQWMwQkdLcnRGLXlFNkxGMlhld2ZsQ0oxX1B3UUduY0xXZ0JycGJqLUd5TUswa2JrS3ZNclR5alQ3ZEVZVkFGUVhodVE?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-19T17:49:52+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "bullish"
   }
  ]
 }
