@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-20T11:24:10.392545+00:00",
+ "updated": "2026-10-20T11:57:28.980627+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Moneycontrol",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 7
+   "new": 5
   },
   {
    "feed": "Investing.com",
@@ -114,10 +114,22 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "Gold extends losses as rising Oil prices reinforce Fed rate hike bets",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1lWdldiOEJVbVE2UU82Mk5Mc1d1ZWFIZl9rSW83ME9YTTVzV2ZGSWNoVk5fUEpITG5qSk5qTkwzVTk3THhYUGNNYm9fRTVhd0kyb1pJSEo0c2k4V01JdFZWRS1rTzJPV0k5TTFyTXRmYndfTi1VMFZPVTFvenUwbVJ0WGpOdTFJRzRPTy0tWFduSmh0TFpYNXRuUVU0M21HQUNpY3NocXI1d3ZKUXVPX1pB?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-20T11:30:10+00:00",
+   "tags": [
+    "gold",
+    "oil",
+    "macro"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSFZrdWRNLWM3SjEwY2JadFgwMEtiaFYtQks3c1BUTlFlbVFld2lCNWpsVnljeTBWcUdITUxoS3dQOXgtWXE5SktFSERjbTZqS1ZCUmM3TFpwZHk4Uzdodk5IcXUwZk1OOGtPQVdiT2JZdnN4eUFyTmQxSmpvT3liR0JneVRlclJXbllVTW5adFczQ2o3QjItYzBwSnRHczY5QlNubFpkc2UyRFVpanljMVNJWUdPXzNBaTNKRWtMSXpadDd5SGxubQ?oc=5",
@@ -389,6 +401,16 @@
     "spx"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Gold at $4,165: Key Support, Resistance, and Geometric Price Projections",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObnZyamZJUE1NeFJ5MW9UNkZUZFQzaG5HRjQyWDNBYWpUNUt4aW15MzlsM0QwZkJLMkFXbENjaExFMjhnM1NkdXc0ekUwemtFUXZUcFdYczJUaUM4Rmtlbm8tdHFIbk4wOVVJNzhBcVpSSk01NnN6alczakJCUnZYOTZHcURETEU1NFd1N2Fqc2JFcGhkSFdMSGc2RVgzb3pidXJaUjh5WFRPbTBibnJaeVF3?oc=5",
+   "src": "Investing.com",
+   "t": "2026-10-20T07:31:47+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "USD/JPY Price Forecasts: US Dollar dips after failing again at the 200-day SMA",
@@ -794,6 +816,16 @@
    "tone": "neutral"
   },
   {
+   "title": "U.S. stock futures steady after Wall Street rebounds on tech recovery",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnBFbW9YcHNIbnM0c3BIb00tWWdkTEhZLUJQX0FUeDZMQnBjVjUwOF9DSEVMVkZqSzBLSTZva0h5dWw3S1h5eFZlU0diVmpxM2ZycngwMEVFQ3JpZVBfa0FqNzNaaHNtdDhqMkFQWEk5eE1fVkhiMkFQRUQ3UDFRWEJZQ2ZoZ2h1V3N5cWlETEFRaUpZTlh3?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-20T01:21:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Euro rebounds as French protests ease, dollar slips",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazFGS3ZwNDhmME9ZUDdoZVQzMkV3UEJQUEJsTE1LdnFTcjNXRzI2emE2Z3VvZE1YNGRpam95VTF3UGgyTVFjRExnWkJ1TGxpenBQUHFhbmU1MUpEYVhDcURRS05xQ1BycHRUT3F3bExRQjZfaUFVeGlKcHpmaGFEMkVwQ0RxSk5iLU4zaDVaVDJzQzEyQ0R4OVFZeHZuVXJKZ3pESWtudFQ?oc=5",
    "src": "Reuters",
@@ -828,16 +860,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZWNLYVRQLVRrOW00UnNuOUVZSS1nT25nQmJTSDRPQm5uNWFZSk1UV0lTYVlIYnd5dVNqaDVQWTQ2Nno2T1VvNU0xY3hERnJubVIwckk4X1JjTXFmR09lYWN6bUVkalA3YlAxRnNBdlY3ZDF3U0loUnd5dnBxNUYzN0ozb1NOS3QzZUx1SWphRVF5TTJIYWUxUFpqZ3lobF91NXV3YkJIaWswUkZ1M0lCOTlkaEpRMjlWa2JRd1Z1V3I?oc=5",
    "src": "Investing.com South Africa",
    "t": "2026-10-20T00:58:34+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "U.S. stock futures steady after Wall Street rebounds on tech recovery",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc3RONS1WcUhUam1hQkFZbWlZX0VoUWdRSTNtYXI5UVAwZHpGOXZ5dW1kOTJQLS1iMGVXMjgwcUh5Q2ozeklSRkFmT2pWRXlJVDRjWDU3SlpVblBITlhyUXlTVVBtMDBSQldnSVltaXRZNXdvNW1rdWZRaDNXd1ZVbjVNS3ZjdWNjMVV5YXF5SHJJd09pUmpNOGhXSmF3NmlOdGVrX2Nza2pkRlcxVkRQZ1o3c19sVVgyMUs2QzVfRTNGUQ?oc=5",
-   "src": "Investing.com",
-   "t": "2026-10-20T00:55:36+00:00",
    "tags": [
     "spx"
    ],
@@ -1837,6 +1859,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Breaking: Canada headline CPI came in at 3.1% YoY in September",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb3VmYTliZXU0WVpmYjNCZTJnekJkOEVIN3YtUTdsRWJhTWNCbVZMMVhnT0RRZkJ5VFVUWXVJWnFlcV9CWElBeGFVTUllVEp4ZU5LUWJxVXhFX2dUUWxMenpZUmRXTl9sRFEwS1JTMW4xUFd2bXpWZkplRTcxS2FCNjBxeW1KZ1huOVZvT3BITGRkMUgxZHBkS2w5NUNvZnFzcjJkaEZDWjhTZw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-19T12:38:21+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Oil and Gold: Price review for the week ahead",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQam45Z3dXR0dpeGYwR0hQRU5ZbVdUT1FwUFdMUVpITXFPN1FtWE8weTlETkR0NzdmWC1NVVBPTGwxNkFDcGI1WnItQmt4cmZIcDktenNfal9VeEtsYWs3dWRPd3lpRFBwN3ctRllXbFhEeEhIaVFqeXRocm5DNGVCcFZtWi0zS001S2ZhakJPU3FLSEo3Qnc?oc=5",
    "src": "FXStreet",
@@ -2672,36 +2704,6 @@
     "nasdaq"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "French political turmoil spreads to markets as Paris-listed stocks, bonds and the euro fall",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yZ0RIWVU0dGdFR3VzT185QnhqcGFWRnZNZTlneWpIaUhVMlFqeF9pQmEtZm9SVE1GVnRMYVpiM2QwQm42QjZhUXp0ZGZhbnU2dm91TnlXWjNDbVlVNkdHQ2xic0VVTEo0aFNGWTBTZFRPYXZWMXF0VDlrWXU?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-19T08:28:59+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "WTI Oil eases below $97 amid hopes of higher supplies from Russia",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzVPTFJvMWt4aFl1TVdmZGxwREFDTmJiYWs5WFRnN0ZKaC1ycldVWUVPdHZSMW42Y0dwUTgycGg0RXNfODAyWmdsV3VsRjBaMzNQT2JjZzRSN0E0Q09OdDBPSXFZVVpDSFh0Yk1sVlpXNURrZzc3LVFURHhtcld4QVpvdWVtMmtMNXFHQVRGa25JZ2R6bkpITTlKbUJnSHVoQVVqYVQtU2N3dzQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T08:23:03+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Euro struggles below 1.1200 vs USD amid escalating fiscal and political risks in France",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZU5odEFEdXl6WVR1dEgwNVdlLWtYbjAxVnNObmRDUHVvWnh5VDJTaGN1MzlxS3E0RzNIWWxraU80TnpHeFpUNXZfdmhxelZZQlUyTHZzT3hUc00xZThZRnRBeUNvdnNNZnZacnphdWRTeVJGbWNvVFF1MzJHWHgtLXdmb183akZ4RnNVN3E2UHk3Y3hYYWRRRV93OGNYVzZTUmxfcFlyeTUzME9SVU56Qy1NdFR3a3EwenVhVXVZcnVzYlpwUjRhRQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T08:09:50+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
   }
  ]
 }
