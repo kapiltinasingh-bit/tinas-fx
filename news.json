@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-20T13:55:38.528557+00:00",
+ "updated": "2026-10-20T14:24:25.575513+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -60,25 +60,25 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "Moneycontrol",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 9
+   "new": 10
   },
   {
    "feed": "Investing.com",
@@ -129,6 +129,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Super League Holders Approve Metaplanet’s 2100 Bitcoin Deal, Clearing Way for U.S. BTC Treasury",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV0tnOFg3T3JBQlVtd3pjaDBJbmFMbVhfYlRoeHg2LVFHVE9nWWNaa1AwaFA5SlhRNWhfdkF3V01DVXQ5Zkhxam9mSzZUVFdRWWNteTZkRGxqbFpWVmsyeHVxbVhiQzZ5N25MN0tTcEF5T1VOaFh5MUZGclpCYkpJQUJwYzFkTldTWGtfdHVBbEhkTmYzS0tYOEhMQmQzeGFwQ0lKRExZYw?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-20T13:47:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Apple shares aren't cheap. Here's how to get long for less",
    "url": "https://www.cnbc.com/2026/10/20/apple-shares-arent-cheap-heres-how-to-get-long-for-less.html",
    "src": "CNBC",
@@ -148,6 +158,18 @@
     "nasdaq"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Gold dips as oil prices fuel inflation fears, Fed outlook in focus",
+   "url": "https://www.investing.com/news/commodities-news/gold-dips-as-oil-prices-fuel-inflation-fears-fed-outlook-in-focus-4958694",
+   "src": "Investing.com",
+   "t": "2026-10-20T13:41:01+00:00",
+   "tags": [
+    "gold",
+    "oil",
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "US stocks today: US stocks open lower as AI stocks decline, oil prices rise",
@@ -577,6 +599,16 @@
    "tone": "bullish"
   },
   {
+   "title": "Live updates: Bitcoin reclaims $83,000 as stocks turn higher",
+   "url": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
+   "src": "CoinDesk",
+   "t": "2026-10-20T10:14:19+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Stock Market Today: Dow Jones Futures Rise, Nasdaq 100 Falls as Iran Threatens to Target Undersea Cables",
    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaGktMy0xS2JTeVBCNDh4V2s4cnB2VExWM0p1WmV0RmFGdTM5ekdRTUl0eDBYb2txWnFSeUdFV0J2TVNpWXNzTUY3UmFnMHdtUTE4YXJfbE9ybWNuSkcwVXpwdzR1Y3czS1ZoWS02SWxwNUtWaWEwZnNpUUd4QXh5Q0gwbzA2X0dTOEtNLUhWUFdpWGRnV2pscWRtQ0JfWmE2dV9yX0ZMUVZSYTJfWURhLXh4WE1tTnMwNTk4MWFzcnhLakp0MXhwbnhJSXdQMnZxVXFaTVZNcDBZSXdtT3g4T2dROGQ0aDVobVFZdWJVUUNiUTd5R1llSEY0VGk1MnFuUkY4SXRiVzlLcFg0NW1TZA?oc=5",
    "src": "Benzinga",
@@ -657,18 +689,6 @@
    "t": "2026-10-20T09:18:57+00:00",
    "tags": [
     "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold dips as oil prices fuel inflation fears, Fed outlook in focus",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHRoMVBGRXVRTWhCb2RFUlUtcWtYeDFCbFF1RmJaZTFINWpiOFJXcGJOM1NUczZ5a0U5emZGRk1zUjNYcVg4aE5HR2gzUTR4SERSaFk2NjEzMnZzZkV1azJveUppMEFBY2c5bmNBRTNZTVIxcFZaSXpRSUtmVlRPRVZIM1dMY0EzcWE3QWUwc2Z4SUd1UEJaaUFyeE5wZUx1aFE1c1dKNGJaVUdrSDFOMnVrdEtjVFJGSmxxNUZn?oc=5",
-   "src": "Investing.com",
-   "t": "2026-10-20T09:04:12+00:00",
-   "tags": [
-    "gold",
-    "oil",
-    "macro"
    ],
    "tone": "neutral"
   },
@@ -2680,26 +2700,6 @@
    "t": "2026-10-19T10:51:28+00:00",
    "tags": [
     "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Muhurat Trading 2026: BSE announces date and timings of special session. Check details",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-2026-bse-announces-date-and-timings-for-special-session-check-details/articleshow/135046488.cms",
-   "src": "Economic Times",
-   "t": "2026-10-19T10:40:31+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Muhurat Trading 2026: BSE, NSE announce date and timings of special session. Check details",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVUFSdk1XZWJ0LVVzQ3NnOHRiQW5pNnlzSjRwNUp4M2h3Nk9Ba085RHBzcm8tWHEtWFJpSHJ3TlB5bHBScVhwVFJjeXctRXY0OG9lY2UzVGlmazNCLXVXQ0xtSnNDelN3bHhpcHgxWFplZE5BV3V6Ylp0RFZZUm1JNGJFUEZPNnRMeGNCT2NveElQRkN4SVRTdlY2Z010VXdWLVpPQVJxSVVxTllOODlFQWNaeFpJbEhGTXEtbFdtajFUS1pWeEM2MTg1Q1dXMzVEeEVwcmw4S2tvT0l1eUtDN2twM2w5ekpMRnI3WEVPSVTSAfYBQVVfeXFMUDVicjBiM29pWW9YNC0zSXh3MjA5RGFLcThrZV9NVHA5OXNYVUZvQWdqbTFLYThuZ3ZYWjdwZXVheElMemZfeVNReElyWUtuUEttRmxRNkQ4bG9XZ3FqY3JaakhJRU9XdGVfbFhqSnlUU1pPVDV4TlE4d1hpYm5mVTh0S3k3M0FqYTZfM054Z0EyNjRMVmxzVTJHcTVFVGFKTkx6Z0ZSYzZIZktMT205UGtBUDkzQm5DdWI0dk5pSldCN2NFbU1LOWQ5dlpndmVUVWYxcmJKUXhTbjZ4Q0h3ZlhmclhIaTdOek5GRFVqSDBHcHk5a2hB?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-19T10:40:31+00:00",
-   "tags": [
-    "nifty"
    ],
    "tone": "neutral"
   }
