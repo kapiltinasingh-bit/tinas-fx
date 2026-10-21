@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-21T14:59:37.696435+00:00",
+ "updated": "2026-10-21T15:31:54.963965+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -24,13 +24,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,25 +48,25 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 7
+   "new": 5
   },
   {
    "feed": "Investing.com",
@@ -114,10 +114,50 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Gold basing against its short trend’s tracing",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkZhOGh2NnJWbldUVnlUMC1JUmNUTUZtSXdvNjRHb0tpQVhhbUs2dktHUU9ZZDVXczFyQTBBNTVMbXBJcW1FX1JHVFVmV0FwdFJueGpKcUdKQUZhbnhZejVPblFDV0dVaVNYNkNIRXhIbHBQTVVYeGI1VHFBcXdZcjRhdjF5MzFQQ1lxX2tR?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-21T15:11:22+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+   "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
+   "src": "CoinDesk",
+   "t": "2026-10-21T15:00:53+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Russia sells 6.2 tonnes of gold in September as bullion reserves fall to lowest level since 2019",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRTlLMTBNZUtSdy02UW5DVWtpQXdSRURvOVNuQ2E4VUw4UUhmc1ktdXM1bnAzZGFrb2Q5MGxvcUVZVUt2N1RzMVN4bFVaVkxuRjNaajJnM25paVJubzBKbFU3SHhUTkxsZ2szS3phdjVLNGx1ZnRRLXo0WTd4cndlcVhISU1oUmpXSVpETEhhTFlVY2pkYTJEZ2c5eVRqNzZ6UXdjRURIT015cjloNWY0cHhHSUU2UzBOd2c?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-21T15:00:11+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "US crude oil inventories drop 3.06 million barrels",
+   "url": "https://www.investing.com/news/commodities-news/us-crude-oil-inventories-drop-306-million-barrels-93CH-4963561",
+   "src": "Investing.com",
+   "t": "2026-10-21T14:45:26+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "SpaceX and Tesla Are Exploring a Merger That Would Hold 30,000 BTC. What Could It Mean for Bitcoin?",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaWNnWDl4UVY3c1haempXeEV3Mmp4SXdnU3hGM1RzdThPNjFqMEJNZ1JFN29KR3U2elpDbWlmbnptRWV3aHpTTVpaeTV5b0N1SENuVUVUOS03Q29XaFcxWHJZNDQ1S05lc0E2VGJmWlZPSnZxeFRSWUlkMTlsSTV2QjFoUXBEOENodTZOdmtaRHg4RksyTUYtV21PUjV2aUpYS2ZmNEJtSGR3UURXamkyX2FYRmRESDJmYmk3R2ZNVmpWSDBhWUdHV1hJUlNxMHBlXy01VGxWYURsTTl2eEZhRVliUHA2cTE0ekRv?oc=5",
@@ -151,13 +191,25 @@
   },
   {
    "title": "Nasdaq leads gains as SpaceX, Super Micro results improve AI appetite",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdnY3ME95NFJPaGhhOVNxUFV3dDZ0anROWUVlWU1yZHBVZVJ0TVp2b1dwQXpGWFBMdHRBanFKZXlhRFJydEJVZmJkSmxjSGNHLTlBbkJnbU5rVTZVNXd4cl9FVEMza3hFOEFNRUtoMVQxdEtIQ1c3VHAtTTRsSzVZNXNYZHBEelh2cHJIV2tmVk9fVjd1aGExWm9ldWw?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-21T14:28:05+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUJTOXdaa0JmVzZubm12MGt4VnNSemsyOW1fQXpCMnhEc25HSVJRZk93d2NYUXQ3eHBuQklaNE1FT1QyQ1NqdTFkdExDbmoxY2JtOWhLQkVtYXczMHh3a3VsZmhub1JFc0FIZHN1eEcwc3FRZVZWQnBoSjFjekFYTUN6X2d5WHJUWGpDU2paekhhU24zenhNbWpXUmtfdmo5cTFIZVZwTXdiRzZoeUtiazhHWkJEWEVZLTVmQmRMcw?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-21T14:28:37+00:00",
    "tags": [
     "nasdaq"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Gold ETFs to Watch Amid Fed Rate Hike & Oil Risks",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WdnJJOGRiLUl2S25aWER1amp5THIzbVphMy03THhNenlpaExPX045LVpiTnNNTXgxbDZVRkVaRDJCYU9EYzhHNlhjdi1LNlNhcmNyZnlkQWFZaW9IOGg3VnZyTE5tOVJSQ0U4R0c4a21JRVFZYnRrRDkzVmp2QQ?oc=5",
+   "src": "Yahoo Finance Singapore",
+   "t": "2026-10-21T14:21:00+00:00",
+   "tags": [
+    "gold",
+    "oil",
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Hungary: Euro-entry driven fiscal tightening – BNY",
@@ -166,6 +218,16 @@
    "t": "2026-10-21T14:06:36+00:00",
    "tags": [
     "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "The price of gold today, Oct. 21, 2026 — and the best places to buy",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMYzJfUkNtcDlveGkzRk1IMC1YR1ZncmoyaFZXOGFXb1BPcEtJSVpTRC1SZWpiYTdBTndZXzlmZ0t1dVAzRl9YakVsSV9iVHJhUzFpNzVjSFZXY1JhM0MteWNHNUpWNGRISlNYQVo3RVlvd9IBd0FVX3lxTE9NNW1RaFFuMm1BWVVfZTI0SGgyRy1pcDRaR04zTVJFUzBrQ3hzdnFjQVNTWERxaDlwanFhempRWmlUMHpjeHR6OERDLTB4TndEcS1nMVJ6YmVSZ2c2Vmc1YzV5TTNRTzNvOTFfdUFNUHQzeHQyZVgw?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-21T14:03:27+00:00",
+   "tags": [
+    "gold"
    ],
    "tone": "neutral"
   },
@@ -1197,6 +1259,16 @@
     "oil"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Oil prices little changed as traders assess Middle East developments",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMGJ5Y1pPUDFBa2J6dUEwc0RnYmVRWnNFQmhTNjhsa1ItUVBFZG14cGVzTU1kZ205RDN4Mmcyd1pzQjRJNGl6N2F1Nng2WlBGSWVZd2JBSXVYWmFNTnpZRWxBZTVqUmdaVFNRRUEwczJtcC1PcnhDSkN3RXU2eWllNlZGcFQyQzVzaXA3V09PTXYwVVAx0gGaAUFVX3lxTE95am5EZGd5cEZod2RCX0FMZTdIOE1paDJvTUQ2OERsckxsYVZON19rZ0JWbTZYWDhVZXlqU0dNRm0ydlp6dUVxQkcwU1VtbWFRWE9kRk5PLUNubG9MSWF5anBIQThhQ0FKS0UzaHVRdXRRN0V2Nkl2SFVHV05JaThJZFlMT2tsY1ZxdUxDUUJZRFBpN1hHSjJ2TkE?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-21T05:27:19+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
@@ -2523,6 +2595,26 @@
    "tone": "neutral"
   },
   {
+   "title": "Gold struggling to catch a bid even as U.S. pending home sales drop 7.3%",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcmF0ejlnU1hTNjJJbE5zLUpsY3ItaHFIREFWU3U4QllJakNUS0xIaXYxT292X21fVnNlZ0tPdk9kWFRLdzI3RTNxeWpiTnhmOUdYNlhWcW5ISnpkZXJiSERucUIxcmFOajlKRERGODRDMlljdWowcTBjRnBFdzBRRi1JVDNQYXhnQUNfYVF5ZzZWbDFIdU9PQnFXeVlrX2V1MkxUTmdRMHJ0QQ?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-20T16:35:40+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Russia's Oil Export Revenue Slides as Production Declines",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU3hHVlJBZDVUM2lCd29MNEZxVEZSUXR3dnBBbGpUenNBZ04yVVZIMTJxMnZzQVZORnVycmNiMUIzUXFJM3ZuZmtOOXNyX3daM19DRmRQWXJ3T3VmenpoVmFncWhoQmZESFpUb0JnS21jWUxDZkw1ejZJc0tUU0xmUFpWMnU2ZnFaNGwtNE5XSkVzd21GY090ZzF5OUdTeGkzYWF1Wi1BRHA2VEE4QWJBalRHX1RYRFHSAbcBQVVfeXFMUFN4R1ZSQWQ1VDNpQndvTDRGcVRGUlF0d3ZwQWxqVHpzQWdOMlVWSDEycTJ2c0FWTkZ1cnJjYjFCM1FxSTN2bmZrTjlzcl93WjNfQ0ZkUFlyd091Znp6aFZhZ3FoaEJmREhaVG9CZ0ttY1lMQ2ZMNXo2SXNLVFNMZlBaVjJ1NmZxWjRsLTROV0pFc3dtRmNPdGcxeTlHU3hpM2FhdVotQURwNlRBOEFiQWpUR19UWERR?oc=5",
+   "src": "Crude Oil Prices Today | OilPrice.com",
+   "t": "2026-10-20T16:30:00+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Webull to debut crypto-linked perpetual futures in November",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQnU0YmVvcFVMMHlzTV9BdWNGdm0wXzJWOXNldUxJNkUwcExnczVWRzRDaGRwdEVNU252VENjVmpNV19fWEUwc3FBYmRZa0NsTWw2Z0NIdTNDb1lzMTFFSjVHdHlwYTQ4M2lhMmxzVWk4V3BGLWJxbmVsclZaQzNDNWVPS0ZWYld1TVpmeThWcjZOamdTSG9Cb3A3LWFFSkU?oc=5",
    "src": "Reuters",
@@ -2542,6 +2634,16 @@
     "macro"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "The Next Major Oil Supply Shock Could Come From Saudi Arabia",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3dPbFk4NllPVHZlc1g2Z2ZoRGlmNWVaR0RTcWRUd0ZhazlkWFhNZHpFWl96akZ6S05MRHFXSUw2dnJSZXF4OUtjTkpsSmp4UVlsdHk5c05wZDJwNWFnbzBhbm5uSERNNUZ0SnlqMjhERlEzeGVLUHhIVHV5VmtYZk5YV2lnTmlXNHNpYzRPSl9hNVlzblRHRFFINlRDdTBodzVYMEdn0gGrAUFVX3lxTFA2TEM5X2o1U0pCc3VYekJFeVZKU0J0TlRJYWlzdnpndUhFeHlSeU10VGQ0SFh5UTc4eG1pdUdsTmhSSHFSZ0VJRVBNZHAxeE1FV0E0Mm9fYkpZai0taUhSaU5fY3hoVmU2ZnFRNExoYW9yTzRMcDFXUGowLWE1NS1jaW5CTGpwVXdsWkcxZnY0Szk0T2sxS2VHNHMzUXZNYmt2ekstSFZVeFdmcw?oc=5",
+   "src": "Crude Oil Prices Today | OilPrice.com",
+   "t": "2026-10-20T16:11:00+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "S&P and Nasdaq erase losses as health stocks surge, oil prices reverse course",
@@ -2593,108 +2695,6 @@
     "oil"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "The $1 Trillion AI Spending Boom Could Force the Fed to Raise Rates - and You and I May Pay the Price",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb3JVblVkYXdTS3A3dDViLUhDTEc3S3hpeXcxdWw3cXBEZnRtOThJTEY4bVNDMmU0b0d5NllHTmFsaG1tQ1lCWE04VmM3dnA5S1lZSk40cXVXTnRZT05rQjMwbXBuTGRBT0ZkNHhXemlUSHZwRHZIR2xmbG8tdHVaNDBFNTB2c04wU3dGcF9fRnJUQ1g3aldMY1FEbFFJMTR0R1A1R3drOUdJUXQtM0txbzBzTzZ1WnptSllYU2c2VTh6MmtTSllkU0ZpZWRSVFhIWmxFQTIyakwzdw?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-20T15:40:00+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold steady as investors await fed rate signals",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM09USHp5SG1hTHFYREFaTld3TUFJQ2RCUThZUzYxZ3E0bHlQbDVzNHFtV01sTDV3U2R4NlFYckhGZU52a0xaZVZuWnJjcFNHVGpQZUw1NEI1SjBtSl9KUFFhVUZ5SWNvY1B3S0FFVlZGbHpoRFFrdEFCckEwd0UzaXZPZWlPaENhUWdKd0gxS1V0RHhsRkdjMzNwWWJPUEIzbVJfUmlwZF8?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-20T15:39:32+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin Taps $83,000 as Iran Deal Hopes Lift XRP, ETH",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlRWYmFXaDdUSi03YmhvMUwxOV81OTNTZ082amNyOFQxdVlPUnhNWHpkV1R0dUduR1I1WGRzTXVMak5WaW12SWdVQUI2ajhuTURYbWxLcmZBTDhiUUlYNTRBZnhlMG15OXBxN05wYzFNTHMxQ05fdE5CRjhCVXZkVjU2SjAtbnBGaFhsSW5Kd3lzTDdtU0NzMlRtS25VQktTQU1KUU5scURWbHFrZDZRaUxB?oc=5",
-   "src": "Benzinga",
-   "t": "2026-10-20T15:35:39+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "A Hacker Who Stole $270 Million Is Moving It Into Tornado Cash. Can Stolen Crypto Ever Be Recovered?",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS2dQTlZzdUw1R004MjFGWERtUlZOSmRyMmxYcnRSdVUzdkk2NXFSOEJUM0xFbGJZM0h4QVBCVUtvY1J3M0cwcmlfQWlqb1JoOXZyaVNWNlY2MktIeml3a3ZaYy1GcVhoelE5ZXQ1c1V6bzEtM25Hb3dZVk5OWUkwWWlNcElObnJOMkRrYnplLTE0eU0wWGtTMklPLTZGOFFIa2puNm1rOWJRTUZ4QU9McUd5aXlMNm9OZEpQLVN3LVA0V1dxQXB3eWxQTTNsaXNYajlqUk1za1gzdVJXdFo5bFE5YWlQb1U2WUljeQ?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-20T15:30:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Salesforce’s stock falls as investors chafe at the cost of latest AI purchase",
-   "url": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-10-20T15:27:00+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Oil gives up early pop: Here's what you need to know",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY1I1VVo0QXZRajVnTXJJVkxKZm8taWlveXVuZldTN29OVlhqckxGeklyZk9taWNjRXMtTWtZRkN2akdibENQNXpoclgyUHIzdUgxQThiMGxRWkl2X2k3MWk4Q0VZSjZjRmxyOTNVMmlkVFNaNU1zU013QmRoUkZmQVNSdjE5V3VrMGNuT3lkNF9tTlhjbXlnQg?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-20T15:24:16+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold rebounds as Oil reverses sharply on positive US-Iran headlines",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1lWdldiOEJVbVE2UU82Mk5Mc1d1ZWFIZl9rSW83ME9YTTVzV2ZGSWNoVk5fUEpITG5qSk5qTkwzVTk3THhYUGNNYm9fRTVhd0kyb1pJSEo0c2k4V01JdFZWRS1rTzJPV0k5TTFyTXRmYndfTi1VMFZPVTFvenUwbVJ0WGpOdTFJRzRPTy0tWFduSmh0TFpYNXRuUVU0M21HQUNpY3NocXI1d3ZKUXVPX1pB?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-20T15:14:37+00:00",
-   "tags": [
-    "gold",
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Bitcoin Holds Above Its 50-Day Average as the Broader Crypto Market Weakens",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeFJjcVJCb2I2a0ZEOHY4X24zQUJrUEVJa2RKejZYbk9BQjBPcnVfU1VjUlk4UjFOa2lVNjRKU0MtdERTY3NreHhFOW02SENsclZuV0luZGZCYW5aanUxekQyN2ZlQ0Y2UU83cjBkMjFVdHlBYkRDLUJZUVhra2lGekd5QXRUZi03U0FON2xDQTR1M2dOck5EdGxDclVfcGxoUTZNNk1LUGd3ZVBBcDlfVXk0dFVkQWNGenkw?oc=5",
-   "src": "Investing.com",
-   "t": "2026-10-20T15:14:12+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Oil Prices Rise on U.S. Crude Draw, but Gasoline Stock Build Clouds Demand",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbG5lb1ZndkVHWmRDSVBuSG1TZjhFN2ZZdXh3c1A2WmZQUm1rREFYdlBiTU52ZVozR2duQThiNDhGVmR0bVgwcHE4TXRqdEM2Q25LVEU1QVFtVExtVXVfcTZwX3JNdDVPNlo4OHh1OXY5bm1kRGVTZVJmSXl0NjJlZGE4OGJoQjJKYmRCR2RwSzRNWlVIaDd6d3J5cnd1WlFkQ2RCZ0dqeUN5VFhHWkljZEtZNS1TUUR4Qnk4akpteFk?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-20T15:05:37+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "WTI Oil slides as US-Iran compromise plan eases Middle East risks",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc1FlTDdiSjIxdHhpeWFwTVQ4STZGeFdqQUR1Y0lLNmhIRmx0LV9nYXVfd2MwUDZ0bjIyOEVNLXd6OTM1YXNIOURDRzdMa0VpTkU2Z2NXbUtNR3QxU0F2TldzX2YwSEZpREtWVTVneDFOSHFVenNxUEZJbHJuY2x5WmdWc2piazFVWlhjN1lXejJ2VW85Yk1XV2dYbXFWc3E3eUxaeVVENTFqMERfbVBnWUJQcXIwSnB1Y2Vz?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-20T15:01:07+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bearish"
   }
  ]
 }
