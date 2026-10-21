@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T22:11:09.225041+00:00",
+ "updated": "2026-10-21T22:41:11.805392+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -60,19 +60,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "CNBC",
@@ -188,6 +188,16 @@
    "tags": [
     "gold",
     "oil",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "The New Zealand Dollar takes its winning streak into the inflation report",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMllGXy1jUl9kSzBSbGhmYkJ6bVFGazZSUXBBYWFaU2M0Zng2YmdkSWlfTXM1b0RHNjVRUjZuckc3M29VaVB5Y0NMbjhtOHZlMlNjdDAtVlZfd0VWLTNNaTZHcTlJU1FsS1BQQlp1RHVwMVVaNkczRXdPZkJ1bDdnNEp4WHBYV3BmbmlqaVRNLWE4SnlVVzNZb2RFWTUtbUh6aGRwVXVPQkVXWURmYmh2MVR2MGdHRmM?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-21T20:31:04+00:00",
+   "tags": [
     "macro"
    ],
    "tone": "neutral"
@@ -2683,17 +2693,6 @@
     "macro"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Why gold is a safe-haven investment during inflation and market volatility",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUl92OFgxdjZaakxMLWNlTHI3M1p0Sjk5a256U2lzeDNmcjdlWUc0ZHo0djBrZm4wdTJiaUpGbU5pSlFwY0FYeU1QUGJtZWVpQjB3Tm1nclRLcm1XY2xxeDRGXzdRbHd5RlV5dmtrR1Jqa1VMLURMclRLYkZfRmtRb2l0RFF1RjlCeDJpLVlKRkY2NldaYlQ3VzVEd05xSTVjYXNGX09WSlNsWEVITlRQTg?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-20T23:08:09+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
   }
  ]
 }
