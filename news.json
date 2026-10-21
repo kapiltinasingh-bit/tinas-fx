@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T00:17:47.634566+00:00",
+ "updated": "2026-10-21T01:09:57.929777+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -54,7 +54,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "CNBC",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -114,10 +114,40 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Oil prices rise on M.East tensions, U.S. inventory draw",
+   "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-on-meast-tensions-us-inventory-draw-4961436",
+   "src": "Investing.com",
+   "t": "2026-10-21T00:49:22+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "JPMorgan Asset Management sees Bitcoin beating stocks, but with a big catch",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/jpmorgan-asset-management-sees-bitcoin-beating-stocks-but-with-a-big-catch/articleshow/135078990.cms",
+   "src": "Economic Times",
+   "t": "2026-10-21T00:41:46+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "NSE exit triggers sharp slowdown in unlisted share trading",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/unlisted-share-market-struggles-to-regain-momentum-as-nse-exits-the-trading-scene/articleshow/135078858.cms",
+   "src": "Economic Times",
+   "t": "2026-10-21T00:22:57+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Gold falls for a third straight session as silver extends gains and the gold-silver ratio slips",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXF1aFNOZjZnSmQyS0tpcWJ0U3lyUzRZeGNQUUpZU2JLTkRPS3RWM202eGpYaWNkVlpaTWVwWW0yVm15VFU5ekxpRm0xZ2EwSWktbTlZcjdoRVBPSDVOakNYaXZuckUwX0l1eUlObEpHOFVPYTlTTURtRVRENTZ3RE00N2hRbUx4Z2I4XzBmZnFJTW1saWZneWdjN2Zyalctd2UtUlozWFZEZjU2RW5zMmtMWi0talph?oc=5",
@@ -189,6 +219,16 @@
    "t": "2026-10-20T21:25:29+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KLUZVTWtmeEt4aEpaZmUtOU5zNWJtbHdLdi1EM0dCdmYyTmRCNDF4ZjFZYnR0b3pyclUxQ0FlS0RsMU5DWDRibnFsdENpUzFJemNfZ2R5Y1d6U0h2SHg1Qk9pTXVVTkZWWEotV0I5RzYtd1VvLXRmY3p2UTFtXzA?oc=5",
+   "src": "Decrypt",
+   "t": "2026-10-20T21:16:04+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -796,6 +836,16 @@
    "t": "2026-10-20T15:00:00+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Britain seeks to break Apple's grip on contactless payments",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUjhlem8zS1dPa292Uy1FWUVIWU1OWERzc0taXy1aeXRrZDQ3UU02bEJrUkpIbmxQaS1uMHZvRVc0Z2JHZDJSdVFQbUQ5QnFEalFvNjZxMTJtY3NHRzZNN1hXemM3M2dqaFYzLXozc1dLa1dUSTBLNjVlWG45R01XTUluYk83OFhBSVlyZkhlX0FOMENiQ3hheHZ3?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-20T14:52:05+00:00",
+   "tags": [
+    "nasdaq"
    ],
    "tone": "neutral"
   },
@@ -2652,56 +2702,6 @@
     "silver"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "RBI tightens scrutiny of $1 billion-plus overseas investments amid rupee pressure",
-   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-tightens-scrutiny-of-1-billion-plus-overseas-investments-amid-rupee-pressure/articleshow/135059267.cms",
-   "src": "Economic Times",
-   "t": "2026-10-19T19:26:34+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "CoreWeave’s selloff is a lesson in ‘Finance 101’ — and Wall Street says the stock can recover",
-   "url": "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-10-19T19:17:00+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Mexican Peso finds relief in Fed pause bets, but carry risks linger",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdlRibjlXYmprTjE5UF90NUhUOF9wcEVIUUU3dVRZWlI2RlQtTXZZSTdqSVdDZHNfV0RoYUtRbWpfSXNQdUVPN3F5ZS1FS3dfd05aaGFWTEM2UEE4ejhjM3l3T1h1elNRRWx3U3UtaVdvUnJ2b19BUTJRbWItelBfcHhNMGFOdjhLZkJfSW5tZGZXaDY3SWRnNk5wc1hUZ3FfUVIyajM1WHV2bExyZnc?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T19:09:44+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin Reclaims $81,000 as Ethereum, XRP, Dogecoin Gain 2% on Equity Market Rebound",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdzI4eHZBd1V3ZGExdzE2eENvbVJOYnZHTndjN0poQWF6d2Z3cHZGRE9LQ0lQUnpldnBIMDJYcmNOTnM2ZTR5R1V0TkVpTVNNOV9DRnltZnlGREoweG5XU0hrRXNxZEs3eC0wblZtdmEzU3J3c1lVaFRKbDdEd0NqcFJfS1pvMkFKeWJZUDlfT0w0dkZ1SXNCakFEb19RQ1YxdmJGekVadjVodVNVMEJkRUFmb05WbWRxQXhRUGtxZUZrM2hROWJ4cnNyUlF0SHVzVFlXSzV4UV8?oc=5",
-   "src": "Benzinga",
-   "t": "2026-10-19T18:53:43+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-19T18:39:36+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
   }
  ]
 }
