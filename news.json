@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T05:59:29.676500+00:00",
+ "updated": "2026-10-21T06:34:12.353482+00:00",
  "count": 250,
  "feeds": [
   {
@@ -24,7 +24,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -54,19 +54,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -114,10 +114,43 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 2
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+   "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+   "src": "CNBC",
+   "t": "2026-10-21T06:30:27+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Gold (XAUUSD) & Silver Price Forecast: ETF Holdings Hit Record, Can Gold Hold $4,083?",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2NrQWowSzZjeEFwQnQyNno2ZUtSd0U0Q3dRa3ZsaXlINXduTmRQOTFuTlpFUTJ2T0x4OGJveGM3MHhxTUFsd01MaGtGb3dIWklCQy1wQUQ2NXZKNmVyck55SktxLVgwNkdpenctbzFiTUhueV9RYzBqYzlXNDUxU0I2LTFUNWxMdlI0WGF6LWhRSTVXZExGdXZaUEtnQ0doMFhrVlBYNjFENkNzcm96LUNSdGtJVDZYQ2dqc0xxS1BIZHU2N3c?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-10-21T06:27:17+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold prices near Rs 1.47 lakh/10 grams, silver falls by Rs 1,144/kg as traders await Fed rate signals. What lies ahead?",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-near-rs-1-47-lakh/10-grams-silver-falls-by-rs-1144/kg-as-traders-await-fed-rate-signals-what-lies-ahead/articleshow/135083841.cms",
+   "src": "Economic Times",
+   "t": "2026-10-21T06:10:30+00:00",
+   "tags": [
+    "gold",
+    "silver",
+    "macro"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Oil prices climb as traders assess Middle East developments",
    "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
@@ -177,6 +210,16 @@
     "nifty"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Sensex falls 600 pts from day's high, Nifty below 22,950: Key reasons behind market decline",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUVF1YUZCTmhBQXF3T1BUVzdKRHRqQzRQSloxd0tVd1ZtVjlBR2pObE9jS1QzVVp1dFJVRngxYWN6UEtwd0k4MHRFQWRnOGJySWN0Sk81SXQ0ZldIUmRTd1VuSXRHNTBKd0ZiNk1jX3c0eVVVVG1oRXRRMVF5eDVWenJtd08wQ1BWQzFFcVp6TkFmVzdjN3Eta2JRVW5Td3JmLVZuS0hKdEVMdVVqVHZmRi1BUmR5b3Z4Z3oyU3g3M3NaQmdVTzUxdGpoSWlFa3NuVnBXVVlRdXloaGg0OGJVNjJBTHZRcVdSN2fSAe8BQVVfeXFMT3loa1BnUzNZYnJMVUZCVlNLT1RqVW9pNHdQZjljTU9Pa09hM2U1RjNTem9DTmUxLWFWY0RjOVhCR2tnNHVwcjlDcXpsSXBUVXoyQUVsWUQ5QmlGYWFmSURDRk90ZWtCTHdvbS10T3FXSGFWR0drUDNsel81b3ktZ2RWdG83VTBUZFVwVTFfQjFJdDU1MGxQUGNoWEZ2N0dUekh3d0hHa0pqZjI3LUlsaHNNZzR1a08xYkI2MjA5UDVIaVZ3TlhJNkJaczNQcjdkdEg5NnVnWktmdGlsVGxoYVFmNUhTYjlSdHhyaVhZNUE?oc=5",
+   "src": "Moneycontrol.com",
+   "t": "2026-10-21T04:54:16+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Three Reasons Why Market Is Rising Today: Nifty Breaks 23,100, Sensex Spikes 800 Points",
@@ -240,6 +283,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Nifty Bank Live | NSE Nifty Bank Index Today - S&P CNX Nifty Bank",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UWDgzbm9jRDVIMnYwdGNtY3NVVjdsSFhob2hXLVl1dDItVHp6SFBaaGY5M2NVeGszYm44bVVPTWc4bXF5dDU2eEJReGNuNUxiZ1ZLeTNBT1V1cEpiMEt3VjhJU0lsTE40Qm4yLUlEOWF2Rm8?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-21T04:32:32+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Sensex rises 500 pts, Nifty reclaims 23,000: Buying in IT, RIL shares among key factors behind market gain",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPUWFTM1ZLcjkzV1AyYjZTYTVtbEd1Z2xoVnM4TF9JVFNmUXlRZ2Z4RmVSVjF0M2d4NGpEUkk3M01FbU9jZDJ4dVRHNjUxbVhNaGs5TmZ0OUFpdE5VdG5IdXNfa0JOcHFXR1JMdUlXMmw2a2czYWNfdXRIdlpFTC1Dd3JfSDBnaGhUYXBlVXUycW1xQUVDRUhmWFhXWUJDTHRKVDVCck83NzZUdzY0RllnNE1DWUtIaTBTUXBnOUxvLUYzQTJxXzg4c24zR1k1Q0ZtT1Q0UkR3cUhxNDhiV0lCbklobGl2dlJQNG1sY05FTDYtajVBeGZKN2N6cm55MU5TX2fSAYICQVVfeXFMT1FhUzNWS3I5M1dQMmI2U2E1bWxHdWdsaFZzOExfSVRTZlF5UWdmeEZlUlYxdDNneDRqRFJJNzNNRW1PY2QyeHVURzY1MW1YTWhrOU5mdDlBaXROVXRuSHVzX2tCTnBxV0dSTHVJVzJsNmtnM2FjX3V0SHZaRUwtQ3dyX0gwZ2hoVGFwZVV1MnFtcUFFQ0VIZlhYV1lCQ0x0SlQ1QnJPNzc2VHc2NEZZZzRNQ1lLSGkwU1FwZzlMby1GM0EycV84OHNuM0dZNUNGbU9UNFJEd3FIcTQ4YldJQm5JaGxpdnZSUDRtbGNORUw2LWo1QXhmSjdjenJueTFOU19n?oc=5",
    "src": "Moneycontrol.com",
@@ -278,6 +331,16 @@
    "t": "2026-10-21T04:20:34+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "In China, ECB makes case for euro liquidity lines",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3NOb19uSnBzc0sxX3ZDZjdhVDNlNTVHR0tYZnFCT1NPc0wwSE9oSkp0SjA2WXJzMmJnNnY5NEVKN3ZBdlE3aTJBNmRpaC10YmFjekVvWS1fQW83RWE3NDBRVDRXdmVVS2NFRFBWelRZQ3lIakk5RUhSdExqM0F4NktQOHdkVkFnQ2pGaDhIaFNsTmpRWnhYSWVR?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-21T04:17:00+00:00",
+   "tags": [
+    "eurusd"
    ],
    "tone": "neutral"
   },
@@ -564,6 +627,16 @@
     "eurusd"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Oil rises on Middle East supply fears, US inventory drawdowns",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNTdIRmp3MTB3c3JZNGxXMUl1Wk5haXFwcjdJNXgtQnJkOEM4aWVVWG5tai03TmhHSWZidkliV1VlRkRvOVJCX3Q3QXhCWVdZeXlYQmViOUdOaU85anVWMXpSWFNCOHAtVU5id3Fad1BhX1BzVEt6S1A4N2s1YjJocFh6QXFTVXhHdDJJVzZBX21WUQ?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-21T00:50:00+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Oil prices rise on M.East tensions, U.S. inventory draw",
@@ -2639,78 +2712,6 @@
     "gold"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "EUR/USD Price Forecast: Multiple headwinds for Euro backs downside bias",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYlFzUjUxR0U2cUtHMzBZTm5oX01SQU1panNjdnlnY1luTXJLTkZhUWxreUdyajN5NnRsQ2tjSDRkeU1rZkI1VkhkTmo4OTBoZ2hYaHUzOWlDZFIzOTN1bndaOXVmckxLdXJUU2ZBRTl3R0JtMWZVeGdEVTdoeVdLMW10LU00LV9LTFN0eFJPeVo1QVpLOHN3TGk2eGUzMzJqdzV5NTJwLWw4QmJoWVhZQ0laRQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-20T04:30:44+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Stock Market Holiday 2026: Are NSE, BSE closed on October 20 for Dussehra? Check remaining holidays for th",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQX2FwTnMxbFUzUDVvWUdXcEZUY0Z3RjlzX3FOS1N2akpVS3Nfc2hpLWljeDlQX3FJeUFHVV92SkpnWWdQQmVsOTBJYUNyVDlpWkN1WlhUYjE3RWN4VTdydjI2NUl3aUJTUlY1djRtMlFxWTZoM1V4VG5iU1BZdlBPdHZTV1V5NHFFM280ZEpFMlRxLUNhVXd4Q1BXVUVQNGIwR1RrTThORGNPSnJOWEJtOGItR3BCRmItZGJFZnhHU3gwcGx0OTBvLVNrUlNSQ1pTNFRIdVdhN1dmN2t2c0t0SHpoZHRMdFZySjhEUUtkbk8weVpPWHhLS1Q4c2hLQ0x2Z1ZSdV96S0NZMkU5UzdLTNIBlgJBVV95cUxPb2RJU1g0c1ZCb2V3ckJHTFRZU1RNVmRGWXJOVjh6aGtjNDNVNGlwb0N2WnNMcnk4ZFg0T3BRNHpXNDR2R2hVc0RFVEVyZmM4enUzTG9KV3VjMHU3ZlRpN0ZUSjNNdWhxb1VIak5IUndGQWJ0QWxNcEpSeXZEMk1yYWdpaHRIc0ZLcXZXcUUzTFNyVy1SQ2puVkRzX2dsWWgtZ3drN2xCSnI1dElDVm4tM2Q3SktCVEhGdDR1VS1hXzc2NS1feVZKY21wVkt2bjNtTEZlNGl5NV9MSWJ2eDlvejNqcy1VRmVVR29Fd00yTFVCblVHZ1BjSnBvSi1DVVM5Ql9HYktydGZMYXd3c1ZaN1gxRmNkUQ?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-20T04:23:03+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Korea’s KOSPI crashes another 5% as AI rout deepens; AI bellwether down over 40% from peak",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-another-5-as-ai-rout-deepens-ai-bellwether-down-over-40-from-peak/articleshow/135061021.cms",
-   "src": "Economic Times",
-   "t": "2026-10-20T04:08:50+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "General Motors is set to report earnings before the bell. Here's what Wall Street expects",
-   "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-   "src": "CNBC",
-   "t": "2026-10-20T04:01:01+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IMWE1MVhZSW5sc0Q4NlFGbW1lek1Yclo2dVFGOGkwZnNUbk01ejNJYnZhNmFkaDBGVWNIS21jdUs0ZjBxYWg0TGh2QWlIQWpGQ3lLdm13T1BZTnAxT1VsWTdtbk5aUVlXeXlkd2xfM2I5Z2RVTzlrWWh6QdIBgAFBVV95cUxNNmMzUnhUbG10RmJRLW9BNlRfOVRyV1JYYWljWWFwbk05UGZQSGl2TFA3SHFEU2JpQW9vVDkzUW1aWi1NUGx1N21ZR3B4SG1UdkhpdGJ0dERIZG1HWWlaUnlFTHlyN0ppS1J1MnZJNzUwcXg5V2RYN25KdXF4a2Utcw?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-20T04:01:01+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Dow Jones, Nasdaq, S&P 500 preview: All eyes on Meta, Tesla, SpaceX earnings",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMV9ra3R1TkNrSUZ1TWhPS3BGZzhWREVSZXRacVBuWlFKRGFVNDkyLU1xa0tSdnRuWnZ3THoxVWwxM01jbHlGOUdtQnlySHFocWZDR1pja05zWHdQOGkzWHNwTjBubkNBWFVBNk1md1VjSXp3eWJpTUNMNnRWb2ZJTWN1YVhjUXFxWkhQUllFRlU0U2JnaVBza0JVeXNFVG5kekhCaGh1WnlFY2dOWkJ0Uk1jOHlRZlBoQXpSVm1EbU1fR1lTYkE?oc=5",
-   "src": "Investing.com",
-   "t": "2026-10-20T03:53:46+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Dow, S&P 500, Nasdaq Edge Higher Amid Tech Rebound As Q3 Earnings Season Forges Ahead: DJT, AMZN, CBRS, CRWV Stocks In Focus",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZlpacWkwZ2Ewc2JXVnBxcTl6b3JpOFBuaGF4R0V5czJfYWdpSlBRaWNYV2RiVzJDaGdCcGdoRDZmek1FcmFTTVRIYXVPUEJ2bUt2TVltdmJsU2N3UjV1RmxJV2tFemNWeXgxYWkyN1A2eS1kbHZRU0xGbGd4U1pCSGxWVVhIV2VnbFljem1xUQ?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-20T03:31:00+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bullish"
   }
  ]
 }
