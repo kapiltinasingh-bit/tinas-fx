@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-21T17:20:59.259126+00:00",
+ "updated": "2026-10-21T17:55:50.402681+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
@@ -118,6 +118,26 @@
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3aFB5bTU2NkNHUHdQdWtnNW80dnZXa1hKOEw0Ukhic2VfVW9pa2o1ckp1Xzg5R3l2RUlGM1FNeGxrdWR5SmlnNkpGS3lBN3Jmd1NJaVA1djdLRjVmWFZYTEtjaXJQNXI2c0QwanpKWG4tU2piTXc?oc=5",
+   "src": "Decrypt",
+   "t": "2026-10-21T17:31:03+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Interest rates should be raised as insurance against persistent inflation – economist",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWTJPaGZZcEplbHdaYndpSC1sMUVGMEdoVmUyMmEwOC1fZHM5VmZ4SXZ1WnA5VjRmYjZWbXRiV05NUGFYY0VGc0xtRGo2T2dncTF5VXloVzNRNm9rQzgyZHpZNG01ZDlkVGFtb1lCRUZsTE1WYzV3SkhYelYzeFZDS0szZ204RlVib3VSOExOcHd3TDhNcjI2MDNKRkpJMjB5NU95MnJyX21ZWVU3cDF2WjJ1aDZtU0s5dFcxYVJB?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-21T17:19:52+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Grayscale Opens In-Kind Crypto Investing for Bitcoin, XRP, Dogecoin, Solana ETFs",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSWFHb0otYWc0bUlZaXNzQ19pU1l4V0lTU05abnRtZFBsY3dKSDZJOFJmbUp3RlNoTE94TkI4UjJncmwzRFduSnh2aFBNb3p3bm1LdklvSmxmVnAta1EtOW5sd0V6TnloZVBoVjhfOEJTLWc1bVNBbnhIeUJFU01QT09TZEgxOXhLZTVDOG41U1l6T1lRUmU5VGZrSmdYaG53TTI5RUJEVUZVRHlLTWpOLVdyRzZnUm1iRUR4WmtVaVlXUnNYM3h3QmxrQ0lkbjd6bk9FSktR?oc=5",
@@ -342,6 +362,16 @@
     "macro"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
+   "src": "Forbes",
+   "t": "2026-10-21T14:09:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Hungary: Euro-entry driven fiscal tightening – BNY",
@@ -2660,37 +2690,6 @@
    "t": "2026-10-20T17:35:09+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back Towards The $4100 Level",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb2llR0hxTVpKUXRkOHJqRlJFZzZTQjFuQ3NWSXBVTmZ1NGdfVEtTbjNTY2pjUWtXVjhLTXJTak9UTDBnaWNiUjRHSnR2SkVjb1VTcmJidEd5OEFaM2xjUUs0cDlGZ0NORHV1VlBJSVd5cHR2enF5aE1keVR1RGl6OXY0MjFtcmY5SlNEbmJTQ0JDaE1zcU1QbjNtYnlQd2VZcHBwUTctYzhEanRvdFYxR2lFeEMxaWNFc1BmSGdsUndfbXgtbnc?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-20T17:30:16+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold just failed at $4,150. This is the next stop",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd282MG91azhodW1TdUVKTURlQjdBdVZEd01aT2tmRTFMekVJU2psbjZHYjNFYzdqUU9PTGVyMmd1ZGtRNUdvYkFDSnVmUVA4STBxSTZRSldHYkplTDhSYWh0SS1nVW56cjdlQVRJemlGa3N6ckFzNzlEbGhmLUJGdUY5emFyUVpLZENudzloSXY2YnRteDFqLWZn?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-20T17:25:16+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "S&P 500 Could Hit 8,300 By May 2027, Says Morgan Stanley Investment Chief Predicting ‘Final Innings’ Of Stock Market Correction",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGJYNngzZ2N5VHprWkpNZ0pfYTBvTzhJMTdXemYtaVpZSGN2cU5YaWVUbzR4RUFkY2NqTGd1SEkxaEZOOE12UE82S1U5aUN5UkRfekM4bHdjaDhzbDF4NGRyNUV0UWs3Z0FkS0lKbjg0VUcyZ0RTU0JvX0ZNYjJTQkItNG15TFVOSWc?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-20T17:24:23+00:00",
-   "tags": [
-    "spx"
    ],
    "tone": "neutral"
   }
