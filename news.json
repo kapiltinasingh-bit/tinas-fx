@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-21T16:48:39.909037+00:00",
+ "updated": "2026-10-21T17:20:59.259126+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 6
   },
   {
    "feed": "Google News",
@@ -24,13 +24,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -54,7 +54,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Moneycontrol",
@@ -118,6 +118,36 @@
   }
  ],
  "items": [
+  {
+   "title": "Grayscale Opens In-Kind Crypto Investing for Bitcoin, XRP, Dogecoin, Solana ETFs",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSWFHb0otYWc0bUlZaXNzQ19pU1l4V0lTU05abnRtZFBsY3dKSDZJOFJmbUp3RlNoTE94TkI4UjJncmwzRFduSnh2aFBNb3p3bm1LdklvSmxmVnAta1EtOW5sd0V6TnloZVBoVjhfOEJTLWc1bVNBbnhIeUJFU01QT09TZEgxOXhLZTVDOG41U1l6T1lRUmU5VGZrSmdYaG53TTI5RUJEVUZVRHlLTWpOLVdyRzZnUm1iRUR4WmtVaVlXUnNYM3h3QmxrQ0lkbjd6bk9FSktR?oc=5",
+   "src": "Benzinga",
+   "t": "2026-10-21T17:09:26+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "SpaceX Jumps 10%, Nasdaq 100 Rises as AI Trade Returns: Stock Market Today",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUhEd1l3VGF6UldJNUFMZjdldjRYTkJ1QzAyQkhKWDlXZWhscEtXQUhnalQySUt5TzBNcENQR3p0cE5FbHExUTI3TXBnMUZoVDJfaGlwXzZCQkFFSnJqeUNxdWdFdVVfa1JMcFBsLWlZdE9UMkV3cmVNQnZETy1RRzhQVHZXZ3ZtLWxzUGZiODFkSUV0WEIxQVMzQjJfOUNlUzNjcG1uZFdtNWkwYWpqYTF0c2dld3FxMDZpRw?oc=5",
+   "src": "Benzinga",
+   "t": "2026-10-21T17:02:19+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "TRON Is Earning More Than Ethereum and Solana Combined. Why Is TRX Worth So Much Less?",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb2VxZGdFbFRSMU40eFU5ZHNhWW9qalJQR1EtM2RKNC0xOTNLU0FKU20xMFdCcHQzSDV1d05zTS1KUzNramgzMnFiQzZYSmRfNC05QWo1VDdtel85QWFqT29JQTVJLXdNZDR3MGhIbllkR3Q0SnFTaUxNa0FJQkVMazhhNDJZQV9xVVNDdDR0Vmo2RW9ZeDRjLTJfRm1xbFNVS2hCcmpqdHdxU0VJZk80SU92d1BxY0lrVlBUWE0zbWJUUnBHMjE5M2ItTzU4X2pGOUE4VzAyLXlma2M?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-21T17:00:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
    "url": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
@@ -360,6 +390,17 @@
    "t": "2026-10-21T14:00:57+00:00",
    "tags": [
     "oil"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Royal Mint sees record silver and platinum sales, renewed gold demand despite higher prices and rising bond yields",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTzYzZXB6Q2Y0S1Z6Y1hVcWthaFFWeUVHb0FiazAyc09FbGNoV3JjVm1DWFB1Rjg3NjRMWjJIMFJ5dGZLenRHX1ZwRk94blhZS2YtLWEyajNZYVhCVHNuV0xlMGRyWWVFME1CVjFSVGR2QmVRTW9tc0V5Z0pCSmdpN3VmdGFHVzBNZEZnXzZqcmZnblFVX3JLWm1RbkJRbTBzdTNldTQ1ZnN3NEUxbWkwYTVlV2o?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-21T14:00:00+00:00",
+   "tags": [
+    "gold",
+    "silver"
    ],
    "tone": "bullish"
   },
@@ -2189,6 +2230,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Dollar dips on AI worries, euro edges up",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YSjU2bmR0MHJCUnpSN0F5MzhyU1cwUFAtRXVBaVZRcTl5QkRGaVJyXzdRNTRpMmMyYUMzZ0p0bHFPVWMwZ3ZZMmJieVY0YmxSSlgxUmtR0gFWQVVfeXFMTlhKNTZuZHQwckJSelI3QXkzOHJTVzBQUC1FdUFpVlFxOXlCREZpUnJfN1E1NGkyYzJhQzNnSnRscU9VYzBndlkyYmJ5VjRibFJKWDFSa1E?oc=5",
+   "src": "Business Recorder",
+   "t": "2026-10-20T21:29:58+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Bitcoin resumes Nasdaq correlation as macro pressures threaten $82,500 support",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU2M0U01LRjVBVUxpY1gwUkNzbmJkck5SdzZ2RzNWRnhkdnJ5MXZXSVMySFgteGxUem1ucWFxbFpvX2p6bFNaTFRUWThoNWVlOHVacVBjNUQ1bzZ1bFpmQ25KYXkwZzRwdTg5QVlYVHBEcm1HMl9iQkN0NWZ6QTF0MDdlUDJJeUJCQ3lSVFg4YUtHbGFLb0Y0cXVVQ2VlNm0wVmE3cXF2VUY2ODBGLXRNZWNoYWhFemV5MEhkS1A4WWdQVnJ2WnR6MzQyRzBFTERxdkVN?oc=5",
    "src": "FXStreet",
@@ -2640,57 +2691,6 @@
    "t": "2026-10-20T17:24:23+00:00",
    "tags": [
     "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Tokenized gold could unlock $700 billion new demand - World Gold Council",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX0I1dEhmbmlwV0NCSXAzd2FEWWl0amkwNFlLaHFqOVlMLU1vTUdscF9ORHF2NFhGT3JtcVl4cW9lTkRtZGtNT1k1Mnpmd19kX1E0VTM2d3VRcW1nRlJXNGUxMm5tb0NIT3dZb083UmxkSWZIMlRkX29mWWh2cmo5YWVHbDFTblJJRjJDVWEwT2dsOEhISi03QzBMNGowSWRzQlZXa0VydDA2a3ZWWHQ4THU5TXFuQQ?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-20T17:20:09+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Federal Reserve: December hike seen as cycle peak – BNY",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVUV2dUJlMjhkWDgzbFNNeXpMcWhqajA5a0Q3VHZnVVRYSmJFVnpwNk5ObUQzc3NkeWNiUHlZQXNjMUxhMHk1YWxYcnlmMlNmNm15V3Nhb3BWYXRGdEp4eFhzWVNmODZ5ZWNYNWd2MjN3OTM4elNOQWctWWpkY0JNMm53TC1GQURISkhra1Rua3lrbDR6YXVNSkljOA?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-20T17:20:00+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin Analysis: BTC Is Clinging to Its 50-Day Average. How Low Could It Go if That Breaks?",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMWdxVVJORDFnMGhvYzhwQnhEMUt3S0s3eG1kQzVCWnVxMTZLMF9tTTB0enZQN0hEakdTQ1ZvTXZsYWNpSTZlNDA2VE90cmEwRHVGek5qZF94ekVTN2lZYUdnM1RMTEhWSERSb2ZmbjhaZkNVUWF6a0trMEtfLV9sQk9QOUxYWmdYY0pFeUlfUXBzaXlQSHFYc3dMU2NPLVd1V0hiaGVUek1iVHhkeWVuR3RydjdVQllIcEQyWEVxbGNGNEhITWd4dW5wSnhtcWYwYzhIYmltZkRNZzVmREI2UTRB?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-20T17:16:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Cryptocurrency Stocks Rise Despite Piper Sandler Price Target Cuts: MARA and Hut 8 Gain 4%, Riot Holds Flat",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb2hzZXN5RXNOQWUyTTc2d2lpQUJXenBXNG1iMkF3RktmYjU4NGlkUEVjakxuaGhRSjFBemotV1VqdUpkTnpadlQtMFhXVFF1NEY1MXctMGFhYndUdnlCOWJQLTNWZ25wb2pnY1dLOFNDWlBfTEJDWDVmcEY4bkxtYnhBNC1MZDExZFphY0lwanExaTJacEFJak5DZ3E0dnkxVFlBODVuaVJPaVlWOEdadVU0X3dCWXhQOWE4YzZIYk5IRWpoMm9OVzM0amZ1RTlNVi0ySEdodGNJMFBWSklVQ2tB?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-20T17:05:00+00:00",
-   "tags": [
-    "spx",
-    "btc"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OZlpyZG5UNVB1dW5YU0hadmNhYl90cERhZEJuVmJtc0t6eTRVd0dPaC0xNUtybFB3V2RpN0doUm0zc0xCLXEyWHVOLWx4cUY4N0o5VWpScmNVZmppLVllcjBISkRfV2RVWXJVMjNDWkl0cEVnQzZoakZ3?oc=5",
-   "src": "Decrypt",
-   "t": "2026-10-20T17:03:26+00:00",
-   "tags": [
-    "btc"
    ],
    "tone": "neutral"
   }
