@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T21:41:58.591979+00:00",
+ "updated": "2026-10-21T22:11:09.225041+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -60,19 +60,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "CNBC",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Economic Times",
@@ -118,6 +118,38 @@
   }
  ],
  "items": [
+  {
+   "title": "The Euro gets the PMIs first and France's credit rating over the weekend",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWVoaDdoVjFDY2NTMll5ZVRCOFdKcFNORlM5UGU5Q2lkS3QzZ3JRbk43UUJ3U2Itdm1VVnRxTHZYZ3M0SmFfUEYxVFBYb050SjlxbVdaeUJZck0zVjlPOTJfcXE3V0c2dVJtS3JSUFo4WXJFNTdVRHo5aFVOdVB4VGpUSjBXT1IyR19XR0ZLLURuaTFyU0NSdWJwVWwyWHFndE4wekdlR2V5R3Z5Yks5Rkd0Ukg?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-21T21:55:42+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "New Zealand's CPI inflation eases to 3.7% YoY in Q3, vs 3.8% expected",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQmt0M3U3Y2RxZ3V2YUpmR1RPSEVfQ01GSkZsNlFBU2w0Y1VSTVQzd21lM05OaTl4SnBEXzF5RkZGc1k3ODdBRDRQcHNST1oyTjllOEVwcTVmVGxLNklZVFZwZDRWTlFQNDhsa1B0cmE2OXlYUWdIblZHQVZLaG81Vl84bE9DdFRPOFNucC0xRjcydFpsSEVaZ2wtSE9BdzFaS3hHOXFnVXJVdw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-21T21:52:11+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold gains as Treasury yields stabilize, Nasdaq surges despite Fed tightening concerns - Kitco PM Report",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUGxuTFo5VGp0TGhZcEozV0RBZ2JmQ0lGX2czWkhhdjViVEc1eENPWmR2RlpFVzdFRGUycWxBSklHZkxXRHN6bnZocDZuMDdTNGRnN2lQLWY3MEtVbktuNllWODNyMzNkWHlMV18xcjIyQ0RadHpaRzZNcldTbjU1T29FbURsSV9FVmc1VEZ5TzhlZXo1VjNRODMtVkdLR3E2UWhESEpRTVB6N0pGZHdLZGJNWUZzemlDUEM0?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-21T21:48:25+00:00",
+   "tags": [
+    "gold",
+    "nasdaq",
+    "macro"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Bitcoin, Ethereum, XRP, Dogecoin Rebound: Can BTC Break $84,000 Resistance?",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMFNRNHhBaW9wQW5ZckJ4MUNoNjBtQ2NZb1c3UnVfR3FSaFlXTGpnOU9SQkQ0WElLd0poYkNaT1UySzJqSnFVY1RtRHhkcmV1ZEJRczZhUE5PaTFBVmd0SW5IU0g1VUNPLVNlT1k0bi1kN3h0V0JkZlpqSzhQNGFuaHZFcGdhcXZFenJ1eEdtQkxZU0l5TGh0NGhSVWg0X2tWa2pQYlNYOUNJSC1uY0haNUdYRUZqZVlWUnNfR25pUXlqTmVldml2UXpn?oc=5",
@@ -736,6 +768,16 @@
     "macro"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Silver price weakens on higher US yields as Iran tensions limit downside",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUUFXSkdIOGE3NnFOMmZqcVdESkUzZ1M3Ym9sdXdOa29INzVWazRoQVR4UVpUaV96TVpjSEJtWmhaSUstcUVneFNxcDAyV3Rnb0RZSkdIaXpjVDMxR3NzTVJUWVI5YnZXQ1pVWHNWbjRIQzVYVHJ3NFRGdTA4dXhqVUhjMDB2YUpQMWJhVGpRaTlPem9ubXM1SkpDeF9tNzRUOHBVdGx2X3BQcThWZU1EV0k0MXZMUHBRWW5LMA?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-21T14:10:20+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
@@ -2652,47 +2694,6 @@
     "macro"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Is gold really a hedge against inflation?",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2Q5cjNQYmlrTnJMY21SaVdhcXBmSlBjcDY3Y0psZ09zczgyOGNmV2xrODVuS3VoSzVHZlpHV1hTTUNkTzRpMVRJME9MTGxUNDhsV21Ga1VLZ1Q0dWtyN21aMEJIMTZ2N0s2MnBCNjk0cnhSTGZ5X29ibG1zOXFnMjZBMHM2TERZd2tjNU9DTnNYMkk0ZWxneThwVjFkUThXTWZpeDNCWWY1dTJqcFE?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-20T23:06:26+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
-   "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-10-20T22:33:00+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Australian central banker says inflation outlook worse, unsure about November rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkpNZ19yZ05Hem9Oa0NPdGV1aUhGZzc3emJnVFFWVmZ3TUFBZkdXZlJqZmVCRHF6anpfSTdIODc0anNLa1VQbHpiN0VRejFRejZqck1RdkF0bXpVUzJCdmUwVVM2dHB2cmVxS2d6c3pUSl9WWTZWdHBBV0dDVzhCM0ZIQ015VUg2ZVlyQkRubU9OcWdHNm1tSHplbE9CbVR1eFdEU0wxcWM4eXg2TVBaSjRmWTdRaGkzdl9wcHc1QUM?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-20T22:14:00+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Oil settles lower, Brent retreats from 5-month high on U.S.-Iran diplomacy hopes",
-   "url": "https://www.investing.com/news/commodities-news/oil-holds-near-fivemonth-high-as-hormuz-attacks-threaten-supply-recovery-4958615",
-   "src": "Investing.com",
-   "t": "2026-10-20T22:10:46+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bearish"
   }
  ]
 }
