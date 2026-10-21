@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-21T08:06:32.048451+00:00",
+ "updated": "2026-10-21T08:44:16.900568+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -24,19 +24,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -54,7 +54,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -102,13 +102,13 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 8
+   "new": 7
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,39 @@
   }
  ],
  "items": [
+  {
+   "title": "S&P 500: Tech mood improves with AI and energy repricing – Deutsche Bank",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLVgwaWhfTVJjaG16TkxmQXl6SVVOcU9NRnFFVW1XWTJFaG9YT3NMWkJwTjg2SmNzUXhsV1paVXpXZlVpVFVwaW9ZRU5BcHZfZnIyTUZOODNlTkFMZTViZlFtaFoyYmhTcndXbGl5TDNDdUNMeTZqOG1MdEVSN3p0R1FKTTk3cEtpdlZjTzA3WWpmWTZRZS1yQ1YtQjF4OVlZSTM0NVpkOHFSQ3dwWUI0OQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-21T08:16:21+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold Futures Fall as Rising Oil Fuels Inflation Concerns",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOEZTVGxaNldEUzVrM09VSDcwRTJZNzlDV0Myc3hraFlSTWNtdlQ0T1pzMXh5amhPcmNrVGJwSjQ4WUZOcTlMaTU1MzNzZWJKdlM5emV3amJza2lSelR6N05ZMHkzMEVQQmlFU2Rid05ORENaeUlDSHJ2UTZIZktmYjhROFlfRXNwZE5nNFNJNU5uZy03U1o1Y0VEWU0tYXptVDVsWnVGUUJVUQ?oc=5",
+   "src": "WSJ",
+   "t": "2026-10-21T08:03:45+00:00",
+   "tags": [
+    "gold",
+    "oil",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold rates today (October 21, 2026): Check prices of 24K, 22K, 18K gold in Dubai, Abu Dhabi, Riyadh, Kuwait City, Doha, Muscat",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVmtHMUJGZzA2WnFwMG9XcVVVMjQ4ZWItWXhENFREU1dmcFczVDVZRjBab3lBcnhkNEVJTTUtN0pZNjZoUlg4SWpuMDJ1UWNEUzg1eWhHc1RJbkpFLUhJaVFRRDhKTFZObEp6YlZiaEUwNGU5dU55Rmp3Q29hUm5VVmlxQndLSWV2N1JBemxiYkdvdGpTWDlCX1dpYzRFQXNTb2s2QzVEZ1RjRlpydXBZcTBacW1jQmtQNXFpOGQ4WkxDalMyZ0VMcnduRU51SEdYdjBaLWVRQnJCRXFCcVI0VWN1Zml3azJqMW9YQkxMdFpHR3JDNXBzU2Q2cGg4MUxiZ2ZlNjZHWVJYNEJJZHc?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-21T07:59:38+00:00",
+   "tags": [
+    "gold",
+    "dfm"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "What put the Euro under significant pressure on Wednesday?",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSlF5QmNfZHZKd3Z0TW91VmJNMkFBRFFYUW5vbDJBdGhZRjQ1UnRzVjVKcUNyRVBSR2xkeXBmdnQwNXZPdXBCTEhGcF9iT2p1ODZIU2JEdFY2MWZBc2M0Uk42NjVrUlg0ZVJra2VoMGQ4eXJVYzVPbkhfOGI1c2pma0VHMVMxTDJHQUl4bVAtY1BGM005c1Nfa3F0d3JBNUFjTlE?oc=5",
@@ -129,13 +162,12 @@
    "tone": "neutral"
   },
   {
-   "title": "Gold rates today (October 21, 2026): Check prices of 24K, 22K, 18K gold in Dubai, Abu Dhabi, Riyadh, Kuwait City, Doha, Muscat",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQZmNtSUIwWk0yV2pFOHpDZUN5S1FSNlV5UzNCcFFaSnJqSmtfZnlYVmFTVlRzbWNIRzR2MUlyTC1CUjRGZmxqUDh0R0lCOW9sZ0NRazhxVHBIYTRIbzN3dlktaGl1OThNVWc4NVNxWXZpcG5YbWw3Vnh3Q2VoYUpKb21HN2p4d0JtOGpKRXJHcDBxNlJxTnEzbGNxNFoyNi1xU2hkNjZ3ZC1sUHdMWndWU1ZJYmVvU0x2XzYzS1F1Sk95ZnNBTmQyQnluaGNNQVR4eEx3ZkZqb18tRVRQZXV3LVBqa2ZiSmVubjNDXzNVbENlTW9sUlNJcVA2c0gwSzBDbkVYTmNJQ3otSEI4TEFERHNDTUpDMllXSkE?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-21T07:51:00+00:00",
+   "title": "French yields hover near 2002 highs; hotter UK inflation sparks gilt pressure",
+   "url": "https://www.investing.com/news/forex-news/french-yields-hover-near-2002-highs-hotter-uk-inflation-sparks-gilt-pressure-4961706",
+   "src": "Investing.com",
+   "t": "2026-10-21T07:50:55+00:00",
    "tags": [
-    "gold",
-    "dfm"
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -218,6 +250,16 @@
    "tags": [
     "gold",
     "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "EUR/USD Price Forecast: Loses ground below 1.1250, bearish technical prevails below 100-day SMA",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObXhXTWpNRUJjamJtYXlQMDVPd1ZHeUppM3pMVnNvMmRPbUdyTTNKeGhCVUhPOWV3YjZLRHJjdnM0OWdDbGwyMlNvT1BGVnUzR0k0RGNySUZGWlFKbUp3eTRITFY0NWFvU1c1TGY1Q25OVTB5ZlNmTERQYWhacHpVcVd0dHhtVEhCU1NMQWQ5Szh2MExMU1BFS2YtTTQ5blZ0SG5VdVd4U0dfaEk4eFhEdG5hdEZrSmcwUS1iR2VGREcwNVpDdDNRTkd4U1A3Vm5n?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-21T06:18:11+00:00",
+   "tags": [
+    "eurusd"
    ],
    "tone": "neutral"
   },
@@ -322,6 +364,16 @@
     "nifty"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "HD Fire Protect IPO Listing: Shares Debut With 24% Premium On NSE, BSE",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOUJfSlVJaVF5QjA0c05PcTlMMkFMa1FEX0ZRRnRrSl9xVjVoRXN4cUlPcllJTkw2SlY5NHpDNkkyWWg1QjY2LXQxQVRBenZuUzNuelktZTBjbmJKaTJ0aks4SjhKaXZfbHNzRGlZNkFDcGp3bTY3X3lyUlA2ejhqQ3E1N0I1RmpmMjhlWTJjdFk3TE1XQklsQlZxZFl0ekVKdWxWN0hCTTFyWTZrNmF3MlN3cjhqZEHSAb8BQVVfeXFMUHhfWlg4VjZSaHFtNnBveEczaWhrcjJ1eTZ3YXVrTnR5ZEdoMDV0TXZnS0FYNmhqMUdTTzhRbzhlMDJBVmo3a3pVbEkyMHVnX3JMdDVDVW9kcXR6MDhGOG5oOUI2UnNOcnBVN1lucU84bzVVNi14d0pDOEY5OXVWMTBwUzBkZkFLOGdwVXg4cnFHZ09RQnhrTW1HU0laMUdmYlB6VXdtV3NDYlhZRFpKM05rbWJtVzRwRVhKc0Q1RWM?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-10-21T04:49:54+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "HD Fire Protect shares list at 24% premium on BSE, NSE",
@@ -718,6 +770,16 @@
     "nifty"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Dollar drifts as Middle East tensions simmer, oil rises",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmhtRnJCbDhIc08yUUUxQnBOU0tmczBNT3JOTjBKVy1LY0VCUW1pdk9hNW83QXdqM3pKOGthelR0NldvLUx6ZHdfUWpTTnpHOVhVeG9nR0tUWjVqNlUyT09jbVp3eUZDb1RLbjhLakZYUXZfcXNoVndFSG50cUw5alpFRHVpNWdUMWtxLWpXMUZsdFE1RVhtX0RWVkVLazFFNUlIZi1fcHRJUjZYY090OVBwaTZMUnJ4TmdtbWFR?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-21T01:20:00+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Jim Cramer Prefers Gold to Bitcoin for Portfolio Insurance, but Backs 2 ‘Vetted’ Cryptos",
@@ -2646,69 +2708,6 @@
     "oil"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Gold (XAUUSD) & Silver Price Forecast: December Hike Bets Build, Can Gold Hold $4,119?",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZUZnRmpsWmJYbXk2WEl3c0FPWHNGU1p3eVQ1SkhkVFNRcG5HN2NjQmNkRjlrWmpVcFNhTjlIQVBlWU5Ud01iWnNjMUtGcmtYc0J1c3hOeWtpR2hmQW4yZlRhS0xaRDJmTUtsa20wZWphamhYUWNCVjNReDhaVVBLbzdJUWZEcnBSdUZ1b2VULThURzF3MFdqQWtOMHdtTjBTeEJQRlNWaFZMQUVwTE1MUm01LW5uay1xYnd3eWRnbXR2WXZ5dnJv?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-20T06:58:22+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bank-of-japan-may-raise-inflation-forecast-stand-pat-on-rates-sources-say/articleshow/135063146.cms",
-   "src": "Economic Times",
-   "t": "2026-10-20T06:52:26+00:00",
-   "tags": [
-    "usdjpy",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Yen jumps after JGB auction draws big demand, euro finds relief",
-   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/forex-yen-jumps-after-jgb-auction-draws-big-demand-euro-finds-relief/articleshow/135063113.cms",
-   "src": "Economic Times",
-   "t": "2026-10-20T06:50:14+00:00",
-   "tags": [
-    "eurusd",
-    "usdjpy"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "AI trading and income opportunities in 2026: From Forex and crypto to AI infrastructure",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbGtPRl9sZ2ctWl84eGRDSGlaNDA4M0tTb2JXWnBWRnlvY283ZW5VTXd4Wm03Y3hMVFo0R0NRZ0ItMnJsejNZWVJYdDJZbmM4RVNQNzJNeVB3d1dqbXBEWlczMHdnYVFEOHdmXzZIM3B4SHRJX1dzVzh6SW1GMl9VTXB5RmlPUlFpX1hrOTVRNTA0aGM5V0ItWHlLb0xnNU9pS1d1V3p3VFk5VFVfUFJINlprZXc1Vm9BeHEyN1JsU0ZEWTFFblhUMHRHb1h6VXJCUTJRZEF3?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-20T06:46:53+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Brent crude holds near five-month high on Middle East tension",
-   "url": "https://www.investing.com/news/commodities-news/oil-eases-as-markets-assess-potential-waiver-on-russian-energy-middle-east-supply-risks-4958607",
-   "src": "Investing.com",
-   "t": "2026-10-20T06:36:31+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Brent: Risk premium sustained as Middle East tensions persist – ING",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVZDV3U2aVdGaVdqOXdzTUo1TnZ6M0VITDBpb2JDTFVvdGRuLWYzSFZTRnJLSjVaSC1wTEFiQzN2ZzNTbWE0ZXdWclZESHh2cHJHa3c5YTlvX0JwbThta1RIeXNQb0ZmaDY1dFNvSmowRVpuRUZNNWNaQWM1UVdNMmhHaGNWejBWQXc3ZUxQZkE1QV9EcE9NQWpPY1JkUTdjMG1mVlRBdEUtSzQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-20T06:20:58+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
   }
  ]
 }
