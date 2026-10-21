@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T20:40:39.056484+00:00",
+ "updated": "2026-10-21T21:10:31.036383+00:00",
  "count": 250,
  "feeds": [
   {
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -60,19 +60,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "CNBC",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Moneycontrol",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Gold (XAU/USD) Price Forecast: Consolidation Sets Stage for Decisive Breakout",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORy10M1BVdjNaU0M0QzE1ZDB5U0N6bjdCYW5mRlYwZ1I1RnhHc2twelNFSTZJQXBfU0dkUnFLVjNhLXRydXZJSjZid2ZmUWxpdkh4VUxtNm1pQmhmdER0ZnVVc0pEODUtbGNYcTlMQjZaS0dfLUtVc0YweUNuU0hfeGMtbHRJVy1VT210N1I2TWVkb09ieHlVVmhlUzZpYm10eFQwcmFLdHFBaGFNQ3FZUFI3T0d6cDVvbWpsMVB3VWdoOUE?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-10-21T21:05:00+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "XAUUSD Holds Near One-Week Low as Oil Keeps December Fed Risk Alive",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcWY5MUZCLTc1d1g0TkVEUkhlNmE3ckFTaEQ0LWtBWEwyXzhWZHJoVDQzSnBKU3YxeV9ndmtERXd4MDRUYUFFd1dxLUk3a0hPS3RrblY3dXNTRUN6SDBwZkhYcHdKOXhFRmVuOFJkWDNrUFBFRElQNVlQVnFfTzJtRmxpYUZLc1I5cFQxSG5ZUjYwb0lGSVpDVEFGbVhiZm5jd1NCY2MtNGg2ZGNpQjREbWV6MHFjRlEwdXc?oc=5",
@@ -2332,6 +2342,16 @@
    "tone": "neutral"
   },
   {
+   "title": "S&P, Nasdaq open higher as SpaceX, Tesla climb on Musk’s update on possible merger",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcWlTemZRemdnYUhaaGFTWjUwSWtWSDQ0WEJ2NmE2bzVDNnFZalNhTzZjRHdCTHpDMV9FQmdaVnM0b3Z2MkFCRjlodUttMFJXbm04YVdlMklTVzY4Y3VkcW9UWWxqRzBKclVMVlJhU09ocGdCSEFsc1kxTF9wWk1ZdGlUTUFNRXVQc3lndmNDeDdMWGo3eHlBM0RKZlRoNkFwZWY0dUc4Q1RrQm5LSmVQU0psdw?oc=5",
+   "src": "Investing.com UK",
+   "t": "2026-10-21T01:56:00+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Wall Street Highlights: S&P 500 Climbs As Big Bank Stocks Rally, SpaceX Results Loom",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVWsyTGNWeEtZYUlTODVqMnhKZ3ZEZy10ZHVUV3lJTUVmWWdqMGVYUWktWEUyZGh5aGpFMkFyVklQMVUyY0N0MkZjUjBFTm5IQy1KQWYyYkhDMU1lbkxoMEN0enQzd3dvVjZoSV9kaDJ3c1NkM2NmSklINTFtUVFWdVJhcTNWNzA3LWo1a0Nhb3N6TUY0SWswZk9lYWFZN1NLdWF3TXVSREhiQzZlZHV3anZ0SlZPZjJYUEFhYnBNMmE1aUZw0gHMAUFVX3lxTE1SZHU3UFlWQUlUcWxUQ1VHaUtuS1JTSHZOV0o4VVI3YjA4V3VhY2FmWWdJdWpPOFpxTTlBVmVkWlVLQWVsbWFnTWktTHUxMWx6WkIzcllzeUZnZVJYYW5uMlVQc29haC02TDNCYm1WSVBRcWc5Y1FqV2F5WTdWVnZCVnd4RUg5cGtJUUpnMWV6V3E5RGUwOHNDVFIzYmxxaW45NXZqUzNNQ2R2MnowdlZjR25HZXZFMFZid3VwZXQ1NEZPVzRaLU5ldE1jNA?oc=5",
    "src": "NDTV Profit",
@@ -2635,6 +2655,16 @@
    "tone": "bearish"
   },
   {
+   "title": "Dow leads Wall Street higher, investors focus on healthcare stocks",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDctNm9JQVVvS2lZb3ljSlBpSkdwM3hjNkZ6S0ZkV3QwYVBpQmRaWWJLcFktVFJPaHZEMkU2ZmNyVVEyeWxzTE9BekJXeEVUMDBZLW83dExMMjdTQllDZTRBZFdnT0tVOUs1a2pyWVV1SkJkaGtzZzZtMjg5MEN6eHRIamxGYVRTMzRlRXRWdVRNd3NfSE84Q1BlRXUzajBHZ01taWJDUlZZU0lQVkl6elJLZw?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-20T22:00:35+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Gold pressured despite falling yields as Hormuz diplomacy sparks oil price reversal - Kitco PM Report",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPejlMMkZCWFdON19uclJ6REx1NXdMUkw5MEhGVEVaYng5QmRCUTNyU1FYSW4wblhBVDl5Z2FwYVdFVV9FSFI3bVk5MGRKNmtHYldFem8tR09yZzYwV2pXa2NyQk55VWlpT1BaMnJHVVdZcWpxYXlMQ2VSZTNfb1NsQUR1Tkt5ZnhLYlRzZEszVmxpTHdLLUNjLTRHbXlsM1N1Q3FORUI5YzNneE5FOWtmSENXQ1FHYmxD?oc=5",
    "src": "Kitco",
@@ -2662,37 +2692,6 @@
    "t": "2026-10-20T21:29:58+00:00",
    "tags": [
     "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin resumes Nasdaq correlation as macro pressures threaten $82,500 support",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU2M0U01LRjVBVUxpY1gwUkNzbmJkck5SdzZ2RzNWRnhkdnJ5MXZXSVMySFgteGxUem1ucWFxbFpvX2p6bFNaTFRUWThoNWVlOHVacVBjNUQ1bzZ1bFpmQ25KYXkwZzRwdTg5QVlYVHBEcm1HMl9iQkN0NWZ6QTF0MDdlUDJJeUJCQ3lSVFg4YUtHbGFLb0Y0cXVVQ2VlNm0wVmE3cXF2VUY2ODBGLXRNZWNoYWhFemV5MEhkS1A4WWdQVnJ2WnR6MzQyRzBFTERxdkVN?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-20T21:29:53+00:00",
-   "tags": [
-    "nasdaq",
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "CIBC cuts Q4 gold price forecast to $4,500, then sees bounce to $5,200 in 2027 (GLD:NYSEARCA)",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUFrNzIzWFVHUlc1aVVWX0FjMWIzMk13ekdhOGdQRDRFREVfNUFyNU0tbExsMzQ5b3M2UjE5SFh3cWhIQ0w5N1Bkb21TamM0WkQyY2VRVXQweVp5dDZGVTJqWHVZd3dLMTgwVlRiUjk0WWNubWFEYm9xTDdNWV9VVldWT1RwbWc4TVdoa04yRWp5Q2VQVjFTakQ5ZXJHOGk5eXRjT2lQWXBGOW1FYWFpcw?oc=5",
-   "src": "Seeking Alpha",
-   "t": "2026-10-20T21:25:29+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Cabral Gold plans to double Phase 1 output as Cuiú Cuiú nears commercial production, Alan Carter",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZGVlcWRCNndJdDNYdUx1V2UwTzNFY3hubzk4dWt1c1ZFRXIwa18tclpXWjlRNExEaFc4eUJSTE9QN1JOMnhoUS1ONHN1bVhJT2RBOWxVbThKNHI1R0dtLVRjaWZ6MFlOeEVHQ1o1OHB2T1dJZjgtV19iM21oWnZrNzJFLXFhUnhJek9qbnpaYXpZdUl6MHAyODF1M2ZzN3h3dGxmMnVjc2tIc1VEN1I3Sk5Ia3k?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-20T21:23:00+00:00",
-   "tags": [
-    "gold"
    ],
    "tone": "neutral"
   }
