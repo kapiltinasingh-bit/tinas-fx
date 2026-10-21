@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T09:17:45.280803+00:00",
+ "updated": "2026-10-21T10:00:08.751678+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -84,13 +84,13 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Moneycontrol",
@@ -108,7 +108,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 3
+   "new": 5
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,76 @@
   }
  ],
  "items": [
+  {
+   "title": "The Bitcoin Market Has Caught a Tailwind",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ21YUkcwTHhsYWFyQ3JQWUxtLVBMOGtaSUxzUlVBYzdJLURTTHRRT2hEODg0WEJTSEhxQS1jYmhzRGdPd2VVaGFyRkdJVXBJZEVQQkwwNGhaNllXWTNhaXctUDZMQldDNkJCMl9ob3ptN2pGcF9Cd1Q1Tm1JdFllZXFNOVlqUERHM1ZOeGxLQkRYdnluVFE?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-10-21T09:51:10+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Global Market: ECB sees Euro liquidity support boosting global currency role",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ecb-sees-euro-liquidity-support-boosting-global-currency-role/articleshow/135088196.cms",
+   "src": "Economic Times",
+   "t": "2026-10-21T09:39:58+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Global Market: UK inflation rises to 3.5% in September, boosting rate hike bets",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-uk-inflation-rises-to-3-5-in-september-boosting-rate-hike-bets/articleshow/135088109.cms",
+   "src": "Economic Times",
+   "t": "2026-10-21T09:34:36+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Wedding Season 2026: Gold prices crashed over 5% in a month — Should you buy jewellery now or wait? Experts suggest",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQOWh4SmRmQ2VhdTEtYVdWVDVSWGZ4bkhEM0hMNmZVamM0aExib2VOSS1jTUpvOV9VVk9BTlNSNjlOWE8wYUlmb0lMZkZZSm9qSzdQdkNVSUR1dmlNaWpLOXFscDBCTnNTcnFkWWdzcGRoNFVRbk03S2lnTUI2elU0N1h0MUpHb21FSENnNmlBLS1iVkhud1lUX0ZGeGRNRDd1SXYzdjNjYndkY2cxeDBQaGZ4emJJRHp2TnN1YlVIRFRjUjh1cEhURWxsaUxXR2p6WUhyeFJlVElmMlBqZG1vcld4Q09obEZVU3ZVSks1QmZMUjNKeks3OVVjVmRTZERXTkVpT29yZjRTZw?oc=5",
+   "src": "Livemint",
+   "t": "2026-10-21T09:31:15+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
+   "url": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
+   "src": "CoinDesk",
+   "t": "2026-10-21T09:23:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Rs 8 lakh crore selloff! Sensex plunges 1,400 points from day’s peak as bulls lose steam; 3 triggers",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbjNNaExtalZEc0lWMVN0WVNwWXdFcUkya2NtZVI4NG5MTHVCcmNBWXhBX0xQc3gzaHBILU1xT21JN1hHcXhHYWhrdEYtUkRrekl6S29NTGFHOHVvTFI3WWJEeldLUkRQRHJOY2VSeHZGTklfWFIxbktzZWxGLUJMYkotYWp6Q3RTam9BZTFTWjVmOFJoZXpTdk5UZDRQVWlTcVhkbS11TVozdFN0YVpUMlRWZVZqQ2ZDaXJYRkdmQkNIc2U5RkkwWnpKWXUxWEtJeEVHeXV3TlFlOXlOdWU4azYwNUNEcHZHQmpFOGlHU3Z2TjVRLXFmOG9LVDJZTjDSAYQCQVVfeXFMTXdoSzdZbjJOX195QmVOS2RIY0Npb1gtUHQ2LUJHNDR2ZXVmYmdRX1VpQTVyellwVFFSTVNpelpnSjNsMGpyclJ3YXJWVEdNZzV5aDVtNUozYTZacDJfVFRIY05pSk5GWGF4SFN3M25sQ1ZNWmJNcHR3OFpQZzVwSXl2dGpRQ0JWZVpTMThDQ3hacVFESmhybGpKdEtnNUVtdERxYV9VVC1aUVlQdmlUMTVjaEU1QkE3Y1VXZXBtUFo0XzJRNVMyOHZiM05RVW5lcERhMG5zcXBhS2tLNW1fMjZNUlhfMTJzY1IxSkdYZFI4eWl2bUxoalN2SHBENEJicVE1d2k?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-21T09:18:17+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Sterling today: Pound climbs on hot UK CPI as dollar weakens",
+   "url": "https://www.investing.com/news/forex-news/sterling-today-pound-climbs-on-hot-uk-cpi-as-dollar-weakens-4962057",
+   "src": "Investing.com",
+   "t": "2026-10-21T09:09:49+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "AI stocks are probably in a bubble — but might be worth holding onto, says Citadel’s Ken Griffin",
    "url": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories",
@@ -139,6 +209,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Kusumgar Ltd. Share Price Today - Kusumgar Ltd. Stock Price Live NSE/BSE",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YbUxkTjFQR1BSQjI0djNhRUhqTDY4bnZVSWJQN0tpSVB6S29sNnAtdmJuYW5CZGVQTUFfR3hpd2tteV82WnRZQ01aUlllVnVlaGFybnNJQUpTd1FfRGc1bkFqQWlxUDQyYnFoQUEzMDZzODkxOWdkQnE4OA?oc=5",
+   "src": "CNBC TV18",
+   "t": "2026-10-21T08:45:00+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Global Market: China, Hong Kong stocks fall as CATL slump, consumer worries weigh",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-fall-as-catl-slump-consumer-worries-weigh/articleshow/135086989.cms",
    "src": "Economic Times",
@@ -147,6 +227,16 @@
     "spx"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Nasdaq Futures Rise Premarket As SpaceX AI Boom Lifts Chip Stocks: SMCI, TSLA, META, IBM, CRWV, NFLX, BE In Focus",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbnUwRElSUTlnMGw0SWlCbEpiSnJCSU1vSzVCRlFZa0J2eFFIWGNuWlJlaGN6SmthX2ZyZlE3U2xsbkh2WW9Lek44NkgyeFpOUXd4RDUtSWI3R1M4cXNGY1JPbXpPNm5MalRKOW9PbTg3ME45SFAyTTl2MlFwQ1k3c3VQV2gxYWUtYVktdTJSdTB2dEp4UzRXTzlPQ0RTTjNPYXZz?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-21T08:41:06+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Stock Market Crash: Key factors behind the steep Sensex, Nifty sell-off on Wednesday",
@@ -281,6 +371,16 @@
     "nifty"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Silver bear flag at $57.37 risks break below $55.56: Live",
+   "url": "https://www.investing.com/news/commodities-news/silver-tests-bear-flag-at-5860-resistance-live-levels-93CH-4956490",
+   "src": "Investing.com",
+   "t": "2026-10-21T07:10:48+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Dollar hovers near 3-wk low as volatile oil prices weigh, rupee extends rally",
@@ -622,6 +722,17 @@
    "tone": "bullish"
   },
   {
+   "title": "Gold extends losses to near one-week low on elevated oil prices",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-21T03:45:00+00:00",
+   "tags": [
+    "gold",
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Gold bears await $4,100 break amid oil-driven Fed hike bets and USD uptick",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWZWblVYYUdZZ09NcWdpaWxMcWNpYTdzYjNqUzI1Zjl3ay1KN1RWZUk4UHN6OGZnNEN6bHlSaTVxZDk2eHdSTFE4RF9hbzlYUVU0bGtvSk9vZ0RvMkJPLVBtUzMyYTNQWHZ3UWRKdENkSG5HdEdyYXhPYjFZTUNlOTQ0YWx0dVUwUS1VSU9CNl9WQnNpVFRhbUktUTMyZzBCQTEwb1UyOU14cFk3aTFVWlBPYUp1NTg?oc=5",
    "src": "FXStreet",
@@ -663,6 +774,16 @@
     "gold"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Canadian Dollar holds ground as oil prices surge",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRWpUTUtSM0xNMldsdV9CY21WekR5Q19waWNtVUdMc01maGVGdGVhZmhGVW9oRWlPdW92TnE5TW1icGlSc0hZTHFENjVGRjZmVjZGZ1RWS2pGTHF0T3hoVW50QUJvNGhuNThNc3NpREtvR0ZacG41OGFLa1JERVJwT3dNSUk1ZHVzODJxcElkLUFIQTdnRnc?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-21T03:18:42+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Sensex, Nifty to open higher as GIFT Nifty signals gains; Jio Platforms IPO subscription begins today",
@@ -2584,131 +2705,6 @@
     "gold"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Euro gives back early gains as US Dollar bounces back",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTzFfQWJlYXJBMGV2RmZ6dnN3UzJLbFB0YTVoZDFBdGU5WXNVR2M2N1JEdU51bk03WDNlMmozUDFMYzhEWWdCc1lZR2JnZW9mZWozQnBlc3pEQWRKT19EbmFiV1R1Uk93Xzhvemg1VGd1Sy1JRUN1eDlpRjJSUXJubUVBbl9QejItRWNxaHhOWXNLZUItYURPbHAtZnU?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-20T09:39:16+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Saudi Aramco sells more fuel oil cargoes for November loading",
-   "url": "https://www.investing.com/news/commodities-news/saudi-aramco-sells-more-fuel-oil-cargoes-for-november-loading-93CH-4959281",
-   "src": "Investing.com",
-   "t": "2026-10-20T09:37:02+00:00",
-   "tags": [
-    "oil",
-    "dfm"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "South Korean IPO plunge deepens AI market jitters as brent tops $111",
-   "url": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
-   "src": "CoinDesk",
-   "t": "2026-10-20T09:32:24+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Silver price today: rises on October 20",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkNlY3ZkNENuR1BDRlN4Q0pWcU5icV9BcWdnZVUzR1JrbEMwSTBQMzNka0J2cDhYUWxKb2FwUHRwM2R5LVFBZVNkdjZqWl9ZWl94a191LVBuVV9DUTZCd0lIOThVYXZ5SkJacWFDVV9kelk2XzRuQXFUcjNnY2ZZdFFHZDVTV0FvRm15QkxXQ0tUZzJvUDBfZk53bjJ6V2FxLVlr?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-20T09:30:57+00:00",
-   "tags": [
-    "silver"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Next stock market holiday 2026: When is next weekday non-trading day at NSE, BSE? Check calendar - Oct or Nov?",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQODE5anBfSTloUWxCQ0xOUWlOUC15QmJKWkZVZVdWM3RsVXJhY25naTB6a0doa29qeTNQWmVwSGhzdm1YOVd0YkFvS0hfSllzQ0stNHRXZ0k1MmJtdkNHbDFONHhOOWdEa0RXbVBBTkFXQ3BKQWNzUmFjemI3aEpQZkp0MHQ2X3ktRG83SUFGQzNOYklUdzZERUVrMUwzcy1OTUlURVJZV3RPNm8waWJmYk85N212SmN4T0o1Q3dNMXRWcVFrb1NXaGZCODRGNElfOFVRemFaTlZiUDRKeHZtRHJhX3V4SGNJTzh1Tm9ERmM2NWsyYXZwb252c1lyejlsaml0cdIBigJBVV95cUxQbkdNc1JMb2lZdkl6WHFibnVnd2NGZC1UdWtJaDlEN1dBYnhsOUlxbHFJME9teV9xSTBjcVVaeWtKdTdjWk4wZUVnXzc1c0RJaWNMUnRVVUJTR3N5OGtTU2xjYk11RF9wcDV1VGV6NTJUV2VlYndsekhvVUtBQ0t6QUtaQUpEWUVrTWRNcDRocEFHQnlOMFBhNENObVFrUEpuMlotd1M1X2lFUEkwUVNDYmhRNEZJOE1qSERLX2ZhNXhkaWpHdlUzQVJNYlIxUHRuSmw4V0VQM1VyOHhvbEpMNXJ5NXA1bGh2M3Iwa2FBUUlVTnFyY053NlFBdnpPQmpZam9pYXVjM2ZHdw?oc=5",
-   "src": "Livemint",
-   "t": "2026-10-20T09:18:57+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Nasdaq and S&P 500 hold key support – But is another sell-off coming? [Video]",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1JDeEhVdVFhYVA0UFhRSEF1eWZELWczVllyUWdhZVVpQWtzcjU1SFNFNGMwcU54MkNwVDhDelBueTRUWGVTYktkX3huSERQTEZ0VUl6WjRGNGwxcHlmV05IdW5SZU1PZ3VZYmJobE5wbHgyX1pMTlM3QzZKb2VvSjM2QmhiejcycmR0SWJDZFdOd2daQjBLeDZ2YVB4ckV0RnUxQllPS3NaMTJ5eENMdlRGZHQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-20T09:14:51+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "EUR pairs: Gaps to the downside, Gold and Silver in descending triangles [Video]",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjlDVTVZNkpRM19IZVkzZTZqUGFNY29pMVNQQU9aeEtKNW5zWVEwR1FNWkNmMFdaOFlNLWtpVy1jdUprRXNFTnE2dUJvcU11Q1YzTHowYVRiaWIxekxBaHIyREYzdWZBMmFKdk9hSVI0R1R2WlF6Y1UxNWVpdmlTS255VWdJdm9oQTNQYzc3Z3VKekVzOUU4R1YweTdOWkxuQmJFZENBUzNnc19lUF8wMkRBQ0FUakZ3VDFxRmMtYzY?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-20T08:49:47+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Silver Price Forecast: XAG/USD rises to near $57.30 amid drop in US bond yields",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakxlejg2MTZ5RWlQWWRROVdQS2tYVllEaUlWVXhGT2FPUUNwbVNHS0ZPdHRWUGJ4dXZrdVgtSGtkal92Nnp2Y3NPSjBRcUY5anU5TzM0TmJKTHhzOTlmT3lzUmxJbU53TF9WY1hWNjhZd3prakxEQTJsbmZ2Y3owR25aVVY2dFp6d1U4WGRTRzYzRGNVWlNBd2Y4X0ctcFNnWUQzWEhtVXozNUJ1NjRYZ2ZXN0NmSTVlNGZN?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-20T08:38:33+00:00",
-   "tags": [
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold (XAUUSD) Price Forecast: Oil Premium and December Rate Bet Keep Sellers in Control",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOGNldjdXczdOMlY1M1c2RGhDaHN1WW1TZm1VOW1mdTFUZGUxb0V3ZzkyNDR6MnBvdlFnT3VQS05lXy1mOFRVNXdQeUVhMURuRmloZ0l4dkpnN1VGVVpLcEFvdGtOdl9OY1U3STZLX0dnZVZJUk9qUWdsaHlPUmh3eDhqU3lWbzJYTWs2WGVOTk44MXZESGtaMWMtek9RejJyWFlCYmZ4dFpTMjY0SlNrOEJnQ0VLM1VITnN5NlFCT1RVdEJyQUxPXzV1eE9BeGRR?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-20T08:25:17+00:00",
-   "tags": [
-    "gold",
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
-   "url": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
-   "src": "CoinDesk",
-   "t": "2026-10-20T08:24:01+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Price Forecast: High Treasury Yields Put $4,000 Support in Focus",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOUNlTzZwM2ZwaEZlNUV4Ny1XYUNLb0FYNHVxV0RmRHVsTktIQ1Y4SUM0a1ZrbU1rYkxnMUhQaHREeVJDSk1QMHN4N1hSTHB1czZBV0NrWWplM1JpbDBIaHBZREdBaU41OHR2Sk5sWkRZR0MxYm9BemtEUnJfc1MyYUZXTERDWmFVcDRqQ3NLQkVRbUdRN01MRVBsTE9aZDRWdzJuQWZKd3hnb2RkWEVsSExqdTh5OC1BV09lb1o5TmJ3Vnc?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-20T08:19:44+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "India gold market update: Seasonal demand shows early strength | Post by Kavita Chacko | Insights",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWEzUjIwdDM4SThRaE93WDdjSWdGbjVyZXVEdnIzYXNyMG9WYjJPdHZVelVzelVYQXVyaTg1NHRfRVZaMks1QkVxNWR2eGI5Wm8zTHc5OTZBZkFPV0FFaHhxYkhYRTBfWmFlVDNjX2J4eTJwczhUSi1ZSHZ2aXp5bDNvZ19VVWpwYzFqbS0wOUozWmhIU24zRFZTdnNFY19HdFhCUDl0ZmNyUWNKREE?oc=5",
-   "src": "World Gold Council",
-   "t": "2026-10-20T08:09:02+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
   }
  ]
 }
