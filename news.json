@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-21T20:08:18.527624+00:00",
+ "updated": "2026-10-21T20:40:39.056484+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -72,13 +72,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Moneycontrol",
@@ -114,10 +114,65 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 4
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "XAUUSD Holds Near One-Week Low as Oil Keeps December Fed Risk Alive",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcWY5MUZCLTc1d1g0TkVEUkhlNmE3ckFTaEQ0LWtBWEwyXzhWZHJoVDQzSnBKU3YxeV9ndmtERXd4MDRUYUFFd1dxLUk3a0hPS3RrblY3dXNTRUN6SDBwZkhYcHdKOXhFRmVuOFJkWDNrUFBFRElQNVlQVnFfTzJtRmxpYUZLc1I5cFQxSG5ZUjYwb0lGSVpDVEFGbVhiZm5jd1NCY2MtNGg2ZGNpQjREbWV6MHFjRlEwdXc?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-10-21T20:36:48+00:00",
+   "tags": [
+    "gold",
+    "oil",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Ethereum Price Prediction: What Could ETH Be Worth by 2028?",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjBwdW1mODNLendMNk9TRDBQdUJhenF2WFlsU2RsYnhsNENQZnZPeDZ6Mm16bTNvYzhvVHhlbExvSzJKX3pGNVNzdGJ5TzNuajFUdTB0XzM4ZUZXQy03RmR0cm9zZ0pDc2VhRGJ0UVRMLVNoNkxxcTNlVlU2bzZ1QzVFekNaMUhmTm1qNDFzMDRpWWN5T3RCM29pZDRtYVZqSFhpREE0Y0NvYWhXbThUenRfSkpfcEU?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-21T20:30:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Update: Tech-Led Rally Lifts Nasdaq, Extends S&P 500's Advance to Third Day",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYTZIem9KRUVEZGZMOGFJelFoby1jcEQ1dzFreERRclpPSEtfbm1NRG52N2ZmNllkbXE2YkF1X3U0cEV6b2QzZldpblJRMkhSUkE2MjVQSC1NcTM2QXNlbGZUaWV6RlhpRXR3V0dUZXRGRE96czJENXltcWtlYTdNWmRDRmRQTDdPSTlPbGVWck1hVkhDczhj?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-21T20:22:54+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "US stocks today: Nasdaq leads Wall Street higher as SpaceX, Super Micro lift AI sentiment",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-street-higher-as-spacex-super-micro-lift-ai-sentiment/articleshow/135100483.cms",
+   "src": "Economic Times",
+   "t": "2026-10-21T20:15:59+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "S&P 500 Closes Up 0.46% as Nasdaq Leads the Market Higher",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTZYcFNpQlkxLUFmNjFCcjVKMHh0YkNMdzFRd2NpWEplZUR3VkFBcGJ5bm1iSlc5VG1QZVRWV0gtZkhtVmwzWnlaeE0xWGNhYnprWlhoUHI2NE9WTGlHNVlGT2hhZUVYT0o3VG91c2xCcmNvOGhxOWtlRGVQaEx1Ukc1Y25QZWo2b2czbHZYaEVXQl9GTHJyOEVObzBnbkxBZXA5YzFjZ2NOcEtVVUc0SE1BS1dxaDhDWXppYkFaV0hNaDI3cVZHZg?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-21T20:07:35+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Gold edges higher as yields retreat, Fed decision in focus",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ2JoR2RWb1Q5VDIxZVAwUkFvRTI3Q0ptU3lnbFBCeXJTUWttZ0x2NU16MnZZUEN5WUR5UzdzOTN2c05WaXJGeEFwT0Riejc0QnZZOUtFRkFsa3BxUVo4cjQ5NmNKMnFlcmpadVIxREE5WHNhNkhaOGdZSWFaUWFqTGhwSUQwbmUzYjFLdzZHS2M2V082dFRYM2hIWTUtTEZtbURvaA?oc=5",
@@ -206,6 +261,16 @@
    "t": "2026-10-21T19:00:34+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "TAG: Royal Mint silver sales",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14c25CRUVQcUo0Snlwd3BXWXRZNzE3NENVeHdYcnR0Skxpd2I4SV9YYlo5NTRqdnVMdUpjRlpkS1hnLTctcW9nREYtVHZZTEZoWlFiaVJiczJUSnFVamFoR29pTEw?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-21T18:42:00+00:00",
+   "tags": [
+    "silver"
    ],
    "tone": "neutral"
   },
@@ -302,6 +367,17 @@
     "macro"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Nasdaq leads Wall Street to higher close as SpaceX, Super Micro boost AI sentiment",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd2RiaWRWZDRVeUtwU0VNLVpjNjRJS1U2OTR2NXM0WHBzeXAxOU1PaUdFZzhxVERWUEVxNGhoWXBjdXZwRW9LclNONmQ3d0RIOUhSZzR1aXFaQUpKYkw3QkRlVVY0eDUzNnY2YnpPV0VPSWRUdnJPRXZ4aGNSQ1ZUX1V1eWtxbFljUFYwV3BaeWNJOUdnTG5BQjg1emUzMWNiSnFOYjNrODY5MkU5M0t5Q2xlY29aVEk?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-21T17:20:00+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Interest rates should be raised as insurance against persistent inflation – economist",
@@ -509,6 +585,16 @@
    "tone": "neutral"
   },
   {
+   "title": "United Kingdom: Inflation shaped by energy shock – ING",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSWE1NU1ENmkyM2dWOHA4WmxwNmdjSjh4SkZ1TktNX1o5QWFvd1oxdE9HZXpzSUJYZEE5dUhsOFdqcWRZR3N1dVFIVVk3VTN4MmV3MFJ3ZXc1UTM4dUExdTBmdExyNEN6dW1DQ3JDeVNieE9lamdqemg4RUJybHhnZW40NF9wTnFwaktBcjlvVjNJYTFxRWEwbWFB?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-21T15:10:13+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
    "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
    "src": "CoinDesk",
@@ -586,6 +672,16 @@
    "t": "2026-10-21T14:25:23+00:00",
    "tags": [
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "A SpaceX And Tesla Merger Would Consolidate 30,000 Bitcoin",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0xEb1dyb3NROWZmRVJYVHZ5aDFtUnE0dHNfSnVHLTlhM0o3SFd2T21QNjBIeWZGMGpscjNQMDdYcW4wSDhRNHg3MHlyOFpHa2xUVTJKOERFR2N5OUFHSXAyTDZCOVp4VUUxUDUwTHVWUndwc3ZXRWg0UUR5NkREQ01oVWJsWW1kUmdTRkZjaWlqM2lTbjBTMGJHWkNOcWNr?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-21T14:24:00+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -2599,98 +2695,6 @@
     "gold"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KLUZVTWtmeEt4aEpaZmUtOU5zNWJtbHdLdi1EM0dCdmYyTmRCNDF4ZjFZYnR0b3pyclUxQ0FlS0RsMU5DWDRibnFsdENpUzFJemNfZ2R5Y1d6U0h2SHg1Qk9pTXVVTkZWWEotV0I5RzYtd1VvLXRmY3p2UTFtXzA?oc=5",
-   "src": "Decrypt",
-   "t": "2026-10-20T21:16:04+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold (XAU/USD) Price Forecast: $4,217 Breakout Puts Bulls Back in Control",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1pDY1h6aGUtRjBicXJnQ1Z2bjVMczhBMDdTNWRvNk1lSXREelZtYVlCS0c2OHFiNURONmR1RjBuWF9sQk83Q2t0blZXUEpnbWUtWHNZUFBYc1dFR1BFeTA2YzY5c0NlS1JsX3VwdC1CdElHallqZGhZNXhzQVdpVmxsbXdoVFhaS1V1ZklhY0dQMElIbHo3MHFITW14WUhEZk1ZTVB2UW5yNWYxOHE3UWxfeUlUUENZOUNB?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-20T21:15:49+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "COMMENTARY: Trading Day: Oil reversal lifts spirits",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaU1PVWVqVTFDdTIyTFEwTzRRRm12eVZCd19RNnhPY2tKY29HOURqclNJNnJoeHM5TlBVaDI3SE5JdUROOEtTNXJyZm9NX29jcmVmYVQzZDdiMnllRnA1M3h4VzR5YjBuanlSaXBqUTUzdmE2THI4UGpULUVMNzRpOVRuY2hyQU9sYl94dXFSR1pKQzlKc0ZPNFNBd1A3RXpSSTIwR0hB?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-20T21:04:23+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Dow leads Wall Street higher, investors focus on healthcare stocks",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDctNm9JQVVvS2lZb3ljSlBpSkdwM3hjNkZ6S0ZkV3QwYVBpQmRaWWJLcFktVFJPaHZEMkU2ZmNyVVEyeWxzTE9BekJXeEVUMDBZLW83dExMMjdTQllDZTRBZFdnT0tVOUs1a2pyWVV1SkJkaGtzZzZtMjg5MEN6eHRIamxGYVRTMzRlRXRWdVRNd3NfSE84Q1BlRXUzajBHZ01taWJDUlZZU0lQVkl6elJLZw?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-20T20:55:57+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold and silver ALERT: Why risks may grow after the election",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzc4MEVydWNpVENYNGVkeVU4VzBEcVc4dGloOVJPcl91NTRYb0hRb1l3YTkzYkFYb0lKVWtUV3pIaGRxdVV6ZFY3d3c2MkxFSFFlZkhQV3NJTnFRS1ZMMkM5VHVrckRpQUFjcVI0ZnJ3OFYydHNTa3kxR2I5eHNBUkduRG1mVzI4SFpGTjVGUWF5WU1qNkVPWEZhVXA?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-20T20:49:37+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US Dollar Price Action Setups: EUR/USD, GBP/USD, USD/JPY, USD/CAD",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMXZWSjNYMUJ5dUhMUDRob0pEUEpQc3J2RmFVQlBSeUxYcE9HNXFIcDFWZkxiWU1TUkFNWTZVSjlPUzVjMEhDODNfdzRSb2VHTU5LSk9XSFQ5cHBPX09TQ2taMHJwMGRyT1o2SnhNazIyZ3ZFLUhFUXZZbDdkN1ljbHM0X1RxdFlhM0lRWXNsLXZSb0RIbzJfaXlCekQ1YVdrMmtmanlqeTA3dEktakZvZG1kblUwNl8wZEVz?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-20T20:45:54+00:00",
-   "tags": [
-    "eurusd",
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
-   "url": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-10-20T20:45:00+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "NASDAQ Composite (^IXIC) charts, data and news",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WZ25DNm9LcjNGa0hwMzBuc1JTNU5mTWhjUWFTZHN4MFAtM1BGQ24yQjNkdUNla2RHZVhMYW5wSVpVa0JaMG5fa3FScVpTcVh0dEN4OWFB?oc=5",
-   "src": "Yahoo Finance UK",
-   "t": "2026-10-20T20:42:55+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US stocks today: US stocks end higher as healthcare stocks lift Dow, tech a breather",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-healthcare-stocks-lift-dow-tech-a-breather/articleshow/135076667.cms",
-   "src": "Economic Times",
-   "t": "2026-10-20T20:24:39+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bullish"
   }
  ]
 }
