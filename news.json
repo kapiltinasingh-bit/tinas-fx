@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-21T01:09:57.929777+00:00",
+ "updated": "2026-10-21T01:42:42.304378+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -114,10 +114,53 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 2
   }
  ],
  "items": [
+  {
+   "title": "Gold falls near $4,110 as Iran peace hopes fade, Fed rate outlook clouds demand",
+   "url": "https://www.investing.com/news/commodities-news/gold-falls-near-4110-as-iran-peace-hopes-fade-fed-rate-outlook-clouds-demand-4961463",
+   "src": "Investing.com",
+   "t": "2026-10-21T01:28:30+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Stock market outlook today, 21 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdk5aaDRyQ3pTVVM3dFVDYVNkY0Exc25vZldMM2JpMzhGXzk5UF84Q3JsaWNyWVNMcVBaYWgzcFIzaTZMOHgtZkJmTThiUWtEYlRSZHpkcDJGTTM5NC1ZeTJUUmFZalJGdk5RRlVPa0l5amRWOVhha3dBd3RJMU02aklhSS16YU1WMFNZWktqWU9tV3FNUXZaRGpKTWp3QkkzcHViWGhUcjlUdHhhWFRFcW91WVNTeHp6Q3A5dnhMRlM2MGQyTHA4dzlGQ285dWxOTFJuR1JIVEZZcWpwa2NJQ1pLSzloNl90RVZkUF9DOTZvRElGdzZDamtuSE9XTjY4ZUFxcQ?oc=5",
+   "src": "Livemint",
+   "t": "2026-10-21T01:28:03+00:00",
+   "tags": [
+    "nasdaq",
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Stock Market Today: Gift Nifty, Jio IPO To Oil Prices; Five Key Factors That May Drive Sensex, Nifty 50 On October 21",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSVpnc09VQU9Geklsa1JYNlJIY1JoMkdKVm5CSVdZb2I4eWNkbzdKQU1HRkNDcG8zYm9YVmV4WmRDSWF6a0tvc2xlcEFjX2NmdVIwWHpQeU9selVyUlJXMmdod0pUeGEzLXBKQ0hCZUlwb0RKN2ZuT2oyQ2hCaE9fVl9QbVJXYjBEY2o3blp2RUxhWHB6Sk1iWkhTN1pMQjhESnJoMUVMTXF4MlE3VXNmeS0xLXlqb29PMl9hYjZ1c3ZtdEs1QWVPSTlWbHRPVDg0LVQ3Q3dIcnRZOGVQcmNyZ3B0ZlZtMEdYWGdvXzB30gH2AUFVX3lxTE9OblBlajdKVW5VWTc3ZzFZcEhsSThtbHNoQi1fd1hHOEd3TnItSnh5RmxMZFdpVWNyVExaeHZZa3BQRzQzNEJVYlB2OXhOWldQRzVLMXpLeEF2UFJwY3ZyY2VmNVBjSE5BLUNDVUphTG84dWdGaGh0aWdMeEYzRGtoRU9NNmxoT1RMX3p4ZFFQRUJ0ZVh5WC1pN2RlM2MzX0U4dERxcHNMSmJ2VmFKTEYtQW5rLVZRTHVHUmI0X2NFSkYtSDlJSENjbll6WW5LVFZUcWUtakR6OC16R0E3Y0l3VmhidHFjakt4ZXpicllEb2JYSzdGdw?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-10-21T01:23:53+00:00",
+   "tags": [
+    "oil",
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Oil rises on Middle East supply worries",
+   "url": "https://www.investing.com/news/commodities-news/oil-rises-on-middle-east-supply-worries-4961438",
+   "src": "Investing.com",
+   "t": "2026-10-21T00:54:20+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Oil prices rise on M.East tensions, U.S. inventory draw",
    "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-on-meast-tensions-us-inventory-draw-4961436",
@@ -137,6 +180,16 @@
     "btc"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "D-Street poised for positive start as GIFT Nifty signals gains",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135073734.cms",
+   "src": "Economic Times",
+   "t": "2026-10-21T00:30:00+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "NSE exit triggers sharp slowdown in unlisted share trading",
@@ -191,6 +244,17 @@
     "macro"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Is gold really a hedge against inflation?",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2Q5cjNQYmlrTnJMY21SaVdhcXBmSlBjcDY3Y0psZ09zczgyOGNmV2xrODVuS3VoSzVHZlpHV1hTTUNkTzRpMVRJME9MTGxUNDhsV21Ga1VLZ1Q0dWtyN21aMEJIMTZ2N0s2MnBCNjk0cnhSTGZ5X29ibG1zOXFnMjZBMHM2TERZd2tjNU9DTnNYMkk0ZWxneThwVjFkUThXTWZpeDNCWWY1dTJqcFE?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-20T23:06:26+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
@@ -2642,66 +2706,6 @@
     "nasdaq"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "What Crypto Bear Market? All of These Cryptocurrencies Have Skyrocketed in Value This Year",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZDJhSmYtaHNicDNyRThna3ZXTThTWmdXWDNKb1N2enNmTG9rb3J4Q2ZrT3BjNTdIYVlnYTdHRTJQTUhtbTE2YndfSzdaMUhiY3lndE5kNG1ZbzhIRkZNSkZTUW9VcnZuLUR0N2hiNjBuX0dOU0lQWGJGNzlYMzQyWDlXME4xcWlEVVhuejEzQkxZaXpwRjBjN0ZKc3JENGNZMzR2SUhwYTY2XzZ6ekZJYll3?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-19T20:03:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Oil prices pare losses after more Houthi attacks on Saudi energy infrastructure",
-   "url": "https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158",
-   "src": "Investing.com",
-   "t": "2026-10-19T19:48:02+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "RBI injects Rs 1 lakh crore as liquidity tightens before festive season",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-injects-rs-1-lakh-crore-as-liquidity-tightens-before-festive-season/articleshow/135059068.cms",
-   "src": "Economic Times",
-   "t": "2026-10-19T19:47:23+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Why the Treasury’s financing plans are sparking anxiety on Wall Street",
-   "url": "https://www.marketwatch.com/story/why-the-treasurys-financing-plans-are-sparking-anxiety-on-wall-street-b49b5e17?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-10-19T19:45:00+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "The digital gold market today: a niche at an inflection point",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWTEyTW9hVlpZU3VSZnQ0b2QwNTN6a0VuLVd0dWRyZ1NwdFdlS1UwMHlPdmVxYWN3T3Y5SWQzcVc5SlZFVWEzNFRfZ3RYUEk4djZqX0VjaEluUVhaWFVJOXR1dktaY2VSVVVMTnNVTjJsSUxSMzhQbG1qa2R1VnczRmJ5aGk4QnBqdXQ1Z0VLcG96eHY1?oc=5",
-   "src": "World Gold Council",
-   "t": "2026-10-19T19:37:40+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Silver Price Forecast: Weak rebound leaves $55.00 exposed",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOalpMb2tQamZCWUxnYmlRaWdBVDlFVVZ2Z1dEbnd2T2ttNk5fUnJMa0JXODZwRFpKVDNOUTVCdDVrVWZzYXBZQ3ZuMjJrSzhfSktTQmdJSS13Y1JkZkNFUzhFLW9pMUh3SzZPM0hKU185YlZNZ3hzWlpWbW1OZHJDaXhzMzVSZXJtbGoyakZXVlE4TTFFcWF1VHBqOTlEdw?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T19:35:13+00:00",
-   "tags": [
-    "silver"
-   ],
-   "tone": "bullish"
   }
  ]
 }
