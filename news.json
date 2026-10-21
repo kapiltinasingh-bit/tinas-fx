@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-21T03:47:01.304771+00:00",
+ "updated": "2026-10-21T04:21:43.304669+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -54,7 +54,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -66,13 +66,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "CNBC",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 12
+   "new": 11
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,49 @@
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+   "url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+   "src": "CoinDesk",
+   "t": "2026-10-21T04:07:07+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Why is market rising today? Sensex jumps 800 points, Nifty above 23,050. Key factors behind D-Street rebou",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQS1JcXUtc3U0MWtUT0NQQU1KYm9XTXNBVEFMRUh6MlRzSGtXOGRyWnhFalZ2X1Q3VzRjNkpYNGtuYTVWUFR1RnJjUm1CV04zd1JVN2xaS2N4MGtpRWtCeXZxY0wwT1FUYWZfcFZlMENSS1U3aGVMQjlsYlA2cG01SEQwdWJpeF9TVF9Ec0h4RUg2NFFydXdvanh1TkQtd2p2NzBmWmN0MDh2TW5mUFNWZ2tGb0VrTzJXdVZWamdJd2tqdThSdVJ3am5oRzRRT2pzeVo3bUdFTTl6Ry04dGh5b3pBQ1dZTzJMQlFQS2xKb0p3VmZQbGhFc3BLZkE3blpoVEJvQldGYUNHQ29CV3c4QnVB0gGSAkFVX3lxTE1BLUlxdS1zdTQxa1RPQ1BBTUpib1dNc0FUQUxFSHoyVHNIa1c4ZHJaeEVqVnZfVDdXNGM2Slg0a25hNVZQVHVGcmNSbUJXTjN3UlU3bFpLY3gwa2lFa0J5dnFjTDBPUVRhZl9wVmUwQ1JLVTdoZUxCOWxiUDZwbTVIRDB1Yml4X1NUX0RzSHhFSDY0UXJ1d29qeHVORC13anY3MGZaY3QwOHZNbmZQU1Zna0ZvRWtPMld1VlZqZ0l3a2p1OFJ1UndqbmhHNFFPanN5WjdtR0VNOXpHLTh0aHlvekFDV1lPMkxCUVBLbEpvSndWZlBsaEVzcEtmQTduWmhUQm9CV0ZhQ0dDb0JXdzhCdUE?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-21T04:05:00+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "United States Dollar Index holds firm due to oil-driven inflation, Fed neutrality",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcjd2U3hBeEFscDNETzdSN094dHdzNm1kTzJMVGZKaDYwN21fVnB5eW1zUjZWeGZhZFlYb29RMndxbUVIeUZqc2lEaTRhaWVKbXZ5a1lBTkI0bnF3Y1BINU0zOFJqZFlxekpVdlAtOFl5U051LU9EUGdXNXljX0ZrY1JFVnpPaGFiOFl4M0MyMDhxX0dzNklJVG8yU056V25FU1oyNE9qLTRLblJ6R0lFRnlzN1dzeWE2bnlNMDNXV08?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-21T04:00:28+00:00",
+   "tags": [
+    "oil",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold dips for fourth session as oil rally fans inflation concerns",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-21T03:45:00+00:00",
+   "tags": [
+    "gold",
+    "oil",
+    "macro"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Gold bears await $4,100 break amid oil-driven Fed hike bets and USD uptick",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWZWblVYYUdZZ09NcWdpaWxMcWNpYTdzYjNqUzI1Zjl3ay1KN1RWZUk4UHN6OGZnNEN6bHlSaTVxZDk2eHdSTFE4RF9hbzlYUVU0bGtvSk9vZ0RvMkJPLVBtUzMyYTNQWHZ3UWRKdENkSG5HdEdyYXhPYjFZTUNlOTQ0YWx0dVUwUS1VSU9CNl9WQnNpVFRhbUktUTMyZzBCQTEwb1UyOU14cFk3aTFVWlBPYUp1NTg?oc=5",
@@ -190,6 +233,16 @@
     "oil"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "UK CPI is expected to confirm the inflationary impact of high energy prices",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZUNzSmxoSXgtWWhTU21TY3NueC1ncHFDcEQ0WnE3ZWY1SXRna0hxMEtiUTFBb0lVM0pHdDZIbWYzS3VQQTkyRWFZVGJtNGd0OGlHejhVdkF0RFVZM0pxYl84MlRpeW9VTUZkdXFZTnZITUVWUElQUjZIOE5La3RBTzI1RXUxMS1zWDJJbm5qLUlXc2h5b0ZPQy13R1g5LU9XOVdwSGtwSFBob0UwcUJIRUxZcVdEYXgwQkdYakREQTc?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-21T02:00:00+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Wall Street Highlights: S&P 500 Climbs As Big Bank Stocks Rally, SpaceX Results Loom",
@@ -2165,6 +2218,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Oil majors face spending test from Iran war windfall cash",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemV5ZWpZWkdhUzlRTmJsLXMyNVFMa0EzLTYxSGJubDVlSkVWMGVuckZDRVZOOS05eGc1aHlSOGJva3A5d2R2SENNNVBNeTM5eXNEeWJWTDlDbzBUdlZTTDdFZDRlT3dkVWtSWmJJekhvc3BSQk5KbnlTcjR2Q1otUEFlS0JYSUVZclR1d0NGRzJJaHBXbFdBS1RPZWZqOVNXemZtVmlRQQ?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-20T06:04:00+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "COMMENTARY: Markets' squeal is music to Fed ears — but still too faint",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOanNEc3U3RUp6cGJ5a2hycUVSd2ZoYkJfSl9Qd1JEWkx5OFlOMTE5TjVXLUZNLUh0ZkZab0JSN1BHVHAteGI1cFRkckUycldMNHFPbWljOFMxNHVDcFFpMjlvRVpQclZnTWU4cTZVUUlkOExfMDEyVjItaC1GMTlKX0RNRzRGRnpacmo3QXlnclAxNWZsd1lpSUpCQWtqYllaZFhDTkdfRDRsTVhQdmplX1gyVEwzb3ow?oc=5",
    "src": "Reuters",
@@ -2648,67 +2711,6 @@
     "nasdaq"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "14 dead, 7 injured in Colombia illegal gold mine collapse",
-   "url": "https://www.investing.com/news/commodities-news/14-dead-7-injured-in-colombia-illegal-gold-mine-collapse-4958516",
-   "src": "Investing.com",
-   "t": "2026-10-19T23:30:09+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold tumbles below $4,150 amid elevated US Treasury yields",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHdFOGZuQU9QWkI2NlEydEJEenpoZV9CMXN2enFIOGlpSWJtRXdkdENVYllaVnFiXzM3cUJXb0JQWFZsSEtNeVJ2aWwybTRlMlhNY1c3Nlh5QmMxTll0SFY4ZGRlMWNqVTA2MVdmT1Rxa0FnSk8ydnMwSC02TkxtREhXYVF0THZrZnNsR3FTaUhpcmtzaGxYWHhMN0hOQldINUE?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T23:23:06+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "India Gold market flips to premium as demand improves and supplies tighten",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbFMyclp1ME1MNENTb0F3ZGFPYVJoWlRoZTZjOW5UQ2xkWHpyQ0dLbEZDcklYV3cwM2xxS0lwU2JUVkZrMkdURXNIVFZNVE1xU3R5T0RwbDF5RlNhUVFWTmF2eHpPTENYNWRVdTBwSmRaLWNVdDhDQ1FxUUNzWWl4UF80bzRZWVJDZThkYlFiZkRhU0ZpT2pJdVBKVnE0TjBBZTF5X2I0enUtblVsY1pQWl8zRmctM0dyRDBzTVJ3?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-19T23:19:57+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Nasdaq 100 Sees Best Day In Nearly A Month As AI Rout Cools — AMZN, BE, CRWV, AAPL, PLTR In Focus",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmhicmtORkZuWXluYUZYd1lobHB1UDNlZk04YWRMZlg0blppUTdhdm0xYmhCOGNOS0ttdjdSbWlJSzNkb0JHeFBHMnFHdWxyTi1oLVl1dEljTXd0Q2dJNXcwQ0QyY1lHdUZkblF3dGppS1hfTmN5NDVKT3NxYVliR2xnX3p5QmxfeVpHZEJZZkpCOHc?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-19T23:00:23+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Forget GLD. Investors Sent $500 Million to the Cheaper SPDR Gold Fund",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNEhGSUU3TjJJLXRoNXg2NXdRMWc2bVNEOUx4eVVYbGJvOUd1QkJOVkhYRnlCbXExNTVyLU9sV1cwZy1JQ3JaTDBjR1pXai1uNFNBam0xMkZMVHpManJIZmVTc05zTmtYTjhVXzVhbFE3UGYyc1VzMUVUYl9LMFQzZXJGRmlHOXhNUnpyZjFneTROMFNNb0dPVWpBVEtmV0FISXM2UmZsRUh4SnlFYmhTRGlRN1Frdw?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-19T22:47:00+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "UBS explains how a looming Fed rate hike could impact your investments",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmJYb0p3dGtPM05jNU0zczRGdGdlQnZDMk9ubktRMXJCcWNrbHdYQjlYY01rVjBKeFB2SmJxOG14QXBmbS0yQ1hscnFmb2NjTXQxRXpHUE9MQkNGV3pUZzY1YWNfaG1MMEFqTjJlMUxrYkE0cW5LdVJrSmYyTGV2Sg?oc=5",
-   "src": "TheStreet",
-   "t": "2026-10-19T22:37:00+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
   }
  ]
 }
