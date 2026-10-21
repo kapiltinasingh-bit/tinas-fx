@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T23:07:12.708245+00:00",
+ "updated": "2026-10-21T23:38:33.476663+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "CNBC",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Economic Times",
@@ -114,10 +114,62 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
+   "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-21T23:29:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "From groceries to home loans, high oil prices permeate daily life",
+   "url": "https://www.investing.com/news/commodities-news/from-groceries-to-home-loans-high-oil-prices-permeate-daily-life-4964403",
+   "src": "Investing.com",
+   "t": "2026-10-21T23:24:32+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold flatlines below $4,150 as traders assess Fed rate path amid Middle East risk",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQW9fNTNpRGgxR29EZF9QclAyUnBnUXI3WmZiMHk5aW1CVHVFQllSTl9POFBubVA1VWZtY050emZ1X2xTWFljLVlIMTAwZENmY1VzM3JTZlY1WFVLQ1dJaWxZU2VNRWFQZC16WERmclYyTUZkYTZMWWdvcG4xeWY4YUJTV2h5VFEzc3NJRFRSNVh1aXlsZ3NNSDVPSlBOWnFMZ3FwdS1JWi1MTXlMXzExRE5EcUNQU29rUWxIQkE3UXI?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-21T23:21:37+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONjQyd3F1UEZZNnhKMnA3YmhnSmxHWjlGQmpfcVRXZlFlaHVFMG5ySk1oRkQ3YWtPbmdLaVpTNkZLQnIteXBiU1hIa2xibUFwZ2xiTEsyaXlZN3htczcteEdYQ1pLN0J1WjlzSDFBbzFON2p5QVhURXNyUkV0aU1BSWRCWF9jekNidXY4Nkdvdm5YMmpQ?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-21T23:15:19+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
+   "url": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-21T23:07:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "The Euro gets the PMIs first and France's credit rating over the weekend",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWVoaDdoVjFDY2NTMll5ZVRCOFdKcFNORlM5UGU5Q2lkS3QzZ3JRbk43UUJ3U2Itdm1VVnRxTHZYZ3M0SmFfUEYxVFBYb050SjlxbVdaeUJZck0zVjlPOTJfcXE3V0c2dVJtS3JSUFo4WXJFNTdVRHo5aFVOdVB4VGpUSjBXT1IyR19XR0ZLLURuaTFyU0NSdWJwVWwyWHFndE4wekdlR2V5R3Z5Yks5Rkd0Ukg?oc=5",
@@ -137,6 +189,16 @@
     "macro"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Russian gold reserves fall to lowest since 2019 after drawdown for 10 straight months (GLD:NYSEARCA)",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN3RvMURzV3VwdXBhYkFQa2ZOZWJicC15ZDlka2U2TmkzTVZDSXBVQ19VRzd4eEVvRFJYSU9hMHd0YjI5RDVETlU4VWNxMXd2UFZMLUU5QjF3ZFEtTUJ6Vm9IR2h0TmlBb3FKNFRKczhYYVFTb1hoQU5KbHdVSlc1ZjhvakpYSFE5QjJfaGZ4QXdYaWI4QmxhZHRXOHFUZU1oV2JTcVpXZDQ0WC1GUjZGT18zMTFtZFJJN21iTURmYVY?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-21T21:50:44+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Gold gains as Treasury yields stabilize, Nasdaq surges despite Fed tightening concerns - Kitco PM Report",
@@ -558,6 +620,16 @@
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd01rLWN4X1VkY18weE9DNlZ5MDliQzlEYjEtSWRXWVBmOE4tdjBvS20tdUlvNVhUWEFPR0pGWW5peDdwRHhJemVZU01ZS3JtUWp0UkpmUGhmRzF2VkFWX0pDZldEX0JBSUdmQWp0ZDM1S09tZzRmMlE4QWdIdDZyX1diUWE2MFc2S01nbWJXa2hSUUhQVmJxMmotc3NRMnhaUFRlZkJfUWx3NzF3Y25UOUtvaTR3RFpZcFZWWC1jVnJTYjV1UVhsZXhlN2s4SGNQSFZlRG1JdlhVSHlpM2tobl9KQ284LURI?oc=5",
    "src": "24/7 Wall St.",
    "t": "2026-10-21T16:16:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Bitcoin Rallies Back as Tech Rebound Sparks Speculative Appetite",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ0dkeGRzeUlWdU9iTk5vN3NuUmF1T0RSWjhGWldLaW5hRGFUbHVsdEZKNEFNa0h6ZGRjVU1RVU15MFhYSzJ0ckZUVko1a1ZMVlBCdjN5eWQ5UDhSNEE4NFhSQlVzaWFFQkhZalZ3akRGQmI5MjZIUnJ1Wk1qd3pTVEpxVlBxOU0zZkt6bV9UZDhZRDdiSnlBdVlDTTJFcnJKcDZJVFowTHlvTVVQQWFwaTg4NFMwZw?oc=5",
+   "src": "Bloomberg.com",
+   "t": "2026-10-21T16:15:49+00:00",
    "tags": [
     "btc"
    ],
@@ -2619,78 +2691,6 @@
     "oil"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "JPMorgan Asset Management sees Bitcoin beating stocks, but with a big catch",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/jpmorgan-asset-management-sees-bitcoin-beating-stocks-but-with-a-big-catch/articleshow/135078990.cms",
-   "src": "Economic Times",
-   "t": "2026-10-21T00:41:46+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "D-Street poised for positive start as GIFT Nifty signals gains",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135073734.cms",
-   "src": "Economic Times",
-   "t": "2026-10-21T00:30:00+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "NSE exit triggers sharp slowdown in unlisted share trading",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/unlisted-share-market-struggles-to-regain-momentum-as-nse-exits-the-trading-scene/articleshow/135078858.cms",
-   "src": "Economic Times",
-   "t": "2026-10-21T00:22:57+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold falls for a third straight session as silver extends gains and the gold-silver ratio slips",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXF1aFNOZjZnSmQyS0tpcWJ0U3lyUzRZeGNQUUpZU2JLTkRPS3RWM202eGpYaWNkVlpaTWVwWW0yVm15VFU5ekxpRm0xZ2EwSWktbTlZcjdoRVBPSDVOakNYaXZuckUwX0l1eUlObEpHOFVPYTlTTURtRVRENTZ3RE00N2hRbUx4Z2I4XzBmZnFJTW1saWZneWdjN2Zyalctd2UtUlozWFZEZjU2RW5zMmtMWi0talph?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-21T00:05:11+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "S&P 500, Dow Gain As Earnings Season Sets In, While SpaceX Aids Nasdaq After-Hours — SPCX, BA, MMM, NFLX, QCOM In Focus",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPblVzanhudmsxVVk2MnlHV0FvZXBhSU1nUGE2R055NEJWaF9kTTFaUEhDRG8zd2pXalR3bEt6UU1ISzAycW5qc2dNekdmQlhrMHFTejRUeG0xVmJTNElHWWVhZTh6UFpEX1hoUjVwaUlGaDE5Z3pXakR6WXg1cExTTU8zekh2bTlBVjZKVlVhMTB1dw?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-20T23:47:57+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Dow outperforms as Wall Street rises, healthcare stocks lead gains",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-20T23:44:20+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
-   "url": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
-   "src": "CNBC",
-   "t": "2026-10-20T23:34:14+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "neutral"
   }
  ]
 }
