@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-22T20:39:52.203464+00:00",
+ "updated": "2026-10-22T21:12:04.255511+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -54,7 +54,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -66,13 +66,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "CNBC",
@@ -84,13 +84,13 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Moneycontrol",
@@ -118,6 +118,56 @@
   }
  ],
  "items": [
+  {
+   "title": "War in Iran, higher energy prices are only delaying gold's rally to $5,000; mining stocks remain undervalued – Gabelli",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNXy1KLUdfVklTU19ybkZVc3VVVy1JakVKZHB1SlNKR2NJNEg0cVpSR3VnTVZhSFZzaWNPbWR1Y0c3MVJZSGRSdTVwMGk2X1FBRTFRZjdReEpWbk1aSTJicnhlaFlQcG1TM3JNcnpQdDZQanRiTGd3cG9kUXVsZ0c3VnZ6Ujd3M1JFbW5nT0VYdktQaWdwNHIzdnZPMEFuUDVhTnRJbGt1WVEyQzk5SWRCM2QxelNYSmk2?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-22T20:49:15+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
+   "url": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-22T20:46:00+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Update: Nasdaq Marks Worst Day Since June as AI Spending Worries Resurface",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaHg2WE9GR3QyaGFoczlnbVEycTlHem1ZczBTdFQxRElOc1F4M2l3T3ZSaGVmVDJrYVdvLWZhamhNbnd1VnJacVZFcmxUSGlqWGlBaDVEcDlGRlNrN0lDTHJwVEVmQXNVNERrQXVOREhSYzBudXJHUjg1a0hhQTdmZ2RVSnJIWXZrcC0zaDRyeHRlcTBqSnY2eQ?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-22T20:45:14+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Newmont beats quarterly profit estimates on higher gold prices",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNajFlVFVVNzNoeTg5cTNJM2ZuNjZoU3RBUVUwdnZOUXljd2tpM2dHbDhjbUU4V0JCZkZMWmlrNWlTeHJLM2g0aE01MGE1VkZndzdPb2J0R2Q3bjJtWkJvMG5DeWdLUmJwamw3ckpNeG9jb3RYSFFiLW5PanFLdlRUUXNvN3ptWDBjZ01aR1JMaFRwXzd5RE1jWnNqMDhTWU1SZmp5ekxrWQ?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-22T20:45:01+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Newmont beats third-quarter earnings expectations as higher gold sales boost profits; miner raises 2026 cost outlook",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDVlaVVka3h5bGZ0b1V1M29KQy0ydjd1bzA0ZU5CSTd6QVFIN2JJQlMxbXJ4SjVVRTRDdnVZS2xuMUNpMU1ZNi1oV05VQ1hZRzV2Nk9BeDlvdGQtMFVWTlZJeEVSZExGbHNIMDg1TmdiQUNuaDlCWnpJM2k3dWNSdmVHTGJCN1ZNYXJKNnFUVTUxSXRQR1hVdDdiOXpxYnh3OG9fUkllT3JuT3MtTkRYWFN4NkVYMGV0YW1N?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-22T20:35:01+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "US stocks today: Nasdaq slumps 2.5%, S&P 1% as revived AI doubts ignite tech selloff",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-slumps-2-5-sp-1-as-revived-ai-doubts-ignite-tech-selloff/articleshow/135127224.cms",
@@ -584,6 +634,16 @@
     "silver"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "The Crypto Market Has Quickly Wiped Out Its Gains",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUJPZkpub2x4TDcyWnMySVpHMlFfWkNpUmpqemgteTg0U0YzYkxGejQ0WVlTV2phek1KMDlfb2J4b3dBYmFWVV80M2V2T1lhN0ZWeTZvSGZiU1BDbmFGVTVVc3NiU1djYnJoRWZPVXNuc3JtWExrSHg5NzZNWi1heGQyQnMxOEpzb200Q0QtVjc3MG5rZEtMRl9lNUJSblRjVWc?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-10-22T14:47:49+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
@@ -2639,69 +2699,6 @@
    "t": "2026-10-21T21:14:00+00:00",
    "tags": [
     "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold (XAU/USD) Price Forecast: Consolidation Sets Stage for Decisive Breakout",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORy10M1BVdjNaU0M0QzE1ZDB5U0N6bjdCYW5mRlYwZ1I1RnhHc2twelNFSTZJQXBfU0dkUnFLVjNhLXRydXZJSjZid2ZmUWxpdkh4VUxtNm1pQmhmdER0ZnVVc0pEODUtbGNYcTlMQjZaS0dfLUtVc0YweUNuU0hfeGMtbHRJVy1VT210N1I2TWVkb09ieHlVVmhlUzZpYm10eFQwcmFLdHFBaGFNQ3FZUFI3T0d6cDVvbWpsMVB3VWdoOUE?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-21T21:05:00+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Euro Short-term Outlook: EUR/USD Rebound Faces Critical Test After Trend Break",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMjhfVWdjaXRvODZySTByZnZ0QTVaWWNQZlNmR1VaQ255SnpXMEFIVGJmdmJiRVpxYlhuTWhGejJXbGVZeUc2YnVaLXlHX0lVeGlmUk5qS0VuYWV2Y3hGZEhJTzdTVURuTXV4R0tpUll0VkZ3UnlZRUFjRHVudTNGSk1RZVRseVZVUmRJSkRBTHBIUmVPR3JaWnRHbjNvbmJCLWhaMlRtUHlSNTB6UUR5Q0JXOXlmTWF4U2ltQmo4UW5uLV82V3BOTVRxVVVSZUt1?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-21T20:47:01+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold forecast: XAU/USD continues to coil as support holds again",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkZVT3o3bE9qOWlHT3lFWUVWUlJKNzVsNWctaGFVWC1pQWxFSW5mYW1FQVFhbnYtOTEySC0zM2NNZ2RFMi1sanFPWk4wWkFuanVqaFZ4TjRZYVhoNXMzUFBRcUZhN2c2M2M2dzNjNDk5bzV4NFI2MTZSTGk1Wm1fMFliX0RPbWZYeFdYUjZQb3E5Tjd4X3M4d2NlS0dnczY4VGNuRUNueC1lNHp0UUE?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-21T20:47:00+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Swings as Traders Assess Fed Rate Path Amid Mideast Worries",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMlI2a2VxbExWc0RYc0F2MzlSeXpKWXJQbE5YRk1GcC1ndHNvbUxKQzB4dldTZW9INEFGRV9tYjI4X2dIYV9vQ0dUUzVrcWtnV2REdXh5U3ZKWFd5V0lvQ3ZPVWZvV1REYVQ1ZHp6cVNLc3BsTG5OLUg3Sk1GZV9VbVoxeGsyZHdvZ3RhWDhZY05PcXhwbU8yX2RVX2hkX3pwblNWdmNYQ1U2dFROeVprZUd5VXpzamvSAbwBQVVfeXFMUGt3eHBDcEJhRTc1TFh5dExDNnFaTmswYTJ4Ri11clhSSjRxQUVmN2hSU3R4VkpqY1dVMm42TWNIWVZtMmxfT0o0d3lMYkFqVTdaVTFsbkRKV2NpSUFZMGszVVRlRmp4bnhQOWJIVktfMndYV3BzUE0tWE14SF93bW9yTGt5cGdCaEstOEtOUDhhSktidUduTldPYkIyQW92TVpudi1XR2QtYWtmcUhjenl1MjlMcUY4UGZqRTI?oc=5",
-   "src": "Livemint",
-   "t": "2026-10-21T20:45:58+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "XAUUSD Holds Near One-Week Low as Oil Keeps December Fed Risk Alive",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcWY5MUZCLTc1d1g0TkVEUkhlNmE3ckFTaEQ0LWtBWEwyXzhWZHJoVDQzSnBKU3YxeV9ndmtERXd4MDRUYUFFd1dxLUk3a0hPS3RrblY3dXNTRUN6SDBwZkhYcHdKOXhFRmVuOFJkWDNrUFBFRElQNVlQVnFfTzJtRmxpYUZLc1I5cFQxSG5ZUjYwb0lGSVpDVEFGbVhiZm5jd1NCY2MtNGg2ZGNpQjREbWV6MHFjRlEwdXc?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-21T20:36:48+00:00",
-   "tags": [
-    "gold",
-    "oil",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "TAG: platinum bullion",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yaWpQSV8wMzZlV2k3WXpBWFpfd0tZbkh3NHI2RFBGVlVVMW40TkthVkdkczJoSk1SRmMwYWx2MWpGODBWcGJZNUR1Skg3RWdaQjdFMGRJQ0FvbEE?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-21T20:34:18+00:00",
-   "tags": [
-    "gold"
    ],
    "tone": "neutral"
   }
