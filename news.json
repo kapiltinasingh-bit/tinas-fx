@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-22T17:55:00.313457+00:00",
+ "updated": "2026-10-22T18:19:55.940160+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "CNBC",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Economic Times",
@@ -118,6 +118,26 @@
   }
  ],
  "items": [
+  {
+   "title": "Bond traders are backing off Fed rate hike bets — here's what it means for mortgage rates",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ0V6MC1Sekt2RU45WGJNTzQ1MDRObjdidVAtOEl0azB3NDZTeUtESUVMNkhVWHk4UU9jekxqSTQtY2FxSDlMV1hYdWdqWE1NbjEteEdjOXBVeFVqTHZNcTlEQnd0b3pkRXZKaVgyMEE5QzA3RVYyN010TGRoMDRlM3ZaOU1hd1liTzZFMkthRDBRZEpvZmc2Qy1maDkyeFVXS0l5aGw4eng1cmh0M1dIYTk2dFdycWlLQktMMmNaM1J0dFpGVXJQOEZfcTlnNnJEb21vY1hIN2hwbHVi?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-22T18:05:07+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Solana Is Faster and Cheaper Than Ethereum. So Why Is ETH Worth 5 Times More?",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdV96X01XenBLdkotNm04T0ZCZW5oZS1sSmVTR0x1MWI5dW5mN0swZWJJQmMwYzFIejlwWnoyUE5vYW5FeXJtSjdIUTFjVnZETC1UdWpMeHl0TnpYZFQ4a25iczNEM3BreUJVbk1nM2dORjA0V25KRHUtY0J6M1FTZFVDVEJTejRyRjI3QmVkcnRDQ1JkYk00bjJxSWRla0FkZ1JZRGJfVEhQdDNXMEozMjdUaXRqeWFEeGFwSUhPUEdpRWtkcVdZenRxSW1sUzQ?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-22T18:00:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives 2.5% As Meta Boosts AI Spending",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcm1tM0JzQ01DZEIzcDAycW9BWURRaVJ2TEplNW1ndFhvVmctcWZWRWtfcmEzbko5WFQ5bFA3bTctdzFHdUJ5N0FiMDVYOS1kZ0ZRQzh0T2tZMTUxUlRMOHNMMEsyRzVJa2Z1T3lUOVFEUWpsaS0yOVhRNlFJT1FNSWxKT3VSWV9XYUJnaV91cG1LaG1iTFljSGhuRHpGNGpPSXExenVzV3pxOWlhdDRIc3hGZktURDh2SHdqd3FlZENhalZOYlhYdFRB?oc=5",
@@ -459,6 +479,16 @@
    "tags": [
     "oil",
     "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Nasdaq Europe Personal Care, Dr (^NQEU4520N) charts, data and news",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YcThQOFYzUER2WkltSkhBaFBFY1VRbWlfdU1yZnNFLU44VXZKdS1yTkJkejdPaVlVdkxtYkZYczFKODJSSkZNY2MyQ0lDLXRiQS1qXzRKb2djcTQ2Zlh2aTI5Q0FlR0pZdGc?oc=5",
+   "src": "Yahoo Finance UK",
+   "t": "2026-10-22T13:30:03+00:00",
+   "tags": [
+    "nasdaq"
    ],
    "tone": "neutral"
   },
@@ -2675,39 +2705,6 @@
     "oil"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "BitMine Stock Jumps as Bitcoin Rises, Prediction Markets Launch",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaUlGZjc3cXJCRlJSQ241cHZaSXpnczZUTUVPNUJ1U09CRkJvZmVOR0lHVEZYUEFYYTdVOFhadHRvaFZyYlE5NjRhcFl3ZzZXbFhtNTluUV9pOHFlQkNBcHRWLXJTWFlSX09tTEVraXAya3poc0c5eEN0al9YR1NmRVdvU2lTVU1tbUM3TGhMZlhJajRiQnhXTEtBSE9BNnlENmN2bVhhR2NWbHJhQW9yUWwxa1h1TklOTGNBeFlEZEo?oc=5",
-   "src": "Benzinga",
-   "t": "2026-10-21T18:29:55+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound As Dollar Pulls Back",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjJLLWd5ZC1NanczdGpOak9Nd01XWUtKZDROem1OZ2pQbUtOZTRXanY1VkZJOVhCb2x6Z0F3TlI1TmFXdllaUFNaR1VxdTN5cmhPOFowUFZWaGRKdHl1ak1IUzNJWnp6TlB2cUFvNGRLUmZ4Z3hRRk9ncWNfSGt4cDRtRFlHQlhOZUdpVVFaa3B1OENXQWlmZkEtR3V3SFVNQUFKR0NlUE1FYXkxVElrYkpUWmpsQVpoU29BcldyX21ENnBGTl9MYTJLajdiOTh5SXc?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-21T18:20:17+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold rebounds above $4,130 as Oil retreats, Fed decision looms",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZHFLeFBhNE9fbmNIUjNnLXR5Tjl4N21IejdtNE40QlZQZGJNR2lkU2hqdHhXTUJ5MzFsUmlnTnhYVE5SYm04QnV1bHRTZU5wMGg5MUVSelBleGtBYk9nc1NxbzNKMGc1ZjhVQlZiS3RZQUV3dHRxdHY1YXVyTF9KYnZ3aUpSSUk3N1BoNUVsazJqdjFPRThVUlFmOU00VVVBNFJhZHp3?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-21T18:01:35+00:00",
-   "tags": [
-    "gold",
-    "oil",
-    "macro"
-   ],
-   "tone": "bullish"
   }
  ]
 }
