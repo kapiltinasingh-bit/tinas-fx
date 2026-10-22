@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-22T19:07:51.293147+00:00",
+ "updated": "2026-10-22T19:41:07.538717+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "CNBC",
@@ -102,22 +102,95 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 7
+   "new": 6
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 4
   }
  ],
  "items": [
+  {
+   "title": "Gold miners face margin pressure as lower prices complicate third-quarter results By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa1M2aW5TVXpiTk5SbzdhU2xUU09GLUxYN25lOFhyWVRqQXJFQ3lCd09XRnRaakJCLVhaQURxRmxHSE9qelpZeW4tNy14YlcyLWJ2N0dvc0lYTUpsaldENy12LTlVUTRiTHZFd0VfOEJWVE5xNHZqb2FVdXUyT0NNX3oyelNob0NKck1uS0l4ZGRIbEpKdkJkMGpxdDBlQWVJS1JobUxfc2ppdnpvNjQwRnVDNWtTd1JGQWg1S1pMal82dmVla2FnTGx3X2JsdXNtM1E?oc=5",
+   "src": "Investing.com South Africa",
+   "t": "2026-10-22T19:33:46+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Canadian dollar strengthens as oil prices, BoC rate hike bets support loonie",
+   "url": "https://www.investing.com/news/forex-news/canadian-dollar-strengthens-as-oil-prices-boc-rate-hike-bets-support-loonie-4967236",
+   "src": "Investing.com",
+   "t": "2026-10-22T19:30:10+00:00",
+   "tags": [
+    "oil",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "London Gas Oil churns at 61.8% Fib with ADX 11.8: Live levels",
+   "url": "https://www.investing.com/news/commodities-news/london-gas-oil-coils-in-14001450-range-breakout-watch-93CH-4956497",
+   "src": "Investing.com",
+   "t": "2026-10-22T19:17:58+00:00",
+   "tags": [
+    "oil",
+    "dfm"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Crude Oil WTI tests $100 resistance in low-ADX chop: Live levels",
+   "url": "https://www.investing.com/news/commodities-news/crude-oil-wti-clings-to-9650-support-amid-bearish-macd-live-93CH-4956493",
+   "src": "Investing.com",
+   "t": "2026-10-22T19:17:42+00:00",
+   "tags": [
+    "oil",
+    "dfm"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Brent Oil hits $113.31 high with exhaustion signals: Live levels",
+   "url": "https://www.investing.com/news/commodities-news/brent-oil-stuck-near-107-between-double-top-and-support-live-93CH-4956491",
+   "src": "Investing.com",
+   "t": "2026-10-22T19:17:40+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold oversold at $4,043 after breakdown below $4,130: Live levels",
+   "url": "https://www.investing.com/news/commodities-news/gold-stuck-below-4225-resistance-as-adx-signals-chop-live-levels-93CH-4956488",
+   "src": "Investing.com",
+   "t": "2026-10-22T19:17:38+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Sitka Gold expects 60,000-meter program to ‘dramatically increase’ RC Gold resource - Cor Coe",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY2d0VldvMTVGSjBpM25fWVUydjR6X3FfV1l0aHZ3SUUwY2RVSHBtUkNQTTZzOWRWU2F3OTBDbi1MV2pMZ1UxbG9TMUlqWk5FWDhrd2kzbWNWOVRBbFdmVzRHbVRIaG1PTnNCZXBTaXRuamdaY1M0NlFibWlTSTdsNWliRkNHdUU1NUdoQmc0a21TcXoxdFFhRTFtNUtmYlkxdFE3Wl9fT1pHLVpQSGEyd2JMVldzSDYweXZR?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-22T18:57:41+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "‘Very bizarre action’ as gold retraces entire summer rally to test $4,000/oz: AI weakness, or yen intervention? – Jesse Columbo",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcWNod2hTSlpYME52dC1jbWpuR2R0ZVZqQUNaTWNZWGZ6NUphQVlidlAwaEhhRnBGeWp1Wm0yRXR4bHZfc2x5MHNqbS14Zzk0cl95LUIwNjlhaU05YWVJR0g2NWZKQjFxalFMU0tKRmN5SHMyZjdMcVNhNXI1a3BWWURWUGUxOGUzVG1Jb09zZ0Y5WUdxc3dKU3NjeFdNQUowbEQ5UThPU0VueWcxZ0ExQUg3MXk?oc=5",
@@ -197,6 +270,16 @@
    "t": "2026-10-22T18:00:00+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "iShares Silver Trust description={PAGE_DESCRIPTION}",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4waHRrMmFmNFItTm9qaXdrMnF5TGhrYmItUHo0UE1BdzZVeTFUT1psVlBHNzZRY1ZUM2VZRjlablZiZXRYckUybjJaOXNoc096VWFzVEV1YThibVNldHhkMw?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-22T17:27:33+00:00",
+   "tags": [
+    "silver"
    ],
    "tone": "neutral"
   },
@@ -313,6 +396,16 @@
    "t": "2026-10-22T16:09:48+00:00",
    "tags": [
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Nasdaq CEO flags 'modest softening' in IPO market as macro uncertainty hits debuts",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa2tNRmp3a3M1dmlVenEyZWI1YUNVcTZXQlJTeDNrdGpsTXhFQ1NDQURlUDZOZUpvNWtjMGtBb1IyYmNnUVY3MlE1U3o4a01XWDM3WWZnVGltTTBGN2k3akZHb1hTVW52RlhFdEZOclBTSlVOQlp0aGxZdU5PeWR3THRZa2Z1M0R6VVVxT3ZDdWtlc2FfajRUMWRxNWlRb2tMUjRRdkttYlZTSGpja1V3SnRndlEyRVJUZ3QtRVlSRWFMX2I3YXIwa3R3?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-22T16:02:09+00:00",
+   "tags": [
+    "nasdaq"
    ],
    "tone": "neutral"
   },
@@ -2614,99 +2707,6 @@
     "nasdaq"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Gold edges higher as yields retreat, Fed decision in focus",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ2JoR2RWb1Q5VDIxZVAwUkFvRTI3Q0ptU3lnbFBCeXJTUWttZ0x2NU16MnZZUEN5WUR5UzdzOTN2c05WaXJGeEFwT0Riejc0QnZZOUtFRkFsa3BxUVo4cjQ5NmNKMnFlcmpadVIxREE5WHNhNkhaOGdZSWFaUWFqTGhwSUQwbmUzYjFLdzZHS2M2V082dFRYM2hIWTUtTEZtbURvaA?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-21T20:05:11+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Silver Price Forecast: Failed rebound leaves $57 exposed",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGRoUnBjYWt1eXVqNXd4TnpHb1prdVFxbWUzVE9hdG5QLVRKdmQ1eGNFVnBnV0Z4NkptN3ZVaE9icnBha09JbWd5ME92dTFYdUdOSlVkb1ZQMDhFV09pN3lIOWd5aUhOcjRPMjZMVno0ODZQQzB2RDhSaTdfTHVmZWdpUWxTNkFaTUplbXRSb2VMbVd4MlBWMkVrOXlidw?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-21T20:05:00+00:00",
-   "tags": [
-    "silver"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Dow Jones Industrial Average climbs with the AI trade, led by a bank",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNclJGRExETDlVVU1KNHBITzR5NVhicmswd1k4dnBGU3VoREhSZmkwUzV4OHJBWGJEWEY5S3RycUFWbndWMnFjM1JORkxDbk95S3JrUFJ6UDNHR1lEMV9HLTdvTXFleGl1Wm5nOEVjQ3dSRl9CaEtvRjA1ejA3cTh0VnZjVjVvVWtXMkRpSHNTU0J4S1B3eC1NOUtBREVYdEdTU0JOTjhjcjhlVGJvSktCdUw3Yi0?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-21T20:04:38+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "RBI flags widening inflation risks, puts rate cuts on ice",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-flags-widening-inflation-risks-puts-rate-cuts-on-ice/articleshow/135103555.cms",
-   "src": "Economic Times",
-   "t": "2026-10-21T19:52:04+00:00",
-   "tags": [
-    "nifty",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "EUR/USD rebounds from 1 (100%) support Arc. Potential advance toward 1.1258",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ2liMjBkR291dURVUDRnYVRFcGx6WHlkRnZDUVhjN01rQy1xN0lPMFM5TzZsUk5TcUFSM1FTdWpud2FjcmhfRWFWcmEwYkFlaTU1ejRRYXJfUFNtaVoxNTJaM2lGWjRxUjZuSDNxcUYyaWM0dFo0QmVORHJETFk0ZlVkZnFTSDVWUS16QUFlTXhNTkdVNjZzNUJWOFg2TWpfSlBuMU54a0F5ZGN5dks5NVpzUTE0UzNa?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-21T19:50:58+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Apple's iPhone Duo in short supply — plus, the 2 stocks fueling an AI rebound",
-   "url": "https://www.cnbc.com/investingclub/2026/10/21/apples-iphone-duo-in-short-supply-plus-2-stocks-fueling-an-ai-rebound.html",
-   "src": "CNBC",
-   "t": "2026-10-21T19:47:38+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Precious Metals Prices Canada | Gold, Silver, Platinum, Palladium, Rhodium in CAD",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-21T19:37:46+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Prediction: What Will 0.1 Bitcoin Be Worth by 2030?",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjNta2FkbDFqSjNXVVNlc0YxZmlDVUtzQmpoa0U4aGd3MnRPT0tuOFpnWlVyTHRYamZlZWZyNUFoeVdmdVpPTW1NY295bm1MbS1CVlk0QjJpMm10OE1LUUZubUFzZ0Y0MnZtX2xSMmx2cTZvQ19LS2dZTXk4em82TmxqTnpPMEt1Ulhla1ViT3J6ZURUeW9vNWZqMWQwTk1YTFphMGk2Ym8tendP?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-21T19:30:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Oil slightly up as traders parse possible Russia-Ukraine progress, supply fears",
-   "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-on-meast-tensions-us-inventory-draw-4961436",
-   "src": "Investing.com",
-   "t": "2026-10-21T19:27:38+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
   }
  ]
 }
