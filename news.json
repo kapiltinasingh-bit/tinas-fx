@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-22T17:20:09.970806+00:00",
+ "updated": "2026-10-22T17:55:00.313457+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -78,13 +78,13 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
@@ -118,6 +118,27 @@
   }
  ],
  "items": [
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives 2.5% As Meta Boosts AI Spending",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcm1tM0JzQ01DZEIzcDAycW9BWURRaVJ2TEplNW1ndFhvVmctcWZWRWtfcmEzbko5WFQ5bFA3bTctdzFHdUJ5N0FiMDVYOS1kZ0ZRQzh0T2tZMTUxUlRMOHNMMEsyRzVJa2Z1T3lUOVFEUWpsaS0yOVhRNlFJT1FNSWxKT3VSWV9XYUJnaV91cG1LaG1iTFljSGhuRHpGNGpPSXExenVzV3pxOWlhdDRIc3hGZktURDh2SHdqd3FlZENhalZOYlhYdFRB?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-10-22T17:25:33+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
+   "url": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-22T17:21:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "You Bought Bitcoin at Its $126,000 Record High. How Long Until You Break Even?",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYzNPM0ZTYjVjb2FBU1VsbV91VlhWQ0lhZzYtRzhXZUpHM3g2b3J5YjhEMS1CMnhwVkg1bnBzQVo0SWN1aXgzZzhnaElfazlHOFNENVRkZkREcVFRQktIUjJSbHBpNnY0LWZieG1rbmxFTGprdnFocUVjdmN3VDBSUVVLMThmemJXdmVMdTVJaTR4bE8yYS11eUx0czRuZGFtU0xRWl9fbnEzakxpMDk5blVZX3NpNjUxbTFQbVotdl9CMklVTFhyV0VrbkJEUQ?oc=5",
@@ -194,6 +215,16 @@
    "tone": "neutral"
   },
   {
+   "title": "i-80 Gold: An Executable Nevada Plan Trading At A Fraction Of Its Worth (NYSE:IAUX)",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS2pueUtMMkIxQzFRMnY5YlpHQzQ1LWk2dzMyeGpjWE9FZ0FyaFVINzhHZ1kyeXhfa0NjWUtJZmdyTVVHRU1OUUU0eDVybklPMXVJWm1PWDc1S045Y1hvek9KSXlpOEFZZDJLcTZKRHNHVllhUm5QMG4yd0Q5a0tLT3JoLVIxWDZBT092U1ppOTdmNWY2WGtxNlcwRVY2d2owVmJGX2F6dFJjbmF1M2VyNg?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-22T16:18:41+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
    "url": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
    "src": "CNBC",
@@ -202,6 +233,17 @@
     "macro"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "S&P 500 Drops 1.2% at Midday as Nasdaq Leads the Selloff",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQlRUU3pZdjJmcXhwWWp1YWE1TEtBQVJvOUdmRHUyWWgxX1VrdzY4NDhFODRlRjQ5aWFta0pnX0U1WnBTRExZLXFBY2xvSzJTR3p2M2dxNW9Va2JUVlgyMXJ3eWljZnNJLWxEZVBiQ3dRYUozZVhZV1VZT2JsSXk3Znd2NThKZ2FBSEp4ODJSM012NUtmck51VlBtV1hyOUhOMG5iaGVoUi0zeDFORzk3ajIzZ3Z0QTRUVHl6eHdxaGQ4cmxRTTJ5em0ySQ?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-22T16:00:00+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Robinhood’s Crypto Revenue Fell 38% Last Quarter. Can It Bounce Back in Q3?",
@@ -2409,6 +2451,17 @@
    "tone": "bullish"
   },
   {
+   "title": "Nasdaq leads Wall Street to higher close as SpaceX, Super Micro boost AI sentiment",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd2RiaWRWZDRVeUtwU0VNLVpjNjRJS1U2OTR2NXM0WHBzeXAxOU1PaUdFZzhxVERWUEVxNGhoWXBjdXZwRW9LclNONmQ3d0RIOUhSZzR1aXFaQUpKYkw3QkRlVVY0eDUzNnY2YnpPV0VPSWRUdnJPRXZ4aGNSQ1ZUX1V1eWtxbFljUFYwV3BaeWNJOUdnTG5BQjg1emUzMWNiSnFOYjNrODY5MkU5M0t5Q2xlY29aVEk?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-21T20:20:19+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "US stocks today: Nasdaq leads Wall Street higher as SpaceX, Super Micro lift AI sentiment",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-street-higher-as-spacex-super-micro-lift-ai-sentiment/articleshow/135100483.cms",
    "src": "Economic Times",
@@ -2653,57 +2706,6 @@
     "gold",
     "oil",
     "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-slip-as-ai-concern-boost-safe-haven-demand-ahead-of-20-year-auction/articleshow/135097932.cms",
-   "src": "Economic Times",
-   "t": "2026-10-21T17:49:52+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Sharply negative correlation between oil and the stock market, says Schwab’s Kevin Gordon",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTFRNTTJtQ1d0SWdwNU5VU1ZxMkc4RVBzZDd4Z29ybTFKaXI5bVJEZk5MWE1QaWZTQnlweHRUSHRVc28zNDFfMGNpam90ZTRtbFpiNnlEX1FHcjFWVEhGMlhTUUl4V3lWMjdIbmFHQk1IRldWdVJCeGV0VGg2OGlpWV9iTi10dkpGUzJvYTU3ME1ZT1I5azJSaUtKV05QODhSdTVkNnRoTE5RNGZVM3hySnlTLV96TTRQQWJVUmtmLVc0RUNyMWRHS3BYRQ?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-21T17:49:43+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Update: US Equity Indexes Advance as SpaceX's Blockbuster Results Boost Risk Sentiment, Crude Oil Retreats",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcktyWE5YZWRURmVaOFM1VzhhdzFIWk5DYnk2Slp0dmNCMnRuVTBncFZQQXk1dFJqV3hoODRDbVE0WjRMQkNZLUpaX1I4MWQ2TGZMMWd1elMwbFV0RXJvTllLVXlndWJfUThheEJHN3JnbXdlbm9IaHhqazJIamNFVWY3SWM2dDVYSFpweXZHUmhCRlczZlI5NjdCQllOZw?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-21T17:47:39+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "What the midterm elections mean for Treasury yields, the Dollar and Gold",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcktGaHVLaGpWN1ppMFo2czN1UGc2LUJWZWpVR2xOVnNpTk5kcVhDNUlRd08wbldrclZBSnZMM201RVI0VS1oQnhpTE1XZVBJV21TUERJTURuNFoyRXh3MG8yTFJfZ2dfQzBDUllIVk55SXNCeHAtYU9oTXI4SHlCRldyenNTTWQzS3IxSDZZOWRsajY5ZElicFowQ3Y3bmVuN0ZJbXl4dzZBdW9ZeFdMOVBob1dOMnhnUEE?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-21T17:34:43+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3aFB5bTU2NkNHUHdQdWtnNW80dnZXa1hKOEw0Ukhic2VfVW9pa2o1ckp1Xzg5R3l2RUlGM1FNeGxrdWR5SmlnNkpGS3lBN3Jmd1NJaVA1djdLRjVmWFZYTEtjaXJQNXI2c0QwanpKWG4tU2piTXc?oc=5",
-   "src": "Decrypt",
-   "t": "2026-10-21T17:31:03+00:00",
-   "tags": [
-    "btc"
    ],
    "tone": "bullish"
   }
