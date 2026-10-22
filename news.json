@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-22T21:12:04.255511+00:00",
+ "updated": "2026-10-22T21:41:37.877430+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "CNBC",
@@ -114,10 +114,51 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Trump invokes Cold War-era Defense Production Act for oil production, refining",
+   "url": "https://www.investing.com/news/commodities-news/trump-invokes-cold-war-era-defense-production-act-for-oil-production-refining-4967625",
+   "src": "Investing.com",
+   "t": "2026-10-22T21:36:56+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Treasury yields see extreme plunge. Why investors are ducking for cover.",
+   "url": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-22T21:32:00+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Fifteen-Minute Prediction Market Bets Scratch the Bitcoin Itch",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUS16bUtiXzBpVWNGX0VqNkxlXzd2WWwzbkdVZ0ZnN3BmT0dGNnpkR2h0QlJMQXBjRFhUcFE3NnBPVmtoaGppazlQeVBKUEIyU09jd0Q0T1NiV1A1Wnd3OGw4NUJXUk9NWm9QbXA1b3VnSGQ3RHhfRU1QQV9qRE44dFh0NjZHczUxbWxEUFo2ZnJGcm43Nll6ZDUtTWx6a3ZPcWptNHE5MUZoTkxpeFV4dzhaMVFKbHc?oc=5",
+   "src": "Bloomberg.com",
+   "t": "2026-10-22T21:00:01+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold Miner Newmont Stock Rises on Expected Return to Growth in 2027",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMm1CdVhhSTNOeWFLR3J2UDVYdTBFeUstU25FOWNMVzlnalZPb3FiS2dTTVhYaC1ERUw2amVXZXpqUnJaRUlpTTlXS05rU19RenBBZnJGbjhKVW13anBHNUp3dllHZTkxUk9vWDFmQmdkUXoxZkpRcFIwdVd3R20xRg?oc=5",
+   "src": "Barron's",
+   "t": "2026-10-22T20:54:00+00:00",
+   "tags": [
+    "gold",
+    "spx"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "War in Iran, higher energy prices are only delaying gold's rally to $5,000; mining stocks remain undervalued – Gabelli",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNXy1KLUdfVklTU19ybkZVc3VVVy1JakVKZHB1SlNKR2NJNEg0cVpSR3VnTVZhSFZzaWNPbWR1Y0c3MVJZSGRSdTVwMGk2X1FBRTFRZjdReEpWbk1aSTJicnhlaFlQcG1TM3JNcnpQdDZQanRiTGd3cG9kUXVsZ0c3VnZ6Ujd3M1JFbW5nT0VYdktQaWdwNHIzdnZPMEFuUDVhTnRJbGt1WVEyQzk5SWRCM2QxelNYSmk2?oc=5",
@@ -173,6 +214,16 @@
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-slumps-2-5-sp-1-as-revived-ai-doubts-ignite-tech-selloff/articleshow/135127224.cms",
    "src": "Economic Times",
    "t": "2026-10-22T20:15:19+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Nasdaq, S&P decline as AI spending worries weaken investor sentiment, U.S. stocks suffer",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0lpSjNIOWdxY1UwUHZBNXNpZnBRRzFnMXdIYWlUOTNaZ2RKcHotbjRTT1JlTTliVDlfazVxVmRYbnN3YkRYTmFCaWpiWFY0SzlZNHliQmtPeks5aUpFcmNXYnpBVWNIWXk5VmRYNXloQU0zSWN2VUM1ZlN6ZDd4YVlnMzh6VzlWaUtKeU51Q1RsSDdXTU52dlpQR1FIQmRRWjJ0cE1vMzU0NUNPNXI5akRmMFIwODAweXdrbTBB?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-22T20:07:15+00:00",
    "tags": [
     "nasdaq"
    ],
@@ -2647,58 +2698,6 @@
    "t": "2026-10-21T21:52:11+00:00",
    "tags": [
     "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Russian gold reserves fall to lowest since 2019 after drawdown for 10 straight months (GLD:NYSEARCA)",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN3RvMURzV3VwdXBhYkFQa2ZOZWJicC15ZDlka2U2TmkzTVZDSXBVQ19VRzd4eEVvRFJYSU9hMHd0YjI5RDVETlU4VWNxMXd2UFZMLUU5QjF3ZFEtTUJ6Vm9IR2h0TmlBb3FKNFRKczhYYVFTb1hoQU5KbHdVSlc1ZjhvakpYSFE5QjJfaGZ4QXdYaWI4QmxhZHRXOHFUZU1oV2JTcVpXZDQ0WC1GUjZGT18zMTFtZFJJN21iTURmYVY?oc=5",
-   "src": "Seeking Alpha",
-   "t": "2026-10-21T21:50:44+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Gold gains as Treasury yields stabilize, Nasdaq surges despite Fed tightening concerns - Kitco PM Report",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUGxuTFo5VGp0TGhZcEozV0RBZ2JmQ0lGX2czWkhhdjViVEc1eENPWmR2RlpFVzdFRGUycWxBSklHZkxXRHN6bnZocDZuMDdTNGRnN2lQLWY3MEtVbktuNllWODNyMzNkWHlMV18xcjIyQ0RadHpaRzZNcldTbjU1T29FbURsSV9FVmc1VEZ5TzhlZXo1VjNRODMtVkdLR3E2UWhESEpRTVB6N0pGZHdLZGJNWUZzemlDUEM0?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-21T21:48:25+00:00",
-   "tags": [
-    "gold",
-    "nasdaq",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Abu Dhabi highlights major project pipeline in pitch to global family offices",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0c5M2xJT1Bza0NGY3BNUXhRZy1EY3hoeUJYMFBvTVZuODN5RGx1VGFFODJ4ZzFUeHFOYmR3RFRLQVQ2dGdEODh1NXBoeldfekotRXhuV1FwanRqb0ZzUk5KSndPblJ6eFh6WkVibDNhXzJjbUQyM3NUdmlwMGV4MU02bjZsOUQyb1hQZHBZUVhMZDIwQWJyX0s5elRBckVnTW5MQUx5QWR5TGVjY2lFMk5jeWNzamhtOGlmbQ?oc=5",
-   "src": "Gulf Business",
-   "t": "2026-10-21T21:46:11+00:00",
-   "tags": [
-    "dfm"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin, Ethereum, XRP, Dogecoin Rebound: Can BTC Break $84,000 Resistance?",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMFNRNHhBaW9wQW5ZckJ4MUNoNjBtQ2NZb1c3UnVfR3FSaFlXTGpnOU9SQkQ0WElLd0poYkNaT1UySzJqSnFVY1RtRHhkcmV1ZEJRczZhUE5PaTFBVmd0SW5IU0g1VUNPLVNlT1k0bi1kN3h0V0JkZlpqSzhQNGFuaHZFcGdhcXZFenJ1eEdtQkxZU0l5TGh0NGhSVWg0X2tWa2pQYlNYOUNJSC1uY0haNUdYRUZqZVlWUnNfR25pUXlqTmVldml2UXpn?oc=5",
-   "src": "Benzinga",
-   "t": "2026-10-21T21:29:08+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
-   "url": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-10-21T21:14:00+00:00",
-   "tags": [
-    "oil"
    ],
    "tone": "neutral"
   }
