@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T10:59:10.631815+00:00",
+ "updated": "2026-10-22T11:28:57.053254+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,13 +12,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -36,19 +36,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 6
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 6
+   "new": 4
   },
   {
    "feed": "Investing.com",
@@ -119,6 +119,59 @@
  ],
  "items": [
   {
+   "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX3dfcHo5NGd5ODB4WjZlUHEzLTBJM1pEOFJadnNxQUlraldmU20xWVlRSXUwVzRoZ0xRU1BrWmYxTlJZLWJfclZJZ0NYdzliZTYySUVfVURQdHVWbmQyclFiRGN6QkVnd283YUtzMW1aSWZMNGs2REZFeXo1ZlBiQ2puOXp5Q3pydVc3SkdYVXV5YjZTMUFSWnRzdDdiSnlJZ3BndURGM3ZGMWdkcmNpanBnN0E2SFJIVnk4UENmY1hudw?oc=5",
+   "src": "CoinDesk",
+   "t": "2026-10-22T11:20:04+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Market Commentary | Nifty - Sensex Today | Aditya Agarwal On What Investors Should Do Now",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaWM1NWRuaEVWTDFDQ0JIYUx2SnJKSzkwNEl6SWJaZFJiTUlDZkFBVWRudi1yLTlGQldlbFh1QmxMRXA0X05vMHd3VVNkbU1vV2FHdHY5UzJyWWIteGxNUDRkOXRDemhQMVRoMTVadV9oUi1NcG1jWFdVd2J4dldIQWw3a2JRRk5DeUR1Sm5FcmFiNTk5SDlGM19YdEt6U19BV0dJZC1YbkwtSVN6LVRNNGcyMVpIcXFER24tNnpNWDRzNURIWnF1UDVjMC1hUU5ObmRnVHl4cnJpRmdHUnl3QUdhUnc3VDFzd2hF0gHwAUFVX3lxTE1IZWhuQVFCeUlIa2swbUdJZUkzMFNnSVRJdzRzVkZnSTB0OEJfSGZ0SWhWTVpsb3VBemYxUWFXMlJKeUt0eWhhbGEzZTlPcFF5SGZmdjBWcEstSjEyeS12QVNTM215VUZfVjlBVmw3eFBTOFZBdi1kcWVSYng0Uk1ZVGh5d0FmM09lRXctTVhmd09vQ2Vpb3ZGMjFvd01DOFpjWXlCNC16V01xWEdUVVRMREQtcXhBRldJRG9GU2VDMkNfbmNyYklreExrRnM5UlNGcDJka3NRVkVnbHdfakMtTU9Hd2d3S2ZzaFJuaWdnOQ?oc=5",
+   "src": "Business Today",
+   "t": "2026-10-22T11:09:52+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold slides as Middle East tensions fuel oil price jump, inflation fears",
+   "url": "https://www.investing.com/news/commodities-news/gold-falls-near-4115-as-saudi-attacks-fuel-inflation-fed-outlook-in-focus-4964496",
+   "src": "Investing.com",
+   "t": "2026-10-22T11:06:41+00:00",
+   "tags": [
+    "gold",
+    "oil",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold slips below $4,100 as Middle East energy shock reinforces hawkish Fed outlook",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUTZWNzctNWgwbFUyT2V3dWljbGRTT1ZxOEQ2NVVraFg2TEF0aExxRGtmR0hneHc1VThHaHJlcWlvNkJnVTNlR1Z4Z29zcmFscHZrX1NKMzkwNTA2ZC1JclJvTTQ0T2Q5RTN0MUJPejVYc3ppU2M0aE82Wm5EcVkzenU2NzU3S19ORGFjUG53bXVRcFJQZFFDa1phZEpLREtHTlpnVi1SaDlkVEl4VFJLRG0zT1hQMG9odFRwLTNvOGFJdw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-22T11:04:42+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Why are Bitcoin, Ethereum and XRP falling despite ETF inflows?",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFVTaFVKOVBfejZXdWNrUmlVdHNPZGRMRjNZekVCZkVUZm13NEt3bWF4bjJ4aU0zdU5rbU10dDRyR3E0UUh0M3ZNcUtFRUo4QjhSVkVPdUJrTXJCa1FrakFadUZvTWpyYzRRcEZ0MTFPVnRCSTR0cF9rWDFKZ1laUjRGa3hfUmRZX09BWjRoX3diYi1LX19OYlhkOFZDblJ4UTM5SFM4cnF2R1hUVVhtNHJWZnp2a1hXemRJWTNQdw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-22T10:54:53+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
    "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
    "src": "CoinDesk",
@@ -127,6 +180,16 @@
     "btc"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "DeFi tokens lead crypto lower as bitcoin (BTC) price gives up Wednesday’s surge",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSnRoM2Q1NklDRDh6eE5ydHVzV2FNbDlsbzRQeWRMM2RvT2h1U2pYUkNoN0dxRzJYZi1TeF9yd0JWaC1GbkRER1M5OERucFpwY05PbmRnei1uazJFZGpSYzk3WHFSeE80aFFOZS16RGctSTlYNDY4QndEbHlkTlJPaklwQ3F2TnJlcUJBb3FibDljblBYY09GNFFiNl93LURvZHhlRFNsd25kS0NGaVIyZ216Mi1od1JoeHduUzlyTGFiSC13clB3?oc=5",
+   "src": "CoinDesk",
+   "t": "2026-10-22T10:50:04+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Morning Bid: Rattled by oil, tech and France",
@@ -839,6 +902,18 @@
    "t": "2026-10-22T04:04:38+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Gold hits over two-week low as oil rally fuels inflation worries",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWF1N1NOek9pQi1IYkRUMll1bHRXOFluVmtuYm9LR1dtMThlWlZDYXB5RlVwYko2MVFRS01SSnIwRGhMRnFULTZvdURKV0MxOHk1clF4NW1wTkJUOWkyMng4b2J5QjI4X2tLRkVMSGxDcTIxV0xXTThnZkxvQjVUajZBMmY4RURVTzQtcFN1T2gybVJWRkMwX0RCdkxGTVpLbUdlT0paVU80cWc0VS0xenk0QnZRYS1B?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-22T04:03:00+00:00",
+   "tags": [
+    "gold",
+    "oil",
+    "macro"
    ],
    "tone": "bullish"
   },
@@ -2628,76 +2703,6 @@
     "macro"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Jio Platforms' IPO-linked inflows boost rupee; elevated oil prices spur caution",
-   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/jio-platforms-ipo-linked-inflows-boost-rupee-elevated-oil-prices-spur-caution/articleshow/135089592.cms",
-   "src": "Economic Times",
-   "t": "2026-10-21T10:37:48+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin advances as SpaceX, Tesla explore a merger holding 30,000 BTC: Crypto Markets Today",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTVFlN1FDYWE2WkhLODZ4bG41bUlkZXctNy1qdWFYeG5HY3ItVHlQRmp0QU84OXlYTTAtZHM4WURtRTNjTVd4aVJvV0tHOUwxV3NDTlozUXMzcFVJb3VDWkRNeFBzdlN6VF9nM2F4TGdvUmtKWExycXU1NWpJenlHMW9YRzhRekVUajNuLXl1dXh6cjQ3RUdMRDZFZTN4Q0paQVRYUUsxanQ2a3JwRmJ5MnBVb1VDWnRHT0ZhSW10ZG9wUFE?oc=5",
-   "src": "CoinDesk",
-   "t": "2026-10-21T10:34:37+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
-   "url": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
-   "src": "CoinDesk",
-   "t": "2026-10-21T10:34:37+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Live updates: Bitcoin clings to $82,500 as SpaceX results lift stock futures",
-   "url": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
-   "src": "CoinDesk",
-   "t": "2026-10-21T10:30:40+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Taking Stock: Nifty ends above 22,800 on late buying; Sensex sheds 143 points",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU0hZdUZmMDIwSVFDU25PYkwzdDlOcFdqUTVqWGp4bGdmcFVzRVZ0Ry1McEhUX3d6M3BhbDVmTzROcWR2VVBUWGUzMng5RVM1ak9VLWlQNjM0V3lyeWtvUnJ5WE56S0c4U3VDdUZMdGFxWFlBYXB2MWJnbEZxSUpKS1NudWFqSXBSa09kYWNrRUViN2FrNnlqUUhTRXBUdDQ4Tk40dUxtaHJhNVctdnZJcUhVbGVBc3pSRkZVdm5TcjNVVWFTbURHWml0RkpuTjBzb0cyZ1hKb9IB3AFBVV95cUxQMHo4RUNmemIxMmFub0o1NVV3a1MydVdXX2d5QVdhRk12Yl8wQU5Ic2tPbU56a0M2R3hGbnJ3Qm8tVE1VbHdkQkFsYnBNQjJpcEdrZTh2UkFjNmhWc2Z5QnltTUdNY2ppRlZTenQ2VWtnRUdQelV2NDdOdFR6RGlVQUhMNFdsTlRXTTdqbzZMRE0yb2NMV0ZiSHViRkd0Q3BKUG12WDRCWGxwWmF0ZXo3S0hOZmFIaFRBa3hiczJlckVLX0dGejhSdlFOMmhpNWQ3cXFJbnlaZmM4X01D?oc=5",
-   "src": "Moneycontrol.com",
-   "t": "2026-10-21T10:29:27+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Are Bitcoin, Ethereum and XRP sell-offs finally over?",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRDZJNEpJSVJaTU03Mk5PZVFUcXgwT2FOVUNiWlBxSzZpeFNiS0lFZG01V3k2YThGYTBQZmVZYWwzcjJ2SVBVZ21Bb0ttbkFkSEVHdUNSMGJOcXNhVmpWZDBhUFFBcmppYkg0M0RxTGNhWE5oelJPTnZLSUZYYUM2S05tMEhzYXlRdmNqMW9na1daUUUySlZPb2kyRWFHNEtILVhEWG5VTURRd1NZcHE4dE9SN192Q2lLXzd3b2JDYTNBV3M?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-21T10:24:12+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Dollar holds steady as Middle East tensions simmer, oil rises",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMlZ1ZGQ0WjlaekZWYjNjZXdYOHBzMmhqQWFCQlpNWjJZRXE3Z2lUMUJBeEdTS3p2X0MzRlFDMUcyVHB3RXRlUEtxNjJqQlh4LUxvdDI5Y1hDdW1kbHUtdHp1LWpnanB1SjBuMWFkVzNGTkIyU3J5b0I0QUtadWpyQzlkYUdPM3RuTkpsazllYzJ3X2I2LXl0SGtEV2E0U2tpZDBNaE91cDhsNFhv?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-21T10:18:00+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
   }
  ]
 }
