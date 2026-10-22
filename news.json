@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-21T23:38:33.476663+00:00",
+ "updated": "2026-10-22T00:02:59.192728+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "CNBC",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Economic Times",
@@ -114,7 +114,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
@@ -265,6 +265,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Bitcoin is bullish!",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ycEN5Rzc2bmtRczAzUGVrWGNxMjhqQ0pPRnYwc1hKUG1Rd0hLMGJzQWFwcFJTRm5yYnNOa3hwOEU0MDVlWC1GQWtIUm04NllRanZjMlVuRGpDanNMcVoxa2ljYUdaa2M?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-21T20:31:26+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "The New Zealand Dollar takes its winning streak into the inflation report",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMllGXy1jUl9kSzBSbGhmYkJ6bVFGazZSUXBBYWFaU2M0Zng2YmdkSWlfTXM1b0RHNjVRUjZuckc3M29VaVB5Y0NMbjhtOHZlMlNjdDAtVlZfd0VWLTNNaTZHcTlJU1FsS1BQQlp1RHVwMVVaNkczRXdPZkJ1bDdnNEp4WHBYV3BmbmlqaVRNLWE4SnlVVzNZb2RFWTUtbUh6aGRwVXVPQkVXWURmYmh2MVR2MGdHRmM?oc=5",
    "src": "FXStreet",
@@ -405,6 +415,16 @@
    "t": "2026-10-21T19:17:51+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yOVM0ZTRBWjRWRW9KcFF1czB4bV9VbHNOYnZqSTRlXzk2SHBHTEo5RnIzR0xkNklES1Z6ZnZZSTRhM2tjZEFnQ3VEd1BCUDFPcFRBSlhB?oc=5",
+   "src": "Yahoo Finance Singapore",
+   "t": "2026-10-21T19:15:46+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -2013,6 +2033,16 @@
    "tone": "bullish"
   },
   {
+   "title": "Dubai 24k gold stays under Dh500: Is it time to buy?",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGlNcW9GVzJRa0JtXzdUdlQ3TTUtTlJTOFFYbzRoVjlqa29hSGtGYU5vMjRTdFNxcGdKOVVnQ1dqc2FQYVUtYXdCdkFjSTFqVVF0cmdDQ1BwNnVyTmNpVHUyUlkwR2dqV3ZFS0tPN2N1TVUybzVkMWZ2SVRwajVUb19nS0tQQ3FzOXlZWTVoSnJ2ZFBGMnRJSXAyVGpvMlZyeVNDb1FR?oc=5",
+   "src": "Gulf News",
+   "t": "2026-10-21T05:47:33+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Current price of oil as of October 21, 2026",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aZlZ5LWJWVTdsTTd5R1FFM0p4OEpDdXBTNmZWcjhpRkxoQWRFdDdNcDR1TlRDLU4tc25MXzRsWWdzdENrSmRrcVFmOG5uVWVrQ3pjNnVTUC1NdkVuVGY5dHZn?oc=5",
    "src": "Fortune",
@@ -2661,36 +2691,6 @@
     "gold"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Euro weakens below 1.1250 as French protests and fiscal risks weigh",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3FDX0JidU9xMzFfVTEwYkdUMllFTG5oTEQ2SktUS3RmbzZiZkpsZ2FxVnFlR2k5SFJqbmxTS25RcDBqam95UHllYm4tUVNlVG1aTXVBY1FQZlNtMkdtc01FcU1waGJXMjVldHBSeEVxdWNVRGFobGZrX0VWaTZKSjNLOExaTVpJMDNxVTdaSm5MZVlZanQ3QndKNDU5amgwU2lqRUtPRWVQckVaMHc?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-21T01:00:08+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Oil rises on Middle East supply fears, US inventory drawdowns",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNTdIRmp3MTB3c3JZNGxXMUl1Wk5haXFwcjdJNXgtQnJkOEM4aWVVWG5tai03TmhHSWZidkliV1VlRkRvOVJCX3Q3QXhCWVdZeXlYQmViOUdOaU85anVWMXpSWFNCOHAtVU5id3Fad1BhX1BzVEt6S1A4N2s1YjJocFh6QXFTVXhHdDJJVzZBX21WUQ?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-21T00:50:00+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Oil prices rise on M.East tensions, U.S. inventory draw",
-   "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-on-meast-tensions-us-inventory-draw-4961436",
-   "src": "Investing.com",
-   "t": "2026-10-21T00:49:22+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
   }
  ]
 }
