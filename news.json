@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T09:05:20.073062+00:00",
+ "updated": "2026-10-22T09:42:50.909802+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -30,25 +30,25 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -60,19 +60,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 5
   },
   {
    "feed": "CNBC",
@@ -84,13 +84,13 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Investing.com",
@@ -114,10 +114,80 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "United States Dollar Index falls to near 101.50 due to Fed rate pause bets",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaThRZmhHQXZWQ1hrVFlZY1F5ZzZqazFUTUlmc2x6eWtJZ3Q2UTdxSHN5MGdEdVY3UlJNcXBlZ2JkYnpiMlNJQ3ZxaU1BaFN6b3pPT0VDTEN0QUlTZDVfUWhSU3hnWHUxby1uNUVsRGoxLVRLY01EcTduSzhrN0ZaLXZNWFcza3lHaEVFQmlzWjRqRVB4Qk4wZkNQYWs0aUVabzJTekhlMVJNVk5sbE5XeGROMjdKSzg?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-22T09:12:20+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Buy 10 g Gold Good Luck Phoenix Colored Bar (2026)",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNDlnTXRhakJJWEh1cEU5VWxwUDdUdW9iaDVENmRNMnFOcUVXeGp3SXZsa3lMZnlFa1hubWVRZFQtYTZMdk5UalNUazBLTlpoMm5RM1R2bS0zZ0JJdUtWRUZEUFd2YU9EMThPdHlpcGQwUFdFLTRnWFFtRDNrT0xSejVoNDRIT2hVNHZJcE1tLVVIOWc?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-22T09:07:40+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Buy 2027 1 oz Silver Kitco Round .9999 - Year of the Goat",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0Z3cFRaaTJxQjIzcVpWLTNIMVlyLXdyYkVkTUh2UUVZTTM5QTlDWDVzTmJlOTlxRnRwM2pIMnh1SU9wM1lOTHBaeDJFclNKLW0wc2NqNVNEb2dsNUlmSFlvQXRYVGxoRHJWQTUtc3c2Q19xWVh0OG9Lck95dkRzN2ZHLTdGOHNEYmRSbnVMY1Niazltay16cUNrT0FXdw?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-22T09:07:40+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Buy 2027 1 oz Silver Round Color Finish- Year of the Goat",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkVYaHEzUVpodGVuOTdsRzI5Y21nZG5jSjlYWlRzQUNKOGJTU3pyTW80Y21GNHVJS2E1THBNZ1JSTHJPdm1EU2VqN3AtTFU2Q296VjRLVHl1a1JvUkJUQVZvVU93Nk1iZzNMUnc2LVlobWcwWnRWanMzWTJoNTFsaUZ6MFlZSVl0NXpOOGs0bWF1Wkdfa2YyTk1xVURRblhudFltUy1hcHVpVm8?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-22T09:07:40+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Buy 10 g Gold RCM Diwali Bar [Canada: Shipping the week of Oct 26][US: Shipping the week of Nov 2]",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mTF9BRE1mVTFJdUNQSUdpWXh5ajBpMkRnS0xfQUZsdWlobDBkOF82QjBTNll1T2hrOHBTVXk0TTVFUWliQ3dzbDFFbFJfaGN5aDhjU0YybGxjRXdzWnFTR3U3Vk91dGJBQno4RlBTZWpad1ZKYlJROXVBOA?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-22T09:07:40+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Michael Burry bets against these 4 AI stocks, one of which rallied 190% YTD. Will his AI bubble warnings come true?",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/michael-burry-bets-against-these-4-ai-stocks-one-of-which-rallied-190-ytd-will-his-ai-bubble-warnings-come-true/articleshow/135113826.cms",
+   "src": "Economic Times",
+   "t": "2026-10-22T09:06:10+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Gold: Range cap signals pullback risk – Societe Generale",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVnowQ0NoV0k5ZEN2XzlhSTJ0RkhaN1ZxQ2VaSGE5Zm9CVkloNGpVUjU3ZzY4X2VEYU9JZHpCZHNhWEtDWHFQVHJ1Q3ViWHRIV2tTdEtZbU5xODhjVDlrZlJseUdhTGZwVmJtVkUwZ0wzanlSUDFsZlFKanhyZmdldlNGQWhWUllFZFd0LWwyNmF6TmhUYV9qSklzRDU?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-22T08:59:56+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "AI Trade Stumbles After Tech Earnings, Oil Rallies: Markets Wrap",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBrLWVPck50dERfQ3N3cFhBMFpUN3lfZFFOeXZLM0lDR0lOSFp2Vnd0OHFaWU5JQ092UHg4XzlXQlEtN2JQNG1oWnpFYWFKSUFoYmZkT1FqTHR1bXR5b010d3ZvSENDZ0phTk04R1k5aUg4Z2ZTb1p2MmQ2LW53Ulk5NktSU0prZWwtMkFIZFo1SDll?oc=5",
@@ -168,6 +238,16 @@
     "macro"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "China stock market collapse triggers crypto selloff as Bitcoin fails at $85k",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON2tlVXk5NV82LVI1eVVOZVp5ajVmWVVLOTFwb2p6WVdhWHdOVXIzRjB3NzktSFVQeC1qMVAxaVdPQ1Q1a1dUaXFWMGJIaU1aYVJRWjI4dS1GQmU0VF9VdXJnTjVILUIwc3hKVTNodk5sN2NrMkRBMHUtMWEtMVhHN2dBTGdfQXRjMmRPTVJNUG84LXVrMEwzWVh4TnV6NE53eG5SQ2FFYjJwWGdvVjBJYzFpbkhOQU03TVBVX1lLcDA4R1YyY0FNM1MtUW1oUmZp?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-22T08:35:01+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Euro weakens against Canadian Dollar amid higher crude oil prices weigh on EUR/CAD",
@@ -2044,6 +2124,16 @@
    "tone": "neutral"
   },
   {
+   "title": "U.S. Treasury yields drop on safe-haven flows; French yields hit 5% mark",
+   "url": "https://www.investing.com/news/forex-news/french-yields-hover-near-2002-highs-hotter-uk-inflation-sparks-gilt-pressure-4961706",
+   "src": "Investing.com",
+   "t": "2026-10-21T12:12:00+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
    "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
    "src": "CoinDesk",
@@ -2608,96 +2698,6 @@
     "eurusd"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "AI stocks are probably in a bubble — but might be worth holding onto, says Citadel’s Ken Griffin",
-   "url": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-10-21T08:50:00+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
-   "url": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
-   "src": "CoinDesk",
-   "t": "2026-10-21T08:47:11+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Kusumgar Ltd. Share Price Today - Kusumgar Ltd. Stock Price Live NSE/BSE",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YbUxkTjFQR1BSQjI0djNhRUhqTDY4bnZVSWJQN0tpSVB6S29sNnAtdmJuYW5CZGVQTUFfR3hpd2tteV82WnRZQ01aUlllVnVlaGFybnNJQUpTd1FfRGc1bkFqQWlxUDQyYnFoQUEzMDZzODkxOWdkQnE4OA?oc=5",
-   "src": "CNBC TV18",
-   "t": "2026-10-21T08:45:00+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Global Market: China, Hong Kong stocks fall as CATL slump, consumer worries weigh",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-fall-as-catl-slump-consumer-worries-weigh/articleshow/135086989.cms",
-   "src": "Economic Times",
-   "t": "2026-10-21T08:42:45+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Nasdaq Futures Rise Premarket As SpaceX AI Boom Lifts Chip Stocks: SMCI, TSLA, META, IBM, CRWV, NFLX, BE In Focus",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbnUwRElSUTlnMGw0SWlCbEpiSnJCSU1vSzVCRlFZa0J2eFFIWGNuWlJlaGN6SmthX2ZyZlE3U2xsbkh2WW9Lek44NkgyeFpOUXd4RDUtSWI3R1M4cXNGY1JPbXpPNm5MalRKOW9PbTg3ME45SFAyTTl2MlFwQ1k3c3VQV2gxYWUtYVktdTJSdTB2dEp4UzRXTzlPQ0RTTjNPYXZz?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-21T08:41:06+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Stock Market Crash: Key factors behind the steep Sensex, Nifty sell-off on Wednesday",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVnZaeXZ1dUxtWlE3eVNEdU5ickVTYTdEUjVSYl9ycW9iRkNKX0lobjRpclFLWFN5UDdiNzRPREZmcWgzR2JpZk9pSzhaQl91NElZZDZ3YUFoNWd3V0V3UmgtNjdxb25iTkVWQUZEWDFQTnZSUVNPeFp4QUNzZWI2Q3RjTnNLYWV5d1JGS0UwRlBVZm5hRzZGajU4LUxTTGRLYlFKbjl5RkR0Rkd5NWZSSkV1aVQyaFFWX3hZVU5BaFJUVFNQck10MkJhSTZPRjZvemhfOEc0NEJvTFhJcl9EcHJWc1_SAeoBQVVfeXFMTjBNZDc1ZVFWNHJSamZNNFNtX3VXc2swblIwbzZpNWhIOEM5Q1JYLU5Pa1NsNGZVUnZTZm5pWnFPVldJRFE0T2VGSk5ZQzZaalBhcUxrbEJVVVkzcndJNGhsNmpYWWZRVkVfWFRKRFgwUVpEZEthOW1UR2ZpQkxDVWw4eHdXZ240SV9LNk10SkJLZ0pua1E2VmRZMXpDSzFiU0FhMHpmWEhoUnVxZFA3T2syejVTVFpkRWkwbktkemVmeWlCMWt4RmxMN21mSW5IeDBaUl9RT2xUa1c5ZWFjU1VqUld6Q3FqTTd3?oc=5",
-   "src": "CNBC TV18",
-   "t": "2026-10-21T08:40:45+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "European gas rallies on Persian gulf disruption pressure; Hot UK Inflation dents",
-   "url": "https://www.investing.com/news/commodities-news/european-gas-rallies-on-persian-gulf-disruption-pressure-hot-uk-inflation-dents-4961886",
-   "src": "Investing.com",
-   "t": "2026-10-21T08:37:39+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "UK inflation: What is the rate and why are prices still rising?",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHRnpOU2V3LW5aNGZzbnlkd0F3UUhqZXpGeS15ZXdZYUpVMThfTGhXdGtpQTFKb2VJU2twMWZrVlRVcXZCSVJqM3d0VTZBNnJCQXdlZzJ6cnpNdw?oc=5",
-   "src": "BBC",
-   "t": "2026-10-21T08:35:47+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Euro struggles against Canadian Dollar as French political crisis spills across Eurozone",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOUpMSlZydS1BTWVwZWZsTzNFZDRSYXFkRTIxWWtwQ3h1TVVveXBoYjZXclFNOGdWTmNHalRiV0l3MkNzV1RldTRqd3FmejhmMl9ZWm9ySFhheFVXSllhVkc1ZjEzQzhYMUV1M1E0SlVDdXc5OHc0bDBIZlhXd1lCZ1hTUmJOSHFtRm8zZUhQNUNfa2NNQlJkTTdnbzQxaDdfd2tvRGE4dERsV2xudEt0Z0NaTzZFa2t0MlI4UXdKYlpLMEpBOGZIRndJZw?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-21T08:34:19+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
   }
  ]
 }
