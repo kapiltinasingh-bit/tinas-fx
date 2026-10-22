@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-22T23:07:37.467411+00:00",
+ "updated": "2026-10-22T23:37:22.346812+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 7
   },
   {
    "feed": "Google News",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Economic Times",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 7
+   "new": 6
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,17 @@
   }
  ],
  "items": [
+  {
+   "title": "Gold falls to two‑month low below $4,050 as oil spikes",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGt3akRjaTllR1l3OWtsZzBxVGJoc2xRb2gwNmdkMEUxSGlJNDJ2djZjNjFRMDN2ckktU24tS0xGWlpzZkgtWkdxYXFfQ1UyX2Roc0JVeVZPWk1xbnJsM2pfeTZyRGVvRDRZUVB0UlBNU1ppVWRVempmaWxTdjk0emxPeklIWHRWc08yMDRDZkdSSHRJTDdTZktod3U?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-22T23:35:22+00:00",
+   "tags": [
+    "gold",
+    "oil"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature",
    "url": "https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories",
@@ -160,10 +171,20 @@
    "tone": "bearish"
   },
   {
-   "title": "Trump invokes Cold War-era Defense Production Act for oil production, refining",
-   "url": "https://www.investing.com/news/commodities-news/trump-invokes-cold-war-era-defense-production-act-for-oil-production-refining-4967625",
-   "src": "Investing.com",
-   "t": "2026-10-22T21:36:56+00:00",
+   "title": "Japanese Yen Surges Across FX Majors as Risk Aversion Intensifies",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS1o1clJ3ODJNdldYaWlxN0lMWmxiX2FrWVZIYk9QR0ctZjJ3ZGgxWGJHdjRFRnk4X3dZaktvamN5eG1ObEVndGZnX1lMNzZSd19JVWdQaEl1TTMyT0RQMTlselBmWnAzcTBmRlN5a1ZNQk1XcUlYTlN4NzNuS2JSZ1g0VzVCQ1A4VFlFakIydjdxYlE1NHJ4enRnYWVpd3o1Q25CakJrX2xxWmpTWWpEbXUwMC1URktpemdRQXZ30gG-AUFVX3lxTE9LWjVyUnc4Mk12V1hpaXE3SUxabGJfYWtZVkhiT1BHRy1mMndkaDFYYkd2NEVGeThfd1lqS29qY3l4bU5sRWd0ZmdfWUw3NlJ3X0lVZ1BoSXVNMzJPRFAxOWx6UGZacDNxMGZGU3lrVk1CTVdxSVhOU3g3M25LYlJnWDRXNUJDUDhUWUVqQjJ2N3FiUTU0cnh6dGdhZWl3ejVDbkJqQmtfbHFaalNZakRtdTAwLVRGS2l6Z1FBdnc?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-22T21:54:15+00:00",
+   "tags": [
+    "usdjpy"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Trump invokes Cold War era Defense Production Act for oil production, refining",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtRWszSkFOZEpkbWJ0ekJkVEFNaWlEWkN4Vm1oa3ZJLVl2V3R0elRNMGR3dmF5VEI0TDc4a2pGWFhMOEMyT01fRTJTVENBa0ZHSUc5OVEybmhURzNCYnRGeTJsNGlFRFR0QVpVb0JhTmhKX2vSAXhBVV95cUxQQmZpdVFYR1BvQVNmZWpOdV9tek91QTAyYkxCRFcxclJ4SlF5SGtyM0Q1VWsyWEpTZF80WTNzNk4tWHhQWXRfZG5tMmM1Tjc5czEtbGRwemdyX3o1TG9lQjFmMGtsYVN6UENpMWNkRTlqbXZrSGZCVkM?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-22T21:37:31+00:00",
    "tags": [
     "oil"
    ],
@@ -2681,26 +2702,6 @@
     "spx"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Indian banks open cheque books for ₹10,000 crore-plus in M&A funding after RBI rule change",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-banks-open-cheque-books-for-10000-crore-plus-in-ma-funding-after-rbi-rule-change/articleshow/135103483.cms",
-   "src": "Economic Times",
-   "t": "2026-10-22T00:00:00+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
-   "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-10-21T23:29:00+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bearish"
   }
  ]
 }
