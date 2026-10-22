@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T21:41:37.877430+00:00",
+ "updated": "2026-10-22T22:11:33.839897+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -42,19 +42,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Economic Times",
@@ -114,10 +114,21 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "Gold falls to 11-week low; silver slumps to lowest close this year (GLD:NYSEARCA)",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc2c1SVU3Y1NJd1RQVWt5Rlh6RllqajZIVktQTlNodUtFZTQwTVpvV0JtS3kzNHBKZUp5MHhldU1SMHFTaDdrWVpmc3RTQ3I4eXRWMWRUY29QanF5QU5nWjJhQWVsVU14R0FKMTg5VFRXYmRHT2duYVpxa3FZblZQc0RPb1o3b0JDb21TdkdyWVA4dUpsa1Y4RGd6aVFLWmZwajJQenJR?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-22T21:55:21+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Trump invokes Cold War-era Defense Production Act for oil production, refining",
    "url": "https://www.investing.com/news/commodities-news/trump-invokes-cold-war-era-defense-production-act-for-oil-production-refining-4967625",
@@ -137,6 +148,27 @@
     "macro"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Apple bets iPhone Duo can remake foldable market as sales begin",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMTlwRzRMSWgwZGFjeWp0bG01c2c1WUkxckYtOGR3MUhieUYwZUwxRVNHdFBCbWUwSm02TWgzdG5fRGxEX0U1TUtvUnF5bGpXQkRaN1lnbmJZeTVuZmZzS21ob0FTMnBYekcySDlic3VVUE0ySjZTOHhJR2V1RzlmN09ZdDh1Mlg1a0N3dXR5ckstOW13Mk91YjJOcmdqNkd3dFR1MzhKYmFORFItakQyMTltekVOaVQyc0ZMSm5B?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-22T21:31:31+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "US stock market today: Why have Nasdaq, S&P 500 slipped to lowest in months? Reasons behind Meta, Tesla, C",
+   "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxORTg4MmNTNXhpcVJaQnA2MkcyNFZjbmtQVGdXeExXY0NOdXlJQTNrREFwUlcxQWZoN0lGWmtqX2I2YzllVnp0emdTRzJoRUpENWpBV0FzWE5NUUhNSzhhM2x6LVM0ZkRxVFNTNGx1Wlo5eFRITUtMRGlPa1o0bVBGcG5OaXF4bjRYZE00QkE3Rkd0MndGLXFzV2lKM0xEbW5Kc05NdVZlekQ1WmNEUW5wcGhoS2tFRU1GcURJUnVKMFQ4Z0xEdENrS2FKZl9VTVVjVUU0WDg2eS1vX21TOFpfLXRaYl96LVJMTVZfNDJHdEZhSzlNNWdZTExHYm9ObWNWS2ZzQ2tqSEV4TzNEUVpkTjVFYkstek41d0pFTUhtT2J0ejVQdHJqWGJkRjZOSE1KM3M1VVgtVXlxaXJXai1tSTNJSUNrQVUyeE9ycFMxS092U1hSOEI0U2Nyb9IB2wJBVV95cUxORTg4MmNTNXhpcVJaQnA2MkcyNFZjbmtQVGdXeExXY0NOdXlJQTNrREFwUlcxQWZoN0lGWmtqX2I2YzllVnp0emdTRzJoRUpENWpBV0FzWE5NUUhNSzhhM2x6LVM0ZkRxVFNTNGx1Wlo5eFRITUtMRGlPa1o0bVBGcG5OaXF4bjRYZE00QkE3Rkd0MndGLXFzV2lKM0xEbW5Kc05NdVZlekQ1WmNEUW5wcGhoS2tFRU1GcURJUnVKMFQ4Z0xEdENrS2FKZl9VTVVjVUU0WDg2eS1vX21TOFpfLXRaYl96LVJMTVZfNDJHdEZhSzlNNWdZTExHYm9ObWNWS2ZzQ2tqSEV4TzNEUVpkTjVFYkstek41d0pFTUhtT2J0ejVQdHJqWGJkRjZOSE1KM3M1VVgtVXlxaXJXai1tSTNJSUNrQVUyeE9ycFMxS092U1hSOEI0U2Nybw?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-22T21:20:00+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Fifteen-Minute Prediction Market Bets Scratch the Bitcoin Itch",
@@ -402,6 +434,18 @@
    "t": "2026-10-22T18:00:00+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Oil Climbs Above $111 as AI Stocks Slide, Dragging the S&P 500 and Global Markets With Them",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXRtMVZJY21Hb3pINUQ3TXdLb1VRYXlTMGktRGU3LXh1RUdtYjRva3QyTmNfam5OenRaV3hiVGlMTEFDcFM3TnhjNjZRY0t3LWphb1JGenNkUS1JeW5qalZEMjNhR2FhVXdrc19mWHpVbE1aWV93d0thVTJ3YThSSjI5T2dPNjIz?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-22T17:33:38+00:00",
+   "tags": [
+    "oil",
+    "spx",
+    "nasdaq"
    ],
    "tone": "neutral"
   },
@@ -2660,46 +2704,6 @@
     "nasdaq"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "New Zealand third-quarter inflation slows to 3.7% but expectations remain of a hike next week",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRmNQWHdjLTZPMlVicExwRHVtbUh3VlhRLVQwdW9sSFJyRG5Ga2pfMG1jelljOFkwSWNVQU10d2ZFLWtyQUxlRWt3NVpLNm55ekd6WGZ5SEYwYzNEQ2trZ2s3U3E2bEtsUmdHd0JXOFQwYkNMVDc0aVljUFRSRWhYampBXzVvaFZabjJkSjZncjVGeDFDYW1FbUZYYmc4aFhFZUpTLVdnSmM?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-21T23:08:01+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
-   "url": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-10-21T23:07:00+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "The Euro gets the PMIs first and France's credit rating over the weekend",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWVoaDdoVjFDY2NTMll5ZVRCOFdKcFNORlM5UGU5Q2lkS3QzZ3JRbk43UUJ3U2Itdm1VVnRxTHZYZ3M0SmFfUEYxVFBYb050SjlxbVdaeUJZck0zVjlPOTJfcXE3V0c2dVJtS3JSUFo4WXJFNTdVRHo5aFVOdVB4VGpUSjBXT1IyR19XR0ZLLURuaTFyU0NSdWJwVWwyWHFndE4wekdlR2V5R3Z5Yks5Rkd0Ukg?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-21T21:55:42+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "New Zealand's CPI inflation eases to 3.7% YoY in Q3, vs 3.8% expected",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQmt0M3U3Y2RxZ3V2YUpmR1RPSEVfQ01GSkZsNlFBU2w0Y1VSTVQzd21lM05OaTl4SnBEXzF5RkZGc1k3ODdBRDRQcHNST1oyTjllOEVwcTVmVGxLNklZVFZwZDRWTlFQNDhsa1B0cmE2OXlYUWdIblZHQVZLaG81Vl84bE9DdFRPOFNucC0xRjcydFpsSEVaZ2wtSE9BdzFaS3hHOXFnVXJVdw?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-21T21:52:11+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
   }
  ]
 }
