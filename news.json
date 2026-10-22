@@ -1,30 +1,30 @@
 {
- "updated": "2026-10-22T07:35:40.842554+00:00",
+ "updated": "2026-10-22T08:20:12.633069+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -60,19 +60,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "CNBC",
@@ -108,7 +108,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,36 @@
   }
  ],
  "items": [
+  {
+   "title": "WTI Oil rallies above $99 as the Middle East war threatens to complicate further",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQXzlhbnVUd1RMaW1jckxXbzhaSWg2cTVGVjl2ZDBmTEpBbmhrZ2NFZ21zUjVQVW5SRXJ6NUpwbTdka2V0bFp5WGplMmhNd2hzaExlNnhHN0FCZUdHb2IzTjhxN1pyYnExbXI0SktHbzc5cnJpUWZSaHViZ0lDLWxWX01vdjFyLWVFbUxzekQ4ZUNGU0pOSVhrMDU3bW4xd1BBTlFNb205S0Z5SHNnOTlpTFhwSFZvbExXbm5wMHdWTQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-22T08:18:24+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Gold and Midterms: Is this time different? | Post by Juan Carlos Artigas | Insights",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZnJ4OU1SMnpCbS1KVkw4eDlCTWVRS3g3cDdKYll3YlhUYmhnZjcxck1yeFp0dUl6cUxpUU5iSWFRSDJteEpxekZ6aVpUMkw4RW1YZ3pHVGEzQ1p0QlcxOWNsZUd1NXFnaEZRLXBqei00bjlVRjFqbGNTQmVMdU81dUtMekNPMnc?oc=5",
+   "src": "World Gold Council",
+   "t": "2026-10-22T07:54:13+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Yen rallies as dollar slips to 3-wk low; traders eye central bank meetings",
+   "url": "https://www.investing.com/news/forex-news/asia-fx-mixed-dollar-slips-near-3wk-low-as-traders-eye-central-bank-meetings-4964617",
+   "src": "Investing.com",
+   "t": "2026-10-22T07:25:23+00:00",
+   "tags": [
+    "usdjpy"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "A new challenger to Nifty and Sensex? NCDEX launches two equity indices",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM3JnNHg2WFNpRVJFWVdLVW1EVDQxcUxabGxGUWhZdDRaaVlIVU5wSEJ1MmJJU0NaWWRUQ3Z1NF95UElVYWRMQ0VvdnFZY3ZkQUZxblczQkVIeVlnVTZHYnpnX1drU0lOSm5KU1lyZWJ2YXhfZUdzZlYzQVg1ZGVFcWM3NTlhbFFkOU16U1FBTWlUOTc4Mmh3TEcxTG95V1dVZExfeTFiUG9EczNKTllnQlR5a2F0U2ducTA2aUFnU0diRm1JSG93QTRJZlc5YkVr0gHWAUFVX3lxTFBHTmo0Sk44dWNoaXdzUE5UY09VejI2dEJNQ1pHRWlGNGZqbVRTUUQxa0M5YXRGNVN0WlYwMWJGTkxDU055cldxdHA1UEhMT1dLVmJQVUlsSWprYTVxdFFGdlhmVEc2WnFscnFVemIzMlVqR09HWnhacEdUYmhoVUJIdHVDSGVlTzU5V0RtZWI2WTdaRGd6OV9NRTFwakNuWWxFRTN0MlNab3BBUmVXMXdoNmlhS1hxVXZ0V0VtRklKSzM2bHZ2SVVUT01RQm80cXpLd3Y1VXc?oc=5",
@@ -169,6 +199,16 @@
    "t": "2026-10-22T06:11:40+00:00",
    "tags": [
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Euro: Range trading consolidation persists against US Dollar – UOB",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR1ZBYWx2WmZjdkNhXzBWN1VaNXdNSzVDUmxoN0VZRlhOMHptSUJRbWNQbWVsa3lYSFJLRkVZLWFiT1ZWczNqcHBCLTQzcGJKc3U0aFo3QTJ2ZnJ5WVphTGpfUG81d3RPWERnM3A5ZXZIRnZ3VDVOTnMzblc1akI1QU0yS3hHX0xxb3lfSTBXdGdzYWdLNmw4NUc0eGc3WmZHajM5ZlBRQjZpUQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-22T06:11:16+00:00",
+   "tags": [
+    "eurusd"
    ],
    "tone": "neutral"
   },
@@ -484,6 +524,16 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZGM1WlctTTNRMGRQSzRKbG1aSmoyc2hEVWlSb0VJXzlJNkRpeXVmNUY2WTZ3LXU2Z0VreWxhOVhEck9GWGFGTzdnYlBGc1JzenQ5Nkcxejg0T0x1a0ZtenE1VzBKcDlXZHBGU0sxZzZsdWJTWTlKZWZ4c3A1LU9VZmkxSFd1dnU4OWlFdzRkNFhwZ01aV1JvaFJsaGZqU2pNQ1NfY0I5Q0FrTEVPSmdsaC03elpidDJNd2laNHdYUDE5SngxX3ZJQXFiRQ?oc=5",
    "src": "The Economic Times",
    "t": "2026-10-22T02:22:41+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Dip in the dollar takes a breather with Fed in focus By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3BwZDRTOTFGbm1LNlhOdmFXVnRRcy1YQWlQaEJVUEpOY1U0cVZWdlYwNUJLTzdDYVN1WUpQX2lkMlZkdHVkLXhKckhoRXlveGM3VGpDSDFReUVOSTdnTGVySUFzMEczR21Iak1TY0hqUmJvWkxSRXlreUZ1VFFyYWZvLXBrLUY4dUV4OWc3Q0QzWGhYb05wd0M5MjRtRDM0bE5pMlJ3?oc=5",
+   "src": "Investing.com Australia",
+   "t": "2026-10-22T02:21:20+00:00",
    "tags": [
     "macro"
    ],
@@ -2648,56 +2698,6 @@
    "t": "2026-10-21T07:30:06+00:00",
    "tags": [
     "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "WTI Oil approaches $99 amid fears of supply disruptions from Gulf countries",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnlidnNwWEdKNnJ4eGM2cS16VFlYOTFIbk8weWRxbUpnWTRiZXdZdWF4QUNkUFJrckwzVklwcUVtSERjMjdOS1k3RU1LeG1jdUZNbzVzbmVIeU9Jd1JYejBaOGFaQThySWFsLVNnbVpGT0FrSUYwel9taWNtRXU3NW1KRzk4T2E4OXB2clJaYWFENm0zNGloQnNIOE9GamhVT0JWT2MtdHRaZFBiQ2R3SEFzZVFhSlNO?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-21T07:27:23+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Three Reasons Why Markets Are Falling Today: Sensex Tumbles 1,200 Points From Day's High, Nifty Tests 22,700",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeFhtMkVzRk4wakdsalQ5dHlUYW0tbjhrbTQ3ZEtGOTNmVnpuVHNIcEM3T0NobTZNWDQxZGFNOXp1N3JXWWtWUUlleC1iY0dLOFRqSjRhS3NKM3JEMHlrS0V5Si1lM3Q5Y2pCa245NHZFN3kxdkgzemVmWTBoQXdydVdac3NQd3VrNTlYOXNzMWVZckJXY0VNa1lfdUxyYm0zWXlxUDFjcnljRWJmVnhpWEJRb2JNYzlXOEpPQlp3My12SUJDejE5X09zblRUb1nSAdcBQVVfeXFMTU94cW1tTTBSOHVmdm9TNkhUeW1iQ1M3a3BzTXJnM0ljdlg0NklZeElKR0lBVnVOaW5Eb3IxRm9NZ2poTEZwZ080aVJ4VFZVejhMbUVIQUhadXNqSllhYTV0Y2pCNmE3YU1reXBSSlBFZWV1ZlltdVBhYVdib2F4ZFg0NERZaDJFSy1zR3ZYckRkNkRPcXVZeThkUDZMaEZzdWN3UUJxX3NaenJROWRnQ2lUQ3N5NW9DeWZkUVVtVnhadllGYVRyMkRDdXF0RmhFQjQyTzlPNGc?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-10-21T07:15:32+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Silver bear flag at $57.37 risks break below $55.56: Live",
-   "url": "https://www.investing.com/news/commodities-news/silver-tests-bear-flag-at-5860-resistance-live-levels-93CH-4956490",
-   "src": "Investing.com",
-   "t": "2026-10-21T07:10:48+00:00",
-   "tags": [
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Dollar hovers near 3-wk low as volatile oil prices weigh, rupee extends rally",
-   "url": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-hovers-near-3week-low-rupee-extends-rally-4961573",
-   "src": "Investing.com",
-   "t": "2026-10-21T07:07:37+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Forex Today: British Pound struggles to benefit from hot inflation data",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaGFZUno3TFVQX3ZLUDF6LVBSazA1NnVKdzRkNElURV9NRkJBRE9aNUR2aFdjR2hSZ3d5ZzRzUEp2M2JQWEpjNlZBVnNYODdQblFzUldPSnlZNVdYTnRvcGNzTGhMaFpxcEwtYWZVdHpIWXl0SkpWd3EzN0x4MFZPMU1WQXBmY1RvVUNSS2Y4TEpBZzhHUG9vMVN0QmVtbFBOd2ktRnBVRjVPR3kyT25hUTJQWQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-21T06:53:43+00:00",
-   "tags": [
-    "macro"
    ],
    "tone": "neutral"
   }
