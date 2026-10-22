@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-22T22:39:31.903251+00:00",
+ "updated": "2026-10-22T23:07:37.467411+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -54,19 +54,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 6
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 6
+   "new": 7
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,26 @@
   }
  ],
  "items": [
+  {
+   "title": "CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature",
+   "url": "https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-22T22:54:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+   "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+   "src": "CoinDesk",
+   "t": "2026-10-22T22:43:36+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Newmont beats quarterly profit estimates on higher gold prices, Cadia recovery By Reuters",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjYxbkRHa1pCUGpqc1NwUElRNFAteUlyUU1NNjg3TXJRMEw2OHZhb0hDMEl1WlN0M3hrUFl6VkRVWlU3UEx3Z2lOdlR1X2dZWmhwdkJKWFpTdy1CR0pKSEhEWmEzVV9EaGJXNFdyejQ2ejR0aWJmLWtUd21HVy1RQ0NsVE83R3RUZE1IbTRYNnhKeU1iN195dEhOb3hqXzdUTzJwNzJtTlRBMkUtWTBlci0yQXQ?oc=5",
@@ -2681,27 +2701,6 @@
     "spx"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "From groceries to home loans, high oil prices permeate daily life",
-   "url": "https://www.investing.com/news/commodities-news/from-groceries-to-home-loans-high-oil-prices-permeate-daily-life-4964403",
-   "src": "Investing.com",
-   "t": "2026-10-21T23:24:32+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold flatlines below $4,150 as traders assess Fed rate path amid Middle East risk",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQW9fNTNpRGgxR29EZF9QclAyUnBnUXI3WmZiMHk5aW1CVHVFQllSTl9POFBubVA1VWZtY050emZ1X2xTWFljLVlIMTAwZENmY1VzM3JTZlY1WFVLQ1dJaWxZU2VNRWFQZC16WERmclYyTUZkYTZMWWdvcG4xeWY4YUJTV2h5VFEzc3NJRFRSNVh1aXlsZ3NNSDVPSlBOWnFMZ3FwdS1JWi1MTXlMXzExRE5EcUNQU29rUWxIQkE3UXI?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-21T23:21:37+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
   }
  ]
 }
