@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T00:02:59.192728+00:00",
+ "updated": "2026-10-22T00:50:54.223518+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Moneycontrol",
@@ -114,10 +114,41 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Bond yield rises to 7.44% on higher oil prices, global cues",
+   "url": "https://economictimes.indiatimes.com/markets/bonds/bond-yield-rises-to-7-44-on-higher-oil-prices-global-cues/articleshow/135103005.cms",
+   "src": "Economic Times",
+   "t": "2026-10-22T00:15:37+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Indian banks open cheque books for ₹10,000 crore-plus in M&A funding after RBI rule change",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-banks-open-cheque-books-for-10000-crore-plus-in-ma-funding-after-rbi-rule-change/articleshow/135103483.cms",
+   "src": "Economic Times",
+   "t": "2026-10-22T00:00:00+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold Edges Lower as Traders Weigh Middle East Signals, Fed Rate Path",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcm9iTkZnZUdhMG5jYWozVjdVVnFsNDFKbmNoSGZMMkZINmxkNkRzNU1MTVdCaDhlQms1S2F4OTVuaHkyWmpLQ1JjNnFfS3M1bDE1RlZ6Zm1saUVURXJKcmRhWVNkV292Sl9PYWlJVkdFVHdSZnREOGpHeno0dVZ2V19BWE9JbXdSYkh1VzVvMU14T1BrbW5rZkxiZWxueVRYQktRaGRPTTZyRExYRUZfOHpWaGc?oc=5",
+   "src": "Bloomberg.com",
+   "t": "2026-10-21T23:56:16+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
    "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
@@ -241,6 +272,16 @@
     "gold"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Euro Short-term Outlook: EUR/USD Rebound Faces Critical Test After Trend Break",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMjhfVWdjaXRvODZySTByZnZ0QTVaWWNQZlNmR1VaQ255SnpXMEFIVGJmdmJiRVpxYlhuTWhGejJXbGVZeUc2YnVaLXlHX0lVeGlmUk5qS0VuYWV2Y3hGZEhJTzdTVURuTXV4R0tpUll0VkZ3UnlZRUFjRHVudTNGSk1RZVRseVZVUmRJSkRBTHBIUmVPR3JaWnRHbjNvbmJCLWhaMlRtUHlSNTB6UUR5Q0JXOXlmTWF4U2ltQmo4UW5uLV82V3BOTVRxVVVSZUt1?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-21T20:47:01+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Gold forecast: XAU/USD continues to coil as support holds again",
@@ -369,6 +410,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Oil slightly up as traders parse possible Russia-Ukraine progress, supply fears",
+   "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-on-meast-tensions-us-inventory-draw-4961436",
+   "src": "Investing.com",
+   "t": "2026-10-21T19:27:38+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Canadian dollar holds near four-week high as investors stick to rate hike bets",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSllpVHUwLWtjSkhial9sbGNHVTZQaC1qTkNWRWlXMlJvVkVPTzZnNW9hdnByU004djRMNU92MjdKY0VpTGJlUGN0dnJOU0RIaHFhYV8wWlByNWduZEFQc2U3MDNWblNid0hNeWNEVUJ2ZE1Md2FhYS1NVDBFcDRDa2VuMDNlMkhySGlSd3lNc01ldTJqVHFMMFVfSlh4d3pnaVMybllGVVJjWGlEUzIyLXZnWWNHMm9XeHc?oc=5",
    "src": "Kitco",
@@ -459,16 +510,6 @@
    "tone": "bullish"
   },
   {
-   "title": "Euro Short-term Outlook: EUR/USD Rebound Faces Critical Test After Trend Break",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMlpFa1dBaHBEajlIRFBqQXZWeHRTVThtVlgyeGtOTXJxdmp1TWZHWW9QQktVb2QwMjVuaUlvTW94R3plWTNPNy1ZZy1pY0J4VEVCX2gxTVFjQXctVmphdmZla0t3dG5WMlJXRjJJT0JhYXJRdUJ1d1Y1SzZ3Z210bVRUa3pVN2NMRnlrZl84aGZOQ1c2UmNFUkZFYWNqU2N5VFNIc0dreGUtMGlPMTk0Rnl1cm5xMkFCWEkzdDBOdlc4U2ppR2FDWjF2TlY4SkZC0gHcAUFVX3lxTE44WWZDYUp4M3h3ZWJSSXBQVVJVNi1FQjUyMEtrZTBjQ09uVGdVVTFadzRMTk9RWXpOMWhGZGJJX1pWSlc1TVlYVEkxbjYwUmMwc3FvZC10dml6V19rdlRsVDlicnpZTGdzTEp3OGY0ZWZKaEpCLXYwMm5VWGhWcVVRTG94UEFNWGswSGZaaE5UdExGUmtuSHBsM1F6cURjWnhUcDhQdlZHaUYtbWNjdkxMM1EwdzIwUUZXdmxrM2JSc1JWX2ZGOXgxNzZwQ3h2ekVOWDlyV3FqZEVtNHU?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-21T18:26:24+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "bullish"
-  },
-  {
    "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound As Dollar Pulls Back",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjJLLWd5ZC1NanczdGpOak9Nd01XWUtKZDROem1OZ2pQbUtOZTRXanY1VkZJOVhCb2x6Z0F3TlI1TmFXdllaUFNaR1VxdTN5cmhPOFowUFZWaGRKdHl1ak1IUzNJWnp6TlB2cUFvNGRLUmZ4Z3hRRk9ncWNfSGt4cDRtRFlHQlhOZUdpVVFaa3B1OENXQWlmZkEtR3V3SFVNQUFKR0NlUE1FYXkxVElrYkpUWmpsQVpoU29BcldyX21ENnBGTl9MYTJLajdiOTh5SXc?oc=5",
    "src": "FXEmpire",
@@ -498,6 +539,16 @@
    "t": "2026-10-21T17:49:52+00:00",
    "tags": [
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Sharply negative correlation between oil and the stock market, says Schwab’s Kevin Gordon",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTFRNTTJtQ1d0SWdwNU5VU1ZxMkc4RVBzZDd4Z29ybTFKaXI5bVJEZk5MWE1QaWZTQnlweHRUSHRVc28zNDFfMGNpam90ZTRtbFpiNnlEX1FHcjFWVEhGMlhTUUl4V3lWMjdIbmFHQk1IRldWdVJCeGV0VGg2OGlpWV9iTi10dkpGUzJvYTU3ME1ZT1I5azJSaUtKV05QODhSdTVkNnRoTE5RNGZVM3hySnlTLV96TTRQQWJVUmtmLVc0RUNyMWRHS3BYRQ?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-21T17:49:43+00:00",
+   "tags": [
+    "oil"
    ],
    "tone": "neutral"
   },
@@ -1067,6 +1118,17 @@
     "nasdaq"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Gold, Silver, Platinum News, Opinion & Analysis",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9WMTNDQnp5YzRzREV0OVpGN3dTcGh3Wi1CVXNlYW5LUzlVMU1vOWV3Tm1vNE8tRXR6UEFvNW5fQVBFRjA?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-21T12:42:46+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Rupee rises 46 paise to 94.45 on India-US trade deal hopes; oil prices cap gains",
@@ -2625,70 +2687,6 @@
    "t": "2026-10-21T01:28:36+00:00",
    "tags": [
     "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold falls near $4,110 as Iran peace hopes fade, Fed rate outlook clouds demand",
-   "url": "https://www.investing.com/news/commodities-news/gold-falls-near-4110-as-iran-peace-hopes-fade-fed-rate-outlook-clouds-demand-4961463",
-   "src": "Investing.com",
-   "t": "2026-10-21T01:28:30+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Stock market outlook today, 21 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdk5aaDRyQ3pTVVM3dFVDYVNkY0Exc25vZldMM2JpMzhGXzk5UF84Q3JsaWNyWVNMcVBaYWgzcFIzaTZMOHgtZkJmTThiUWtEYlRSZHpkcDJGTTM5NC1ZeTJUUmFZalJGdk5RRlVPa0l5amRWOVhha3dBd3RJMU02aklhSS16YU1WMFNZWktqWU9tV3FNUXZaRGpKTWp3QkkzcHViWGhUcjlUdHhhWFRFcW91WVNTeHp6Q3A5dnhMRlM2MGQyTHA4dzlGQ285dWxOTFJuR1JIVEZZcWpwa2NJQ1pLSzloNl90RVZkUF9DOTZvRElGdzZDamtuSE9XTjY4ZUFxcQ?oc=5",
-   "src": "Livemint",
-   "t": "2026-10-21T01:28:03+00:00",
-   "tags": [
-    "nasdaq",
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Stock Market Today: Gift Nifty, Jio IPO To Oil Prices; Five Key Factors That May Drive Sensex, Nifty 50 On October 21",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSVpnc09VQU9Geklsa1JYNlJIY1JoMkdKVm5CSVdZb2I4eWNkbzdKQU1HRkNDcG8zYm9YVmV4WmRDSWF6a0tvc2xlcEFjX2NmdVIwWHpQeU9selVyUlJXMmdod0pUeGEzLXBKQ0hCZUlwb0RKN2ZuT2oyQ2hCaE9fVl9QbVJXYjBEY2o3blp2RUxhWHB6Sk1iWkhTN1pMQjhESnJoMUVMTXF4MlE3VXNmeS0xLXlqb29PMl9hYjZ1c3ZtdEs1QWVPSTlWbHRPVDg0LVQ3Q3dIcnRZOGVQcmNyZ3B0ZlZtMEdYWGdvXzB30gH2AUFVX3lxTE9OblBlajdKVW5VWTc3ZzFZcEhsSThtbHNoQi1fd1hHOEd3TnItSnh5RmxMZFdpVWNyVExaeHZZa3BQRzQzNEJVYlB2OXhOWldQRzVLMXpLeEF2UFJwY3ZyY2VmNVBjSE5BLUNDVUphTG84dWdGaGh0aWdMeEYzRGtoRU9NNmxoT1RMX3p4ZFFQRUJ0ZVh5WC1pN2RlM2MzX0U4dERxcHNMSmJ2VmFKTEYtQW5rLVZRTHVHUmI0X2NFSkYtSDlJSENjbll6WW5LVFZUcWUtakR6OC16R0E3Y0l3VmhidHFjakt4ZXpicllEb2JYSzdGdw?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-10-21T01:23:53+00:00",
-   "tags": [
-    "oil",
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Dollar drifts as Middle East tensions simmer, oil rises",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmhtRnJCbDhIc08yUUUxQnBOU0tmczBNT3JOTjBKVy1LY0VCUW1pdk9hNW83QXdqM3pKOGthelR0NldvLUx6ZHdfUWpTTnpHOVhVeG9nR0tUWjVqNlUyT09jbVp3eUZDb1RLbjhLakZYUXZfcXNoVndFSG50cUw5alpFRHVpNWdUMWtxLWpXMUZsdFE1RVhtX0RWVkVLazFFNUlIZi1fcHRJUjZYY090OVBwaTZMUnJ4TmdtbWFR?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-21T01:20:00+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Jim Cramer Prefers Gold to Bitcoin for Portfolio Insurance, but Backs 2 ‘Vetted’ Cryptos",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1JSYllRWGhZRTNRalNRUTJBWmdIQXZabGtGOTdpUy1XdllEVlNKcG81T2FvY1hGVXdHUlIxV2RkREN3NlZtMld4elB5MGpvNzlSVFpIUWNtRmxZazFtaHdvajRQbllrYWkzN2pJTGxJajEzQWZ5ODVLTEM5NHBfczExZ0RCb2cteWMtcWU5OWprU1l5MTRrY3BCOUs?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-21T01:19:00+00:00",
-   "tags": [
-    "gold",
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold’s Long-Term Bull Case Is Shifting From Rates to Sovereign and Fiat Risk",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGhQSEpRUXJoU20tSElPQjRLZTVYS0dBamdyamF5cnFUUTNzNk5WMlhRNlBBekQ3cVpraVNkai1FY0RicVd3ZmpmT1N5TUYxYVpzTmNjczVXWVJpTVVuc2pOWHM3eTZXbEdOeDBndGZIcDRVRnJTRXMxZFpEa3IyRXhBbWlGazRsRkxaOW5qRmJ1ekJhRXhFVzFOR3NPTFI0TmxkeE1KRWprby1zekpjRGZMdHpUVndyQ1dn?oc=5",
-   "src": "Investing.com",
-   "t": "2026-10-21T01:13:13+00:00",
-   "tags": [
-    "gold"
    ],
    "tone": "neutral"
   }
