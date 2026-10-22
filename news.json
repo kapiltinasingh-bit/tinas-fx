@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-22T05:00:32.233487+00:00",
+ "updated": "2026-10-22T05:38:19.766028+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -102,22 +102,43 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 2
+   "new": 3
   }
  ],
  "items": [
+  {
+   "title": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+   "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+   "src": "CNBC",
+   "t": "2026-10-22T05:18:24+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Gold slides toward $4,090 as Middle East tensions fuel inflation fears",
+   "url": "https://www.investing.com/news/commodities-news/gold-falls-near-4115-as-saudi-attacks-fuel-inflation-fed-outlook-in-focus-4964496",
+   "src": "Investing.com",
+   "t": "2026-10-22T05:02:44+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
    "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
@@ -180,6 +201,17 @@
     "macro"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Gold, silver prices today, 22 October: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMy1OZDhDV0xQbU5pQjFXSVhnTVBzblhqYUhRdklGU05kaVRMcnYzMDBHRVVtZVh3MUxfcTFNSEEwbGlJV3FzYmNja3pkMElyajJwVlRjckJnVmJTTHYyY0JuaWpsUGVNWlRYc3JpZEFOT0tHeWR0eGVaOUswdm53NDBhUzBYNW1UQ0dHMkhCckZEX2ZoejY2Z0lNcHR2YldCeEM3SGs3NFhGbXg0V3gtTmd5Y3N3a204UXV4dk8tRjVSYS1MNi05dmZrczFXZU91V25hb2hncnh3d2dDZnFrbTRYRVgyX21OVFNIS3ZFajlnUG9MTFp5bjNFWHZMSlRxRkdwN1Blam_SAY4CQVVfeXFMUDVfNUZCdTUzNnZMaDk5LTZJbHBCZ1FWdlItZ1RualJvZkdPaGpCSkdpc0RtcEQzUVhrb1ZwV3RqUTN1MlIwRjYxUjRVRGtMbVhNd2FLVEtfS252d1ptd2tITndZREpZRE1pbEtCZGJtOWRSeHprakM4N1NPeHo3cGZZaHc1ZTVNek9vNnE0ajVidHFvOXBvUnB0anVWMjRuVFIyV2ZLdC1QRmdEdVV5Z0VqTG9VUW1JeElDZnI3TzhxbDR0TVRya1hNNlE3MnN3Yy1iVmtPZXVqYi13RHRfdlFzZ2xjd1E1VkJSbUxRS2NFZzhtQUt5dm85MHJHZWUzcVNRTlRhOWVlS0EzVWZR?oc=5",
+   "src": "Livemint",
+   "t": "2026-10-22T04:25:22+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Gold declines to one-week low, below $4,100 on Fed hike bets as bulls shrug off weak USD",
@@ -399,6 +431,16 @@
     "nifty"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Euro posts modest gains above 1.1200 despite French political unrest, fiscal worries",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQelJmT1dMMEZkUnBoVUtQV3RWQUJpNFFvRkFYdVhLXzNHcDdnYUtwa01FWWFsd1lGcXZrOVNZNjc2N251WldRa0RJdUp5QjgtelRtWnhhZ0pwYkJ1cGUxX3gxNVpLbjRfRUx6b0ZUZzdJUG05YTZpVzNRMVJ3NmIzREVySVBpRFJTQ1FvbEt0MC1JX1ZtVmNVNDBLaU5FU3FsdUtHSEJ0NFY5TDU3VXFQaUtGTzFkTGRyLWtSQ2lhejE0X0E?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-22T01:18:29+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Why RBI is draining excess liquidity but also injecting funds",
@@ -673,6 +715,17 @@
    "t": "2026-10-21T20:47:00+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold Swings as Traders Assess Fed Rate Path Amid Mideast Worries",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMlI2a2VxbExWc0RYc0F2MzlSeXpKWXJQbE5YRk1GcC1ndHNvbUxKQzB4dldTZW9INEFGRV9tYjI4X2dIYV9vQ0dUUzVrcWtnV2REdXh5U3ZKWFd5V0lvQ3ZPVWZvV1REYVQ1ZHp6cVNLc3BsTG5OLUg3Sk1GZV9VbVoxeGsyZHdvZ3RhWDhZY05PcXhwbU8yX2RVX2hkX3pwblNWdmNYQ1U2dFROeVprZUd5VXpzamvSAbwBQVVfeXFMUGt3eHBDcEJhRTc1TFh5dExDNnFaTmswYTJ4Ri11clhSSjRxQUVmN2hSU3R4VkpqY1dVMm42TWNIWVZtMmxfT0o0d3lMYkFqVTdaVTFsbkRKV2NpSUFZMGszVVRlRmp4bnhQOWJIVktfMndYV3BzUE0tWE14SF93bW9yTGt5cGdCaEstOEtOUDhhSktidUduTldPYkIyQW92TVpudi1XR2QtYWtmcUhjenl1MjlMcUY4UGZqRTI?oc=5",
+   "src": "Livemint",
+   "t": "2026-10-21T20:45:58+00:00",
+   "tags": [
+    "gold",
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -2634,56 +2687,6 @@
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOajItMkJaZkdDaWZIeFY2WnpJb1ZSSjdMVS1OS2NWUXAyQ1d6WHpyalhVbWhTWDZKU25IbnZqaDJsTEd6amlIcEFEdS1pUGh6SXlmRHBaNTkzQ21IdWk2aU1lYk5mVEk4ZHVEYXJzbzIzTFlCSlVGa0FLMGxuWW9JbFpuQ19QYlNfaVVsSnJZeVpnM2JuTHIzd0NEbU9WcGNMalRTNjhRUGpYVll0b1ZBOFNXcWs4WWI5aFhJRGlVeVJIVFdGOUZCSTFSdUExMVhfZHdR0gHYAUFVX3lxTE5UWEtRek1OZjFQaUNSWU80a3c2aDVKbXNLcE0tam5vSk1sWExLaV81TnZFV1h4NEstOWxZNEszaGRDRS00NV81QWFXaV81VXhaZDZJc1pacGkzZFpMXzZDMVcybjh3VFg2MTNvMG8tNGVWNnFDSFEwbl91eU5sekJsYzFhcTFXeFpRc2FlWHgtMXhDbEhGM19RMmRTNWtjY0tKMWJxbkcwa3VIQWkteWZqTWtWWFl2WkJiT1hmdUpnMFBiYWVmbWtoaDB5QlgybDBqUjU4WjlPbQ?oc=5",
    "src": "Business Standard",
    "t": "2026-10-21T04:56:18+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Top Indian non-bank lenders flag early signs of stress in loans against gold",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1VZSVJ6R0FvVE50S015ZzYtYnJhWjJ3OFdQNWFQYkxrLUF3SFJ1RmJ5TGMtSFl4LXZKUVJ4RjZRUHdLdU1YWE05RjV2YUNIc0Z4OGVHNmptSEtrTm5obVBlY2JTd01tRzIxWGVHQzVlaUFGU0tHT2NkbmhnMzNPRG8tYXRhc2hlOWpudEVqZHJ6RFY2SC0wX2pndmlSNHZIaHFXM2FDX2JRcDBXcnc?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-21T04:55:00+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Sensex falls 600 pts from day's high, Nifty below 22,950: Key reasons behind market decline",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUVF1YUZCTmhBQXF3T1BUVzdKRHRqQzRQSloxd0tVd1ZtVjlBR2pObE9jS1QzVVp1dFJVRngxYWN6UEtwd0k4MHRFQWRnOGJySWN0Sk81SXQ0ZldIUmRTd1VuSXRHNTBKd0ZiNk1jX3c0eVVVVG1oRXRRMVF5eDVWenJtd08wQ1BWQzFFcVp6TkFmVzdjN3Eta2JRVW5Td3JmLVZuS0hKdEVMdVVqVHZmRi1BUmR5b3Z4Z3oyU3g3M3NaQmdVTzUxdGpoSWlFa3NuVnBXVVlRdXloaGg0OGJVNjJBTHZRcVdSN2fSAe8BQVVfeXFMT3loa1BnUzNZYnJMVUZCVlNLT1RqVW9pNHdQZjljTU9Pa09hM2U1RjNTem9DTmUxLWFWY0RjOVhCR2tnNHVwcjlDcXpsSXBUVXoyQUVsWUQ5QmlGYWFmSURDRk90ZWtCTHdvbS10T3FXSGFWR0drUDNsel81b3ktZ2RWdG83VTBUZFVwVTFfQjFJdDU1MGxQUGNoWEZ2N0dUekh3d0hHa0pqZjI3LUlsaHNNZzR1a08xYkI2MjA5UDVIaVZ3TlhJNkJaczNQcjdkdEg5NnVnWktmdGlsVGxoYVFmNUhTYjlSdHhyaVhZNUE?oc=5",
-   "src": "Moneycontrol.com",
-   "t": "2026-10-21T04:54:16+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Three Reasons Why Market Is Rising Today: Nifty Breaks 23,100, Sensex Spikes 800 Points",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcVhmSkdWSVNQMDRuMVV3ek9IRjY2eFppTmZPRFV0LUVhQkdaREFGYlE2bTltWEZFc2xuZmxlYjAwRTgyYWxPdnFhaWpmS2Rrc3V0d2R1b0RXWDRYQUFzOTVFUGlRR0JIbGtVWnJQRTEtVDRuLTBmTExhb3dTOHdkaE5wMzRUU1JaVEJrSnJNZVZPT1QyWTNJNXRPWFlKS2JpLXRTZzJ0dlV0YVowQjBZemlfcmx6QU92Nm9sU3dWS3Z6QnluVlZqMtIB0AFBVV95cUxNWmludC1GUUFoVmM3SWhvLVl2MmxHS2gxckh3YXRuVnFNU3NuM1VaNU5YU1JCY0lBZTNwU0FzNkFzVXNScWNWQkM3UG5QV2RSblF3X2t5MjdNcDMyNVR4WVlFVmJ5WGVTQ05hSHNPd2NET3h2RVJrOEFiRE1hWUJsMkZRR01BMjhEZ0lrWE1fOXZOZl9XcmtJU3B3aEFSS3gwdkR6ekY1SWxWbE9DOEo5YndYWU42Vll4YUhCU0JyakQ2bnZtcUtzNHBVNDJRS0N6?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-10-21T04:50:27+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "HD Fire Protect IPO Listing: Shares Debut With 24% Premium On NSE, BSE",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOUJfSlVJaVF5QjA0c05PcTlMMkFMa1FEX0ZRRnRrSl9xVjVoRXN4cUlPcllJTkw2SlY5NHpDNkkyWWg1QjY2LXQxQVRBenZuUzNuelktZTBjbmJKaTJ0aks4SjhKaXZfbHNzRGlZNkFDcGp3bTY3X3lyUlA2ejhqQ3E1N0I1RmpmMjhlWTJjdFk3TE1XQklsQlZxZFl0ekVKdWxWN0hCTTFyWTZrNmF3MlN3cjhqZEHSAb8BQVVfeXFMUHhfWlg4VjZSaHFtNnBveEczaWhrcjJ1eTZ3YXVrTnR5ZEdoMDV0TXZnS0FYNmhqMUdTTzhRbzhlMDJBVmo3a3pVbEkyMHVnX3JMdDVDVW9kcXR6MDhGOG5oOUI2UnNOcnBVN1lucU84bzVVNi14d0pDOEY5OXVWMTBwUzBkZkFLOGdwVXg4cnFHZ09RQnhrTW1HU0laMUdmYlB6VXdtV3NDYlhZRFpKM05rbWJtVzRwRVhKc0Q1RWM?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-10-21T04:49:54+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "HD Fire Protect shares list at 24% premium on BSE, NSE",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObWxXTm4xenM5eHBxNGhKZkpfdS1pU2RVcmM1Y3dKNE9jMkh1Mk43QmZFZE1DNlp0V0JtdTFoUGVhX0pBMTJXTlFGRDl4S0ZGTHlOMU8xMzRKX0F5NndLOVJVeTR4ekRLSVZiQVkyUXZFYXU4ZVdZNXRRSUZJTXpYRk5ZNE9CMVJYTWk4ZURjaXdYU0dHdTlmYVZJM1M3YUdzRTRGWmpvdVhKNklBNmZvbkhLX2ZPa2ExTUxTbi1Pa250R2JkZ0J3TGVQUGtjZ05rSnVndEVVMlHSAd4BQVVfeXFMTWQ2anNaT2ZuVlc4bE1BV1JIbGhwSGhTemVsczdNYTFFeUwwUlpkR3JOaXRLUUF5dkI3Tm9FOUxYWkNES2hzZHAyekVvMklVV1ZKdDBVZDZGemppRE9LNlJyZllyczFfQUl0cElucXFaaENxWmlYVjc0ZFVVTHA2RHVXUy1NMWg5S3ZsYUxoWnRUM2xfOWQzLUoycUc4QkgxMm5sR3pPRG1rbEo3TEFaVTl5d2t3WmxQWHM4VXE4My1lS1g1dVlrRTlkcWJaazNaeU1ZMWJ4ZUp1OGozQmdn?oc=5",
-   "src": "Moneycontrol.com",
-   "t": "2026-10-21T04:45:43+00:00",
    "tags": [
     "nifty"
    ],
