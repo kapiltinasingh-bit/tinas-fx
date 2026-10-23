@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-23T22:21:53.195175+00:00",
+ "updated": "2026-10-23T22:54:38.996521+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "CNBC",
@@ -114,7 +114,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
@@ -125,6 +125,26 @@
    "t": "2026-10-23T22:16:00+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Oil prices hovers near Iran high amid Mideast supply jitters",
+   "url": "https://www.investing.com/news/commodities-news/oil-prices-cool-from-5month-highs-as-trump-invokes-defense-production-act-4967880",
+   "src": "Investing.com",
+   "t": "2026-10-23T21:54:13+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold settles below $4,000 after steepest weekly loss in nearly five months (GLD:NYSEARCA)",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHR4ZURocFFQVExrS2Z3X1RjZXl2dmFLUThHQkJHdElpa0w5b1JtWGNqVmpwN0NSZm9aZmdjQmFGZEtkYUlQYldiYm1yaDFIWW5xcko2VmgyN2loRldjOXhtN1FYRkEybDlid0FlaWVWVXNRVDQzOFdHU1J4NGM3VldQeFNfMHk2ZGNOTTAzdzRrOGN6MGZEY3RBdjFqMGNmOEd6R1M0OHI0dzByby1B?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-23T21:35:17+00:00",
+   "tags": [
+    "gold"
    ],
    "tone": "neutral"
   },
@@ -157,6 +177,16 @@
    "t": "2026-10-23T21:12:00+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "BOJ monetary policy description={PAGE_DESCRIPTION}",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IRXVsSHVPY3RvQlY3d21wekFLMkZHSUUtMU5HYlYtdTZvYUxjRDNEdkUwdUUweExFOVhCOFJPazJxZDFKUi1lZk1rQjhYNThjdnA5S1JDVWdla1Bua3lZ?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-23T21:08:01+00:00",
+   "tags": [
+    "usdjpy"
    ],
    "tone": "neutral"
   },
@@ -2661,36 +2691,6 @@
    "tags": [
     "oil",
     "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Yen set for weekly gain as AI jitters spur safe-haven rush",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRU4zMGRzLXpsS3VUeXg0YlJGV1NNYnZCUTZaOVJhSm5KQkUxcExfVEZ0cmsyUkFHX2JubWJKV3RwVkpVd3dodmFLcHV2YU83S1JQSGF4YzlnOUdldHBHeks2bFpZLVJBVGhDeGxONTd1S05KSkxTZlhqYWFqZXA3bmloWDhhVEdQa3dpcllLbk16eURmMzhpUzJueE9vZw?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-23T02:08:00+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Oil Price Today (October 23): Crude oil ticks over $114, jumps nearly 8% this week as energy attacks intensify. What are experts saying?",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-23-crude-oil-ticks-over-114-jumps-nearly-8-this-week-as-energy-attacks-intensify-what-are-experts-saying/articleshow/135131739.cms",
-   "src": "Economic Times",
-   "t": "2026-10-23T02:07:30+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Silver Forecast: XAG/USD extends two‑month downtrend below $54.00",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOam4zc1h3bkZONHo0NW1XeGx2WTJFcXc0bkpCX3ExamdLRW14ZXAtUTVtVzhQUUcwUlpQeGJDT3NFbTdnV1dnMTdXR2Y0aWNWeldpNldaWWZhU1JyRmNOQUhsRklhMXJPaXpxOHRjdGpBanF6V0dYeDV6eUdDU3p3SFctSWN5WlFGV2Fxc0p3SGRQQUFVWE9kZUhEeUdkYk5OUloxdFJwMWdzS2dTN0t3MXRiWU1KVFhMU1Y0NlkzQ0ZBT1U?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T02:01:38+00:00",
-   "tags": [
-    "silver"
    ],
    "tone": "neutral"
   }
