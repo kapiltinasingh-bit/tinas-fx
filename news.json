@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T05:25:22.295998+00:00",
+ "updated": "2026-10-23T05:58:29.108846+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,13 +18,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Moneycontrol",
@@ -118,6 +118,59 @@
   }
  ],
  "items": [
+  {
+   "title": "Sensex plunges 1,100 pts from day's high, Nifty below 22,450. Key factors behind Rs 10 lakh crore wipeout",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-drops-over-600-points-nifty-below-22450-4-key-factors-behind-rs-10-lakh-crore-wipeout/articleshow/135135895.cms",
+   "src": "Economic Times",
+   "t": "2026-10-23T05:40:02+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Gold price falls Rs 1,500/10g; silver plunges Rs 7,000/kg as soaring oil fuels rate hike bets. Time to sell?",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-falls-rs-1500/10g-silver-plunges-rs-7000/kg-as-soaring-oil-fuels-rate-hike-bets-time-to-sell/articleshow/135135987.cms",
+   "src": "Economic Times",
+   "t": "2026-10-23T05:39:32+00:00",
+   "tags": [
+    "gold",
+    "silver",
+    "oil",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Oil prices rise as supply concerns linger amid Houthi attacks on Saudi Arabia",
+   "url": "https://www.investing.com/news/commodities-news/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia-4967907",
+   "src": "Investing.com",
+   "t": "2026-10-23T05:30:27+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Market crash: Sensex sinks 1,279 pts from day's high; Nifty tests 22,400",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORHE2eXQySVVQU2tHU3hBYXNRaDlKZ2VDN0MzLTRNYkhjSXhZUXN3M1k2aHJvbGpfU21KTHc0dlh1LXN5WktJdDZERXpZcEs3a0FMVEx2TldTWmdHLUhvZWRMa2J3aUpfaENNNGV4S3VzZVBBSFBiU2dITTRUNVkxOGtHcXNMMHVOX2dHU2JJSGRiZ0I0dFpOMk94TEM4ZTdQdGlvYmhEdzNPTC1JclUwSmJNWGQ4Y0w2a1pBUldzVmlZQ0VzRGhKN2J4SEVNMnd5R0k00gHYAUFVX3lxTE0xQ1pqOHZHWlJNc3h0c2ZtanRqMU9xU09wYm9lenZCQ2tpelhKb0NKSFVwNTVzeG5ycFFEazJaM1pBR1BBMEY2Z2NvamJZWW8wcDJub3BHVDBwWERYbDl3WkxnaHExclJGb1A2cVFiQjJ2WF9sb044OVY4VzVJeTdrdkhLZUM1VC1SekVQOWtwR0pfME53YjFydk9pTTlQbVA3ZXdBdUw2cGpaSFJaMEktUjBuLXNuNjR2REt4dURWTm10OV9VX04yS2JWeFdHY3FiTFJuVTk3VA?oc=5",
+   "src": "Business Standard",
+   "t": "2026-10-23T05:27:05+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Hindustan Zinc shares drop 4% as India allows large silver imports despite weak demand",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-drop-4-as-india-allows-large-silver-imports-despite-weak-demand/articleshow/135135402.cms",
+   "src": "Economic Times",
+   "t": "2026-10-23T05:23:20+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Global Market: Japan’s core inflation accelerates, putting BOJ rate hikes in focus",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japans-core-inflation-accelerates-putting-boj-rate-hikes-in-focus/articleshow/135135200.cms",
@@ -497,6 +550,16 @@
     "macro"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "WTI trades near $99.00, five-week highs amid escalating Middle East supply risks",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYkk2MjB6TE1aRDYxOURrYThUc21aVWptSnZTZjBvdHpzTklSSEY4UmVRYkdPNlJvR2lmcXNKbTROVXVwWTNFek5aOGh1cksyR2tYUmRsbEZ6bUdqam1LdjJrdXRPUXd0dnBNUDFmMFVULVJuMnhKVVdzemI2WWZBMWhQbHVVZlVFOU1oMFlZRVlUVURKWHg2QnZ2RWFDbmZPLXlzb3V6MktpMl8yd19Za0thZHI4QUQyNGc3QQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T01:01:37+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Oil prices cool from 5-month highs as Trump invokes defense production act",
@@ -2643,69 +2706,6 @@
     "oil"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Indian bonds steady after RBI minutes signal more rate hikes",
-   "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-steady-after-rbi-minutes-signal-more-rate-hikes/articleshow/135109590.cms",
-   "src": "Economic Times",
-   "t": "2026-10-22T06:17:30+00:00",
-   "tags": [
-    "nifty",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "U.S. Treasury yields may be poised for a breakout with Fed meeting as catalyst, says BMO",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lbGJYZXRXMEZYcGp3ZTUxMU5nbmNtNzdXM213VWpCaUtUMFhnVjFKVXQ1ZGNPaXJMQjNzczluWEhZWDR6TFBKUmgyZGNudTFXZVlMRzA1NEE0REQ4bC1qSVpTUk1ZSzZGNmJXSjJ3ejFUS3NOSjNscmF3cDFlQQ?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-22T06:11:40+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Euro: Range trading consolidation persists against US Dollar – UOB",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR1ZBYWx2WmZjdkNhXzBWN1VaNXdNSzVDUmxoN0VZRlhOMHptSUJRbWNQbWVsa3lYSFJLRkVZLWFiT1ZWczNqcHBCLTQzcGJKc3U0aFo3QTJ2ZnJ5WVphTGpfUG81d3RPWERnM3A5ZXZIRnZ3VDVOTnMzblc1akI1QU0yS3hHX0xxb3lfSTBXdGdzYWdLNmw4NUc0eGc3WmZHajM5ZlBRQjZpUQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-22T06:11:16+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT2YwOXk4SUd6SVFIM0Vva2lxQTkwZHA1UC1Md0VETk56c2J3SF9QSTVHMEVteDNxUXdjNGJpT3d0WVQ3ZnBsSzhpVG94RW1MU0xaWDJ3M0FwcjRNTFFxdTBHQ0NPOWh3WkNDUUpGclZHWGhkb0Y3UGlUQVRvTFVNZEVqMU5KV19xTVVfdklhS3duVEhRaFBCSTY3amZnbVA1dHVhSHZKZnpsMjZvM3BXWS1uZGFMZmc?oc=5",
-   "src": "Benzinga",
-   "t": "2026-10-22T06:08:59+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold price falls Rs 2,000/10 gram; silver plunges Rs 6,000/kg as traders eye US Fed meet next week. Buy, sell or hold?",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-falls-rs-2000/10-gram-silver-plunges-rs-6000/kg-as-traders-eye-us-fed-meet-next-week-buy-sell-or-hold/articleshow/135109189.cms",
-   "src": "Economic Times",
-   "t": "2026-10-22T06:02:13+00:00",
-   "tags": [
-    "gold",
-    "silver",
-    "macro"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "WTI Price Forecast: Advances above mid-$98.00s as bullish setup backs additional gains",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWjNnYml6YkMzU0E3WUVZdU96RzZBWWRwLVlfYUE4Y2RsajFYbF9QTnlOUzI5Q0NUUUc1VlgyVkYtNzZpRWNlTU5yQVU1VTh2T3l6MnFmZldTVlJILWV6c2NtYTB4RTRUc0lwZk9pV19ISlk1b3VqLU9BaHQwbF9WSWJvY09GUHJvZ1RwX3luQzFNbFJHU0VmOUNxUHFQTE00dUIzSEl4akR1MUNmd1BvSEhWZi1uWXhwUC05SEFNZEVWVEVL?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-22T05:53:12+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
   }
  ]
 }
