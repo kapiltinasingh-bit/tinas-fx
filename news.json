@@ -1,42 +1,42 @@
 {
- "updated": "2026-10-23T08:04:26.945468+00:00",
+ "updated": "2026-10-23T08:42:51.866360+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 9
+   "new": 7
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -54,7 +54,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "MarketWatch",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -114,10 +114,51 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "D-Street bleeds! Market value of all BSE-listed firms falls below Rs 450 lakh crore for first time since April. More pain ahead?",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-bleeds-market-value-of-all-bse-listed-firms-falls-below-rs-450-lakh-crore-for-first-time-since-april-more-pain-ahead/articleshow/135140291.cms",
+   "src": "Economic Times",
+   "t": "2026-10-23T08:29:38+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Silver prices slide below Rs 2 lakh/kg, down nearly 55% from Jan peak. What’s behind the rapid selloff?",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-slide-below-rs-2-lakh/kg-down-nearly-55-from-jan-peak-whats-behind-the-rapid-selloff/articleshow/135139949.cms",
+   "src": "Economic Times",
+   "t": "2026-10-23T08:20:53+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans",
+   "url": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
+   "src": "CNBC",
+   "t": "2026-10-23T08:16:52+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold rates today (October 23, 2026): Check prices of 24K, 22K, 18K gold in Dubai, Abu Dhabi, Riyadh, Kuwait City, Doha, Muscat",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOaEVXNXh6a2ZyX3ptVzNfZGpFZGQ0OThzZlFpMmlPYzVHelR1RkV6Rlo4S1NUVG1RRlpyczYyYU9oRnlNcjM5YUNyMF9aOTZ5MDhiYzdnVmdPQnJoSEl5VFFiVk9CTC1YbzhWRURxcUtYRXN4dFlQeW5aME5nZUZFMHJjUDNLNV9BR19zUnRPM0g5SHJTVGtwMTZlU1lSZlJrYW9zTHZQUUc0azU2VzcxTFU4a3pZdDE2WHlua2EtQ21kWTNfS1JrcW8tYzhZWWVmOXA5TDQwQURiRnFkaXlRNkZUQnF0cXFCazQ0eFd3SjIxaldXLVhsa19KcWJEWFAtTG1HZi13S215c3loOXc?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-23T07:58:41+00:00",
+   "tags": [
+    "gold",
+    "dfm"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "5 best Gold trading apps for 2026",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdFdSeHRDSEs5cmFvUXd5RjluTDg2X2w2bkMtdkI0OFRrQ1JSWUlsSWRtODFkam9Pbnl6UHJXUzRzTUxHQzBPaUF6YUc0YnlnUE9FbzJDcGo4blNSd0IwWnIxeU1PUWY5NmxpdGd3QTQwSmxkT3BqQ0pBbmhoR0Y0dEFjVTA0WTh3M2pmQlkzdw?oc=5",
@@ -125,17 +166,6 @@
    "t": "2026-10-23T07:50:48+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold rates today (October 23, 2026): Check prices of 24K, 22K, 18K gold in Dubai, Abu Dhabi, Riyadh, Kuwait City, Doha, Muscat",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNNjNMa3plalh4elpULWJ4azhZT25vUEo5Z0VWNzFYaU1ST1pUeGgyWnJOQVZna01wY0NtVXc0SGJoSXdHaEY4UV9qX1pkcFgzWnk3YWdBTjN3eXZZak8tNUtIY1k0azNLZ2F0bzN4bVRoVzhEWDRZR1BsQmdEekRSMWJvWjE2QmNMRzQ4ZXRpRVdRQ29hTVVpVDA2a2wtY3p5UU1lSmVEeVJaODNFd09UU1RFYlFZMGlINzl4SUdFVl9EY1NmZHQxemgtbjMxYWpHNjVHZ3ZsSVAyYVp0b1VuaGNhWUhQd085dTByNDBYQUo3R0dwa0ViM25DRUctR2pyRHpud193YkRsWjM0U2M4cnBjeVV2N1V3Rnc?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-23T07:45:59+00:00",
-   "tags": [
-    "gold",
-    "dfm"
    ],
    "tone": "neutral"
   },
@@ -156,6 +186,17 @@
    "t": "2026-10-23T07:40:38+00:00",
    "tags": [
     "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold hits 3-mth low as oil rally fuels rate concerns; set for weekly drop",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUVXME5UQlZPUUpuQlJRSlM5RWcxeTB2TTZieGZTaDBGM3VqajY5c0VsOHdJMkYyQTcyTGhOS084NkQtcTJyMjVxWmVsT0l5M254RXpBUlJmbGs1NWtHSzYya3VzTmh1ckVMa2RNZVdZNnNVLWIzMUhrLWMtc212RkZDdUlwdW51YWQwTHRVWEFYbVZ2U0JQYTRKSHNrQm9ieWxSOUUwS1FRMXRrYjhVaGNSMm5WaTFFc1lkR0VYTVJuUk9ZeGc?oc=5",
+   "src": "Investing.com",
+   "t": "2026-10-23T07:27:38+00:00",
+   "tags": [
+    "gold",
+    "oil"
    ],
    "tone": "neutral"
   },
@@ -220,13 +261,13 @@
    "tone": "neutral"
   },
   {
-   "title": "Gold hits 3-mth low as oil rally fuels rate concerns; set for weekly drop",
-   "url": "https://www.investing.com/news/commodities-news/gold-hits-3mth-low-as-oil-rally-fuels-rate-concerns-set-for-weekly-drop-4967928",
-   "src": "Investing.com",
-   "t": "2026-10-23T06:44:34+00:00",
+   "title": "Gold: Energy-driven inflation weighs – ING",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQmpBRVlBVTVlM1VmSW4zYjEwd1JhNUNTUnpWdGhPZ2U2TFpyMHVTOUZiTlVGb05ucUZWbVZaR3VmSENGZVJsUWFzZWRyWVlzWllnZEtta1l5S05ZR0RUMllnQm1ONFBhQ3RVZEFQdk1ubGdfMEFkVkRkeTA3Z1ZibkFiT3d3UmRSNmc?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T06:57:43+00:00",
    "tags": [
     "gold",
-    "oil"
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -303,6 +344,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Gold Falls Below $4,000 for the First Time Since July. What’s Next?",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUJFNF9jb29zTXFTdl9vc0ZXNFlTMXB1UWFoYzFDT0VxRktZMFZZMkJPSlBJSVVGbXhhRG9TalF0TnZjNUNPZmdNVS1ncE5TbEJweDlvSHJYU2dlaDRUVmVnQ3QwT3ZSTVA1eFpzT0NBM2R2OEdqcnBHX3ZRc1dZcE9GYTB0cnlnUGVXQkhzTEMyX2lqZ3hr?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-23T06:16:00+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Could lab-made gold crash prices like diamonds? US start-up says it turned mercury into gold",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OYzl0VkdycEx6d3JMUU0zOEtIa3gtMGxNUkZTTzRZQzdXMHcySVpuNVNJNzFVM0YtbndxaHFsY3hBX2N4ZDJSSWdEWVQyT3RnUmVGYUdJX3dvRTY1MVZ0QXNxTTdKV3V4NEEtQlctcUo2R0dyRkxBT1RIWV9FQVE?oc=5",
    "src": "Yahoo Finance UK",
@@ -329,6 +380,18 @@
    "t": "2026-10-23T06:12:41+00:00",
    "tags": [
     "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0bHMwdHdNZlFYTERwX3Z6MHFmb1RqcFFEcFU2Tkd1T25OcF8xU2pqRmZmNXFJbE93ZFgwRUppN0MtN0QybWFmMG53QkhpMHRJVEg1MU130gFWQVVfeXFMUHRsczB0d01mUVhMRHBfdnowcWZvVGpwUURwVTZOR3VPbk5wXzFTampGZmY1cUlsT3dkWDBFSmk3Qy03RDJtYWYwbndCSGkwdElUSDUxTXc?oc=5",
+   "src": "Business Recorder",
+   "t": "2026-10-23T06:11:32+00:00",
+   "tags": [
+    "gold",
+    "oil",
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -533,14 +596,12 @@
    "tone": "neutral"
   },
   {
-   "title": "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0x2VHNBWkt6RWNETndlR0p1eDd4UnhlZFFFbWpaYWdocUl2MnRCQm16RFpYbHQ3dF9jOEtLMENKOHUySjNmaW03YkhFRmR3WXRnbWtIaGZwbVVQNHJMMC11aklCdlBNcjMySDZsOU16WVBaZl8zR2ttZkgxMXVVWldnY25RRjJzbks3WFJwZWpnUE9maFdseVAwcmlmRHFJYUxCTEJ4RmN5QdIBrwFBVV95cUxNUEhSek0wcnlJbXhsZ0NkYmVoNEJmSUF5NEdCRElnZUVtNEcyY1hJSUloNEVtV3RRcDNXazdBUzc5a0V5OS1JXzFZMkROWVU2VHE3dUZmUExCMzdiRkNXZ0ZTY3pwUEJXR2RGaWY2QXVJOEtxV3lCWmV6OGdkZEE2NmJxcGZpSUYzZUhFNnRCVkotekVpY3BrWEVudnJkckF6dmVVZl9qNUtwN193MVV3?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-23T04:29:38+00:00",
+   "title": "EUR/USD Analysis: Is Euro Indecision Becoming More Evident?",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXBnaFoyVmJsVUZvc3hBVF9FTGR0TFlLVG11LW1UeF8xck5KaGREN2wtSWFJemQzZFlxNEU2bkM0OVltSGNuamxSaUJzc2NTZG0xT0FhRF8zSThCTzhvUnFHZU1YdkFQX0dsVmRyTWxLU1VDU2ZaOU12SllmUlUyNDlxZm9vWVNHU0lhbDhDQTlVb2dnbE5xS3NiaVNNLW1oeEc0?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-23T04:27:36+00:00",
    "tags": [
-    "gold",
-    "oil",
-    "macro"
+    "eurusd"
    ],
    "tone": "neutral"
   },
@@ -670,6 +731,16 @@
     "gold"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Rupee weakens on risk-off sentiment from oil prices, global AI jitters",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWXBDSi1qd2lxU2sxdVRIV3lWb3NuS1pkRFc0V2FYZnJESXNXcTBsYVhBYXd5ZGRUYTFJeXRzQzgxR2xRTjNaVjd6aG0zeklOTXJjRmloODdYM2pVV2ZqYmpEbFJuZEs0YlZpSGsyYWZlbXgxVFJCMWExSlJqMGVKOWJnUnN0NU1XYXFGQy1rV2xxUHlNY1RCMDVhbDN2dw?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-23T03:00:00+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Nasdaq Futures Rise After Chip Selloff While S&P 500, Dow Track Mixed Open: SLV, GLD, SOXL, BE In Focus",
@@ -959,6 +1030,17 @@
     "macro"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-22T23:54:52+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Japan's core inflation exceeds BOJ target, cements near-term rate hike chance",
@@ -2196,6 +2278,17 @@
    "tone": "bearish"
   },
   {
+   "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Drop Following Asian Market Sell-off, Middle E",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPOVlPODIzdV8yUGJfZHZnMURCTU04czVhMnZuZkVmelRNR3BtQmVBZzdyZ2ptNXd2WFBpSFktLWhKUXdGS0VMaVNjcFRnY2FvQlRXS3JtdzN2STRPNGtST1FPU2dlMENuTDVuLTFDWHFtakNJSUJuSW1LdHV6bGU4eWs3blhBc0VIcTdReUxIX0lDMVpoNFJLdFd1N1pGXzhURkZxekRNWWQ5c2lONzcxTTZUc0R5U19PcWlqZjZDenVFOC1ESXZobzVjOTZLcFlSWDdqU3NaMVNwbVF1T2h2S052N1o5WHhSUy02T19IV21LYm1NVnRpc0JkWk5OUEUzb0Y0bWlTNA?oc=5",
+   "src": "Benzinga",
+   "t": "2026-10-22T12:37:00+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Here are Thursday's biggest analyst calls: Nvidia, Tesla, SpaceX, Meta, CoreWeave, IBM, Block & more",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN0JzLVlwTHVQMmdRcmplTXJYS2l3ejJGbGQ3cVpYamFSZWNVWWl5X3Z6UlJpekp0Q3h4QmJiREpMU1BsUWtwMGdHdm50N01iTXNidmRqejQ5YTE2Vkc3d3l2X3dVV09rc0tOUnNDQVB2SldCWW05elh5R1dfcXZaYTFxeERndmFIZnZMcE5BQXM?oc=5",
    "src": "CNBC",
@@ -2542,6 +2635,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Yen surges to 3-week high as dollar wobbles ahead of c.bank meetings",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWlBqWjVncWkzRDMxUlZmYWFHUTJOMDJLa1UzOURHc1lRVHlIcHFmblh1bmxJZ3VCUk9CUHZjUHE5cjJESUtmZ2gyQWF6VVk4c2FDdE9rdW0zbnlrdzZQVjZJaU5WcHNFUG5fQWdZWTZHWXpZdUczUXdtckhnVjVnQzVRRGRKV1VvbHFZWmRjVjN2LXV5S1Y4TmY4M1A2eExjdm1MWE9hdTgyY3FZUzVMQUtzbFRUTVJudFRVU0xLaHBBSVhx?oc=5",
+   "src": "Investing.com",
+   "t": "2026-10-22T10:38:29+00:00",
+   "tags": [
+    "usdjpy"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Gold price today, Thursday, October 22, 2026: No real upward price momentum for gold",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPblR2dkpHMTlGOGZzekxGUzFEeFVSUENkZFYzNDBtM0xxbmdwMnFBTDRJdHlma2VjV1VTTUJDRmJHY1VXa2EtcFkxdHNqaF96ODJaLVg1b1VFNFNKSlVyM3FZNE9pa0M5M2otZVN3d2pYXzlfZkJpTVA2RVlhc3dGZ2JTTmJRaHhlNk5zRmtYWHJCbzNlNERGMkVIc2hsRGdQM1RIZjdKSDduMWtkai1TY1dtcUhndVdqUVk5UGlvOFhrdUUyY255Ti1ESktZMlpYS1pqanVleVprVEhpTkVfSUJuVkZtLWdlc0ZhSA?oc=5",
    "src": "Yahoo Finance",
@@ -2602,108 +2705,6 @@
    "tags": [
     "oil",
     "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
-   "url": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
-   "src": "CoinDesk",
-   "t": "2026-10-22T10:18:28+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Abu Dhabi University strengthens Dubai Campus academic offering with eight undergraduate programs across emerging technologies and key disciplines for Fall 2027",
-   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNLUYtS3BXb1pjRlFDS01JRHB5SWZGRDJUTzM3RUVKR2VnRkJMaDJqX1RiT3JwbGFvXzZrQ2lhcHN4MVhRa3MyZUlGb012SXFhRDVUSmx4VTRlbU5VVDh3LXNNTzN3SFZNby1NZDRvU3oyMy1tTDRSWGxkdW5VVm9vczlSd0FSNVd4VFhHSzU4YzFKMjJ1Sjc4U1hTbFd5YU5ZWTJCRTlFOGRBUGpMd2pHUXhOdlg5eVlFd0g2cHNXeHVQajZhRFUtWldTOGlUTjZxX3h0c3hqMFlHbjM2WlJYYUxDcmtUdmUtenZ3S05yTXo3bUZITjgxVDZ3MzR3dEk5Y1NRLW5KRm1yNkZFZ251cnpKTTljUGljamcxa2VzcGFqVUJiaVIzQkZLemNuUl9CTG5RN3Y2ZnliYVY3Z1lad3VwTUY?oc=5",
-   "src": "Zawya",
-   "t": "2026-10-22T10:16:00+00:00",
-   "tags": [
-    "dfm"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Sensex, Nifty end lower for third day: Elevated crude, weak market breadth weigh on D-Street",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRnhSVW1KVGdMWTl3a3V2a0RuQzFFSng5dnRSN2tJcTRuQmtHTktSWjJoWFo1NzZycmpqZmhad1NYVnhVM0IyeHo2NWVfNVN4WkU5Y3pReGVIbFVYOFB6ZzhESVdxelM1UjdaTVNlSEFCbWhlQnZrWFVoT25yQXNSLVFZTFpIZG5XaE5ZcWgxYXZTNE9CYTF2ODhyUTNWMkM2UnR2UHBqQ3pGdGRVdFhHUWw5V1hCOGxZSU1nazJNWlYwTUlUc3d0V194YV9Mc1XSAdQBQVVfeXFMUFlQM1FReW5mTnRzNGhqNzItMmRtbGgwX2VXd1Z5Y1dpUzdULVFxSWhDa3htNGExNHNhNHJ0LXljTHZGTzI0SWNxbk82U1drYUZLWlFneDdiSDdMTEp2LWJ3c0lFNk1WVGotZGpFNlUxVlhCcTZpSmdYZkREbXJvUERKaVpTcGl0bk5EWlBWQnh3UGJYSjNESi14RzNsOWdrS2tOTGRpRWdBRmxRYXVSR2xjNWhkRnNaQkl6YnRpSVZ6MTVmc2lkWXczWkh0N2xlTXdMQUQ?oc=5",
-   "src": "CNBC TV18",
-   "t": "2026-10-22T10:16:00+00:00",
-   "tags": [
-    "oil",
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Rupee snaps eight-day rally as oil climbs to highest since May",
-   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-snaps-eight-day-rally-as-oil-climbs-to-highest-since-may/articleshow/135115702.cms",
-   "src": "Economic Times",
-   "t": "2026-10-22T10:14:31+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
-   "url": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
-   "src": "CNBC",
-   "t": "2026-10-22T10:10:15+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Price Forecast: XAU/USD tests key support at $4,070 amid high Oil prices",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeWRaU2piNzlNT3ZJUFFNaExZQjRiWk9tYXpvQ09WSkFydHViQlBLOWNGT0FhZHlKX19HZVRxekhJVVNZVTNaLTVTcG5MRlF5SndobVB4S2dDMUtUNWxUWFZnTi12ZHI1SGo2YWhWRjB3WUZmejZOTUJlOVNYbnNxV2dqNzAtUUE2NHpzdklPZjRVOGdaSERkSTJfU0lBaUlyVnhBNUdzSG9QYWRHaHR4N2FEZTRCVXhCbFE?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-22T10:02:24+00:00",
-   "tags": [
-    "gold",
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Signs Are Growing That Crypto's Altseason Is Right Around the Corner. Here's the 1 Altcoin I'm Buying Right Now.",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSTI4WU10S2sxamEyMGZCVFRuS2NwMHFJWmJHeHRMNkNIcmplY0R2QzkybHRXVTRrSW9HQUNWYUVoQnNPU1BoY0k0VXo3OXg2cFZlRmZxNEY3TkZfS1llT2JnTWdjTllrMGdlYWJPc3FsZHMwMXduUFZzLWhnaHpFbmhFYWZ1dW9CbnlzOHltOUg2aktwMkEyRVZ1THduNm1xY243aFBn?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-22T09:59:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "E-nano S&P 500 Futures,Dec-2026 (NES=F) stock price, news, quote and history",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BSjlTV2VJeWg5bEFHMzJZalloSHJRdjVNMWRzVFFoSDB5VkFXSzJOZVEyMWh4N3pHVmwzNVQ1Yk9mS2syQTh2ZVg4UWRiSVhRWkw4NklR?oc=5",
-   "src": "Yahoo Finance Australia",
-   "t": "2026-10-22T09:57:12+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "USD/JPY outlook: Fresh weakness breaks below the floor of four-week range",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV0tHcW4zcnp0TzZLRjNCMWxvMHh1NUhoM1BHV1NzelFqVzRYV1l6VVdzbFVBNmZkQmVFVTUwV2tPakJxYzYwWmJUUEJrN3I2UXRBbjlRNFB2Sm1aY2RnNHlkbXlnR0JkQ0FNdzg4NERoM1FQNDVBNkZYN2ZXVEp6X3N0SnJGc1dNUHYwaTdNZ3RyTUtUWVY3dFd2QVd0SnVGS2kxalVKUldpQ2c2dUxuTGZ6UmlaY0RjanR3?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-22T09:57:02+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
-   "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
-   "src": "CoinDesk",
-   "t": "2026-10-22T09:54:26+00:00",
-   "tags": [
-    "btc"
    ],
    "tone": "neutral"
   }
