@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T01:30:36.693718+00:00",
+ "updated": "2026-10-23T02:11:51.916944+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 7
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -114,10 +114,52 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 3
+   "new": 2
   }
  ],
  "items": [
+  {
+   "title": "USD/JPY, Nikkei Break Lower as AI Meltdown Spreads",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUEdQNTREMjZNSU1WQkpPaExOeFBMVGsxLUxiX0lJdWZiMUhhWG5RVUFZQ2dhX05DTUd6X21kblpwaEZJbVJyRG1pbkxvQlkyOUl5ZmtRMnU5dkd5Tmk1b01HbTVTVF9FWVRhU0pRT1VKT1hKdFJhcGwyMGxRalcxbEg0SzVMN215cFo2Uk5PUElqSVM3cUVYYWlDVVfSAagBQVVfeXFMTUN4ejVYYlNDbk5wVE1saDVXeFZyOElkZ0ZKZHZERzBOWjB0bExGdG9NMUVYZTlTeFpIQ2tvS2dtOV96VVNTQ1o2Mm1ORHJ2bzludnBRN3ZWSjM1WnYxelEzaDJMV1ZqUm1vd0tuNUFzeV9DcUpwcFQzYXNOQnpLLXJKTUJhdExVck03ZUV6MGpyamtTTnZuTm5PUGtZS244RTM4R1ViU2VE?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-23T01:53:23+00:00",
+   "tags": [
+    "usdjpy"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Gold hits 3-mth low as oil rally fuels rate concerns; set for weekly drop",
+   "url": "https://www.investing.com/news/commodities-news/gold-hits-3mth-low-as-oil-rally-fuels-rate-concerns-set-for-weekly-drop-4967928",
+   "src": "Investing.com",
+   "t": "2026-10-23T01:51:45+00:00",
+   "tags": [
+    "gold",
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Stock Market Today: Gift Nifty, US Tech Stocks Selloff To Oil Prices; Five Key Factors For Sensex, Nifty 50 On October 23",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQWdWRVpsUTNxQ1RxNHNyYk9CMlBJRk80WmcyZWloYWRoaUZrQlNybHZLYVFfZ1V5dkpEZGJTR2w4UF93MTBSWms0UkMyOU1BSS12bFZydHo3Zi1kcTVNZXZIM3N4MDUwRUxITG9NazI5M2FGRzdrN2Z0R3Atbk13cjB6SnRBVEdtaDVMcVU3OHJDREYydTJUTUZSWERLRVRTbjRuWkxoTGNZdzdQQnFzbTlOTFJETTVRUjl4M1VNeVg0ai1PV3VOUlNEWnRTcktKWVN2NWViOXY5cmRSeDd3SVd0NnVOck9IQVpBX2ZoYTFiQUpGQ3BNQWxrcG8zQdIBhgJBVV95cUxQUG9tU20wMjhNUjNkOTZYVXpic1RuYkhHcVZBdGZBMkpaSDRNRS1fMHdjYjFDY3JqZTczRWFFWXl3SE5pYmltRnpnZV92X2ktMFV1aGRiZTJ2T0tYa1FMNW9PRzhsLVk2S0JUTU5YRGdvY3Q1MUgwQlUweFJiU05wa2ZhUUUzNE1GR0MtbFFHSExJdGlJWWlBcWt4Ry1iRXkzVVlTM09pejk2SXdOUDFrYkxDdGM0dU00dkhvdE96V3dDQjVkcm5UcW5jY3czMmwzdFo5V0k0dDAweWZZdkx4LW1FTnkwYnc2WVhBbmhzWGZJV0NKR1NjTW8xZFBVdUVpY0lITHpR?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-10-23T01:31:34+00:00",
+   "tags": [
+    "oil",
+    "nifty"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Euro edges higher as USD selling remains unabated; France's debt worries cap gains",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQekNobERCbTJfakp5czd5eG9XVXpLTDFRdER0NGVOdmx6b2taWEtUcC0tSVIta1ZJVDNrOS1UOFJLNVpjb0tYeGV5UzBEbmlTaU9XdFVneFQtemNJdjdtSDdiQ0p6TU5xZlNiZ3hRN0Rzd01KQnc1QjgwaDJ4Y01ubFZqanhrS0Qzem03eVc2SmZxX2ltOEZUOW0zQlZIM2tWZ1p0VjVKVmoyNUh1QTVEcXNycDQyUUFhUXZ3ZGpXVDE?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T01:24:30+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Wall Street Highlights: S&P 500, Nasdaq Fall As AI Jitters Ease Bets On Fed Hikes",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbVJsR1BSSWFYckxUYlhhUm5DYmxGdkdDV0NMZU5tZWNVUXM5YnRUYm4zeGRXU2hfNjlCeGNuUFRwTDdGNFljRHlGcVhmU2s1U1MxeEVibEh5YzcyLXhJdHVhQ1RyU3JsUjBiSk5wWmZWbENqd2FnODdUVzAwVG1COGMzUVFlMlBWTUh2RDBISXI2UHZKWVo4Nm5IYktQSjNhSlk1UDAzWTJvQm9sRFJBczFHUkZ6UEhkV3J5WW51VF_SAcgBQVVfeXFMTThqTzc4OVdlQXNpcVZpYmtrcGdOeFRjbVVIdlpvWk0taXJ5ZVJsUE8tVFM5dzBSd1Jyc3k2YXBweHhnZzMyVC1kdFIwY2RnMGJiNDRvUW1kOGNIZ3I4ZFdFVTBtREw4bmJvWlZsaTNQVzRPRWJUOE9YYTZ3Vzh3NHc2SFdydFFWS2VQWDhQUFVCdjdUSm9YR1gtS2pmSTk3ZzU3RFhKQ1lyUHJ5TDNRU19iUXhLNU42OFI5UklvelRaWExkSlNMNHM?oc=5",
@@ -159,6 +201,16 @@
     "oil"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "D-Street poised for a positive start as GIFT Nifty trades firmly higher",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135130077.cms",
+   "src": "Economic Times",
+   "t": "2026-10-23T00:30:00+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Nasdaq 100 Clocks Worst Day In Four Months As Investors Grow Weary Of Capex, Elevated Debt — META, SPCX, BE, MRNA In Focus",
@@ -2652,58 +2704,6 @@
    "tags": [
     "gold",
     "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin rallies back as tech rebound sparks speculative appetite",
-   "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-rallies-back-as-tech-rebound-sparks-speculative-appetite/articleshow/135104147.cms",
-   "src": "Economic Times",
-   "t": "2026-10-22T01:57:38+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-as-us-orders-diplomats-to-leave-saudi-arabia-amid-escalating-tensions/articleshow/135104162.cms",
-   "src": "Economic Times",
-   "t": "2026-10-22T01:56:06+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Japanese Yen extends range play vs USD as focus remains on Fed, BoJ meetings next week",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTklveGxEQWNfYUo3WkM4YU94bU9rX0lBN3luVTY0dDV1SzdTeHFJQUxwTGlqOTYzMGxEWWV3MkxRXzdQNHhKVEQ3NVkyMDFaQXRjUTg5U2R0ejlvWnFnZmViNmFzaWhQNW9XbWdyU0U4bUpIaW0tTDZTZWhqWUlaMTZKbzRXV0JLRS1WV216U3pfcU1pUDdZNjd1NXptZ1lwSmtZMDhxalRIZ29xcHN4cGMyZWViMWVpQ2RuMUItbUJkUUFqNUpR?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-22T01:51:50+00:00",
-   "tags": [
-    "usdjpy",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade mixed",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ril-eternal-share-price-22-october-2026/liveblog/135104237.cms",
-   "src": "Economic Times",
-   "t": "2026-10-22T01:48:17+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Nasdaq falls nearly 3% on elevated AI financing worries; oil gains and bonds rally",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTk0c0JOTkt3Z05zblJyTEV2TXRMbzFFZnRYZ09LejVJTWpyQUpCRmlyUGVpMXZacjRJa29NSjQ2LXNZdVBEdTBIOU94MUd4Y3ZGV2R2Y0puTjFNbjAtN29kLTBOUTB2Ulg5SWF0UzhvRzVidTJoLVhqWDNqaTIzU0xsQ21wQVFhWVJJeUpWcC15ZV9jNUxEdFB2aw?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-22T01:40:00+00:00",
-   "tags": [
-    "oil",
-    "nasdaq"
    ],
    "tone": "neutral"
   }
