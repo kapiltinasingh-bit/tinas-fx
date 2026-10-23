@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-23T04:21:30.940480+00:00",
+ "updated": "2026-10-23T04:58:28.540793+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 7
+   "new": 6
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "CNBC",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Moneycontrol",
@@ -108,7 +108,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Gold price in India: Rates on October 23",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa1pZbTNPODRoNnNTWE1MZzg5ZDF5RHZfd0dzcnpmM2dBTzdBalNVX2ZZM2lLMkdONzhMb09QVzRJMk5qU1VpWDU1VjhBYmVVbXlORVJMSDFkdVpDWTdhXzBLSDBZUHpXd3RCME5NTkRFS1JvYk04QkZKRzdiT0xkY0FWcDFWMDMzTDJzZjNSZVhhQTAtc1Z6RHpFUGp1VG1kdndYNVBB?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T04:38:20+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5",
@@ -270,6 +280,16 @@
    "tone": "bearish"
   },
   {
+   "title": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYm9wdGZRajRVQW9SWExxNU4tX3ZOTXdTeWZFZDNBZVdyTHoxbklBOEJlTjk0a1pUZGdQelhzSFZaNVo5ZjlnS0s1NUFZZzdHU2l3YzgtQVJHbXRGWklkYWlraWlPckZqc0FEOUEyMFJSR0ZDYTNsVURURWZBalJyTlA4MXdULTJZWDlqSVl4RURNcWM?oc=5",
+   "src": "The Block",
+   "t": "2026-10-23T02:21:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Bitcoin, Ethereum, XRP, Dogecoin Sink as Iran War Fears Return: Analyst Says Deeper BTC Correction Won’t",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeW5sMS1FR2FfcUQ1U1BiU1AxUkhxSmlZMFpueHd6UWpHQkpTdDFfNU5zUnNMSHJoek1veXM4Q1pWUU1yeGJuOVk3bUxpWmtWTU51Vi1KS3I0VXh3enkyUlJLQktiSTV3azlRRU5ZUDNfaVc0S3BjN0UteVNTbFcxTDdQemtFeXNyRU41cXR4aHZtTVBNZW9iZnVGdjF2dVZSQTZ3OXYtZWR2dUU?oc=5",
    "src": "Benzinga",
@@ -342,6 +362,17 @@
    "tone": "bearish"
   },
   {
+   "title": "Gold hits 3-mth low as oil rally fuels rate concerns; set for weekly drop",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUVXME5UQlZPUUpuQlJRSlM5RWcxeTB2TTZieGZTaDBGM3VqajY5c0VsOHdJMkYyQTcyTGhOS084NkQtcTJyMjVxWmVsT0l5M254RXpBUlJmbGs1NWtHSzYya3VzTmh1ckVMa2RNZVdZNnNVLWIzMUhrLWMtc212RkZDdUlwdW51YWQwTHRVWEFYbVZ2U0JQYTRKSHNrQm9ieWxSOUUwS1FRMXRrYjhVaGNSMm5WaTFFc1lkR0VYTVJuUk9ZeGc?oc=5",
+   "src": "Investing.com",
+   "t": "2026-10-23T01:55:11+00:00",
+   "tags": [
+    "gold",
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "USD/JPY, Nikkei Break Lower as AI Meltdown Spreads",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVXZDSmprbzlEam9PTVh4WEFTYXc4NjJ4eVY1YzBodUt6a3c4VzI2cUF1T1NqUU9mdTd4Z2g5bnFlODNsSlYwS09FRWNucTZmSHFIOFZuQ2s2RDJ1RGZSb0NiNVZhYTBIekQtdnRGYUgzank2ODYtYXFmU0p5SWlKcmV3eHpnSTZpMHRNOGdLRkNCVXFsT0VKSXVxSUzSAagBQVVfeXFMTVRGR3FoSHBmOWlxYXdDYzRGYVcxRVZXTXpSUzFKNnFjaldDVmRnUFk1VmhheGRhTzRUWldQY1k1b2RYcVBvaC1OeTNlcXR6c2hoa2ZFVVM3U1pDU1R4Qzd0T1NQZkN1anZKbVhQVFhab2dCNHVId2ExSUU4bVVZOTctUW83S0c1Zl9yV09iejVvcGE1VThlcHZRVXJiR1hUMmVFZFVvRFh4?oc=5",
    "src": "FOREX.com",
@@ -350,17 +381,6 @@
     "usdjpy"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Gold hits 3-mth low as oil rally fuels rate concerns; set for weekly drop",
-   "url": "https://www.investing.com/news/commodities-news/gold-hits-3mth-low-as-oil-rally-fuels-rate-concerns-set-for-weekly-drop-4967928",
-   "src": "Investing.com",
-   "t": "2026-10-23T01:51:45+00:00",
-   "tags": [
-    "gold",
-    "oil"
-   ],
-   "tone": "neutral"
   },
   {
    "title": "Asian shares wobble as tech rout boosts bonds, dents rate hike bets",
@@ -434,6 +454,17 @@
     "nifty"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Japanese Yen gathers strength as CPI inflation exceeds target, backing BoJ rate hikes",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOVJDdW8xcXQ2Yi0tWTVTakF5YWlLSml6STdEaEoxc3FJY28yYl85RjRDWWh1MDZJYU4tX1VjT09PU05jT05sb3p2WUVobjZ0czJVQ3ZJYXdMWUo5WnVrX0pEUFE0Z0RLN3lOOVEyVHpzOVhRLWFaR2U2bndsUVZOd3FhTk9ZXzlPdlRkWjM1V1B1cU02cDdYSFVhSUhpQUpXeF9XUVJYZ0hlSmF5MTBBSGRCMlZFOTVRY0pqdGFqcEVzNnZuNHc?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T00:28:10+00:00",
+   "tags": [
+    "usdjpy",
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Japan's core inflation exceeds BOJ target, cements near-term rate hike chance",
@@ -1020,6 +1051,17 @@
     "nasdaq"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Gold, Silver, Platinum News, Opinion & Analysis",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9WMTNDQnp5YzRzREV0OVpGN3dTcGh3Wi1CVXNlYW5LUzlVMU1vOWV3Tm1vNE8tRXR6UEFvNW5fQVBFRjA?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-22T16:46:42+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "U.S. Dollar Moves Away From Session Highs As Treasury Yields Drop: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
@@ -2354,6 +2396,17 @@
    "tone": "neutral"
   },
   {
+   "title": "Gold sticks to intraday bearish tone below $4,100 amid Fed hike bets",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDVlQkk1SGRLNUFJckNVS2NxOXFNcUxEdVlIdWQzOUpFUHZkczlSaEdTX2JLMmZESjBkWmdPLV84UWNOMDFYM3h3VExabGpLcDdXNVNja00zYkZjTHJHOWpOZ0JMeFBzQm5lSTFCS3oyY0tyRW0zVmNKYVlwenRCM1NEbWxTWE5UZ1c4a05Ua0daSW9qTVdGQW1vRVQtVW9IcU5VYV9ja09ZNlNtN0xFQ0MwMDhrbEZfVjJWQjNqRGtWMm54N3J3bQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-22T08:38:34+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "China stock market collapse triggers crypto selloff as Bitcoin fails at $85k",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON2tlVXk5NV82LVI1eVVOZVp5ajVmWVVLOTFwb2p6WVdhWHdOVXIzRjB3NzktSFVQeC1qMVAxaVdPQ1Q1a1dUaXFWMGJIaU1aYVJRWjI4dS1GQmU0VF9VdXJnTjVILUIwc3hKVTNodk5sN2NrMkRBMHUtMWEtMVhHN2dBTGdfQXRjMmRPTVJNUG84LXVrMEwzWVh4TnV6NE53eG5SQ2FFYjJwWGdvVjBJYzFpbkhOQU03TVBVX1lLcDA4R1YyY0FNM1MtUW1oUmZp?oc=5",
    "src": "FXStreet",
@@ -2653,59 +2706,6 @@
     "btc"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "USD/JPY Price Forecast: Hits one week low as bears eye trading range support near 157.50",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNDhpTGUxMFlXRmpDbVdwYVBUTGExUTRNT2hXdEpTR29HTWtYX2N3ZTRRcnRLM3ZjcjZETE5GMU4zelgzczk1T3lhM2p6VUZwbmMwTXluWlBCckl2TTBMR1BSTmJSeUxicnU1ZHNfS0ZVem5BQzdYUThSOWRoQUl1U0thdEdaRXRzbTk5S0tva3pSV2lYS1F2QXNuc0s3ZnBtQ1pNZ0t6alpOR1g0MElSNVhhM0JKNVY2NXVpc1pzaDd5b21HNHJxRg?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-22T04:41:32+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Swiss Franc struggles as US Dollar declines on Fed rate pause expectations",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbm8tNGR1cVBqR0QzUXZieGVMYVh4ckpPcjJfR3k2WmlBZXlaNHFNS2lXUW1xZkE3WXNWT3lWTjJKazlVWUwybUFmVFg2dkVvYlFOMGYwa043LWx0ZVJ2eDEwY0lqcU41MWZTSUdqdTdzVGxzYnBZM1I5S1pXUS1RWWhJeFdIVmw3VjRCWlhTLU44WDZvTm96cmxqQkhveHZlVEotR2JSVkxHU3JRMER1d0dkRHFDcjJL?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-22T04:41:00+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Gold price in India: Rates on October 22",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTm9oTExyRjM3Qk5HN0ZTaFpBZ3NZUklSWEpEXzNyT0t0b1BlamhNN1NjRURtSjNzM2lLWjdZdEFjSE5zd0NCeUktLTVXNl9xdGk0cDZRMW1CVE5KOGxJSXNBekNYSW5SUGhuQUtSVGJycUZCRE9UUTRVZWJOdzNHTlRyM0h4akJQekE2STdYX25yaHllaEZFandIdW5uaDlEaXJmT2RR?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-22T04:35:16+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Falls As Oil Price Rally Revives Inflation Fears Ahead Of Fed Rate Decision By Kedia Advisory",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUVRzVG9qZC1GUkpZbEVoQmRPMHllY0ducVZoSWdIcEZON20wWVJXUDh3NlFGdXZhV19wbFVkNnZzZjc2MGVKandSbUItZmttYV90b1hrUS1JTWdkV0lXQ2Z2MEdWaU5MSVBEbEx6eldWeXRaR3dyRUZZQVBYVXdkSGM0YkE3c0dRNmFnNG11M0dFQy1fb0xqbGZldEJkS05WeE1oYnhTNVdSTXdXZkFvRlZmbkJpU1JlSTRheWhFeVl3aHdDMURmMWtXbW1JTFdK?oc=5",
-   "src": "Investing.com India",
-   "t": "2026-10-22T04:33:20+00:00",
-   "tags": [
-    "gold",
-    "oil",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Edges Lower as Traders Weigh Middle East Signals, Fed Rate Path",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcm9iTkZnZUdhMG5jYWozVjdVVnFsNDFKbmNoSGZMMkZINmxkNkRzNU1MTVdCaDhlQms1S2F4OTVuaHkyWmpLQ1JjNnFfS3M1bDE1RlZ6Zm1saUVURXJKcmRhWVNkV292Sl9PYWlJVkdFVHdSZnREOGpHeno0dVZ2V19BWE9JbXdSYkh1VzVvMU14T1BrbW5rZkxiZWxueVRYQktRaGRPTTZyRExYRUZfOHpWaGc?oc=5",
-   "src": "Bloomberg.com",
-   "t": "2026-10-22T04:28:00+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "bearish"
   }
  ]
 }
