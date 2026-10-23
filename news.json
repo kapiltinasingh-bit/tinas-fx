@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:02:52.502216+00:00",
+ "updated": "2026-10-23T00:53:18.881278+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,13 +12,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -114,10 +114,40 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 2
   }
  ],
  "items": [
+  {
+   "title": "Oil prices cool from 5-month highs as Trump invokes defense production act",
+   "url": "https://www.investing.com/news/commodities-news/oil-prices-cool-from-5month-highs-as-trump-invokes-defense-production-act-4967880",
+   "src": "Investing.com",
+   "t": "2026-10-23T00:41:37+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Rupee declines first time in eight sessions as Brent oil prices rise above $112",
+   "url": "https://economictimes.indiatimes.com/markets/forex/rupee-declines-first-time-in-eight-sessions-as-brent-oil-prices-rise-above-112/articleshow/135130676.cms",
+   "src": "Economic Times",
+   "t": "2026-10-23T00:34:04+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Nasdaq 100 Clocks Worst Day In Four Months As Investors Grow Weary Of Capex, Elevated Debt — META, SPCX, BE, MRNA In Focus",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzlfQ1ItMS1TRWVZMW9QcFdpNkZrOUVUMHM5c25wck4tU09jYWZyNXc5YTdYQmJ0dDdRbHVFajRhZ0VicWEzV21ycDhLTXZtRXNNeDQwQmpCZXhDa3hUV1NzVjNBMFFCRWdmaWdYQ3dDY0s0TjZNcVcyUVgya3BFMENRWnNkZF9BNjl2MVpJejJQdlphMS1V?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-22T23:44:48+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Japan core inflation in September surges to its highest this year at 2.1%",
    "url": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
@@ -416,6 +446,16 @@
    "tone": "neutral"
   },
   {
+   "title": "RBI asks banks, payment firms to forensically clear tech environments in case of a data breach",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-asks-banks-payment-firms-to-forensically-clear-tech-environments-in-case-of-a-data-breach/articleshow/135130909.cms",
+   "src": "Economic Times",
+   "t": "2026-10-22T19:07:54+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Wall Street sinks as Nasdaq falls over 2% on AI cost worries By Reuters",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPXzN4S2JQN2phUmU2ZTQyQ28xMW9LTGNNV2M3dnA1UFBTcFZ3T0xwOThoUm5neWdyblI1RExfYTBuNlA2SGJ5b191RGdiaGV0Sk1XZjNpbkh5RXpzOTg0QWdland5S1RhWVpnYXJvVDJGUVRSbDN2V0JfaGVYemJiWm1YU1pyQ1NFdy1zeWZIcTl0NDlKT2dOdXlKLTM0aFFkUWlLSUNLaTFfamRzaFBPN1F1MDEtcFNhVXc?oc=5",
    "src": "Investing.com",
@@ -433,6 +473,16 @@
    "t": "2026-10-22T18:57:41+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Silver Price Forecast: XAG/USD breaks $55 as bears target $50",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa3JaeUZ3T3RjdWFVLVNYem1TRVJaaThIWEgyZ3JnN041ZXhmaE5PWXJuaTliNHUzOVI5N3o4SWJWNnVpZnpORkkwbGdsd1RVR0E1V3V2UDlMb05UTnMtSkdfSGJEY0ZVY0FpaWxzTVpXV202VGdxT2tCTWx0Xy0zMTB1UEM3TDdjSUVfeEt2STBRbE9SWXpJVHh5UmEzbTJfd0Mw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-22T18:48:42+00:00",
+   "tags": [
+    "silver"
    ],
    "tone": "neutral"
   },
@@ -1274,6 +1324,17 @@
     "spx"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "How Might Stock, Bond, And Oil Markets React To The Fed's Rate Decision",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb2UxNXM4UEVsNjBxeFZnZWszYnlKdVZjWE53d1ZUNzYtUGZBVkJvMjhxM2Etd2JPLUVEYXdjclpFZGpoWlJzeEZnRkNTS3lVNFQ3REpKbHFmQWZnSjQ4WTQ3MUZGUGVMRktBNktaSHRDTVFvZ3ZvbmlyRXRYbjlta3p2TENRcGtncjJnUEY3U2s0OE05em9MOVJVMFh5Smh2TFZJ?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-22T12:00:00+00:00",
+   "tags": [
+    "oil",
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Saudi Aramco tells staff to evacuate Dhahran as clashes with Yemen’s Houthis continue",
@@ -2640,67 +2701,6 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR08xMmJQa3Uya0hwM0FmNGV5SC1zb2lXNmVZX0ExQkY2MHlqX0hSdEhXbjltZGp2MmlvRWNCR01leWVucGFHY2FRWlZEcnJnMXA4T2theVVpcGctczV4WWlFelplcm9CcXUxNXAtc2NEeGVUZEx2Vzl1dXo3cXAwU2VJQ0t4VW5Eb0loVGFlM2JFUXFCQV9yNGU5WjNqaVVJSGc?oc=5",
    "src": "FXStreet",
    "t": "2026-10-22T01:03:45+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Wallstreet Highlights: S&P 500, Nasdaq Climb In Late Hours On Meta's Big AI Wagers",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQl95OE5XUUhxTjc0cjdrSFU4QnFYTzZILWp6RFJPUUFYbE1ETHNxTWVRb0MtRVc5eUJEZElyOVpwQUE3VUM1eGRBWVBxRDFfdGYxNEVHNlVKSVI3NTU3WlczUTZSWFdyajNreTV2eDI1bjNhSE80Ql9FZDJMN0xteHhSNnNhdlhRVy0zRTBPMFdKeXhxUHBBRWdOTzZkRUJJMHBrWHdSSUpjSzMxeWhxTVdYLXhtV2xESS1vaFJkaWhvRmUxTWfSAc4BQVVfeXFMUE5ockZoVjRFUVY4U0tBT1ZEVnk3RmFkU1hDZllGZTRYUm8xQkJvQVF5YTZsX2hZajNGclZKd1pFLV9MYm96WFI5UGZMVHhmSXJXTUd0alllNXF0VXpJaVdHRWFUTmh5ZHRXMnMyeTNLbGZSTklhSzh6eU9HODhzZjllZEpzSWJwalRkRzA3QXNHYnVlazMxb0tPT2ZNbEVPY1NvX3RuN3gtSUpNQXBydmptanJyek1hd3E5bWRCSDdVN1dzSTR3RkVNa0dadXc?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-10-22T00:57:17+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Global Market Today: Asian stocks mixed as oil rally, AI concerns weigh on sentiment",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-as-oil-rally-ai-concerns-weigh-on-sentiment/articleshow/135103506.cms",
-   "src": "Economic Times",
-   "t": "2026-10-22T00:57:04+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Jio IPO attracts Rs 70,000 crore in bids on day 1, outpaces LIC, NSE issues",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-bids-hit-70000-crore-on-day-1-outpaces-nse-lic-gic-issues/articleshow/135103495.cms",
-   "src": "Economic Times",
-   "t": "2026-10-22T00:56:00+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Tankan Backs BOJ Tightening, but Yen Rate Expectations Ease",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT1EyekVUcDhfSVVfVlpYTU5XbUVFYnhpYUFHekNEcGF6VGdNRHE4ajJZdzRUMXcyTnhsWThHa3JhdkVvdVpxbjlXTFFLTlViSXlsMlpDcTNkNmVzamgxV0UzcWVjUWlUTjJDeHlvaUZSS195M1A2eko5OENFWHJTVkc3TVp1UFBIdXJJT1lNZWxMbXRaSFBPU2V2QUktQ3hWZUhmd1o2ZllWM1Vv0gG4AUFVX3lxTE1WUnoyXzB0dWRWNmJROXNVWlR5aGN5UFBERDlPUFg0cDMzQmYxckh4c3oxZHJXdnktQjBWbXRZT3JDZm5xY1gwQ2pkOTRrdC1LcVFHekJ0RnM1THBhNjNGMm91SGF3Ym14X1RaVUFJbEd5TzlRc21sOUNYbW5hVDJzcVVWbDVVUUR1SEs5UlUyeWhhSkRmb180V1lMaDI5R2xmbmo4MjlnbTM2VUstNFRWZkszSTl1aWQ?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-22T00:54:03+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Oil jumps $2 on escalating Middle East tension",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzBEdGVKYmZ3VVpJajg0TW5DN2VHVEM2aDVTcFJKQVduMnVMTU5NbVcyMGxBanBHY3VvMzJQR1VrQWM4b0hLeG1YaTFWcldTeU9yTlBXc3FiR1FtcUp0SmxhRkJkWmpmZ2x6X3VGZHZEUDNLTE9LTFZNSlBWWjNJVGtaV3YwWkc4QVhxbHozYkx5THpZMVlYVDAtd0dqbUMyOUcyVk91NEYxaFFCZklRWWhjQm5qN2NvVHdWdnZIQVJSMk0?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-22T00:46:00+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Oil prices rise as M.East tensions fuel fears of supply disruptions",
-   "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-meast-tensions-fuel-fears-of-supply-disruptions-4964479",
-   "src": "Investing.com",
-   "t": "2026-10-22T00:42:30+00:00",
    "tags": [
     "oil"
    ],
