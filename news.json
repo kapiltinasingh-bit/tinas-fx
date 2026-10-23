@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-23T10:29:22.265557+00:00",
+ "updated": "2026-10-23T11:01:15.159698+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 7
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 7
+   "new": 9
   },
   {
    "feed": "Google News",
@@ -84,13 +84,13 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Moneycontrol",
@@ -108,16 +108,66 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
+   "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+   "src": "CoinDesk",
+   "t": "2026-10-23T10:54:41+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
+   "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
+   "src": "CoinDesk",
+   "t": "2026-10-23T10:53:09+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around.",
+   "url": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-23T10:45:00+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Stock Market Today (Oct. 23, 2026): S&P 500 futures following tech sell-off",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFpCUlkyeFJJQWxPYkx6YXJKdlFpdmNoWlNxdUZsdmIxeTZjd1J6dUFPa3h1OVNUeXdxMFBkZi1rN1h3S19FdDJCYTQ1d3dpczgxdWRsdXVwQ3dwWElQVkNMeTFMbFVMZ1pfZjdZZHpVZzJXMkNGcVhwaXlLTnM2S3VOQjYtYjMtWmJlMG5wR2I4SWJlMXYza2F3ZjlhM2RIYjduR3FfT29YcjQ?oc=5",
+   "src": "TheStreet",
+   "t": "2026-10-23T10:44:45+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "UBS sees dip buyers stepping in to support gold at this level",
+   "url": "https://www.investing.com/news/commodities-news/ubs-sees-dip-buyers-stepping-in-to-support-gold-at-this-level-4968750",
+   "src": "Investing.com",
+   "t": "2026-10-23T10:30:39+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "EUR/USD failed to break through the French barrier",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmZNT2w2WndpQkN1X3BkWEhwZ21zdVBfbUJvSFVQdWtmeG9QMEZPT09nVjBwTm03WDFEeGhOYVhzZzJ1dWhseDNhYThaQy1lWHFJOWFmVG1SWmRMT3A4MjBGR2poTnVIb001UWY3UjlWaEc3a2dadzVfaGxVMW15MUU5UUsxQnE2bmJpT1U5UUZYSXlSNVg1YkVqZ1VKZw?oc=5",
@@ -125,6 +175,16 @@
    "t": "2026-10-23T10:21:00+00:00",
    "tags": [
     "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bonfiglioli Share Price, Stock Price - NSE/BSE Live",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44bDFHOWVKaVRZWTQwYXliVzgyQzRkNUozcnJaS0FHYVMxRXF5X2VPZFc1LWtRN0pLd1c4OTd5Y1JFR1d3YlFtalNYMEswT0g0OUtCd3d5a3o4TE1jZV9saGZpZ1hhUFpwTk5OZ0g3cUlhUQ?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-10-23T10:20:38+00:00",
+   "tags": [
+    "nifty"
    ],
    "tone": "neutral"
   },
@@ -156,6 +216,16 @@
    "t": "2026-10-23T10:16:48+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin Billionaires Are Racing to Ride a 3,000% Crypto Boom",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkxCUm5VMmc3LUtHeDlxOHJfUjVTVjJnV043VlgyUlhZQkxnbTlpRmxGdkxkcGxCeFVPWVlVQW1CQ1Q1aWJwNTVBNWlfWnl1X2psUUU0Y1hJQkpJb292UzlxRVNFRnZUVkF3b1Q1SkljYkxLbjJFcTZUS3dfdkUzRS1ObWZCX2FJUENaMVljUGpUU3FDVk5mdV9kMXhyNVE1bTc5LXcwbll2WERUZEFF?oc=5",
+   "src": "Bloomberg.com",
+   "t": "2026-10-23T10:15:00+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -1307,6 +1377,17 @@
    "tone": "neutral"
   },
   {
+   "title": "Japan government, BOJ gap on inflation laid bare ahead of key policy meeting",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQW0xZWdsSEphWEdwUkZxa2VYX0hwOXRaMzFpcHJ5X1VaVzZ2UlQtajVvSnBYQkFnOS1vTUs0RHBkZXBPa2I4T1hVZWV1cjZBNHY3cy1kN2I2RmIzMHprVE1nMTZwUVNjcVY0NDBxdWRkdUlRekd4U21BXzdqLWRMMjEtXzJyVkJVN29SdGRNNm16a3dUa2s1MGNINEZubXJKb1pxNkhIOU05Y2JYZlZvYndTeFdNcldsc3c?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-23T00:06:00+00:00",
+   "tags": [
+    "usdjpy",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Fidelity's Timmer Blames Sticky Inflation and Fiscal Risk for Rising Bond Yields",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLW4ySUlud050eTVyeWNhUDNwWTVVTE9fVGo0bDZSbjFza2ItMWp2VHlqTDh0VG1UaVEwVmg3SzA4d1RERjRxdV9qY1praDlPZE1IRDZQMTZTUjZwazlWRlBINVllY05ZVnR3aHVudWx0YVlYX0NiYkozNTJ3QThOQXcyR25ENzFDWHJVSjI4c3lmUHh3UTNkYURlYTZSNWZHSl92Nm9YREE?oc=5",
    "src": "Yahoo Finance",
@@ -1439,6 +1520,16 @@
     "silver"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "U.S. Treasury yields crater, 10-yr closes at one-month low on safe-haven demand",
+   "url": "https://www.investing.com/news/forex-news/french-yields-breach-5-amid-paris-budget-paralysis-and-nationwide-unrest-4964673",
+   "src": "Investing.com",
+   "t": "2026-10-22T21:35:49+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Treasury yields see extreme plunge. Why investors are ducking for cover.",
@@ -2604,103 +2695,6 @@
     "silver"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Indian bonds tumble on oil surge, RBI rate hike fears",
-   "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-tumble-on-oil-surge-rbi-rate-hike-fears/articleshow/135118875.cms",
-   "src": "Economic Times",
-   "t": "2026-10-22T12:20:06+00:00",
-   "tags": [
-    "oil",
-    "nifty",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Will Lab-Made Gold Flood the Market? A Startup Just Turned Mercury Into Gold",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXhRR2RQN0xFUktsa1lNNWhOdUZGZi1yOVJveFZqbGEyNmlwZmpZZ1F4NTJ4akdKT1NGQ3ZRTDdUYldUcHQ2aEJBNlFxNkFGOXB3aWdYVE4xNjlUWExuN1JxYjBlTzIzeUVwNkN1bk5McVhjZFRKREctYThkYWJTZWg5THBPSFVvNjBUNHpObTZnZk8yaGtmOWZReVM?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-22T12:17:15+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Dow Jones| Nasdaq | S&P 500 | US Stock Market Today |Live Updates: Nasdaq futures sink as AI doubts resurface, oil jumps",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-ai-stocks-nvidia-tesla-meta-stock-price-news-22nd-october-2026/liveblog/135118971.cms",
-   "src": "Economic Times",
-   "t": "2026-10-22T12:15:35+00:00",
-   "tags": [
-    "oil",
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
-   "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
-   "src": "CoinDesk",
-   "t": "2026-10-22T12:14:29+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Bitcoin (BTC) ETFs take in $1 billion in 3 days. What next?",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnQzRjlQQTFZR3QyNk41NzBsZ2FaNkpHWkRpQlNBUnF6RVB3UzVDWFhQUHl1MzVhZ0pCTUJfX0FBWXZLMG9idWZUdFNiLUZYMXJvcXFMT3pGMmdCWktOREVfbS1IVGdTY1VGRG93aXFtRk1BOW9sUnZxOFYwcWR6RHFmV1k5cTdPM2FxZEFIcTNhLUZTMGNTUl9OTF8telViQ3hHZXlOemwwVnRWUXhEckhMZl92SVBGQ1hzTGtEZ2w2RGVBUzFmLVZ3TFplQQ?oc=5",
-   "src": "CoinDesk",
-   "t": "2026-10-22T12:14:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold hits over two-month low as oil rally fuels inflation worries",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkNES3NPNlFvRjF1QzlSaFdaMjE0XzNIM1BHdmVXTXp3QXh1MERlNE5BZFFwalJreGkxZUJKVDFmd1ZxR1phWkM0SmhuTVJISUhXVVk5UzdUbkkxVmtSUHJQejhlM1FWeDNJN2tuWl9ibGVMdW9QNlNuclRzaGpYSVA1Z0l6SHRqMUlaU2lDZ2lSc2dpRTY0aUNiR2tXeTR5Szd2MEdvM0xmVHhScWpKVTMxMA?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-22T12:13:37+00:00",
-   "tags": [
-    "gold",
-    "oil",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "IBM’s stock falls as investors struggle to shake off July earnings miss",
-   "url": "https://www.marketwatch.com/story/ibms-stock-falls-as-investors-struggle-to-shake-off-july-earnings-miss-0969b9e3?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-10-22T12:04:00+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "How Might Stock, Bond, And Oil Markets React To The Fed's Rate Decision",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb2UxNXM4UEVsNjBxeFZnZWszYnlKdVZjWE53d1ZUNzYtUGZBVkJvMjhxM2Etd2JPLUVEYXdjclpFZGpoWlJzeEZnRkNTS3lVNFQ3REpKbHFmQWZnSjQ4WTQ3MUZGUGVMRktBNktaSHRDTVFvZ3ZvbmlyRXRYbjlta3p2TENRcGtncjJnUEY3U2s0OE05em9MOVJVMFh5Smh2TFZJ?oc=5",
-   "src": "Seeking Alpha",
-   "t": "2026-10-22T12:00:00+00:00",
-   "tags": [
-    "oil",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Saudi Aramco tells staff to evacuate Dhahran as clashes with Yemen’s Houthis continue",
-   "url": "https://www.investing.com/news/commodities-news/saudi-aramco-tells-staff-to-evacuate-dhahran-as-clashes-with-yemens-houthis-continue-4965766",
-   "src": "Investing.com",
-   "t": "2026-10-22T11:54:36+00:00",
-   "tags": [
-    "dfm"
-   ],
-   "tone": "neutral"
   }
  ]
 }
