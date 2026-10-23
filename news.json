@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:53:18.881278+00:00",
+ "updated": "2026-10-23T01:30:36.693718+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,13 +12,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "MarketWatch",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -114,10 +114,32 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 2
+   "new": 3
   }
  ],
  "items": [
+  {
+   "title": "Wall Street Highlights: S&P 500, Nasdaq Fall As AI Jitters Ease Bets On Fed Hikes",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbVJsR1BSSWFYckxUYlhhUm5DYmxGdkdDV0NMZU5tZWNVUXM5YnRUYm4zeGRXU2hfNjlCeGNuUFRwTDdGNFljRHlGcVhmU2s1U1MxeEVibEh5YzcyLXhJdHVhQ1RyU3JsUjBiSk5wWmZWbENqd2FnODdUVzAwVG1COGMzUVFlMlBWTUh2RDBISXI2UHZKWVo4Nm5IYktQSjNhSlk1UDAzWTJvQm9sRFJBczFHUkZ6UEhkV3J5WW51VF_SAcgBQVVfeXFMTThqTzc4OVdlQXNpcVZpYmtrcGdOeFRjbVVIdlpvWk0taXJ5ZVJsUE8tVFM5dzBSd1Jyc3k2YXBweHhnZzMyVC1kdFIwY2RnMGJiNDRvUW1kOGNIZ3I4ZFdFVTBtREw4bmJvWlZsaTNQVzRPRWJUOE9YYTZ3Vzh3NHc2SFdydFFWS2VQWDhQUFVCdjdUSm9YR1gtS2pmSTk3ZzU3RFhKQ1lyUHJ5TDNRU19iUXhLNU42OFI5UklvelRaWExkSlNMNHM?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-10-23T01:14:28+00:00",
+   "tags": [
+    "spx",
+    "nasdaq",
+    "macro"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Oil little changed as supply concern lingers amid Houthi attacks on Saudi Arabia",
+   "url": "https://www.investing.com/news/commodities-news/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia-4967907",
+   "src": "Investing.com",
+   "t": "2026-10-23T01:12:18+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Oil prices cool from 5-month highs as Trump invokes defense production act",
    "url": "https://www.investing.com/news/commodities-news/oil-prices-cool-from-5month-highs-as-trump-invokes-defense-production-act-4967880",
@@ -383,6 +405,26 @@
    "tone": "bearish"
   },
   {
+   "title": "10-year Treasury yield tumbles below 5% to lowest level in nearly a month",
+   "url": "https://www.cnbc.com/2026/10/22/treasurys-bonds-ai-yields.html",
+   "src": "CNBC",
+   "t": "2026-10-22T20:05:13+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Brent hits over 5-month high as Houthi attacks boost supply disruption fears",
+   "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-meast-tensions-fuel-fears-of-supply-disruptions-4964479",
+   "src": "Investing.com",
+   "t": "2026-10-22T20:03:00+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Gold miners face margin pressure as lower prices complicate third-quarter results By Investing.com",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa1M2aW5TVXpiTk5SbzdhU2xUU09GLUxYN25lOFhyWVRqQXJFQ3lCd09XRnRaakJCLVhaQURxRmxHSE9qelpZeW4tNy14YlcyLWJ2N0dvc0lYTUpsaldENy12LTlVUTRiTHZFd0VfOEJWVE5xNHZqb2FVdXUyT0NNX3oyelNob0NKck1uS0l4ZGRIbEpKdkJkMGpxdDBlQWVJS1JobUxfc2ppdnpvNjQwRnVDNWtTd1JGQWg1S1pMal82dmVla2FnTGx3X2JsdXNtM1E?oc=5",
    "src": "Investing.com South Africa",
@@ -399,6 +441,16 @@
    "t": "2026-10-22T19:30:10+00:00",
    "tags": [
     "oil",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "MPC minutes: Two more interest rate hikes on cards, maybe even a third",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/mpc-minutes-two-more-interest-rate-hikes-on-cards-maybe-even-a-third/articleshow/135131110.cms",
+   "src": "Economic Times",
+   "t": "2026-10-22T19:26:43+00:00",
+   "tags": [
     "macro"
    ],
    "tone": "neutral"
@@ -493,6 +545,17 @@
    "t": "2026-10-22T18:48:26+00:00",
    "tags": [
     "gold",
+    "usdjpy"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Yen jumps as oil, AI and France worries rattle markets",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdW9jZGRQWjVySzhfWVJCUzhxNGxiSnJpZ2VoZ3pXd25KaC1nWVBCczVKU2UtcFhGUXdqbUo2NWdrSmN6em1Qa0RBOFFVZjhWdld5MjNyeExXLWZDa3FWUEdFbnFOWWpiWTZPTlJTSUwyUzJsaXNsUWNwUWk1VkZ3VW9TMHNXOVlHd2djeWo0U0JIS1MySXkySmpiMWJZQzV5WWhKUEtjWknSAa4BQVVfeXFMT1VNdDdCSDAzb0dhOGR0UWRiWHFSdk90Q1Y0YVRQVm03TnB2czl2MHN5UGNHY0lUb0hqTXVOQ01nTHU4a3hJMFdxSGRGdnNOOEVFV1k5VTJCQVM4SExVRVlSZEwwRFptdmFhUWZIbzJGZDgwQ1paRmpSU21sRU5IcUl3MUZkUTRiNWlleVR3VmE0WjNTN1lTWFJQZXJHOFFKRmFXT0JPQmYyWjB1ZmxB?oc=5",
+   "src": "Livemint",
+   "t": "2026-10-22T18:44:22+00:00",
+   "tags": [
+    "oil",
     "usdjpy"
    ],
    "tone": "bullish"
@@ -2643,68 +2706,6 @@
     "nasdaq"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Stock market outlook today, 22 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTnNUNUxNMmRjUi1QcjJmVHMzWWNHSEZZLUM1b285cUVHMnJsOFdOamVkejBVa1JEbEwxWW5kczRaSUVsd0JNVDZxQmRjUjRQOWlNYVdRem0yajNIVWU1SkFueWZrVk41T2FMcVFyNjNIdTBTYU1nYTBlTUstZ1laTUNYZEVUeE5PRGpOWHprUGlxRkdqNjh1OUlobGVZdUprdGN1em1tNnlEWXFYak1BV1A1OHFCTlJ1d0dnaUowUjlVczVWY3BsSkpvcjlzYVRNbHlkUDJQUjQ0ZkhCOXlkZFlrVGxucmNWVUtzWVMzY0dkeFFJWnJGZ2w0T3dzbXY3NFdTONIBigJBVV95cUxNVFFrYkdJRkdQcTB3V3FxZERqd2t1c3JlM2ZzWkZlYXNBd0lROWF0TVJudUhCM3FseTVSOW05MWZSS3BYQW55aVJ6cklYTHh3TkFheGRxUmdPQ3dqS0Vyenp4b1hGdnJrbGxCNnpzTGJLcWs3ZVVIUmFQMWo5VGhRSUl5Ymh1VHFxVlQ3WHZaZWtUMlhLcnMzY3p4bDdlaHAwTHBkLWYzNmhJVVBhU19VZHVpbV9UcXR4N1pSWWpoclFHM2pnc1lqWFFfUEYwQjAwWU1LZHVOYk1ad3VNVE1kYjhiU2hEYTJWUnBoTDF5c0hGcGZKdWc1YnJoTlJLcnpyMFpYRHp5MmdVdw?oc=5",
-   "src": "Livemint",
-   "t": "2026-10-22T01:20:23+00:00",
-   "tags": [
-    "nasdaq",
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Euro posts modest gains above 1.1200 despite French political unrest, fiscal worries",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQelJmT1dMMEZkUnBoVUtQV3RWQUJpNFFvRkFYdVhLXzNHcDdnYUtwa01FWWFsd1lGcXZrOVNZNjc2N251WldRa0RJdUp5QjgtelRtWnhhZ0pwYkJ1cGUxX3gxNVpLbjRfRUx6b0ZUZzdJUG05YTZpVzNRMVJ3NmIzREVySVBpRFJTQ1FvbEt0MC1JX1ZtVmNVNDBLaU5FU3FsdUtHSEJ0NFY5TDU3VXFQaUtGTzFkTGRyLWtSQ2lhejE0X0E?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-22T01:18:29+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Nasdaq falls over 2% on Meta drag, slide in chip stocks; oil jumps and bonds rally",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNkowUHE3dTByTkVGOVhPWVduSGxsaGduRmJxMzFjZGlaek4wZVFDeEU4TGswbWNiODBEQ0taT3NMVHBNblJEdV9ybXVrdnpkUTJTU3FkcUswdHMwY1hQT0Q4TG1NZEFWSlZyOTQwSlNOcVN6dWdNSVhmZFdyUE40S3FyWXJyQnBwOVJLOFR2SHNFUnprekZTMC1lRmlxRUpnOUpPMWZyNGk2ZHdHOV94clVRamtTWWEy?oc=5",
-   "src": "Investing.com",
-   "t": "2026-10-22T01:12:28+00:00",
-   "tags": [
-    "oil",
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Why RBI is draining excess liquidity but also injecting funds",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-rbi-is-draining-excess-liquidity-but-also-injecting-funds/articleshow/135103570.cms",
-   "src": "Economic Times",
-   "t": "2026-10-22T01:06:29+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Why is the RBI pulling liquidity out of banks and injecting it back again?",
-   "url": "https://economictimes.indiatimes.com/markets/forex/why-rbi-is-draining-excess-liquidity-but-also-injecting-funds/articleshow/135103570.cms",
-   "src": "Economic Times",
-   "t": "2026-10-22T01:06:29+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "WTI rises above $97.50 due to drone attacks on Saudi, Russia",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR08xMmJQa3Uya0hwM0FmNGV5SC1zb2lXNmVZX0ExQkY2MHlqX0hSdEhXbjltZGp2MmlvRWNCR01leWVucGFHY2FRWlZEcnJnMXA4T2theVVpcGctczV4WWlFelplcm9CcXUxNXAtc2NEeGVUZEx2Vzl1dXo3cXAwU2VJQ0t4VW5Eb0loVGFlM2JFUXFCQV9yNGU5WjNqaVVJSGc?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-22T01:03:45+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
   }
  ]
 }
