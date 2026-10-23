@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T15:03:24.961517+00:00",
+ "updated": "2026-10-23T15:44:02.294515+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,19 +12,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 6
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -54,13 +54,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 8
+   "new": 6
   },
   {
    "feed": "Google News",
@@ -72,13 +72,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -119,12 +119,62 @@
  ],
  "items": [
   {
+   "title": "RBI governor reiterates listing requirement for top NBFCs as focus intensifies on Tata Sons",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-governor-reiterates-listing-requirement-for-top-nbfcs-as-focus-intensifies-on-tata-sons/articleshow/135149631.cms",
+   "src": "Economic Times",
+   "t": "2026-10-23T15:25:41+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Central banks pile into gold as China leads buying spree",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOampYQ0N5Y05BRExVQjJobWtMQjBtcHlzSjd4blJQQjNBbnBMaVZrall4SXVQcm1vRE1HbTF2NnlEMnpnVFkzNHU2NFRKa0t3eHNQQnhTMkRaYmhqSnZRMUtqSk9YeGZKc1JMcklzNjBBMExKLXhWM2hYZnJHWTNzdjV6akdsQ3c?oc=5",
+   "src": "Mining.com",
+   "t": "2026-10-23T15:22:07+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "AI agents could disrupt bank deposits. Why Wall Street may be overreacting",
    "url": "https://www.cnbc.com/investingclub/2026/10/23/ai-agents-could-disrupt-bank-deposits-why-wall-street-may-be-overreacting.html",
    "src": "CNBC",
    "t": "2026-10-23T15:00:49+00:00",
    "tags": [
     "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Euro: France-linked spread risks keep EUR unattractive – ING",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZkxIdWk0VWUwdWwxNERMUWhLWkVmd1BtVWRUd3VabFdrR2FMUWxRZ2NuRk1FSHJkbVcxS3ZIRDlkcTV2R1NHQktURFNzeEN2X1ZpMEE3WVV5eEQtTnNRRG91Nnh5TjZsNGlUeEx2blcyeEFJVU5BZ3dyd0dvVERhV1NaR1B5TUI3YUJfZTk4dXFQQkw4dnNZN3BDeFV5RWVnY3c?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T14:56:30+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold falls to a 3-month low and dips below $4K",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVDVENVlCN3NXU1RadGdmRE81b2NlT0FMa05yc1pZbWNWTnRHWFhIUE1MV0RqMVlpN2RRZ3B6Q0xGc002V1FoeDI1UzdhbGZSZ2VEdU5mdTh4S3lhWkw3SDBUZGJVeTRBTl9QQXkwLXV3WWxQN2pYWlVHZDFocXdzZGpDS09zSHNPTUk0?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-23T14:49:47+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Bitcoin ETFs See Outflows Return As Market Volatility Worsens",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUtndm9KZzVuV3k3RDBuel9kdEZ1Vm84TmpXUV90TVExRGxHZ29xYU5xdE1zUURxVnNvMk5wTnk4UjN4b3ZuSEx0RHowZTVWLWlKN2cyVG1Ka09ZdHFRdUxDX09xWEdCdFBhLVhld0lYWlBfd3pQU1llSHRWX2MzQU0ySDZndWp2RjEyMEdjMm1tNFhDLWtNNHZHNFBFUQ?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-23T14:47:00+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -264,6 +314,16 @@
    "tone": "bearish"
   },
   {
+   "title": "Why US stocks are falling: Dow Jones crashes over 700 points as AI selloff, SpaceX fears hit markets",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-us-stocks-are-falling-dow-jones-crashes-over-700-points-as-ai-selloff-spacex-fears-hit-markets/articleshow/135147604.cms",
+   "src": "Economic Times",
+   "t": "2026-10-23T13:38:31+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Bharat Electronics among 4 Sensex stocks to hit 52-week lows; shares fall up to 9% in a month",
    "url": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-electronics-among-4-sensex-stocks-to-hit-52-week-lows-shares-fall-up-to-9-in-a-month/slideshow/135147674.cms",
    "src": "Economic Times",
@@ -340,6 +400,16 @@
    "t": "2026-10-23T13:00:00+00:00",
    "tags": [
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Brent WTI Spread Hits 11-Year Wall and RSI Hits 2011 Highs",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcUY4LTNTYjhPVWlubm9LRnlkLTd1UkE0UUlPUEdMUHBDdXk2RzNCcGpwVXNlWWFSZTFQcHJ0SVhZUzlla1FXLXNEaVdhRjJad1RMMjY0RV9TZFRCdVd0NFo2U3NDVGdEanFfdzMzNERMRHc2M0FrREtuMF9fTnJWNmJlZzh4SWFJZjhsNmp6OFhENnoxMERKNlU1MzdSaGtyM25MX3dQWUQ?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-23T12:53:26+00:00",
+   "tags": [
+    "oil"
    ],
    "tone": "neutral"
   },
@@ -519,6 +589,16 @@
    "tone": "neutral"
   },
   {
+   "title": "TSX futures drop amid gold price fall, AI anxieties",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNnhwM1BGR2JLWWZQd0lhMDRMRXdILTJMSzdTZlR0N3F2cUgzeXZIRFEwS1lXYmN1cmNUaEVtMzVhUlJ6SVNQWER0WWFYeVlJRUE0ZjQ4MTVyOGtzalZONkhzbUlfU0Y0anhCV3Y2NlJSSG5OSHhCWlM0TndUREltOVdvb3puN2pwcU5oZUdzRXNYNmJZVWc?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-23T11:32:18+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "AI stocks: Midterm elections could threaten AI trade as data center backlash grows",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stocks-midterm-elections-could-threaten-ai-trade-as-data-center-backlash-grows/articleshow/135144162.cms",
    "src": "Economic Times",
@@ -583,16 +663,6 @@
     "oil"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "TSX futures drop amid gold price fall, AI anxieties",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUkR0N3E5ZGNCOFdrdWxoNFN3OGtVZ3owenJlenVZYW1TZHBrRV83VVQ0dV9mYnJ3c2Q4eGtodENtb2dnSDdBS3JveDFYci16c0ZlSWd1cTF3VFhmelpiM2czTHdmeXhiN0xRR3A5bGpoM0owYlpwZXBJVVJNdUdWaUgyQ1B0SVFDS0ZEdnRhYzJNVUdUa2xXSVMxUnRWNjMxZE1xVmNoS3FIX3M?oc=5",
-   "src": "Investing.com",
-   "t": "2026-10-23T11:05:29+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
   },
   {
    "title": "UBS sees dip buyers stepping in to support gold at this level",
@@ -843,6 +913,16 @@
    "t": "2026-10-23T09:19:50+00:00",
    "tags": [
     "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "US Federal Reserve to Raise Rates Twice More in 2026, Says Bank of America",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDhMcEtDZmhoQnJMSVBVUzFaWVBqeUczRlRZekhZc1RpYWU0ajVLWlNscVRjQ2UzSS1ZVFRsd3BsazVuR2FtVG5PQVQwRW8zY1FhVzlJeE9SVWEtS1VnZzZROWR0dXdNTVQ1X2pMTDZkdjBleGE0akJRSVpKTXRaWTdfTUJhaktpOFRlaHY5UHdtLUZMOE5HMXR2YkpGODBDU1RoaHFlcGFzeEpJMnc?oc=5",
+   "src": "Morningstar",
+   "t": "2026-10-23T09:17:11+00:00",
+   "tags": [
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -1649,6 +1729,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Current price of gold as of October 22, 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HSkpCeFgyU1oyUTMwMnc4ZU02NkhxRWp4MF9RT0ZQSjUzeTdXeU56aU10RFh6WTV5cUF5ZTREbUZQbVJ0SXlaV3RFVmplU0xxUW5IWkxQLUhWbVZES0NBUWR2SkVoVERrd1dlRXdn?oc=5",
+   "src": "Fortune",
+   "t": "2026-10-23T04:16:47+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Gold steadies after three-month lows as oil rally fans inflation worries",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5",
    "src": "Reuters",
@@ -2263,6 +2353,16 @@
    "tone": "bearish"
   },
   {
+   "title": "US regulator is probing suspicious Iran oil trading, official says",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPem1fOEZ2aU10cDBTVHhDUXFuN3ZTU1l3ZXR4dkpMUUNCazJDMEk4V0UxT01nZ2tNckxuTllmYXhNeUlhSTQzbzg5dHN2aVNjMUpnNnU0T2FJWmNtTGZ4ZTg0UXNjRFhReHlDbThZalczOHdVZFBKLU9pVEp3YTBTS096QUdKVm4tbTdlQzJSYWQ5eGhDZ05FSjJJWFhNYkt2dHZERzg1Zmltc2xKUkd1UjBXUEpTdjNC?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-22T21:31:43+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Apple bets iPhone Duo can remake foldable market as sales begin",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMTlwRzRMSWgwZGFjeWp0bG01c2c1WUkxckYtOGR3MUhieUYwZUwxRVNHdFBCbWUwSm02TWgzdG5fRGxEX0U1TUtvUnF5bGpXQkRaN1lnbmJZeTVuZmZzS21ob0FTMnBYekcySDlic3VVUE0ySjZTOHhJR2V1RzlmN09ZdDh1Mlg1a0N3dXR5ckstOW13Mk91YjJOcmdqNkd3dFR1MzhKYmFORFItakQyMTltekVOaVQyc0ZMSm5B?oc=5",
    "src": "Reuters",
@@ -2588,111 +2688,6 @@
    "t": "2026-10-22T18:30:00+00:00",
    "tags": [
     "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "The perfect storm behind the Nasdaq's rout — plus, some of the bright spots in the market",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlFNUGNwUE1HSTdnSGdmbkh4R056NXBPUkRzMWJiQ3p1bXdkQXQyeFI0OWd3YjZxUllnMURHLWZ1c1U5Tk91dXlVa0xfU3I5U3BXUWo3NDgwT3hjVUZET0RBb1dvYzAxc3JoeXc5MW14QkYxS3UyWHNDc2NkcnFkbm9Gd0R2eTh3MGF5R2NCMWhtLVVZdm9mYTFmdW5qZVpqMFBHR2p5alhSclJ2cVdpWUhhZmxXYjdfTUNsU0dHekVrNjA?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-22T18:23:05+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold falls to more than two-month low as oil-fuelled inflation fears weigh",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWF1N1NOek9pQi1IYkRUMll1bHRXOFluVmtuYm9LR1dtMThlWlZDYXB5RlVwYko2MVFRS01SSnIwRGhMRnFULTZvdURKV0MxOHk1clF4NW1wTkJUOWkyMng4b2J5QjI4X2tLRkVMSGxDcTIxV0xXTThnZkxvQjVUajZBMmY4RURVTzQtcFN1T2gybVJWRkMwX0RCdkxGTVpLbUdlT0paVU80cWc0VS0xenk0QnZRYS1B?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-22T18:18:29+00:00",
-   "tags": [
-    "gold",
-    "oil",
-    "macro"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Bond traders are backing off Fed rate hike bets — here's what it means for mortgage rates",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ0V6MC1Sekt2RU45WGJNTzQ1MDRObjdidVAtOEl0azB3NDZTeUtESUVMNkhVWHk4UU9jekxqSTQtY2FxSDlMV1hYdWdqWE1NbjEteEdjOXBVeFVqTHZNcTlEQnd0b3pkRXZKaVgyMEE5QzA3RVYyN010TGRoMDRlM3ZaOU1hd1liTzZFMkthRDBRZEpvZmc2Qy1maDkyeFVXS0l5aGw4eng1cmh0M1dIYTk2dFdycWlLQktMMmNaM1J0dFpGVXJQOEZfcTlnNnJEb21vY1hIN2hwbHVi?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-22T18:05:07+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Solana Is Faster and Cheaper Than Ethereum. So Why Is ETH Worth 5 Times More?",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdV96X01XenBLdkotNm04T0ZCZW5oZS1sSmVTR0x1MWI5dW5mN0swZWJJQmMwYzFIejlwWnoyUE5vYW5FeXJtSjdIUTFjVnZETC1UdWpMeHl0TnpYZFQ4a25iczNEM3BreUJVbk1nM2dORjA0V25KRHUtY0J6M1FTZFVDVEJTejRyRjI3QmVkcnRDQ1JkYk00bjJxSWRla0FkZ1JZRGJfVEhQdDNXMEozMjdUaXRqeWFEeGFwSUhPUEdpRWtkcVdZenRxSW1sUzQ?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-22T18:00:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Oil Climbs Above $111 as AI Stocks Slide, Dragging the S&P 500 and Global Markets With Them",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXRtMVZJY21Hb3pINUQ3TXdLb1VRYXlTMGktRGU3LXh1RUdtYjRva3QyTmNfam5OenRaV3hiVGlMTEFDcFM3TnhjNjZRY0t3LWphb1JGenNkUS1JeW5qalZEMjNhR2FhVXdrc19mWHpVbE1aWV93d0thVTJ3YThSSjI5T2dPNjIz?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-22T17:33:38+00:00",
-   "tags": [
-    "oil",
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "French bond pain puts euro zone's weak links on notice",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQTZkYXJBbWNfVFRidzIxNDh2aDRva0x2Q05TTlROaTBOLTRhR3RZcTBqbm96d2dKWU8xVDRBMGN2TXR3Uzh5QWg2T3I1UDhILTl4TnBqdFA5bWlxZi0wWG1KWTcyQi0taWJvbjNSRExHRzNfamlwSFN1U3Z2QTYyYm1FT1Y5WjB5R3dOZ2RDdzdjcFVkSVdpeG1hdw?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-22T17:32:58+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "iShares Silver Trust description={PAGE_DESCRIPTION}",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4waHRrMmFmNFItTm9qaXdrMnF5TGhrYmItUHo0UE1BdzZVeTFUT1psVlBHNzZRY1ZUM2VZRjlablZiZXRYckUybjJaOXNoc096VWFzVEV1YThibVNldHhkMw?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-22T17:27:33+00:00",
-   "tags": [
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives 2.5% As Meta Boosts AI Spending",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcm1tM0JzQ01DZEIzcDAycW9BWURRaVJ2TEplNW1ndFhvVmctcWZWRWtfcmEzbko5WFQ5bFA3bTctdzFHdUJ5N0FiMDVYOS1kZ0ZRQzh0T2tZMTUxUlRMOHNMMEsyRzVJa2Z1T3lUOVFEUWpsaS0yOVhRNlFJT1FNSWxKT3VSWV9XYUJnaV91cG1LaG1iTFljSGhuRHpGNGpPSXExenVzV3pxOWlhdDRIc3hGZktURDh2SHdqd3FlZENhalZOYlhYdFRB?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-22T17:25:33+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
-   "url": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-10-22T17:21:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Europe's STOXX 600 posts biggest drop in three weeks as banks tumble and oil climbs",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVJKdFpHOVNMc2FWbnFjeWFhUnpnQmhwSXAtNHA0amRvS0tSVjZYVTFTTWZNa01FaEVsQVp5TVRtSTVjMERpS0NaZnZoYWVwWDdsQV9IcXRoemlWc040dnI4MV82RDNsZVB2RlBCVmd6a1hTV0k4aXU4cG9Edzh4WHF0LXdXelJuUXRNbUhtalFoVm1OWVRFQXh1SHdEcWpIbFFhLUZYYw?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-22T17:19:19+00:00",
-   "tags": [
-    "oil"
    ],
    "tone": "neutral"
   }
