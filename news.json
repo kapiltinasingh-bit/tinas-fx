@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-23T20:17:12.510597+00:00",
+ "updated": "2026-10-23T20:57:04.650157+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -118,6 +118,47 @@
   }
  ],
  "items": [
+  {
+   "title": "Canadian dollar hits five-week high as data supports rate hike bets",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUXFTa1llZHhWUzBWY3U0dmpnRVJvUUoxZlprTkd0U0VDTklUTmQ3Q2lzMkdRU0s5N2d2ZlBwZDRucm9tckdIRFBQUE1USGtURkd2YmV0VjNLMjR4QS1QbF9ia1Z1VzlUTWlwdDR4cEZiaGhoR3RGM0piNlRfSWNFSzF2YnVTNHppd21RZlgtMFVqWDB0MWU2WXAxbWVxeFI4akJaWGxhTERweHF0YmpYZ1VhY1Ffdw?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-23T20:36:34+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold's $4,000 support breaks, but is the selloff overdone?",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdHlwU2d3LVl4RlY3dTJCejZMQ1FJM1ctRjdfNzBwTFgwR3VScjZZOUZqOXhoVXlBVDRCd0JpVTVDZ1RPaGtTVEtzY0RHZXk1a21hamtmRFpKM092SnhGR1lCRU1zN0tOQmVPQTJfZnBmRmptbEFQWmNoSjRoNlFhUFAtWlVFXzdic05zVmI5ampCUQ?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-23T20:34:18+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Bitcoin, Ethereum, Solana Draw Uneven Corporate Bets—Which Is Gaining Ground?",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdmlFeXFvNDd5XzlGdmQ3eVVDUDdEZ2poMWUtaHFvWUF4TVhEMGxqNldCUDd0RTBnZ1BQZUU5cDAzS3RFYzNhVS1hUDBSVFl5NjJMUjhUQVM5S1FJaGNkbjU2SEpxUVV4QUZldWxFTndPXzVqWGoweWdSS0Q0LTJEWUlJY3lXS2hxMjBQWHdIS2lNNFJQRFZoLURMajhkcFRmbG1Xajg0Mkd0dWdiX01zRFdaUHdlTVdRUU9KQ0NfM3Vnam1FREhBM1FIZ2d0cWRxMlE?oc=5",
+   "src": "Benzinga",
+   "t": "2026-10-23T20:30:27+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "US Markets Today: Dow ends 600 pts lower as AI doubts persist ahead of Fed meet",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-dow-ends-600-pts-lower-as-ai-doubts-persist-ahead-of-fed-meet/articleshow/135155408.cms",
+   "src": "Economic Times",
+   "t": "2026-10-23T20:23:03+00:00",
+   "tags": [
+    "spx",
+    "macro"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
    "url": "https://www.cnbc.com/2026/10/23/apple-iphone-duo-china-launch.html",
@@ -336,6 +377,16 @@
    "t": "2026-10-23T17:24:04+00:00",
    "tags": [
     "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Gold Stocks Could Rally 20% to 30% as Winter Seasonality Turns Bullish",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2hvRS1zajB6SkRtQzNZYlVqeWNiVzRaMGwybnAzbmwxOTZrNEZ2OGtRR21MZzBOQkxBeDVaRHhJMnc0eDIwazd6ZnRLZTlOcjlPTFBnSG9WZV8tWmZMWTNMemdHRkg3ZHBhYWw4WVZXbTBwVk05S1VvWlM0dFlxOEhzdkh3cEZOdktDVGxlWUtuNVc3dUwtcmxZMlZEZWU1LUlYb1pJVUp5Vml5cTVUc0xDbw?oc=5",
+   "src": "Investing.com",
+   "t": "2026-10-23T17:08:04+00:00",
+   "tags": [
+    "gold"
    ],
    "tone": "bullish"
   },
@@ -2641,56 +2692,6 @@
     "oil"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "WTI trades near $99.00, five-week highs amid escalating Middle East supply risks",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYkk2MjB6TE1aRDYxOURrYThUc21aVWptSnZTZjBvdHpzTklSSEY4UmVRYkdPNlJvR2lmcXNKbTROVXVwWTNFek5aOGh1cksyR2tYUmRsbEZ6bUdqam1LdjJrdXRPUXd0dnBNUDFmMFVULVJuMnhKVVdzemI2WWZBMWhQbHVVZlVFOU1oMFlZRVlUVURKWHg2QnZ2RWFDbmZPLXlzb3V6MktpMl8yd19Za0thZHI4QUQyNGc3QQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T01:01:37+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "U.S. stock futures steady after Nasdaq posts worst day since June",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTWJ6YmFmZXc2TG1BNFc4TmlWSDZ5UlN0d0I2MnU0VmdqSEgyZXpqMVA1N0RqZ1hHXzlaM09QUVFkdG9NSTFWX1F0SFpmM2UxTVozSHpzRUlxejdVd0s2V3E3cTlXM3VmRl9BZ0ZuNDFRdFBBMkZNcnJhSHZPQml4bWJKM1Q?oc=5",
-   "src": "Yahoo Finance Singapore",
-   "t": "2026-10-23T00:53:00+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "U.S. stocks retreat amid AI-driven tech jitters, oil price spike",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWI5UjljaExNeWdCRGpOY0NRYXhhNkZ6WVJmaDBZRGpKMXRyY1hOS2lUN1RqTUJRTDVPN2NrOVVSYlpMelVJanR5b09qNjJoTF9sLU9wVnpOdVFTTk83dnFCRUhTRlRXSlVINXQtalRSZ0d4cEdfX1RRS3pQMGpqaHpHYW1lVWNUaDFzeldFVWlSdUU4ZXN5OEt3?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-23T00:53:00+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Sensex Today | Stock Market LIVE Updates: Nifty aims to break losing streak amidst broader market pain, earnin",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWndYWjd0eGRqaWVIbnlVX1RWNmZ1c0ZLQnFrbV9ocTZ5WnJhOTJWYlFpcVpneUdDM1hhLVd6RGwwVkR2ZHdyeUx2UlcyaWpIcnJ3UTQ1ckQxUXk2NGpUbVhlSlR5cDl1QlhNMnNidjhjTUxJV1NVTHROemwxTkFtZnFXZVd3dXRzTmI1czd1eHlncE40Nkw0Z0dpRkJEaVZzdm5LTFd1TFEzT29veVg5NmZtZ2diREhJanRLbHN2RTFDMEtqV3llaTFpUWlza3otcDhoWXg4NzVZZU5qcjFKX1VxT1RmMEc1TndvRlFMWG0yZGlmMEtmNHNoUm1qRUVoemY3YjUwaEI1SlQtZEJaSmdMRGrSAZQCQVVfeXFMTlp3WFo3dHhkamllSG55VV9UVjZmdXNGS0Jxa21faHE2eVpyYTkyVmJRaXFaZ3lHQzNYYS1XekRsMFZEdmR3cnlMdlJXMmlqSHJyd1E0NXJEMVF5NjRqVG1YZUpUeXA5dUJYTTJzYnY4Y01MSVdTVUx0TnpsMU5BbWZxV2VXd3V0c05iNXM3dXh5Z3BONDZMNGdHaUZCRGlWc3ZuS0xXdUxRM09vb3lYOTZmbWdnYkRISWp0S2xzdkUxQzBLald5ZWkxaVFpc2t6LXA4aFl4ODc1WWVOanIxSl9VcU9UZjBHNU53b0ZRTFhtMmRpZjBLZjRzaFJtakVFaHpmN2I1MGhCNUpULWRCWkpnTERq?oc=5",
-   "src": "CNBC TV18",
-   "t": "2026-10-23T00:45:33+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Oil prices cool from 5-month highs as Trump invokes defense production act",
-   "url": "https://www.investing.com/news/commodities-news/oil-prices-cool-from-5month-highs-as-trump-invokes-defense-production-act-4967880",
-   "src": "Investing.com",
-   "t": "2026-10-23T00:41:37+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
   }
  ]
 }
