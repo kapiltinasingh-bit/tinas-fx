@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-23T02:42:25.992229+00:00",
+ "updated": "2026-10-23T03:13:51.695169+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -66,13 +66,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "CNBC",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -114,10 +114,23 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 2
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+   "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+   "src": "CoinDesk",
+   "t": "2026-10-23T03:13:01+00:00",
+   "tags": [
+    "gold",
+    "oil",
+    "usdjpy",
+    "btc"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Oil little changed as supply concern lingers amid Houthi attacks on Saudi",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNck5UbmlQWWNHMWN3R0tobzlucGFObmFrc3A3N0trcGpiWjdOZUx2ckNPaXppYVlaaGJIUXNVNHh3WV9ONTc0REhGcHo3VUp0UE1tV2Y1ekZ0YlFuY1lGX1kyaGNReDU2eTVPajZyRjU1eXEwdzFyQlVsdHNPQXRDTHFtNVJIeV9IU3JXX2ZTSncxZ25EQTE3LWpwZ2R0M0lnUjNZZ2I4YXhsUjNUSDR4RFBsVFFnQzZLOEY0dEY3ZGNlM2NUdFV2c1QydVoyOU5xb2E5WE1MbkVDaFRkb1dxWtIB5gFBVV95cUxOeG05aXp0dnc3dEpxNGpfMTE2SnFlTGQtUjNPTl9UV2ExRzl3MnpFMTlfRjM1ZWpvX0xiYUgtaDZRSk1hLVFWcFJYX3Vkc0x1MDJuNlgzQS1uYUpIYVZyeFlMMTJCOFRXZk9vUVBldWRDM2NkYTF0V1l2ZU1EQnRWdHNFa0pPeHpNWGprWUxReGsxTndRZXFlWWhENUtRdkUyUkl4Q0FGdFVlSkRrRm1PREVpRWJETlRoT2ZxZ05zTzEtc3RhQkJkSkxyZWRaNnZVR1NWQjQ0VlhBV1FLOGlvQzV0TVJRdw?oc=5",
@@ -125,6 +138,16 @@
    "t": "2026-10-23T02:30:30+00:00",
    "tags": [
     "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Yen shines as AI jitters spur safe-haven rush",
+   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/yen-shines-as-ai-jitters-spur-safe-haven-rush/articleshow/135131944.cms",
+   "src": "Economic Times",
+   "t": "2026-10-23T02:28:47+00:00",
+   "tags": [
+    "usdjpy"
    ],
    "tone": "neutral"
   },
@@ -137,6 +160,17 @@
     "usdjpy"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Gold heads for sharpest weekly decline in four months on Fed rate outlook",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-sharpest-weekly-decline-in-four-months-on-fed-rate-outlook/articleshow/135131910.cms",
+   "src": "Economic Times",
+   "t": "2026-10-23T02:26:14+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Bitcoin, Ethereum, XRP, Dogecoin Sink as Iran War Fears Return: Analyst Says Deeper BTC Correction Won’t",
@@ -207,6 +241,16 @@
    "tags": [
     "gold",
     "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Asian shares wobble as tech rout boosts bonds, dents rate hike bets",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMG5uTk9BQ2lzbUtHT1k4Nlp4RlRCcXFvVXR5YUhCamhubGQ1SlB0c2FYczVLdl9ESzJBRzdkNmVuYU1ISVc2MndXWnBZTzBDNFdzeHBEQTNPTGU2SGhBTmtKM3Z1SWUxR2szN20yYWIySGIzUXlZcXVhdGNtTlJNMGN1WQ?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-23T01:50:00+00:00",
+   "tags": [
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -301,6 +345,16 @@
    "t": "2026-10-22T23:43:51+00:00",
    "tags": [
     "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Yen Jumps as Traders Seek Safety Amid Global Flight From Risk",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNzhiRVUtTkNvb0FhSnFXZkF4NUhicFRqQU91UGhuS21xVXA5SDBjWFZybVpOVUFvX3pwQjJPeVJIanNBTlg5RWw4d1JoeDhjcEZWRjdJVldPWWt4UWQzVURJczQxdWg5RHNpU0JYd2QwNHhZYkVQNXRXcWRQY0ZKakc5ZGh6NmNwck53NzNWbm00eGtMMl9LX0lPV3haVUFwV1ZNb0dTQ2ZWcE0?oc=5",
+   "src": "Bloomberg.com",
+   "t": "2026-10-22T23:35:44+00:00",
+   "tags": [
+    "usdjpy"
    ],
    "tone": "bullish"
   },
@@ -953,6 +1007,16 @@
     "nasdaq"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Japanese Yen surges as risk-off mood drives safe-haven demand",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOTRxM2d4bjFoR3BTY2VhSU1rX3IyUjI5WmxOWjg4SU9XNEVwU0xIVkpoaGlRU2YzSS1oZ08xLVFxZWxXZERKQl9MSmVMRWdjSkdIbkhNbkUyc0dFemVOWDFWYzlETDhCYVJnWFhZdFRIV3hVcTM2ZFR2RjNqa2pXdHFDbVlYcHRab29GV3kta1Rna1BKaFFHWkJhQnQ3UG4xemFCRGVDWQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-22T15:55:57+00:00",
+   "tags": [
+    "usdjpy"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Robinhood’s Crypto Revenue Fell 38% Last Quarter. Can It Bounce Back in Q3?",
@@ -2640,68 +2704,6 @@
    "t": "2026-10-22T02:46:37+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin faces $86,500-$87,500 resistance as leverage return",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWxDOXFmeUJwNDM3WWludHBIYXB5aWU0Wmx3bzdDU3YtUVZJMmJPRWhwM0IxNGh2bFB3V21fR0NVUkllbG1IbGtWZEVBdkt1Vjlxd2RwOHVJcUdhZ0llUm9qUmg1cWNaV1pCc2w0NV8tZFJIalpTdEtkdWFlWEdXM1FkV29zYm5fRU43MXVTdWFSdTRabk1YY0QyQ1ZtUl9mVExuREI4M1JiRUlMTGRWRGRNVF8?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-22T02:39:30+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US Dollar Index hovers around 101.70 as sliding US bond yields counters Fed hike bets",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXBMQ2dYZFMySm10YWpBQUI4TFlFSDMyWHZQTU1zak9FZUgzTmUwcWZLaFBEMDktTXBsdF9XNV9xMlJ4TVJMQVM4VklMRlRjeDhsdEJBTlhKSHNpdk42YUZYM09DdjBIUzZJT1BLTVN0SHdXTGhBY2Y4S1R0MEV4X1I0TlhIRHpWelRkOU5QWkRRTUxJMmJxdVB1WW9iNGw0ekIxUzlXY0JBWkpFeXhoYlZMYTdhcmc3N2oya2gzLVZCUGFwTWc?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-22T02:34:03+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Indian shares slip at open as high oil prices fuel inflation worries",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZDhVMWdGc0J2bURPNnV2YnBaRXlMSkVqcXRGX1FBZ2lUOXQ4eVJyd3RsTE1CckJ4cjRuVEdPQVJLaGVXaVA5clJIZ0lQSTBsMm1iQ0xfeTZkNXhqWUtoX2ExQkNlRFVfSVhKckRtenZfWW41bDlxWWc0WVFuRTVTTHlIdEtPcEI2Z2hWR2pyd2NGOGRiNXNMUkM3OE5qcFV5VUxQUkVDem1HdXN4X0pKY3RrejhKeHcxRjdV?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-22T02:33:00+00:00",
-   "tags": [
-    "oil",
-    "nifty",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Nifty can fall to 22500, says Jatin Gedia; shares 3 stock trading ideas",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT3ZZeVgxRWRzZVRrTERzN0FRWXY5VFpLMDZ4X1lpbWFlMmFDSWpWY0owajRXcDQteUxYNmNnU2t2YnJsT3JYUFFJWTIzb24yOTZadEFBRzBqOGJzN1piWnE1YkhOY3RvbDR4aEJrVzFaQVkwa1JxNVdVVzZjMkpjb3lKS1lWQ245bDJVb3d3UG5ES0hsT2o3ek9rTW94SDhERk9yTWVuTGlyOXJSNnM0S2c1NTN5TXZQbl9ubjM5NS1aejBVdnd5X3JpbVhFRVFtOEHSAdcBQVVfeXFMTkVoQ3YzVHlHNDRsWnFjcmNKSkQyQXBFTXVKcm5ibDRYLUE2bFg0M2UxRm5NWmRMdUEwSnE5Z0FuNGJSV3VtaVpPMkNsNlVSelo5eU9xLW9zd0ZXcnpBMThFVnRTOFlGc2dhd2VEeXltZjhHVzZoalcxdFNFUjF4bUFvM0sycWpaWkl5c2hEdHhzYXRleVFFeVJBV3R6b2t3ZFFkanpjemk3RlhsZlNrc2RXSjZRMTBOYzh3elF6MzFRekEwdHNQWlFOVE1lSUpFbjlSLW9TcG8?oc=5",
-   "src": "Business Standard",
-   "t": "2026-10-22T02:29:53+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Dip in the dollar takes a breather with Fed in focus",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZGM1WlctTTNRMGRQSzRKbG1aSmoyc2hEVWlSb0VJXzlJNkRpeXVmNUY2WTZ3LXU2Z0VreWxhOVhEck9GWGFGTzdnYlBGc1JzenQ5Nkcxejg0T0x1a0ZtenE1VzBKcDlXZHBGU0sxZzZsdWJTWTlKZWZ4c3A1LU9VZmkxSFd1dnU4OWlFdzRkNFhwZ01aV1JvaFJsaGZqU2pNQ1NfY0I5Q0FrTEVPSmdsaC03elpidDJNd2laNHdYUDE5SngxX3ZJQXFiRQ?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-22T02:22:41+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Dip in the dollar takes a breather with Fed in focus By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3BwZDRTOTFGbm1LNlhOdmFXVnRRcy1YQWlQaEJVUEpOY1U0cVZWdlYwNUJLTzdDYVN1WUpQX2lkMlZkdHVkLXhKckhoRXlveGM3VGpDSDFReUVOSTdnTGVySUFzMEczR21Iak1TY0hqUmJvWkxSRXlreUZ1VFFyYWZvLXBrLUY4dUV4OWc3Q0QzWGhYb05wd0M5MjRtRDM0bE5pMlJ3?oc=5",
-   "src": "Investing.com Australia",
-   "t": "2026-10-22T02:21:20+00:00",
-   "tags": [
-    "macro"
    ],
    "tone": "neutral"
   }
