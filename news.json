@@ -1,78 +1,78 @@
 {
- "updated": "2026-10-23T18:45:39.194338+00:00",
+ "updated": "2026-10-23T19:25:28.525193+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 5
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 4
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 5
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 4
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 5
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 3
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "CNBC",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Economic Times",
@@ -102,22 +102,63 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 11
+   "new": 12
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 4
   }
  ],
  "items": [
+  {
+   "title": "India’s crude oil imports climb 16% in September",
+   "url": "https://www.investing.com/news/commodities-news/indias-crude-oil-imports-climb-16-in-september-93CH-4970245",
+   "src": "Investing.com",
+   "t": "2026-10-23T19:24:14+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Brent Oil hits $117.10 overbought RSI 74: Live levels",
+   "url": "https://www.investing.com/news/commodities-news/brent-oil-stuck-near-107-between-double-top-and-support-live-93CH-4956491",
+   "src": "Investing.com",
+   "t": "2026-10-23T19:17:33+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "London Gas Oil nears $1,510 resistance with ADX at 9.3: Live levels",
+   "url": "https://www.investing.com/news/commodities-news/london-gas-oil-coils-in-14001450-range-breakout-watch-93CH-4956497",
+   "src": "Investing.com",
+   "t": "2026-10-23T19:17:31+00:00",
+   "tags": [
+    "oil",
+    "dfm"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold clings to support at $4,010 amid bull trap risk: Live",
+   "url": "https://www.investing.com/news/commodities-news/gold-stuck-below-4225-resistance-as-adx-signals-chop-live-levels-93CH-4956488",
+   "src": "Investing.com",
+   "t": "2026-10-23T19:17:19+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "S&P500: Defensive Stocks Slide as Nasdaq Finds Narrow Chip Support",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSW1iUGNNcEZydGdPZXp4ZkFROHVYRlhTa2FXSFQ5Tmg2OV9OMHMtZ2ZJMjFra2Nxc0xFekp6bGl5WTVrOEQ0NW5XUjc4RGMwYlVpWU1JTkNUVFdOdk9vTFdHSEpwRFM3MnlMc1hiY2RuNzhXeDNFR3NwZ0lzNlE3TFpQTGlNUV8tZjlhNDctbno1bzlRV0dmTjV1NDBQUXBFcHFxeVNyZWEyS1AtV2FYNVhPRWk3Zw?oc=5",
@@ -2650,47 +2691,6 @@
     "usdjpy"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Gold falls to two‑month low below $4,050 as oil spikes",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGt3akRjaTllR1l3OWtsZzBxVGJoc2xRb2gwNmdkMEUxSGlJNDJ2djZjNjFRMDN2ckktU24tS0xGWlpzZkgtWkdxYXFfQ1UyX2Roc0JVeVZPWk1xbnJsM2pfeTZyRGVvRDRZUVB0UlBNU1ppVWRVempmaWxTdjk0emxPeklIWHRWc08yMDRDZkdSSHRJTDdTZktod3U?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-22T23:35:22+00:00",
-   "tags": [
-    "gold",
-    "oil"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Why is crypto down today? Bitcoin falls 4% to $81,000",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYzZLNElrc2NCOHdidk0xa05tOGFsTlhxcUctSEw0TkZ3bDFWeGJqN1hBT1RteTlGNnlrVnpwdVZXVGIxbW5Zbm1ONUJrbmZKOVNRaUswOC1lenJsZFA1RHZ1NWR6b25Oamw0SHFsY1hCY3hGUWZzd19aMXBsRjlWX3F3UUpJYjBhR0IxU1F6cWcweWJEV0w2RGFaN2VNN3RWdTFLclNEb1JnRHA0NExPSTY2elQ0QQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-22T23:33:55+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Japanese Yen Surges Across FX Majors as Risk Aversion Intensifies",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOREI2T2RkdExWVHpYY3prTnRtTXI5c09GeW4zQlJwbWhmeWlyYk9yeWlzUW5seE90MmVIbWJlUnc3aXdWcV9hZjQ0al9kQW1DOVo0WFlaRldMWGx3SXhSQWRGTmhjVnNoUG12SzBtS2RqQzBQS2JkZU84TWFVRVoxd2ktWWpXRnJmd2FKQnl3TFBGSURiSG1iRHBnaUF4Ym9oU0dGdy0tY2h5OGplcEtUX1U1N2wtZE1jOWYyTWVn0gG-AUFVX3lxTE5EQjZPZGR0TFZUelhjemtOdG1NcjlzT0Z5bjNCUnBtaGZ5aXJiT3J5aXNRbmx4T3QyZUhtYmVSdzdpd1ZxX2FmNDRqX2RBbUM5WjRYWVpGV0xYbHdJeFJBZEZOaGNWc2hQbXZLMG1LZGpDMFBLYmRlTzhNYVVFWjF3aS1ZaldGcmZ3YUpCeXdMUEZJRGJIbWJEcGdpQXhib2hTR0Z3LS1jaHk4amVwS1RfVTU3bC1kTWM5ZjJNZWc?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-22T22:57:06+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature",
-   "url": "https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-10-22T22:54:00+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "neutral"
   }
  ]
 }
