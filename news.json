@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T15:15:56.006144+00:00",
+ "updated": "2026-10-24T15:53:29.515394+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 9
+   "new": 6
   },
   {
    "feed": "Investing.com",
@@ -519,6 +519,16 @@
    "tone": "bearish"
   },
   {
+   "title": "Nasdaq ticks up as tech stocks steady",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zZXN2amNsYjQ1LUkxbEZQTklhaXlTeU5XSlJRbDF2b05uN1JZVTdBdnVUclhidVZVanBqd25TbHNnTmFQQjY0RmQ0M3NwS3lkNG1GTWxB0gFWQVVfeXFMTXNlc3ZqY2xiNDUtSTFsRlBOSWFpeVN5TldKUlFsMXZvTm43UllVN0F2dVRyWGJ1VlVqcGp3blNsc2dOYVBCNjRGZDQzc3BLeWQ0bUZNbEE?oc=5",
+   "src": "Business Recorder",
+   "t": "2026-10-24T00:32:32+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "USD/JPY Forecast: Is Rising Japanese Inflation Supporting the Yen?",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVXNpUFJUN3ozRVNpT292U2xRUGRNZlVORVNmYVBLMDNKdG4tcktzSGhyT1NFT0k4d1ZfMGctRUFuaHRPeHFoSFA1c3V5LWJuazZZaHllWk1ZU0lBZC1IS2JOazNvNlYwbXVpVm9lY2pQa2M0ZkxNTHBXTmpWa0dSZFNlMFhxVTEza3FMVFNwVkRPc3hBWXlUSWs2ZVgtVzE2aEdKVGZQRUpBa3JX?oc=5",
    "src": "FOREX.com",
@@ -861,6 +871,16 @@
    "tags": [
     "gold",
     "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "JPMorgan’s Yoder: The market is doing a lot of the work for the Fed",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWFxVDRqR2JaeFNRMEN3SF9vYUlJZElsczIyY0hpX0MwWXdiekcwaS0yemRnb0RLeG00b3VQWXlpRzJOMlFXYjRlR3pFWEpYMHNoWTdrVllYLTZQZkwwN0JPMHFvdHFLOS1ZYkpWdjlLYVV3QjZpSHJkNUx4Z3NuamV4dHJpeDFULW1lUmsyTTljUVBsS0F0WGs0QVBRYjhhMGVxWnh2NDdyN2VadVE?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-23T19:39:00+00:00",
+   "tags": [
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -2670,26 +2690,6 @@
     "oil"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Take Five: AI trade meets the Fed",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWlIdzFDR0xNQ01RZzhsaXVtMXYtbWU3U3RvejE4NzV3TFZPXzI5SUpGTG9jLUxxbEhiNGFVMTZyUU84MVhTZGJaWkxtZ2cwaG9OTlJiYmFLTzFLLXZFQURzNUE5M05Lcjc5UXQ4Q1RIaVNWOFZlSlA2MTBLUFYtSVdLcGI3V3lCN216QQ?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-23T09:01:10+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
-   "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
-   "src": "CoinDesk",
-   "t": "2026-10-23T08:57:34+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
   }
  ]
 }
