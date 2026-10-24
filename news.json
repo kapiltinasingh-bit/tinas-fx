@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-24T20:36:45.013149+00:00",
+ "updated": "2026-10-24T21:03:02.841249+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -24,7 +24,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -54,13 +54,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -114,10 +114,20 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 2
   }
  ],
  "items": [
+  {
+   "title": "Can silver recover from its latest sell-off? UBS weighs in",
+   "url": "https://www.investing.com/news/commodities-news/can-silver-recover-from-its-latest-selloff-ubs-weighs-in-4970956",
+   "src": "Investing.com",
+   "t": "2026-10-24T20:34:17+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "S&P 500 and Nasdaq 100 Slip as Strong Earnings Collide With AI Bubble Fears and $117 Oil",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaG51dzV4clJjdXBsaXg1NG02TUhmQm5tdGhlUFppYVdEZVlHWVp1MEV1UDJMc1JhVjlUclpkcUZPNmhnOE9QMWRBTnRIaktqWUdTanpra2VORmhPYjlSV3F4T3FVQTRUVEEteEZpeWx0VXNoUFJlZ2JJMEd5SXp4cXN6Vk1Zam83V3FEM2FLbEpnaVZFTEVCSlJvQVVTWk5vd3dPWGRHTE9yZEZESVRYa3d5RTA1UXFCaFpKMGx1MS1wTFp2SmdkX3ZUN2RmeHBsQUxRS0d3UjFSdG8?oc=5",
@@ -135,6 +145,16 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1BxdVlWVE1CMUNzbzgzaE1KMFZ5VnJmaUszUndqc3pqOVJJTU03X0Q0M3EybDBYTVJyeXRUSWYxSm1XdkcwQ1MzZmN3T1V5WDE4VWZaUWQ1Q25aWF9BOG9xMUtUaTlBYnN3eGN0U0dSRWJqNEFyRjkxYmZwTjVzY3I2UGZRX0RhQlFJWkJYT2VxNGFiNWlYOHpjZElLSmZOanBuUDIzaWRMN2wza2t5VmxrM01zMEhNMTlqNFB1N0NvZ3fSAcMBQVVfeXFMUHNQcXVZVlRNQjFDc284M2hNSjBWeVZyZmlLM1J3anN6ajlSSU1NN19ENDNxMmwwWE1Scnl0VElmMUptV3ZHMENTM2Zjd09VeVgxOFVmWlFkNUNuWlhfQThvcTFLVGk5QWJzd3hjdFNHUkViajRBckY5MWJmcE41c2NyNlBmUV9EYUJRSVpCWE9lcTRhYjVpWDh6Y2RJS0pmTmpwblAyM2lkTDdsM2treVZsazNNczBITTE5ajRQdTdDb2d3?oc=5",
    "src": "FOREX.com",
    "t": "2026-10-24T18:04:57+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Utssav CZ Gold Jewels approves 1:1 bonus issue, to double equity capital",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNb0xXZ2RQck4ySHpPR3VvaEZFcnJmSFpTdk1qOERIRURZS0hLdzVfOW1yYmV3VnlXQXc2RTJUa3FjUTJpUjRGa25pTjhWNjQyWWtXQ0ZaNnVPX210dGcxMGxLVm1LUzhpWFpaSGxSbldsNFc1N3lybFFld1RPX1pIWkx1aTZ1QXA1U2pnSDZBSXEwNFVWZk9tdmFUNVZLVnRKU2R1RzFQVTZueEhDdWhxNm9sTXhpdWk5OWtaaEJKLVhXMFRNVjJnR25mOGwxRjdFLVdCeVFLYWliVlZmQlhIa3lsSWlEUkp0UDV5MmNwRnNTbGNmQmfSAe8BQVVfeXFMTkI2dEFzb1pIZEZ6d2dLbXpDeS10Q0ttZmJENWZJVkdBRm8yRWg5RmNBbnVJUXFXZmFXNWE2N1M2RGQ0ZG1zajNUTzFHZDA3OWlGNVJ4a19pYUhqelF6dDNfcExleUN1Q2pGS001NENvRGVhYWFnbnhEa2lKTXZiOXotcjk5V2NxYkVKcmhYZ3l1UnNXMUZSVGJtMnI3OHlmQVFocHl0WnB0d2xkTVNwOEU2YWxLU0laVEJCUTFqUTdOSExYb2plWXlzQ1BydXdpSFF5RktpblBuQzdZOTFiR2kzYl81QmJxQ1FfY2NqN0k?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-24T17:02:09+00:00",
    "tags": [
     "gold"
    ],
@@ -227,6 +247,16 @@
    "t": "2026-10-24T15:00:00+00:00",
    "tags": [
     "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Over 4,000 employees receive 4-gram, 22-carat gold coins",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbVg1Sl9SVnRERFhJcGd3V3psczd6Yll4QzlZTjFjRVdIMklJRHd2YVVNcmhGTFNnakRVd0R3U2VMR2U0aUk3RE45OVp3OThYV29tWW5Fbzc4UDhVTjdmeEhnWE9VWl94ZzlvZUJ1LXVoRkVveGx1S085akV5bGVMYVVGc2tuUTJXSm04NFVXVE5Fd3F5ZkhlOTNtTlhyclYtT3I2ZVQ2TVI?oc=5",
+   "src": "The Business Standard",
+   "t": "2026-10-24T15:00:00+00:00",
+   "tags": [
+    "gold"
    ],
    "tone": "neutral"
   },
@@ -567,6 +597,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Domestic gold prices slide for third time in 10 days",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjd5ZnI3dEpZbnFTamdaZEhEdlVQcW9KTlB1bnFubEVydnl0Vm1IQTZQQVAxcHAwTTJTMWRqWWFvN2c5eFQ1X3VqQnZ3VlQ4SUtvdzBHUXktbEsxRl9VaUFOaVlVNWhfQk5aUFo5OXJNQ1BZbTlJUEdQdDQ3RkxZN2w0Z0tUNW1iUHNoRTM2bU02bWdHSVdPVg?oc=5",
+   "src": "The Financial Express",
+   "t": "2026-10-24T05:34:08+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVEhvUXFJN0lhcWNjSlJiU0xrdWk5U2szNTBxbFZFMUJ4ZWlLV25fcmJOZEpaWTE0QV9HLTVPNDNXb0dlclFweTZqSGMyN05jRy1YMllSWXZFN0h1RngwcWZxQXFVT2hKcG1ILWlXak5raGtrOXF2dEV6dFZUcmNUOGlfU3FqcENlcWpuVnVpMmJRWkNsQXFHN1cwZEpfc25vbm51UDBCVkRjZkZUd1U1dlJ0Rmp6SkxDVEZyRkRCY183SkpsamI5S25NaVZ3cmxoampr?oc=5",
    "src": "Investing.com",
@@ -885,6 +925,16 @@
    "t": "2026-10-23T21:23:59+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Apple’s iPhone Duo shows encouraging early demand signals, with third-party sales data still to come",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVm9TV3B6RWVybnpsYXJHazJEOUJucEpYaFVwT1VUQ05lN0ZxemR1X1Awa0NNaFlfX1liaTJiQlQwaDcyOGZGLUJqaTdSZWRZUXV4Mm9pLTl0R2V0NDJXQ3lLenNLU3BEQ0E3bGhYNE9fVmFqMUpJbndvZVdOMTRTR3ZQWjMxUQ?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-23T21:22:00+00:00",
+   "tags": [
+    "nasdaq"
    ],
    "tone": "neutral"
   },
@@ -2639,57 +2689,6 @@
     "nifty"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Stock Market Today: Futures Head Lower at End of Wild Week as Oil Prices Rise Further on Middle East Tensions; Chip Stocks Rebound",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQy1jOC1PbG1mLWxKWmhIUnlRcVJHVDZmWUFEUVdEMHRSdVEydEJCYmVBUm84SzlFX0tzSzBncWVobHE2dzJ2NW8tbGVRMEVwc3Rja0RmSHBUc25PNnhQeDZHdzE5VlpsSnZLV3d5ZHRpRzFLX21qTGY5cEpubkFyalhGcHVxeUowd0ZPa1JDTVlzMFhrQ1l6SFhabUM?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-23T10:29:59+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold at $4,000: Why $3,600 could matter next",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTZ0OUtFUThvbkpFNy1qMmhESzBvckZGcGs1UnZoRlZSMXBGeHg1c2tob1pPOHU0NEVTa3MzQzZVV0FvNEhkZU5qYjFWemQ4b293OFNwTGtWMEUzTS1ZNUlHMm1NNjlFX01fVUVnZUU5MEl3cndpczlsZS1jaGVQaEwwd2pSOGVFa0dsWExFVmN6dw?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T10:22:45+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bonfiglioli Share Price, Stock Price - NSE/BSE Live",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44bDFHOWVKaVRZWTQwYXliVzgyQzRkNUozcnJaS0FHYVMxRXF5X2VPZFc1LWtRN0pLd1c4OTd5Y1JFR1d3YlFtalNYMEswT0g0OUtCd3d5a3o4TE1jZV9saGZpZ1hhUFpwTk5OZ0g3cUlhUQ?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-10-23T10:20:38+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Mixed Ahead of Global PMI Data—Western Digital, Newmont",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOb1JleURsaFlNTHZob3RsX2Nuell5cGhiaEQ0ZEFmYkZyS3lNSnVwT3ktSGE0c2ZmVWRIRDQ2cnRSVWdoZERtLUl5bWtxenZHVy1hdXNyOV9Damt6Z2ZNd3VMV0VQekVnOTR4Y0tJQVU0cHdkSUd1RlBrc1lHRXlYbUNUcGlXRU83VWI5TG8yaVcwWjZ1R05wOXNKT1Y2V1FHWXdYRlRtY2pVWDRsRC0xamt5TUh6UktjWUJYc1NzSVlFV2NrWEFfTHpSRHZtNFJFSE05LW5oYmFwMklzbTlaajFKcmJkcnFjQUlsYmhxWkRpZlpmaVM0WlRSc211blZvR1lyTHRvTHJYQQ?oc=5",
-   "src": "Benzinga",
-   "t": "2026-10-23T10:19:24+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Holds Near Three-Month Low as AI Jitters Fuel Volatility",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOU1IOHpFcF9sV2ZnV2huTy1tVGV0SF9zVFNPLXh5cHdlNU9zS1FWamtyd2ZIcUZMT2YxRE5OZmdCdzUxQ3ZQbHV6bmE4aW85ejVKZWt4SzZHcDhNcHVWNkJ5X3VFSnVvSVVvS0xfX2ZQQVFpTklWZlNIUGVhdEdDbk1sRC1PNWFHZ1lRaFREMzFpTHNoQUZwQVJuTmw1V29ZMU5sSi1Ld0FyOGNXVllVRWdn?oc=5",
-   "src": "Bloomberg.com",
-   "t": "2026-10-23T10:18:22+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
   }
  ]
 }
