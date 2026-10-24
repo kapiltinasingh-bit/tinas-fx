@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:52:41.250434+00:00",
+ "updated": "2026-10-24T15:15:56.006144+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 6
   },
   {
    "feed": "Google News",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Economic Times",
@@ -118,6 +118,36 @@
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin price news: BTC falls below $80,000 on renewed Middle East worries",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY2t0UU51ZnVfTTRnQm16dnpFQjY5SVl5MEg4eW5iU1YwYXF2NFRTUlUyMWxNWHlxc2xQdm1rS3k3YkFpVEhoSXhFRFJwQlRRVFBsTl9jNmY4SnZsR0tTUk9fZDI1ZXZ1dE5sdGdxbE8zajZOXzI5ZW1qbjZqYlpOR2hfUFNYYkUxTHZxUG1mcGhtMURUM294ZDhUdGk4R01FY2xRemxMWnVmS0ttOHFkWGdrYVBxSkE4b1VqS1hDRmVOdV8xM1FBTHpWS2hsVUo2?oc=5",
+   "src": "CoinDesk",
+   "t": "2026-10-24T15:11:24+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+   "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+   "src": "CoinDesk",
+   "t": "2026-10-24T15:11:24+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+   "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+   "src": "CoinDesk",
+   "t": "2026-10-24T15:00:00+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
    "url": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
@@ -479,6 +509,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Euro sinks on French debt worries",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6Tm1IcXd0SHlSdU1jc3N5UDdoSWhqZnV0UXp2Rm5Ldkg4elZmY2gxY1lmeUEydloyMGVlQ1ByVDlUTnBnQ2oycE45MS1vQUIyNjVXSHhn0gFWQVVfeXFMUHpObUhxd3RIeVJ1TWNzc3lQN2hJaGpmdXRRenZGbkt2SDh6VmZjaDFjWWZ5QTJ2WjIwZWVDUHJUOVROcGdDajJwTjkxLW9BQjI2NVdIeGc?oc=5",
+   "src": "Business Recorder",
+   "t": "2026-10-24T00:32:32+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "USD/JPY Forecast: Is Rising Japanese Inflation Supporting the Yen?",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVXNpUFJUN3ozRVNpT292U2xRUGRNZlVORVNmYVBLMDNKdG4tcktzSGhyT1NFT0k4d1ZfMGctRUFuaHRPeHFoSFA1c3V5LWJuazZZaHllWk1ZU0lBZC1IS2JOazNvNlYwbXVpVm9lY2pQa2M0ZkxNTHBXTmpWa0dSZFNlMFhxVTEza3FMVFNwVkRPc3hBWXlUSWs2ZVgtVzE2aEdKVGZQRUpBa3JX?oc=5",
    "src": "FOREX.com",
@@ -613,6 +653,16 @@
     "oil"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "If Fed holds rates, expect 10-year to creep higher: Janus Henderson's Contopoulos",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONS1sZmdINk0yN1A3M3ZGNDhWOENYd1hOM09mN21zRmgyWjZCdGpKVlZneWNVTTlBSVNtUnNsaEdrVGxlaTIwbkpBUmFFMWEzTjBYUzZLM1ExOXhFc0V4ZGZnOFVtd1o4OHl3WVRPc0ZYMy1ua3BsSjJGWXFGNXV1QXE0S3RXTXhJRFRIc090RVRybmd4S2Z3bVYxRFBEOWgwUDBhYlJSQlJ2RXdOZjQyNjdNZzAtUmdYSGcxTmd3?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-23T21:25:00+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "M. K. Sons Fine Jewels Share Price Today, M. K. Sons Fine Jewels Stock Price Live NSE/BSE Updates",
@@ -2640,57 +2690,6 @@
     "eurusd"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Euro hits fresh 17-month lows against British Pound after Eurozone, UK PMIs",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPakZ6LW9DX1FVX3hScWFvM3dUbTluQV8yenRwVDlLMTNMbGR0UkNJZHg4VVR2LVlRRUJ0azNacTZGcmswUk5GQmFjYWpvRDduRk03MllNaXBlYUc3djZqVi1YQ3dKVU5SWW5tbUsyNl9qWXhaUWpQX1ZEQ1I5Y25WR3oxTV8xNDVrSkhZR1JqQk1YZXkyaWtIX19uakVOaC1zcG1CVEVRQ2VaLTlYcENHdnAwdGVLSThE?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T08:55:46+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTGZ6TE1GcGRGZ0FydTg0SFRXeWVkMTFYTUdzNDVfMVNfZzZ0WFI2djhDM1c1RlJ5S21yZUNNZVg5bHN6czJoTUxnVERrbHdhXzVNYzVBVXp3c1RnU1NTN080TG9ackFVQmxJVzFIbHphQ1pvMWlrTWJfbzRjcy1uR3RqSFlNNFNLME5ZM3hB?oc=5",
-   "src": "Decrypt",
-   "t": "2026-10-23T08:55:35+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Nifty Midcap 100, Smallcap 100 slide 4%, down 10-13% from 52-week high",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMVFLTEp6aFVPNm40UDZVM0szUW8wYnZsLVdQNC1tODcxalJQZm5iM0FsakN1MFQxUkdjcnVGQUdUaUJKRnRRSHhsM29SbGlkdWJkN2h4alMwYzlqcWVSZUZHdWNHbDNNek1oalRWVldqLUtvTDg5bHl5REJsN2wwaTdMMmtZelh3MHdxTGJJTXFHSzlTbm5qUTA0R25YVFZsdjZkTlRZdmVoSzllNlplX0tLdko5RlJTanhEb3NNR2IyOTNxZWFsUXhWR1RUdldP?oc=5",
-   "src": "Business Standard",
-   "t": "2026-10-23T08:55:26+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Gold holds above $4,000/three-month low as Fed hike bets and firm USD cap upside",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXZUdHQxUjlmRkl1RXVmSDVZRnFwd0dFeTRxU3NaY0REVzdWampCTlVpZTZJTHhRNkZhZGhvRnpmbjN0OHlhaU5rN1ZaZ2NtUU1VY1UyZ3JyUWZ3cWZKUnU3Yl9fZXhxaXYxY19HTUI4R29HYndLOVhnTU9YcHNZZ01QdUoyTmktVThNY2ZQblhzdF93ZUYwaExFWS01aUpwWUFCQS03T09paGU2NDVta0FZVGo1Uy1VWS1QbXJ3?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T08:49:07+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold – Potential for the further drop [Video]",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdVRzUlJkUTQ2eEtxc3doazdSaUNDZGFjclVnWUkzRjUxQzJQNHJ0QzhKZ2FUVFprV2I3ZGhBZEtfZkJFdDdPTEJGalpBWnVMWHhWNUM0UzFhMVlxbVk2eFRxRU42ZFJFaV9BblZMT0dfLTdNV051SzQ4M09CTTBTNENTaTN5WDdhbVFrUHdnRzd1Zw?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T08:48:23+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
   }
  ]
 }
