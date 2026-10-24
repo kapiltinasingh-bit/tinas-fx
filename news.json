@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:20:29.611112+00:00",
+ "updated": "2026-10-24T01:16:26.068594+00:00",
  "count": 250,
  "feeds": [
   {
@@ -24,13 +24,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,25 +48,25 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 12
+   "new": 13
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Gold nears $4,000: 7 global triggers driving prices that investors cannot ignore",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbTZhRlVvT3FhZFhVOUJyeFIzOTU1aHlEWFVYSWR0SEYtRnFSZTFrQ0IwbWVidFRhajlHRmdkWkh6dzFoZUZyUWlqaTBEenBNNDdBMUg4SHNhakFGdUdwRzZZVGFaOEpGM01BOXBOYVdERWppdHFyZUEtUnkzakp4dm5NaFlvRE1oRGluMjh3NC1JUDRPLXE0Vk9CS3dXOWRIOHd1MnAtQnhhdnZBVGpOVnI2d3JWSnJ4VmY4S3MyNzdMbXBzZWdHbjJkZlFkd3kzb1VHTGF30gHcAUFVX3lxTE1QYlRXMUJGZlJRbnAxZG9xbXY0V1JoLVdzcGNaZ2lES1hzc2x2VGs5TjBEQjJ4cHp4bnE5U3ZmQlBUbUQydW9wTVQtejBiOTdSa0VnSHBQSVZhbHRaaWpaYW9IaFBGdGZwd0V6LUc0Rkg4MjdaSHF4RkZlVzBzZkw0ZWc0SEtwaU1YcldBcWo5LXRYRFE3QzloVEVXaGVvZ2x1MDNUSUxZbW4tRTk1YmhNS1FQUGxSS1VuSW5SMERpMEpIQy1ySThONGxPc2Ztb213QjFWTjNCUjdfZ04?oc=5",
+   "src": "The Financial Express",
+   "t": "2026-10-24T00:36:00+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Bitcoin Usually Bottoms After Midterm Elections. What Happens if This Cycle Breaks the Pattern?",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbXJUeWdSR2s1bzhrcTlPaUxhdTVId3pWTjJsTnJmTDhRMlJ5LS02bTFfQTdEN2ZWUGgtVmVLU19mMG1SbkVaV0J6VHQ1cEI4NjI3clZhOEtMenFveUtGRnhOaFNBVzVlYXRNNnRPVDNSc2NPbTF0YTQ0REE0X1hLZHN4and4aU5JUGhzb28xRkJmVXpWQXhCb0R3MzBfUzdwRldLT2NtWklaLXpHQWoyamtQUEtCSlJnT1NtSjJISk0xOFRkai1TNkZDMXVpMjcxdVdncFh2OFdiMFc1OUNKUlByRU9LTEU?oc=5",
@@ -468,6 +478,16 @@
    "t": "2026-10-23T18:30:00+00:00",
    "tags": [
     "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Silver Price Forecast: Fresh yearly low puts $50 in bears’ sight",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZjJNWWk5clFBbjQ0WVhwRkFGMmdaQVp3d29SdmlHVVFka0lfZExKQ19ERFBySzdmMWI0cGlGUlcybEJ3b1A1ZFd3bUhOd3habXFYUXJLNWhVY2FLXzNkdkJ4clFZM0JlT0Jha2prX2pPalptYkl0MVBCdXZrb0xUbm1nR0VYVktXU1A1MjFzOGNWSl8tMTFuUFEySU1BTVpLN1ZjTHBKS0w?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T18:27:09+00:00",
+   "tags": [
+    "silver"
    ],
    "tone": "neutral"
   },
@@ -2669,28 +2689,6 @@
     "macro"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Gold and Silver Price Forecast: Gold Tests $4,000 as Oil Surges",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcW5ZeUZRcFhsN3ltRFhPdFJsaEhobFNxVGpncTF3N3Fad0hnRnQ0X25fTFcwLVRmQjJpY1ZWLWhDLTZqMm9jdkhyVVo1OGZvQ05oS1NfTnZjYzhwQzQtU3RqVnhuSXY1YnozU3dTTWF0QXFIQlkzeTB2Qk9MaG9yV01VazFGUnpUZ1lMX3pwYnNWYkdTMmg4V3F5TTFpZUZ6RGdjTTV1Z2ZBbDRwczdrRQ?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-23T03:31:23+00:00",
-   "tags": [
-    "gold",
-    "silver",
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold Price Forecast: XAU/USD hits fresh three-month low below $4,000 amid surging energy prices",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVGVPMGVnV04yaGNoaUhXX0J0dV80S0xnRHZ4a3F2SmJYLVBLemoyUEVLZklsSkcyNEFTbFh2UnY2czdkTkpJTzF5d0Z3SjJnQXBWRFR4WUtUS2ZrZS1uSWczYjlyOHdqSmlPOU1WcDBIMjR1TmkxZmZKRV9LaHB4cXNtbklranVvVVpqX3YtYzkwS3duMDJReXRqQWVrbUg4b3dQRFpDYWw1QUVJbGJUSDlRUEFzZTdZMnVISTg0Tm5MZmUyaG9uNmJYT3B0Mk5LeDhBazFFVQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T03:30:55+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
   }
  ]
 }
