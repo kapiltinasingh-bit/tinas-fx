@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-24T20:10:45.409840+00:00",
+ "updated": "2026-10-24T20:36:45.013149+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -24,13 +24,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -54,13 +54,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -378,6 +378,16 @@
    "t": "2026-10-24T11:03:56+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Crude Oil Dec 26 (CL=F) stock price, news, quote and history",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53TTE4VVFxXzFERC1MYXc3NGtSMU1vVjFRUWhQbXZYZ1VlYW1wekVWd0psQ1hzdUdvR1BJT3BCbmxkd2JnQzhXOWVvZ2o2TmpGdG9CdA?oc=5",
+   "src": "Yahoo Finance UK",
+   "t": "2026-10-24T11:01:32+00:00",
+   "tags": [
+    "oil"
    ],
    "tone": "neutral"
   },
@@ -766,6 +776,16 @@
    "tone": "bearish"
   },
   {
+   "title": "Oil prices jump $3 on Houthi attacks, oil spill, highest settlement since April",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2dZUC10TmJYRUk2RmM5WWpxaUx2XzBPZ0ZTV3hIR3BkaGFvZ3B2T1hhd0xEcXZOWk5LdXhLLUF5QU9XdTRQdnRyTk9jcmVNMEZvZlZBRW8xcG1TVW1fTkY2UnFrcXlVWlUwbDhRYk9pcW1fdEdzMVNRR2ZhYVl2T0RZa09uZTktZGFWRVRWSEpGeFhYVXVPR09zNDVaTVdiNDdRRHg3VFNyZWNNWVBmdkxGMWFOa05yN2NBRnRVZjF3eF9i?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-23T22:33:45+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Gold's next evolution",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yM21Yb0NnakdvblV6VS13ZnhjNzlwRzNOWUkwWmhrNXB5MUZYakFsVDBiMURMa04tZTlwSWFybmdMeUpBYnJLNTQ5QktFRllUNUcwTHFFRVRuN2NXb1JCTkNMY29TLUhaZ0FOaGh0Q09mQnpa?oc=5",
    "src": "Kitco",
@@ -1046,16 +1066,6 @@
     "macro"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Oil prices jump $3 on Houthi attacks, oil spill, highest settlement since April",
-   "url": "https://www.investing.com/news/commodities-news/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia-4967907",
-   "src": "Investing.com",
-   "t": "2026-10-23T19:42:21+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
   },
   {
    "title": "Precious Metals Prices Canada | Gold, Silver, Platinum, Palladium, Rhodium in CAD",
@@ -2678,16 +2688,6 @@
    "t": "2026-10-23T10:18:22+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Sterling edges up to fresh 17-month high versus euro after UK data",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTnJQUGVyMnI5c00yTDVhSktCN3lpeGRYb20yT0w5VlVmMGNXdkp3VmRqOGNuUVdXSEE1V3BLd011ZTFBMERRTW9HYnExalZGNzdwVDRwOXZKdWx2X2QtcFJrSnd5VUFlX2t2VHJMRTdYZTVyc2J2alp3VC1FbmxaNjJDdDJmTDNPTkFabDBHTzR3Y2lpbjJuSHljdlJNSWZvRHF0TDhQV3c3N29f?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-23T10:18:06+00:00",
-   "tags": [
-    "eurusd"
    ],
    "tone": "neutral"
   }
