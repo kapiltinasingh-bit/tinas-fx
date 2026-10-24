@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:15:34.618923+00:00",
+ "updated": "2026-10-24T14:52:41.250434+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -60,31 +60,31 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 11
+   "new": 9
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
+   "url": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-24T14:40:00+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
    "url": "https://www.coindesk.com/",
@@ -170,9 +180,9 @@
   },
   {
    "title": "Crypto Outlook: Why Is Demand Failing to Recover?",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOemdBYWt4ajBOcXNjV04wMElGQXp3RHVsVk9fWnpGRjJfQVo4T3ZOMWRGUjRlTkVaeXAzZFdjTzFIR1hlQkQxcFJkS1o1VUlsRXI5azJJQVREZ0gxazNCLUtPTk1OaWhTUzRZXy1qeWpyeHhTTmFVeFZ1b2Y5S29tR3NqMWRqR1lrLTdma0E1aHg2RXp6UmJ3eXA2ajd5c1dHZk80RjJB0gGmAUFVX3lxTE56Z0Fha3hqME5xc2NXTjAwSUZBendEdWxWT19aekZGMl9BWjhPdk4xZEZSNGVORVp5cDNkV2NPMUhHWGVCRDFwUmRLWjVVSWxFcjlrMklBVERnSDFrM0ItS09OTU5paFNTNFlfLWp5anJ4eFNOYVV4VnVvZjlLb21Hc2oxZGpHWWstN2ZrQTVoeDZFenpSYnd5cDZqN3lzV0dmTzRGMkE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOak1MT25hYmdjRUlLbHdVaS1VWDVXdG5ZN0M4cW42UzlzUjJZSU03S3BwcnJINm9Ib3JHeXVtMnpSc1c2UHByYUVaVUlRU1gxV2pseWZySmd5Z0NWeWFtVktQaEVmazNxU3BSRkt5WnZFaEJTVmNxWWFMR1BMUFRIaWFXbllZZlRaNVpKN3FuZ2k0SjY2SXl5aE1HZzFhbjRBOUR4OV9n0gGmAUFVX3lxTE5qTUxPbmFiZ2NFSUtsd1VpLVVYNVd0blk3QzhxbjZTOXNSMllJTTdLcHByckg2b0hvckd5dW0yelJzVzZQcHJhRVpVSVFTWDFXamx5ZnJKZ3lnQ1Z5YW1WS1BoRWZrM3FTcFJGS3ladkVoQlNWY3FZYUxHUExQVEhpYVduWVlmVFo1Wko3cW5naTRKNjZJeXloTUdnMWFuNEE5RHg5X2c?oc=5",
    "src": "FOREX.com",
-   "t": "2026-10-24T12:04:50+00:00",
+   "t": "2026-10-24T12:09:17+00:00",
    "tags": [
     "btc"
    ],
@@ -1119,6 +1129,16 @@
    "tone": "bullish"
   },
   {
+   "title": "Bharat Electronics among 4 Sensex stocks to hit 52-week lows; shares fall up to 9% in a month",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQT3p6MGpkOUh4TS1yTW9JYzhuZHVvelFBU0hxdGU3VEdJX1BQUWRQb2FyQ2NFa3VoNjZ5NmlSNjJ6SE1yQlVERFhZOGlTRUlFS011UFhUMFFzUkdJT2EwMUJnLW5OY3RUdmdnRk80LXZjZFAzZWNUTnNCV2hFMENlWVppQjBFYlQ4YnlEWmIzWVZhSG82a1J4d2tiLUlQX2NNMUJhU3p5SjZIM3NCS05BVjQxWEJVb01vSE5XZGczd0tpa2JIZmREbnF3dGdLd2lYQVBpaU02c2t2aXh5OFpvVktGMEZOTlE5UUU4ZnRxakpXVFN1eWNlQUEtSTZJaWZtRDI4OEx1N2x2N3g2aVk4?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-23T17:14:35+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Gold Stocks Could Rally 20% to 30% as Winter Seasonality Turns Bullish",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2hvRS1zajB6SkRtQzNZYlVqeWNiVzRaMGwybnAzbmwxOTZrNEZ2OGtRR21MZzBOQkxBeDVaRHhJMnc0eDIwazd6ZnRLZTlOcjlPTFBnSG9WZV8tWmZMWTNMemdHRkg3ZHBhYWw4WVZXbTBwVk05S1VvWlM0dFlxOEhzdkh3cEZOdktDVGxlWUtuNVc3dUwtcmxZMlZEZWU1LUlYb1pJVUp5Vml5cTVUc0xDbw?oc=5",
    "src": "Investing.com",
@@ -1762,16 +1782,6 @@
    "t": "2026-10-23T13:38:31+00:00",
    "tags": [
     "spx"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Bharat Electronics among 4 Sensex stocks to hit 52-week lows; shares fall up to 9% in a month",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-electronics-among-4-sensex-stocks-to-hit-52-week-lows-shares-fall-up-to-9-in-a-month/slideshow/135147674.cms",
-   "src": "Economic Times",
-   "t": "2026-10-23T13:34:27+00:00",
-   "tags": [
-    "nifty"
    ],
    "tone": "bearish"
   },
@@ -2681,16 +2691,6 @@
     "gold"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Gold price analysis: XAU/USD tests critical 4,000 barrier",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWmxneXNQNmQ4bjBoUTRNcWY5dkhtcjExVGljZkRlNXFlZHZUU3IzenhZUHo0TzJxNU9zU1lVLWIwV0hlWmg0VWx6X1h5UzMyWmdzYjIweUUzS3VSVldtdm9uU0ZHcDFldXZUWE52VUc2SXBnT2JqQWM3NVBESTQzeER6VE9heWxiUmp6TTM0SUM2VTlZbFZQNUYzTUhOX0hTZjNLLU1B?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T08:46:21+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
   }
  ]
 }
