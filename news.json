@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-24T12:06:00.317876+00:00",
+ "updated": "2026-10-24T12:44:48.416131+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -66,13 +66,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "CNBC",
@@ -114,10 +114,20 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Gold Just Fell Below $4,000 After Its Worst Week in Five Months",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYlc1UmY1RjEyQ3QzM0hZQXM4ZWpTaUJBaGZGeGVuOTlfdkdjVEVUb0JHc2x6dlRaREoyWkZxcHRFSjBNb0pNLVR0Tkk4MUpVb3dFZnRVc3Byb3VLZjNfMWt5QlFIUHdLM2lwTFQzTjNWSWk3cC12TEo5Ty1PeS1jYVNqNFlZcnJwaXhtMk9tWjdMNU1fd0hCb1JnZHg0SGR4b09pNTA0MWk?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-24T12:27:00+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
    "url": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
@@ -167,6 +177,19 @@
     "nifty"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Kitco Global Index (KGX) | Track Gold, Silver, Oil, Crypto & More vs. USD",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45OFJTWDZuVGExekwwWWU5VzJXemxodkI1WlFBSVNmVkRrWkxrNlJjV2ZPTVk4Y281ZFd5d08yMVdxMGZGOENSQ0EtVGVkUXhrNUdNcF9DVkZhQQ?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-24T08:09:33+00:00",
+   "tags": [
+    "gold",
+    "silver",
+    "oil",
+    "btc"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Coeur Mining: The Cost Trick Every Silver Investor Should Understand (NYSE:CDE)",
@@ -227,6 +250,16 @@
    "t": "2026-10-24T06:52:52+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Form 4 SPDR® Gold Shares For: 24 October By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTjg5dzFtWWFwaXBuUy10c0d1M3d5MXNJb1V6c0FBeEhFQnFfNi1lV0hXbWxpdDRHSGxaWkV6WEpGZ1pvNVdlV05SRmZjbUZqck4zN0ZYb3Fub09zb3QwQmpiVTNyZUFid3ZBZXNOa2EyMnIwZ09USm80YjEybDdHdFR1NlZoQ0NwWV82U1hsaWpwX3c1NlU3VWZnX1dnS3hr?oc=5",
+   "src": "Investing.com South Africa",
+   "t": "2026-10-24T06:13:43+00:00",
+   "tags": [
+    "gold"
    ],
    "tone": "neutral"
   },
@@ -681,6 +714,16 @@
    "tone": "bullish"
   },
   {
+   "title": "Silver tests $53.08 support in oversold downtrend: Live levels",
+   "url": "https://www.investing.com/news/commodities-news/silver-tests-bear-flag-at-5860-resistance-live-levels-93CH-4956490",
+   "src": "Investing.com",
+   "t": "2026-10-23T19:17:41+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Brent Oil hits $117.10 overbought RSI 74: Live levels",
    "url": "https://www.investing.com/news/commodities-news/brent-oil-stuck-near-107-between-double-top-and-support-live-93CH-4956491",
    "src": "Investing.com",
@@ -1077,6 +1120,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Swiss Franc retreats as markets turn to Fed's interest rate decision",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDkyeDJrWWZOLWh1U0k3M08xdWJkbDRmaWdSQnpuY2lIVjZIODI3ZnNQZGZHdklZcGFOUE4xa3pRb1dsTlpEandRZEpfZWtKSGxrVTJOd2w4bms5V3dtSjRVd2JCZGRoRU1SMENoZ2hkakRMQmRDcWdvUUpnQUJBZHNTUW9mWGt4cEVLajFqRkhUZm9IdHBIbzVZNWFNSkx0WDE3a2J2bU1KWThHTUR4N2M4ZVFsblBmYlhXYg?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T16:13:58+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "The window to start stacking Bitcoin before the midterms is closing",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc09TNDRDdVpBZkJzSVVac2s3M0Y1azNuendHMEZITHhSX3BFYlZqbE1ZTnlqcmVoblIxR0ZpcjF3Z3BYb190NHY0a1Q1eVJaM0pfMHE0YklUZ3F5alc0QkFZcVZYbFM0NktDWTRQNTJDcWlySkVQbWxsLUNEMXM0U2poNDNXNzFldmlyNUFzLVU?oc=5",
    "src": "Kitco",
@@ -1279,6 +1332,16 @@
     "gold"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Euro slips toward 1.1200 as US economic strength overshadows Eurozone",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX1c1QjFSc0oySlBxd2Z2Nk95ajdpUDRMczdCSXJqTTd6bWF6d3I3UXBmR1hJSFVBX25YVl90Vml4cDB1enNDUGcxbjV5aU41Uk5NY19NRnlmdEpaVHhhWjA4OGxYSDN6VTIzYk00c2FOdE9UR054RE8tTDB4bUdOckJKbERGeGJMRnRmbVhBMC12T01BSVBxY05qaDFqeEZxczFsMExVZ2ZVV2wzWk85Zw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T14:29:59+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Silver crashes ₹56000/kg from August peak; gold slides 23000/10 grams. What’s driving the selloff in precious metals",
@@ -1548,6 +1611,16 @@
     "gold"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Japanese Yen Surges Across FX Majors as Risk Aversion Intensifies",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmdZYmNxZXhwMllyc3pkRDVwNHpoVHprbTlSX3A5di1fSm5sUmFvdl9uS0MweE5hYktnaXQ1eDBRWmU1Mm1kNDlFLTZSUW9IeGVaMmRDRnRHTERPNmFfNEt1aTNEaF9iZ3o5ekhobGktSmx4NHk4RXBJQlVTb0RxZkFEZnJ1RFZLYjdMOFNCX1dmUnRLMjR3MXV1dzkyTDg5ZEZOWmNDOE1uaGh0bUlmb1h3?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-23T13:14:55+00:00",
+   "tags": [
+    "usdjpy"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Norwegians Leave Gold in Forest as Some Fall for Scam",
@@ -2618,81 +2691,6 @@
     "spx"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Gold Heads for Steep Weekly Loss as Oil Prices Fuel Fed Rate Concerns",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkpxeGJ6bTRkOUdxcy10bHl6bEhCRUpMVlR3UnoxT0E2bmNEelM3SXp0bXhRbjVwalF4eTFhLVlLQzR3cTJNOFhRWlV1M3hvclc2UlBpcVp0ZHhDVHU5d2tFN1FfS1VTQ3o4Zno0S3RYUk9LdTJsMGNIOVI2UlFLVG5vTVk1aUJ5aXZoRXhySmxDT2dyWklEOWdidjRUT0VmRVJxMVV3NXN2dw?oc=5",
-   "src": "ASHARQ AL-AWSAT English",
-   "t": "2026-10-23T07:38:13+00:00",
-   "tags": [
-    "gold",
-    "oil",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXFUdG1TaTRveTk3VUhFclVvNVNiUzNHZHA1Tm12SVF6X1I5ZVJoVHl5eW90UWZoVnBZN1ZlM2RDX19FMXRGVFI0LXV5Z3lqc0QybW1BU1NnWGRnUWpnd2dFMlB0TGV3TmMyUnJpTDJyaDN3YlI5dmhMUG9CODJZRHJKTnNxMUVwVHp4OHRpSEJaUmVXS3hPY21B?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-23T07:35:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold hits 3-mth low as oil rally fuels rate concerns; set for weekly drop",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUVXME5UQlZPUUpuQlJRSlM5RWcxeTB2TTZieGZTaDBGM3VqajY5c0VsOHdJMkYyQTcyTGhOS084NkQtcTJyMjVxWmVsT0l5M254RXpBUlJmbGs1NWtHSzYya3VzTmh1ckVMa2RNZVdZNnNVLWIzMUhrLWMtc212RkZDdUlwdW51YWQwTHRVWEFYbVZ2U0JQYTRKSHNrQm9ieWxSOUUwS1FRMXRrYjhVaGNSMm5WaTFFc1lkR0VYTVJuUk9ZeGc?oc=5",
-   "src": "Investing.com",
-   "t": "2026-10-23T07:27:38+00:00",
-   "tags": [
-    "gold",
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Stock Market Crash News Today Live Updates: Nifty Slumps Near 22,400, Sensex Drops Over 700 Points; Nifty Bank At Day's Low",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYXpJQkNuZ3NhdUpqMW5kNVBpODdlZ1FxSkltT2d0Mm9JTV9sYzJSYjAyVFJka3hKMWU5a1ZfLWVvdjN3VExiMUZXX2tYRURFbENMTGJ3RVk5SW5sem5qU0dSMWppRTJpeTVCLU9Ubkp4U0p6WXZXNlIzZHR0aUUtZDdpbkVrTzhDZUVYbmZnS09rQm5ESjhTLU5sNFI1SllLeTNibEUxWmJyQjJWUXFxWklBM1I0eEdObnJkdmlzUXBXTWRXTW85SVBFSTMxUHctOUxFNWhFUnRVQVVLbFhudVppS1luREZSYXhCU0930gH2AUFVX3lxTE84cVpTZTRuaWZuZ0VLelpHMlk3VDFXRUVHWlZ4UFlYMzF3c21zSm53YXFXUzVxSzlFVTdac1VodFREWHAxcnZoR1FoR0JlZUtfT1hmUXQ2VjUyOU5YRGZMakhZeEI2aVVTTkdMSE1XeDRzQXI0RGFRSTB6b2pHSTIyYVdTZm13Nlh5MnQzRVc2YVJNQkdjZzBQai14REFVWFBSM1hfZ3pZZDNueWY5MWg3ZEVhTm9Yd2tTdjBQSEIwLVIzcVNRNW8wSWVGOE1tT0FPc1R4UWxjdnhuMnJnWDA4MnZ4YU1TVTVrN1BVZDRacWdRUU42Zw?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-10-23T07:23:44+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Gold and Silver Price Forecast: Gold Tests $4,000 as Oil Surges",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcW5ZeUZRcFhsN3ltRFhPdFJsaEhobFNxVGpncTF3N3Fad0hnRnQ0X25fTFcwLVRmQjJpY1ZWLWhDLTZqMm9jdkhyVVo1OGZvQ05oS1NfTnZjYzhwQzQtU3RqVnhuSXY1YnozU3dTTWF0QXFIQlkzeTB2Qk9MaG9yV01VazFGUnpUZ1lMX3pwYnNWYkdTMmg4V3F5TTFpZUZ6RGdjTTV1Z2ZBbDRwczdrRQ?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-23T07:19:17+00:00",
-   "tags": [
-    "gold",
-    "silver",
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "WTI Oil rises beyond $100 amid fresh concerns of supply disruptions",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZVFMM3RMMXE3U1k5NjFJTWRYdXFBbmFqem5EQ1Iya2tMQnZlWXJ2cXBnbnh1MzBlSElYaDQ5eW5yZ0YtUDU3Y0U2YS1Jd2Exdnh3aFRBVUVGTXVXbEJ2R3FJa0hwWUlFeXo2UmlCZTlpSDRFMGhTTmFPcnB6T1IyXzFWTm1YcW80Znc2S2d4TDA4OW5yTFdGM2hVekcyZXNpVFNyb1k5XzdJdFFBeXc?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T07:16:59+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Why Stock Market Is Falling Today? Sensex Drops Over 500 Points, Nifty 50 Slips Below 22,500; Key Reasons",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY2czY09uX1B3ZTlpQTN6VTJPNTJ6Uk15eDhNYWNwNHpfdnFHbFJiaWxmZDJOSmc5VTM1N2ZKWHhVYnVyeTNxbzMtMVdzYUFCSVV4NEJ5MDJiWUVUTDBOU3VHNVd0OUpmajh5WEV3S0JTWVdiUEx5bVlCalN4dWxEcFVoYjNRSl9mUmxqZnNINkhIQnlPd0QxUUI0d0tydjI1NXZNR050cDFsYU1oTkptSWpHTFVSR1hSYklmVFZtN2pxM3VFWTVJU21fMTJEd3g4WXFjWmdQamJKU3Vrd2dR0gHnAUFVX3lxTE5aal8xOTYxeTF5cWZ2VE9vWmpBTHlNUEZZZFdJTGgtZEpPS25DTEFPZEFGWEstdlh4SUZ1MVZkemk0WDVBOTNQeGVRR2dvSVNMdV95Sy1LT296bERheUozbFN4dEpsV09WTVVHbjl1dWVZOEZmZ1dLREtaaFZGZTVCWFJTUU5zdjNJcW1ESzNhc0FoVDBkOXkwcXRDMW82YnNldHVYQlJjT3hHbGNFWGt4anZNSDMzcFhIRGNHN1RhU3M2N21feG54OVJleE83M1haR2hUN1UxX0NfUEg0SC0zRGZWYlNvcw?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-10-23T07:16:32+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bearish"
   }
  ]
 }
