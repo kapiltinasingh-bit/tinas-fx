@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T02:26:54.702848+00:00",
+ "updated": "2026-10-24T02:59:01.951247+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,13 +12,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -108,7 +108,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "RBI net forex buys hit a record $43 billion in August, balances it with swaps",
+   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-forex-buys-hit-a-record-43-billion-in-august-balances-it-with-swaps/articleshow/135159794.cms",
+   "src": "Economic Times",
+   "t": "2026-10-24T02:20:15+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Gold nears $4,000: 7 global triggers driving prices that investors cannot ignore",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbTZhRlVvT3FhZFhVOUJyeFIzOTU1aHlEWFVYSWR0SEYtRnFSZTFrQ0IwbWVidFRhajlHRmdkWkh6dzFoZUZyUWlqaTBEenBNNDdBMUg4SHNhakFGdUdwRzZZVGFaOEpGM01BOXBOYVdERWppdHFyZUEtUnkzakp4dm5NaFlvRE1oRGluMjh3NC1JUDRPLXE0Vk9CS3dXOWRIOHd1MnAtQnhhdnZBVGpOVnI2d3JWSnJ4VmY4S3MyNzdMbXBzZWdHbjJkZlFkd3kzb1VHTGF30gHcAUFVX3lxTE1QYlRXMUJGZlJRbnAxZG9xbXY0V1JoLVdzcGNaZ2lES1hzc2x2VGs5TjBEQjJ4cHp4bnE5U3ZmQlBUbUQydW9wTVQtejBiOTdSa0VnSHBQSVZhbHRaaWpaYW9IaFBGdGZwd0V6LUc0Rkg4MjdaSHF4RkZlVzBzZkw0ZWc0SEtwaU1YcldBcWo5LXRYRFE3QzloVEVXaGVvZ2x1MDNUSUxZbW4tRTk1YmhNS1FQUGxSS1VuSW5SMERpMEpIQy1ySThONGxPc2Ztb213QjFWTjNCUjdfZ04?oc=5",
@@ -313,6 +323,17 @@
    "tone": "bearish"
   },
   {
+   "title": "Dollar steadies as AI jitters spur yen gains and weigh on euro",
+   "url": "https://www.investing.com/news/forex-news/asia-fx-steadies-as-oil-surge-weighs-on-risk-appetite-yen-holds-gains-4967999",
+   "src": "Investing.com",
+   "t": "2026-10-23T20:31:27+00:00",
+   "tags": [
+    "eurusd",
+    "usdjpy"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Bitcoin, Ethereum, Solana Draw Uneven Corporate Bets—Which Is Gaining Ground?",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdmlFeXFvNDd5XzlGdmQ3eVVDUDdEZ2poMWUtaHFvWUF4TVhEMGxqNldCUDd0RTBnZ1BQZUU5cDAzS3RFYzNhVS1hUDBSVFl5NjJMUjhUQVM5S1FJaGNkbjU2SEpxUVV4QUZldWxFTndPXzVqWGoweWdSS0Q0LTJEWUlJY3lXS2hxMjBQWHdIS2lNNFJQRFZoLURMajhkcFRmbG1Xajg0Mkd0dWdiX01zRFdaUHdlTVdRUU9KQ0NfM3Vnam1FREhBM1FIZ2d0cWRxMlE?oc=5",
    "src": "Benzinga",
@@ -466,6 +487,17 @@
    "t": "2026-10-23T18:48:44+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "EUR/USD Weekly Forecast: Fed, ECB and 1.1000 in focus",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHRSMlVtNzNONFl6QTFRYkhDY0phbXhicG5JLTZFQmtYaUM5UGhwbnlpS0I4eEhHUVFKLVp5VHBXeFI5Z3BkVEx4ZGJSYUprS3M2NlB3WlZWSTRWY0VxdXFaZ2w0QTNqYmRKZE1YaDBobnk3ZEpTdmlWVkJyaV9Pek9FczZVcndwSklOWU1TVFA2cHNCVnNxbmhpSTlxUFk?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T18:34:11+00:00",
+   "tags": [
+    "eurusd",
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -2110,6 +2142,18 @@
    "tone": "neutral"
   },
   {
+   "title": "Gold Heads for Steep Weekly Loss as Oil Prices Fuel Fed Rate Concerns",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkpxeGJ6bTRkOUdxcy10bHl6bEhCRUpMVlR3UnoxT0E2bmNEelM3SXp0bXhRbjVwalF4eTFhLVlLQzR3cTJNOFhRWlV1M3hvclc2UlBpcVp0ZHhDVHU5d2tFN1FfS1VTQ3o4Zno0S3RYUk9LdTJsMGNIOVI2UlFLVG5vTVk1aUJ5aXZoRXhySmxDT2dyWklEOWdidjRUT0VmRVJxMVV3NXN2dw?oc=5",
+   "src": "ASHARQ AL-AWSAT English",
+   "t": "2026-10-23T07:38:13+00:00",
+   "tags": [
+    "gold",
+    "oil",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXFUdG1TaTRveTk3VUhFclVvNVNiUzNHZHA1Tm12SVF6X1I5ZVJoVHl5eW90UWZoVnBZN1ZlM2RDX19FMXRGVFI0LXV5Z3lqc0QybW1BU1NnWGRnUWpnd2dFMlB0TGV3TmMyUnJpTDJyaDN3YlI5dmhMUG9CODJZRHJKTnNxMUVwVHp4OHRpSEJaUmVXS3hPY21B?oc=5",
    "src": "Yahoo Finance",
@@ -2363,18 +2407,6 @@
    "t": "2026-10-23T06:12:41+00:00",
    "tags": [
     "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0bHMwdHdNZlFYTERwX3Z6MHFmb1RqcFFEcFU2Tkd1T25OcF8xU2pqRmZmNXFJbE93ZFgwRUppN0MtN0QybWFmMG53QkhpMHRJVEg1MU130gFWQVVfeXFMUHRsczB0d01mUVhMRHBfdnowcWZvVGpwUURwVTZOR3VPbk5wXzFTampGZmY1cUlsT3dkWDBFSmk3Qy03RDJtYWYwbndCSGkwdElUSDUxTXc?oc=5",
-   "src": "Business Recorder",
-   "t": "2026-10-23T06:11:32+00:00",
-   "tags": [
-    "gold",
-    "oil",
-    "macro"
    ],
    "tone": "neutral"
   },
@@ -2659,36 +2691,6 @@
     "macro"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP rebound as major support levels cap recent sell-off",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQlNoWE5rUWc2SXRnN1o0ZjNVWF83MGdWbmxqUmIwcVFOVDFJTEEyTjB5WWcwRGh2NXpqYUd4NER1blU3eWVUbjJ0RGQxc2JqalFvWS1TbE04LVZJWkpfZ3l3d01vNVAxV1NVekNBUnZOOUdBLW44N21iX2EyaVJZZk1xbE5fYW5Ec09mcm45c0E5WDhneXBGN3I0WFk0Q0JLV0E2SlVzYmdCRzMxSWR1RXMxeHVrc0xLQ0YxRENQVy1seWpJTE13UVc2U3Z3a0ZrU0tNVGZLaUFyTjU0dHN3dHI4dHV5MkdFeDh6ZkRSRTVEbjRwYVJsQkpnY0V3VGc4cWp2Y3JB?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T04:06:32+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Ready for a French test?: Five questions for the ECB",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzdOb3ZsTEpLWVVjaDN3M3kteFA1STBOWXhoVl9zRnZSc0wyZ3FqdktabVdwdDliNE9wQzB5cWtLMFhVeHF6Vy16Z1duRF9pUmRyLUZjcnRtRTFJSDg1a0pkb1ZVX2pUVm1ZQXZjRzJZR1cyejhYMG9lTzRmZW1MMDA5WVlTQ3FqUDJEOUhvN2F4SVU?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-23T04:06:00+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Japan’s Nikkei falls over 1% as Wall Street tech selloff rattles markets",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-falls-over-1-as-wall-street-tech-selloff-rattles-markets/articleshow/135133891.cms",
-   "src": "Economic Times",
-   "t": "2026-10-23T04:01:41+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bearish"
   }
  ]
 }
