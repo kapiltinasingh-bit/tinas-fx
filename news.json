@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T11:05:37.213720+00:00",
+ "updated": "2026-10-24T11:37:28.642616+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -78,13 +78,13 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
@@ -118,6 +118,26 @@
   }
  ],
  "items": [
+  {
+   "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
+   "url": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-24T11:30:00+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin Faces Make-or-Break Weekend as Market Crash Fears Grow",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkUwU1JWR212NHV1M0loaUpEcnloQmJnVGlvWTV6MUxwR3VFdEFlcGVvOVFIelR4cXlBLUt5c2xlaFp6N1Z3WDVILWdzYVhteXpxN3lydUJvV0pXZjJpZklIaU1ZZGlUM2Iwd2FyMUExQzVzWEV3SFZ2ODFydHBpWXFfY2xUQ1BvbktlTkFya19jZ2lqNkhIaW9obW80R0ND?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-24T11:05:45+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
    "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
@@ -720,6 +740,16 @@
    "t": "2026-10-23T18:48:44+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Yen shines as AI jitters spur safe-haven rush By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaFU5UmV5b1ZvaDZCTVpnYUdmQlk3bFg3RWFqcVh2OV9KaTVDeDIwRjc1X1Q4N1pjNksyN20wSWduUm5FNFN6UlluZDVKbGFVbm4zTEJHUFU3dlk4dkZiQ1AzMWp6U1VtZmZtaFVRRHNKQ2lGY1hTc1hIUUViQXNiNU5oNjFmSnFDV1VwOVNDNWJZUVdKYzE3aE5kRQ?oc=5",
+   "src": "Investing.com Australia",
+   "t": "2026-10-23T18:38:11+00:00",
+   "tags": [
+    "usdjpy"
    ],
    "tone": "neutral"
   },
@@ -1775,12 +1805,32 @@
    "tone": "bullish"
   },
   {
+   "title": "Brazil Mid-month Inflation came in at 0.32% below forecasts (0.43%) in October",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkpaWEpNUGhCSGVTbmluWDVvZkRYTXhIX2JDankwb2txd3dJUEZfN00wY3JPQ2p0bUtGck9xc3NnX29CdWlJQnpyMkM1MFVERDRQd0NaU0VSenlpU0NXbmtjN3k2OWZLREhjV0NVdU40OGJWeXBnWVQtTUhHR0pjNUxtc3B3XzBmejBMVk9WTjBJMFJHTFpEOEYxc3ZscTRmZ094TTdtZU1HcFVGX0FKU1paOFNBZw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T12:00:03+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "The US Dollar holds the yield advantage: Why safe-haven demand still sank it against the Japanese Yen",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTTRQdVpWMmN2ZGFwdTdmbVk4djhibDRXcXI0dDlHTjFqemlqUVJYazhfYUZaTmtQR2pBSkZ0ZGI5d2pLQ0NWa3hTQUVGZGM1N09ESmFDQnNuc3dKcW9wdTdybk80RDVJbENfdkRjQzcwVmx0RUNSWmZiMjhDSENGeUF1Q0MtOGdGajh4aHNVVFZZSksyMmRXVXpIR3hQaEJGRmY1M0pmaXBkeEQ2bXpQZjByR0ZkSjVNekswb0FtMGNFeUVIVEVaeVczUFhNTGM0bERqeWYyeUdzb00?oc=5",
    "src": "FXStreet",
    "t": "2026-10-23T11:57:25+00:00",
    "tags": [
     "usdjpy"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "India's forex reserves decline $5 billion to $721 billion: RBI data",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUmZQcS1WUnJ1WU5XRGlKUTZ4MnI4MHF4SlNFUXhfR2lmdkx3blZmb081TElrWVFCVDV3a05BU1hnTzE4X2xkVlhYenlZM2FlU0JWdGVXRmJwWWFzWDQtTks1Z21GS1FIaV9fZVdKQlJRSGFvQmFidW9fTk15c0ZpYlBlZlB5Q0dHcDhtcGUwZXh6MzZDUFlMbk9Cbl9ub25ZQ3M0R1RYdWUzR1NwX2MtNWZUMkZOcFNrMzlIU2xzcUc2Y2hQR3V6N25KWdIB0AFBVV95cUxNTTBlMmxwSDBzTXkwV0gyWHQwUjhTWGNzSlBtNUUzWkxFNFpOdkdQM0JlOGs2aGk2VWotbmlSdHpuRUM0TTlqaEtlY080UENxanJUNUl5WWRGQ3kyZ1lfekx0T0lQME9meC1IbWtaMFVWNldnNzJ2eDhYQ21Wcl9Xb2FqcGZ5SjYyWl9RaThsdWJtQUl1M1BSNWxacDNEMTFlMVhDZTUxS0k1MnNsS01YcmRXVnhJcjUzd0JWQXJ1MnV6VjF4bGhLd2lQQTdEWlVa?oc=5",
+   "src": "Business Standard",
+   "t": "2026-10-23T11:57:13+00:00",
+   "tags": [
+    "nifty"
    ],
    "tone": "bearish"
   },
@@ -2643,57 +2693,6 @@
     "silver"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Gold price falls to ₹1.42 lakh/10 gram in futures trade",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNWpkQzBaNFh0SE1oeUptSkRwSW9RTkhxQk1jRDNpaEZ4R3IzR1B2UmlNMEhfZEpHOVFSQzU2dmJYWWJsQkdiOFVqb3RsR0p4RUsxMXhwMDRaRTlaTkpmTUxNalFfZjhUMWo1bF9KNXhadEVFWXpFNDZLR3FlRUxnSTdHOFZpTVQ1YVR6NllmQlg3VmczM3VEUm9DTmhKQVA1eHN1TGVoT0xBX0dsa2tKTTFTeE5RZGc2QlJLSTc0a9IBxgFBVV95cUxOUWU3SFNzaURkZ0c0VkJwU3piazJabHZWSnAxTHFBbHJoWllrMGxyMmlMWWthWWRCeGs1X3hNY0c3TG9mM0dhb0tZRmNLRkRVSTV3Tm1FdVpnNlpUWWpQVFBySXYyLVhBdGN5LVhHMWRDUWhiZGpTNDBOYzhUczJOMmcwclYtODlvVnpJVmlMSE5MODBJblU2YzFrN1JOaHVuSjhWSzFHM0VCeVY5SFozQ2NtNVAzMjNnOS1iVTZEc2Y3VFhxUHc?oc=5",
-   "src": "BusinessLine",
-   "t": "2026-10-23T07:02:03+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "The Fed Faces Its Most Confusing Economy Yet",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTWtTcnB5VzZ4eWIwQV9sRU5BWmxDNXU3a1MyYm9MNEdvSXM4cjA0THVHMWVfT29lTnp2RDdXSG5JOERnci1iNjZCRWp2MkhYV1N4LXB3b0pILVVGc1c1d3RJWUNDSzFnS0dDRURUNTNCX3VmTWQ0djBYXy0wV0IwQ0xIVFByRGtJSUtSSDdPWkNBckhtTm1GbXktcmx6X3ZZY1dYbzlCTHZFcW9iMVM1dGlLWmpva3lzWUhTUHJqNC1fallTRzJZ?oc=5",
-   "src": "Bloomberg.com",
-   "t": "2026-10-23T07:00:11+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold: Energy-driven inflation weighs – ING",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQmpBRVlBVTVlM1VmSW4zYjEwd1JhNUNTUnpWdGhPZ2U2TFpyMHVTOUZiTlVGb05ucUZWbVZaR3VmSENGZVJsUWFzZWRyWVlzWllnZEtta1l5S05ZR0RUMllnQm1ONFBhQ3RVZEFQdk1ubGdfMEFkVkRkeTA3Z1ZibkFiT3d3UmRSNmc?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T06:57:43+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Japanese Yen: BoJ policy and capital flows underpin gains against US Dollar - Commerzbank",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdEJ3TU1yeGMtaFJ3WmhzNERzX0FEUmZiY2Z3Qi1temNjcUtJVThMcE5hVE1DMVpyUnY1ZDFNQmJLUlhxaEV0aGNXbTVOa1JhdU5MNkpaLXFKcE5TOUducGhJeFo2dXlCSW9pa0ktMEJ5QVBnM2Q2MXhLUmVwUU9CMHgzall4VUxtVzlvTkV5Q0VQVnc0TFJsbTRIVGVISGpfVTVMVW5idi12dndYbnFwbnh0MWdvbnVocGpzZGR5SXVoTU5pWFZWQg?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T06:44:12+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Nippon Silver ETF, other silver ETFs slide up to 4% as silver prices tumble. Here’s why",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/nippon-silver-etf-other-silver-etfs-slide-up-to-4-as-silver-prices-tumble-heres-why/articleshow/135137769.cms",
-   "src": "Economic Times",
-   "t": "2026-10-23T06:41:17+00:00",
-   "tags": [
-    "silver"
-   ],
-   "tone": "bearish"
   }
  ]
 }
