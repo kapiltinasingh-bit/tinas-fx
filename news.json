@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-24T05:19:44.944664+00:00",
+ "updated": "2026-10-24T05:55:35.681204+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -147,6 +147,16 @@
    "t": "2026-10-24T03:06:38+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Eldorado Gold: Skouries Is A Mine Now, The Stock Still Prices A Project",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNEJPWVdWcE5ORm5PbG1LOW9ITmJ5WXZtcjM1bWRMaHctRFU2eDRZdzg5ZW5jQnZvU2tVZFdsZ21FY2U0MEcwZW5UTWp3bkxOWDlCVHI2T29oQ29MSmRmZFphWWl2aUJJTm1iUWFoTDZUYnJ0aHdQOEVEQXRhQ3Vza3R3YWNFWTZRWXNtZFNCVnlldnBCYTRoeGFYd0ZHSk4wWUFUQWZfTEh6djFTYnd3?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-24T02:24:13+00:00",
+   "tags": [
+    "gold"
    ],
    "tone": "neutral"
   },
@@ -1221,6 +1231,16 @@
     "nasdaq"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Canadian Dollar extends winning streak as Fed-BoC policy divergence comes into focus",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTVA4V3BacDB6QTNkM0RYWHFOUWItMjl3ZmlEQlg4TzJQZFFhaUtQOWtXV1c0ODR1akN3VlJjOE1wbTZnNjFaRjZQSktRUEVRVjlvTDVTaFRpNG5PM0ZSb2JheEw1ZWNyX00wMmRHd093TEVRTmI0T0N3SXJObUNLTkNLVGpIRlJyMnM5cjhNWEdyS3BIZjNCeWt5aW5Pc0xkOUxZOG9RUThtVmVhYUk3dl90TVdDQXlyR19BQjRUa2UzbmNPbWc?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T13:42:01+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "US Stock Market Today: Dow Slips 1% As Oil Prices Climb; Nasdaq Falls As AI Pressure Persists",
@@ -2677,28 +2697,6 @@
    "tags": [
     "usdjpy",
     "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold extends decline as higher Oil prices fuel inflation concerns",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaEFnUmwtbEdtWWdUUkJjQmNRSFJLOWFlbGdzLXZQZnJjR25FWVc0NUhVQTBlZjI5eTRfSm44b2F6QnFOVk9Sdm0tQ0Zyejl1aGZlek5yNXI0MzJmeEF4NkxKZkh5QlpPY0RFTGo1VW5wYjZYZ3JPdjRtYnpZZ2dKUGlnbGpyQnZSck1qOFlDN2lObHAxY2pFUDhfU0EwRG1IbmktWTBDUlhwUmgtQkhRTW13?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T05:07:23+00:00",
-   "tags": [
-    "gold",
-    "oil",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-   "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-   "src": "CoinDesk",
-   "t": "2026-10-23T04:59:34+00:00",
-   "tags": [
-    "btc"
    ],
    "tone": "neutral"
   }
