@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T17:49:12.545231+00:00",
+ "updated": "2026-10-24T18:13:56.711539+00:00",
  "count": 250,
  "feeds": [
   {
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -54,7 +54,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -102,13 +102,13 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 6
+   "new": 7
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Investing.com",
@@ -640,6 +640,17 @@
    "tone": "neutral"
   },
   {
+   "title": "US Dollar Price Action Setups: EUR/USD, USD/JPY, GBP/USD, USD/CAD",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMl84aW9iV1ZEWWxMQ25Dd243VnMwZ1kwYWtORm5HQ0djZU5hLVNZbTVqb01lYVV5MS0xcDFQME43Z0NlUjRnNFdHbVd5dVJSVHBadDJpUDZIVzFDMXdkOGNXR25QYWdIc1M3NlZURkJpTGZrOTRRTEpMWWxxQU13clgtbWtZeG9qb044Tmx5bWU1NkI2aktEM1VfLVdHNzh6d2N6YTZ0Snd4bkp4WHA1aFhsQzlwdENwWFBB0gHHAUFVX3lxTE5Mb0dfQnlIQ1phWVRKcDZaeERoaVJVSU54SEdFZzdPSzJOYzVZRVJVaXZYX19JWDF6aGlIa2VralVOY1BaNDdMSkFlNi1zN3pXWm01TC1UMEM1VXRzOHMzNFlqQXhKRzV4cmFQOUNSSXExaWlOc1JsWGxsT2RzaUZPX3VzY2hHd055aEpYb0pjWWtuRllERFZGR3R0Wlg2RDNSb2VJNHpWN2pSNVV6ZVNXYXJxQ21qX2dPUU4wTUQ0M1hDdzk1NWc?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-23T23:45:32+00:00",
+   "tags": [
+    "eurusd",
+    "usdjpy"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Bitcoin Cash vs Litecoin: Which Payment Coin Has More Upside in 2026?",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdzRZUnJWci1uZUdPTWJlUy1mYlRLMkpZbDByeXBZZmJhc2psWHJEaGpBcGl0ckJfV2s0T3hDeFJ0X2lDN1FDczFrUkFwVHFBbEZ3Z3ZfbnEyYmg3QVZnVzdSSWJqNGxMWGFKZ1NXeEFFbkpuc1p2WGpLNjZzUHVFSGhyUlVxcmxoY3pXRTFka2J6b2s5UVFXZEVmRy1SOC1sbnBYVXJDM0cwWE15eEFPWDQ3ZVhjNzd0OTA0Uk9kRkhoVnJ6?oc=5",
    "src": "24/7 Wall St.",
@@ -995,6 +1006,16 @@
    "tone": "neutral"
   },
   {
+   "title": "United States CFTC Oil NC Net Positions down to 89.3K from previous 100.3K",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMlBhNHBPX3pBVlVlVy1uVjdNdkRBM1VkVHdrWnd1THVoalFhVU5weDNLZkRpd0k4dEQwUzdwNEl1Zy02RFpfY0lBMHFEeDVPMnlJWVZLLXhKUzBWWlBHMS1KRWFjLU5uNmY2Ykw2NXFiMS1ZRU1nM2x0eFdDd0I0Sm1LbXl4ZmI2TkRLdU1nT1VqWE1iWGdEb0VUeTdPb0VDdmpfUkNlZmswc25nd3loRV8yT25kUQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T19:36:39+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Apple’s iPhone Duo gets good response in China despite eye-popping price tag",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSWQwNDAzZFlXSnpFcjhqelRvOFJMQ2pCMHVEekdoYWdfYnhRWkF1ZjZ5T1gwTDdGQUdkOW5IenYtZFBYVy1rUVdfV2FyN01nNnlFVHhFUzNwdzJhLU5NOTN0bHpuR3JCX0JoUk1MaElKS2NuUEkyQXRVWTRFTVhndTdQR2l5THpGME5tVk1keXFidUpmYUtVeUJYeDhyY2pSX0NEcmdXcVcyemVqUTFQR2pILWZfMVhQaXc?oc=5",
    "src": "CNBC",
@@ -1221,17 +1242,6 @@
    "tags": [
     "spx",
     "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US Dollar Price Action Setups: EUR/USD, USD/JPY, GBP/USD, USD/CAD",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeGRoTVUxQXFNSE02WHUxZ25FWEU5SmpBVGFkZjVPaWxIVHRieEZGa1N0bUQzaEJ0WTBsZ1lxNkhJa0EyaVVDV0tpSzBVcVJnVFYtbEJySjlkbElhNW5RYUVtTFdyR255QUVMQThfcDZIeEhCTGlvV21GZk9GQjRvSkt0dFNzMjcxOTVHV0l1TDJ4eV93YkUxaVhnUnlRVklWZ2tGMFU2TGxma1ZWOV9sUk1DUW96d09nSEh1S0ltc0Q5RTlCUDVV0gHHAUFVX3lxTE54ZGhNVTFBcU1ITTZYdTFnbkVYRTlKakFUYWRmNU9pbEhUdGJ4RkZrU3RtRDNoQnRZMGxnWXE2SElrQTJpVUNXS2lLMFVxUmdUVi1sQnJKOWRsSWE1blFhRW1MV3JHbnlBRUxBOF9wNkh4SEJMaW9XbUZmT0ZCNG9KS3R0U3MyNzE5NUdXSXVMMnh5X3diRTFpWGdSeVFWSVZna0YwVTZMbGZrVlY5X2xSTUNRb3p3T2dISHVLSW1zRDlFOUJQNVU?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-23T18:17:28+00:00",
-   "tags": [
-    "eurusd",
-    "usdjpy"
    ],
    "tone": "neutral"
   },
@@ -2677,16 +2687,6 @@
    "t": "2026-10-23T10:00:05+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Merritronix Ltd. Share Price Today - Merritronix Ltd. Stock Price Live NSE/BSE",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xVG1xNlBidTVJLVBYck5DakF4UEdzSUtvdHE3cEREUHcwRG9uOG1oeWxxQUdjX1JjeGV5QlZZU3pha3RaZmdPZTFJd18wNUc0Z21LdGdZY1Z6MmNpVjh5WEtVSWpqcGRFUmhhRGRHUDJlN2ozWTZhSjlyblBld2c?oc=5",
-   "src": "CNBC TV18",
-   "t": "2026-10-23T09:59:00+00:00",
-   "tags": [
-    "nifty"
    ],
    "tone": "neutral"
   }
