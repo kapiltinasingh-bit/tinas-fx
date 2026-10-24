@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T15:53:29.515394+00:00",
+ "updated": "2026-10-24T16:16:17.553268+00:00",
  "count": 250,
  "feeds": [
   {
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 6
+   "new": 7
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,36 @@
   }
  ],
  "items": [
+  {
+   "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
+   "url": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
+   "src": "CNBC",
+   "t": "2026-10-24T16:14:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Is Bitcoin Dead? CZ Says Those Calls Have Marked the Best Times to Buy",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWDFzbnEyLVpsSHJaRk9TRlBCZVR5VmhzNEZYeDMwRXctQk93Ni1IM0N4UTl0YVJ3ckJYT21HUENiQ0t6cUZMNW8zLWp6Y2FnLXdNeXg4ck16N09wanZZaW1JSUNZMWZKVVI0R0xyNUdvTGRNd05MTDNpQ3kwTzdDMzJBQzg4cnpCMHcwVVlnU3FkZVhmSXFPT0hMSVFVdjBfMWFkaW1FUXRiLW1vSlF5N3F4SEt6Wjl3NktCM1BQdkpMMkhMT0tj?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-24T16:03:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+   "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+   "src": "CoinDesk",
+   "t": "2026-10-24T16:00:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Bitcoin price news: BTC falls below $80,000 on renewed Middle East worries",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY2t0UU51ZnVfTTRnQm16dnpFQjY5SVl5MEg4eW5iU1YwYXF2NFRTUlUyMWxNWHlxc2xQdm1rS3k3YkFpVEhoSXhFRFJwQlRRVFBsTl9jNmY4SnZsR0tTUk9fZDI1ZXZ1dE5sdGdxbE8zajZOXzI5ZW1qbjZqYlpOR2hfUFNYYkUxTHZxUG1mcGhtMURUM294ZDhUdGk4R01FY2xRemxMWnVmS0ttOHFkWGdrYVBxSkE4b1VqS1hDRmVOdV8xM1FBTHpWS2hsVUo2?oc=5",
@@ -608,6 +638,16 @@
    "t": "2026-10-23T22:30:30+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Take Five: AI trade meets the Fed",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWlIdzFDR0xNQ01RZzhsaXVtMXYtbWU3U3RvejE4NzV3TFZPXzI5SUpGTG9jLUxxbEhiNGFVMTZyUU84MVhTZGJaWkxtZ2cwaG9OTlJiYmFLTzFLLXZFQURzNUE5M05Lcjc5UXQ4Q1RIaVNWOFZlSlA2MTBLUFYtSVdLcGI3V3lCN216QQ?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-23T22:22:58+00:00",
+   "tags": [
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -2650,46 +2690,6 @@
     "btc"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "From mercury to gold? This San Francisco startup claims it can produce yellow metal at will",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-mercury-to-gold-this-san-francisco-startup-claims-it-can-produce-yellow-metal-at-will/articleshow/135140759.cms",
-   "src": "Economic Times",
-   "t": "2026-10-23T09:05:13+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "France is flashing euro crisis signals. This time, the fault lines are different",
-   "url": "https://www.cnbc.com/2026/10/23/france-debt-euro-zone-contagion.html",
-   "src": "CNBC",
-   "t": "2026-10-23T09:03:26+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare",
-   "url": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-   "src": "CNBC",
-   "t": "2026-10-23T09:02:44+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVBHUDhjeG5sQkpOblUzQm9hSTdWRkduWHJwNXdibUgyM1FHNEtJeFpnWEVQclk1czRKV2hLbHNGS2FYem5sRzJ0N0sxakctZld4QmN4UnozQ2h3ZGFBcE1NZDdESDVRTkVQSTRVMUdxbUtHTnk2anV6Z3h4cmtmOU5COXTSAYoBQVVfeXFMT1RHRzc0UlM1VlFlakxiSU51Mk9FTXNoYndtX2tpb3RNQVNRQ1J5dGs2YnFYQUFxa0I3UUV4OHNkZFBRTVhGcjJ2SWpuQldna1VuM2VqQngyMHJXTW1YWXlPbUY4UE9CZklMbFdwQzdiMGlhS0xteVoydTEwNGlKdzhDSFRKQnZiNXJR?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-23T09:02:44+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
   }
  ]
 }
