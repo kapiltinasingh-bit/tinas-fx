@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T10:37:53.343228+00:00",
+ "updated": "2026-10-24T11:05:37.213720+00:00",
  "count": 250,
  "feeds": [
   {
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+   "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+   "src": "CNBC",
+   "t": "2026-10-24T11:00:01+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "FIIs dump Indian stocks for 10th straight week as markets slide: Is the worst over or more pain ahead?",
    "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-indian-stocks-for-10th-straight-week-as-markets-slide-is-the-worst-over-or-more-pain-ahead/articleshow/135165684.cms",
@@ -1561,6 +1571,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Mexican Peso: Stays under pressure as Banxico lags Fed – ING",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdFV4cC1mYkdzY1JDNXpfRFBHTmNIRjl2R3BZeVRrRzNxQzJ2MHc2UmozWk5mQ05JSlNlNE1lM3N5WE9zT3E3VHhDbTFlZ3RlbXh4V1BMZ3Z0c0ltTG9LY2plZ0tPRVB4UWJhRVppWmVWc0l3UUE0X2hRMWxGR2thS3pleTAzMktjX0hCYTdJcVlobkdDRWYwWEVwMW1jSV9zdnc?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T12:47:25+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Gold price today: Gold rate suffers biggest weekly loss since June, Silver price lowest since November 202",
    "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQWjJfS2hHend6VkV0blRLY1JGZXBVMTFGQzlYcmdCb2JnS1VZa0czdW9SX3BCd19WeGN0aU93ZWZHM0NzQXdtZnh2QVNfVkFrdzRDcWhOYm5ocDFYWFhGc0JwY2dUc01BQXNYY3pyX0Q3U1RkUkFNNC1CSjJ3ZUtCWFA5WmVhSEVWcWdHYl9rbnd6Q3l1TmRjR201VlBaWnJhRDVSVndUSUliRGg4OVpndnNzajhwdEJpb3cxQjlVZk9SYU1xRkpiTDFDYmZ5aUFiTXQ4LXJJd2RTRy1ueWZBVDZfZGVCdlJmTEdBNVFGZnJvbk9TX01NeFBKYzJFZExUNElFcE5lakNuc3VnX0I2aGFKamxaVWRpY2dtankzekNwd3Z0QkpPaVFHVlJQWk9YY0pkWGUtTXNMdHRSeW1PN0ZSS011d9IBywJBVV95cUxQUUVoQWE1SEdveVRlSmZ2N3BMQzBnZWdmS2pqQmdWYzBQdVJMZmpEX1ZmVGwzMl9PWGw5UU0yT2ItM1pYaHVpdUg2MDEwejFqdHhkdGItYjFQZHhmTlJDRS1RT3Z2VkpMVXphVGZibTQ1R0xYTDdiM1Y4RGJqWGxFZkpqbk1VMDVPcFZwdFh1elNPVXdRYjFFYkh2NzlVM0ZUWHJQSkhBbFlyZ1lRNUdPZDFtbkREcEUwRTA2U2hTLWFNOUpLREtwelhnNndXLWpRbXA0OVZNOV9EemxLanVSbU9zM3RKNEtqUHBnVGZBSFJIZzEwYjZMOU5mRUVaV0JMTWs4QUZDYS11czR0cElLRkdiYnVhRUh3TWRFZW8wMDJHWHFSSlF5Y3Q5TGFlRUpzdXZoa3BJeGxCbWt4NjdLWEtvWjV2SEJkeHhJ?oc=5",
    "src": "The Economic Times",
@@ -2672,26 +2692,6 @@
    "t": "2026-10-23T06:41:17+00:00",
    "tags": [
     "silver"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "USD/JPY, Nikkei Break Lower as AI Meltdown Spreads",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaGdfN3M1OUlBTmxTZ2VuTEppelJsTkVzM0FPV1JYM0RWOGtfZFdUck94d2Q5b24yaEJEMDVUYWx1OC1JN2YyT3dnOWUzeWVSb3k3dFJ2RXlOVlpJLVhoRzdiam5nc1JyUE5vM2E3Y1RwdmxzcWplZ2d0RzYtWFFqSDhqNXVwT19pNkdCUnpDRVg3RF9ablF3Xw?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-23T06:36:59+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Gold Technical Outlook: XAU/USD Breakdown Threatens Deeper Selloff",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQUxNMkpqNDR0dktCVkx1NEVzdTUzY0o1M0dHSl9rRDg4R1BPcXBvdmtEbm90TUJmZ1JRMC1qeWV0R0N5RDVEYVZkNGRsdVVGTzNlbjZKTGw0TGh4bHJlZEVHSjh3ampYLUNTcVlUelo5cWVuTUdvaTRxRjY2ck05UGFBbGhEdGUzMjllVmNEcWNQVGhTNzIybFNnNTRjNGlVN2hhal9URXhJdGt5QTJtX3IxaExqSmZ4NVp4Yw?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-23T06:36:52+00:00",
-   "tags": [
-    "gold"
    ],
    "tone": "bearish"
   }
