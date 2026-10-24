@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T11:37:28.642616+00:00",
+ "updated": "2026-10-24T12:06:00.317876+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Economic Times",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 13
+   "new": 12
   },
   {
    "feed": "Investing.com",
@@ -145,6 +145,16 @@
    "t": "2026-10-24T11:00:01+00:00",
    "tags": [
     "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Nifty Midcap 100 Live | NSE Nifty Midcap 100 Index Today - S&P CNX Nifty Midcap 100",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Say1mSUZMSWM1U1JaV05oRWFlUnVTVjQ1UVpxaXFydGVCaUZhcDRMNXJzZWNONzVUTWhYVUdMRWJLMGZ1TUdUS2RQdy1MTzhRSU9LTW5NWEt5WHhMeEgtZXpVTmVyMjBKZUhsVDIyQkRpck53b01rX0g5OA?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-24T09:25:32+00:00",
+   "tags": [
+    "nifty"
    ],
    "tone": "neutral"
   },
@@ -1693,6 +1703,17 @@
    "tone": "neutral"
   },
   {
+   "title": "Euro: Gradual upside as Fed and ECB converge – Commerzbank",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSlF0aVctbmozdVlVQ2lMSTc5T1VHMUxLemQ0ZUtKcHB1cE1zVjZzUHdlTUhwZmxlLV9kVnRKY3BWVGdJYV95NF81OXl1M3I1TWRlTENLRW5CN3ZqcHZYX2s1M1ZrM01qeTZfbFFPY01YZjBnN1E4SnhtbHJ6ZUJ4Z3hxWUFEYTdRSzV5ekJVa3gyQmduZm5wY1ZtckJHUEU?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T12:18:13+00:00",
+   "tags": [
+    "eurusd",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Gold off three-month lows as oil rally fans inflation worries",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzRsRDlkM2lxeHpUNWxYTXlvR09nRjU2RXVTSzYxNmR6RFdOa1IxWDJlZzFyWnI5M1hmSnhSSnphT0ZzdUdLUWNtRFdyZ3h1TjFnS1MzbThVRHRWZGY0eVBkWl9Xbm9SajRqVjNwOXI3eUpjV2xKV2tVWGRGdWswWTBhU3p3QUIxRUlqZDNRbHpOeHZTWFpsaDlOcjh3eW1yT2RMMjl0RzE?oc=5",
    "src": "Kitco",
@@ -2672,27 +2693,6 @@
     "nifty"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Gold Spot Prices | Silver Prices | Platinum & Palladium",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UZW9OY3B0aUpxd0RPZEJjSHhJXzZzd1lZSTZyOHgtMU96OU1fVlpCcENYQ0R4Ylp3OTc5YzdtMzZsdVVJOWNHOEYzVEdZbkdrTHp5VGRR?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-23T07:15:03+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Silver breaks $56 support at 5-month low: Live levels",
-   "url": "https://www.investing.com/news/commodities-news/silver-tests-bear-flag-at-5860-resistance-live-levels-93CH-4956490",
-   "src": "Investing.com",
-   "t": "2026-10-23T07:12:09+00:00",
-   "tags": [
-    "silver"
-   ],
-   "tone": "neutral"
   }
  ]
 }
