@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-24T08:39:14.314830+00:00",
+ "updated": "2026-10-24T09:07:43.487325+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Moneycontrol",
@@ -114,7 +114,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
@@ -147,6 +147,16 @@
     "gold"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "EUR/USD forecast remains tilted lower towards 1.10 handle",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPblRfMmRXaGlycEtVZE1RajhZYmdJVFhkb0hHeGVMWDNpTl90OEc0cldELW91R1IwN0luWWZiQ2xtUjJPck5DX1g1WmNMUmdFYTBuSWhubHJkN2xyYmdVaTBDVVFjQVRoeFhIaG5xTFUxRzhtQnZudUZMcUFpeHdsa1V5cmlMTHVYYkxEZDZPdUhQNVBIb2VoSU1IMlUxWVhMTWprTXRNRQ?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-24T07:45:47+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Gold and silver rate today (October 24, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from IBJA",
@@ -251,6 +261,17 @@
     "gold"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "USD/JPY Forecast: Is Rising Japanese Inflation Supporting the Yen?",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVXNpUFJUN3ozRVNpT292U2xRUGRNZlVORVNmYVBLMDNKdG4tcktzSGhyT1NFT0k4d1ZfMGctRUFuaHRPeHFoSFA1c3V5LWJuazZZaHllWk1ZU0lBZC1IS2JOazNvNlYwbXVpVm9lY2pQa2M0ZkxNTHBXTmpWa0dSZFNlMFhxVTEza3FMVFNwVkRPc3hBWXlUSWs2ZVgtVzE2aEdKVGZQRUpBa3JX?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-24T00:07:12+00:00",
+   "tags": [
+    "usdjpy",
+    "macro"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Bitcoin Usually Bottoms After Midterm Elections. What Happens if This Cycle Breaks the Pattern?",
@@ -1093,6 +1114,16 @@
    "t": "2026-10-23T15:22:07+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Microsoft Corporation (MSFT) stock price, news, quote and history",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41d2UzenppWG9mNk9od2RxVTIxSzNxTFJIYlV1U3lBX284NVY2NTBSSnRVclctbDNIODhyRTZPTFVYZ25YcHlYdVdOYUJXc3dvdnc?oc=5",
+   "src": "Yahoo Finance UK",
+   "t": "2026-10-23T15:20:16+00:00",
+   "tags": [
+    "nasdaq"
    ],
    "tone": "neutral"
   },
@@ -2664,36 +2695,6 @@
     "gold"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "BoJ: Japan's financial system has been maintaining stability on the whole",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTm5DWi16cS01Q2V3aHJnNUUyT1dBRU9PUS11NVVKR3ZHbnF6aHBjUnJDRTVKeTlLMUVlU1V4dHRFOWJSVlNwN3RXQUZCY2xWMVVqdHAtNWpCTmNKVzJhdFFSTUFYbWd0cERxMDFKNFhzaDJwYUw2Rm1vTDFjQmFlM3dNakNIZTZEbC1mWWI1WXdVb1ZxTXdmNjJhbVhYYmdRODNLRmY3UmtkTWJhUGNEMF84b04?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T06:28:36+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "This Top Investment Strategist Thinks a Bitcoin Supercycle Is Coming Soon. Here's Why He's Wrong.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkp5OXNfMHFLUU9oSFlYT3RxZnJHX1VxTjZfOUw1X2pxcERqV2JSVUZMbDR3MzBnd04yVDNQOEtSbGo3RmRpSXFFLXhrR0E1N1ZwNzhwN09BUFFKakw2NG00QjZLN0pJSGtzU0Noc3pzUDBXOWVfLUs3Zi1kalBWNV9BZmZJRlgwTy1PMHVpazVCek9Qb19PRHcyQy1oRVlRZDZLX3lTV1g?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-23T06:20:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Falls Below $4,000 for the First Time Since July. What’s Next?",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUJFNF9jb29zTXFTdl9vc0ZXNFlTMXB1UWFoYzFDT0VxRktZMFZZMkJPSlBJSVVGbXhhRG9TalF0TnZjNUNPZmdNVS1ncE5TbEJweDlvSHJYU2dlaDRUVmVnQ3QwT3ZSTVA1eFpzT0NBM2R2OEdqcnBHX3ZRc1dZcE9GYTB0cnlnUGVXQkhzTEMyX2lqZ3hr?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-23T06:16:00+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
   }
  ]
 }
