@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T17:16:12.440911+00:00",
+ "updated": "2026-10-24T17:49:12.545231+00:00",
  "count": 250,
  "feeds": [
   {
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -114,7 +114,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
@@ -1178,6 +1178,16 @@
    "t": "2026-10-23T18:27:09+00:00",
    "tags": [
     "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUFpsT3JCZlkwblU1WFVQanptYWxJWHZTWnBkZHQyanA4bGd0ZWtyalhGYk13OVdiSmd6eDRyZHU0T1A3UXVYd21TMUpyQmFlelltOUpBVkxNVjRYaTNiWHpaYnBsT3libjhLSFZZY0J6LWpWd1JZX2RlcWtZVE9pcVhWbktFTVg5SDZQZnRzM1h6U3YxeEVwZVg5Nkg0WDUyeFJyWVItZFpEUEpkLUg5MVpXV0Q5SVdhUk1wQll3UlJjV0FH?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-23T18:26:54+00:00",
+   "tags": [
+    "dfm"
    ],
    "tone": "neutral"
   },
@@ -2677,16 +2687,6 @@
    "t": "2026-10-23T09:59:00+00:00",
    "tags": [
     "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision",
-   "url": "https://www.investing.com/news/forex-news/citi-expects-usdjpy-to-remain-rangebound-amid-bojs-rate-decision-93CH-4968564",
-   "src": "Investing.com",
-   "t": "2026-10-23T09:30:35+00:00",
-   "tags": [
-    "usdjpy"
    ],
    "tone": "neutral"
   }
