@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-24T16:54:43.273886+00:00",
+ "updated": "2026-10-24T17:16:12.440911+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
@@ -114,7 +114,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
@@ -153,6 +153,26 @@
    "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
    "src": "CoinDesk",
    "t": "2026-10-24T16:00:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin Loses $80,000 as $200 Million in Leverage Unwinds in an Hour",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVR3ekFoZ2h5SnoxNF94NndjVXA2VGFCSm5SRHlJSzlzLVdNaTlqOHBlRnVqdWNyTUJ3Q1NsZm1iSHQ2VDVrT3ZfSW93SEdHSDZIOHc4Q1ZpNDZFOWszdUlSTVBNeFYyU1lJMGo2V1QwbTE2MzVpYnY3NTVndkpZWm5DNl9scEJyemdEaDF0WU5pQkk?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-24T15:47:22+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin ETFs Just Had Their Biggest Outflow Day Since June. Is the Selling Over?",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZG02TnJHTDktNDUwSzdJMmZpY3JJMmN3bF9NRmlpMjBGcGVJZDZxbjJWeHBSMFBMdm9oVVVlemhhbmdMOE53ZEx0dS00OGhkcjRCa1JONDlHTElxQ3BCWUtTOUhNUUM5MXJaUTh1U2hScHVoSzVnWG5mamk0Yi03cVZEX2pIVkl0M3FQdVNKTlpLUzM3QlZwRHlvYzNBc0ZBbUw5elJJMXQ3Tkk2OGJYOWowWEpkQVp3N1NsY2kyRElUVVBJOE83b1IwdFVlSU5ZS2t3?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-24T15:37:00+00:00",
    "tags": [
     "btc"
    ],
@@ -205,6 +225,16 @@
    "t": "2026-10-24T14:00:00+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Reliance Jio Platforms IPO GMP, listing date and time, share price prediction for NSE, BSE debut - Details",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTy15UldtcnJrdXR5MlQ1Vk95UVJxVmhGcm5qdmxwN2FKZXlVNl9aVXB2WG8yeldBSlBwZUlEdHpwZzdjTkVKNzdhcTlkY2tPYWVVVC15WEVTajdlUHhKd21BYjZ4VWlyWG5ZS2VGTVg5dEs2NEJOWTlDMWt5UU04ZEYtcmpPaFhKZm01dEpJNmpOY251M0NHb1lFcHlVRzE2UWF2cHBWUEctazlXRkZDQ3B4MlJ4Z1laZWNtY05NOU41N2VsYjJQTGtEc2pSVGQxY1AyNnNzejdFZW94X3MyVC01S1ZtT20yakJmeWhB0gHzAUFVX3lxTE5VMG1UXzJvcldqRUtwYlFkMmEzZXd5a0hfQUFZMXEyeVJWTlRPU2x0VmVzNkZoMXZvSVpmaTZxVmtKT0FDckZoSjhBNmgteXp6UUFLNWNZbGRKNjVpR0UxODVmNm8wbHRjVFlIc3dXTWtQeFppNk5GWlVXcktBVE5EOXAwSXN4WXpZRjAwQnRwSDloeUxzd0xrRkZyQ1dFMnVVazNpMm03Z1JuYkxnak1saWt5dXVlR25NU0I3d0I1UkxEd19Wa3JRZ3paZTN1RXNTb1Q5T0pOMk5FYmNWMkN5Y251ZXZwT1k0RlRjaU1jZ2szbw?oc=5",
+   "src": "Livemint",
+   "t": "2026-10-24T13:31:25+00:00",
+   "tags": [
+    "nifty"
    ],
    "tone": "neutral"
   },
@@ -773,6 +803,16 @@
     "btc"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Gold set for steepest weekly drop in over four months as prices fall below $4,000",
+   "url": "https://www.investing.com/news/commodities-news/gold-hits-3mth-low-as-oil-rally-fuels-rate-concerns-set-for-weekly-drop-4967928",
+   "src": "Investing.com",
+   "t": "2026-10-23T21:08:48+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "BOJ monetary policy description={PAGE_DESCRIPTION}",
@@ -2647,46 +2687,6 @@
    "t": "2026-10-23T09:30:35+00:00",
    "tags": [
     "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Silver price today: falls on October 23",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV1pzQ2YxRlJCMHJnQnByckNoeDhvUVdWTDBnandZTEtSMkJkSmZBTzlHTzJqS01MQWtncl9LU0JzZXVwNWNRcmFTTHRWUmNnM1BESXVRLXVrZDNnY2d2T1pBVWdmM2VfSXZ3alRJalJaT1o0V2t6OW9WelByS2NONVIwUUNqRGVreXhSWUpOYWRtNW1TNi0xRUFBbTJXZ3VRYVU0?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T09:30:19+00:00",
-   "tags": [
-    "silver"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "USD/JPY Update: Can the Japanese Yen Sustain Its Recovery?",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYVNRa291S1k4Wnp3VTRJWDFiYnkzejkxLVVjdjdYSWw2M3Ffb2dYQTItYjB6cDVSWFhmSXAyYnBTWmdlMG04NDRXbUIwZHlXb2dHY1BSZkRLNHZwRDROMk41YjVwVkJOMGdFVXJDdjZYRjc3WmtJWDl2ZUkxbWpLODh2OXEza2VMMFBuVXZTWWpSeGFZdllLNkNLUldDUWRwcVE?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-23T09:29:13+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Vanguard S&P 500 ETF (VOO) stock price, news, quote and history",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAycXl6T3hzWGdUMkpyOXkwTmNQb0Rsci1KODlZQ011UjJlMWxreGpqeUx4ZzN4aGZucWw2WTNJY3E2aXJQWkV6NU5pdlpBTmlk?oc=5",
-   "src": "Yahoo Finance UK",
-   "t": "2026-10-23T09:19:50+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US Federal Reserve to Raise Rates Twice More in 2026, Says Bank of America",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDhMcEtDZmhoQnJMSVBVUzFaWVBqeUczRlRZekhZc1RpYWU0ajVLWlNscVRjQ2UzSS1ZVFRsd3BsazVuR2FtVG5PQVQwRW8zY1FhVzlJeE9SVWEtS1VnZzZROWR0dXdNTVQ1X2pMTDZkdjBleGE0akJRSVpKTXRaWTdfTUJhaktpOFRlaHY5UHdtLUZMOE5HMXR2YkpGODBDU1RoaHFlcGFzeEpJMnc?oc=5",
-   "src": "Morningstar",
-   "t": "2026-10-23T09:17:11+00:00",
-   "tags": [
-    "macro"
    ],
    "tone": "neutral"
   }
