@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:47:14.980716+00:00",
+ "updated": "2026-10-24T20:10:45.409840+00:00",
  "count": 250,
  "feeds": [
   {
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -118,6 +118,18 @@
   }
  ],
  "items": [
+  {
+   "title": "S&P 500 and Nasdaq 100 Slip as Strong Earnings Collide With AI Bubble Fears and $117 Oil",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaG51dzV4clJjdXBsaXg1NG02TUhmQm5tdGhlUFppYVdEZVlHWVp1MEV1UDJMc1JhVjlUclpkcUZPNmhnOE9QMWRBTnRIaktqWUdTanpra2VORmhPYjlSV3F4T3FVQTRUVEEteEZpeWx0VXNoUFJlZ2JJMEd5SXp4cXN6Vk1Zam83V3FEM2FLbEpnaVZFTEVCSlJvQVVTWk5vd3dPWGRHTE9yZEZESVRYa3d5RTA1UXFCaFpKMGx1MS1wTFp2SmdkX3ZUN2RmeHBsQUxRS0d3UjFSdG8?oc=5",
+   "src": "Benzinga",
+   "t": "2026-10-24T19:45:41+00:00",
+   "tags": [
+    "oil",
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Gold Does Something it Hasn’t Done in a Year, is Larger Risk-Off Afoot?",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1BxdVlWVE1CMUNzbzgzaE1KMFZ5VnJmaUszUndqc3pqOVJJTU03X0Q0M3EybDBYTVJyeXRUSWYxSm1XdkcwQ1MzZmN3T1V5WDE4VWZaUWQ1Q25aWF9BOG9xMUtUaTlBYnN3eGN0U0dSRWJqNEFyRjkxYmZwTjVzY3I2UGZRX0RhQlFJWkJYT2VxNGFiNWlYOHpjZElLSmZOanBuUDIzaWRMN2wza2t5VmxrM01zMEhNMTlqNFB1N0NvZ3fSAcMBQVVfeXFMUHNQcXVZVlRNQjFDc284M2hNSjBWeVZyZmlLM1J3anN6ajlSSU1NN19ENDNxMmwwWE1Scnl0VElmMUptV3ZHMENTM2Zjd09VeVgxOFVmWlFkNUNuWlhfQThvcTFLVGk5QWJzd3hjdFNHUkViajRBckY5MWJmcE41c2NyNlBmUV9EYUJRSVpCWE9lcTRhYjVpWDh6Y2RJS0pmTmpwblAyM2lkTDdsM2treVZsazNNczBITTE5ajRQdTdDb2d3?oc=5",
@@ -780,6 +792,16 @@
    "t": "2026-10-23T22:16:16+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "iPhone Duo release is first major test of Apple’s push under new CEO",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR202NWNZMGNYRGhUa1lXN250c2RkTWNsaUdJVWt1T09NdHdOcW1Ld041QWZ3Ri1SdG10TkczWEhzLTVFbWdmeVZ6OElPaVo4X3hBb2M4bDdOa3pENTJnSWhsdnVGSnQ2TGxqMGhoMEFpX09GNGV0QmJqRFlBWko5cmU5U1U?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-23T22:15:56+00:00",
+   "tags": [
+    "nasdaq"
    ],
    "tone": "neutral"
   },
@@ -2666,26 +2688,6 @@
    "t": "2026-10-23T10:18:06+00:00",
    "tags": [
     "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Rupee little changed this week as oil-fueled declines wipe out early gains",
-   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-little-changed-this-week-as-oil-fueled-declines-wipe-out-early-gains/articleshow/135142602.cms",
-   "src": "Economic Times",
-   "t": "2026-10-23T10:17:21+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Price Forecast: XAU/USD picks up from the $4,000 area with bears still in control",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQUpUbEtObkhna1NlSFEzQVB3WWZOV2U3ZHBMNHAwY1FQeXRSNXhaTkpUNzBoUTVSaHZCVjRhQjZTU0RvajkzU2I2SmdzSVBKVkJybW0xNnh4TnBmR2lGOTQxNGMtRmRmUEVNZW1mdWR1TmZHNk04SVVtdDk5Zk9GTUVQb2tYOURoU2ZHUFJZLURHN3ZkZUlKb3YyVlAtRTV1cWVNbkk4aXNHMWNGZjI2X2k2NXpNQTZOcXByLUxrQVppN3pnenc?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T10:16:48+00:00",
-   "tags": [
-    "gold"
    ],
    "tone": "neutral"
   }
