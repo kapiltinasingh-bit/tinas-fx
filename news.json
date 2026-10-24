@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-24T02:59:01.951247+00:00",
+ "updated": "2026-10-24T03:25:41.006611+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -54,7 +54,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -108,7 +108,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "BSE begins hunt for MD & CEO successor ahead of 2027 exit",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/bse-begins-hunt-for-md-ceo-successor-ahead-of-2027-exit/articleshow/135160663.cms",
+   "src": "Economic Times",
+   "t": "2026-10-24T03:06:38+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "RBI net forex buys hit a record $43 billion in August, balances it with swaps",
    "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-forex-buys-hit-a-record-43-billion-in-august-balances-it-with-swaps/articleshow/135159794.cms",
@@ -1448,6 +1458,16 @@
    "tone": "neutral"
   },
   {
+   "title": "EUR/USD Failed to Break Through the French Barrier",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVXBaQXN2RHFTSE1TUVFaeGNDb3lLQzRWNHBFX212elJOOXJXVjdBd1pPR1ZQNlU2ZmU2RUtCTmZNaGd5VmZWNmNlbGpJOGluQS00STItZmpTQy1tc3F3ZVJpUlVMT0x3UVZwV1d5bU9EUkF1bjMtbGpFWWducVBGaG04aEVxRnU2cml1REpRTkJpVk9LQkRpX3Rn?oc=5",
+   "src": "Investing.com",
+   "t": "2026-10-23T11:46:20+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "TSX futures drop amid gold price fall, AI anxieties",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNnhwM1BGR2JLWWZQd0lhMDRMRXdILTJMSzdTZlR0N3F2cUgzeXZIRFEwS1lXYmN1cmNUaEVtMzVhUlJ6SVNQWER0WWFYeVlJRUE0ZjQ4MTVyOGtzalZONkhzbUlfU0Y0anhCV3Y2NlJSSG5OSHhCWlM0TndUREltOVdvb3puN2pwcU5oZUdzRXNYNmJZVWc?oc=5",
    "src": "Yahoo Finance",
@@ -1650,16 +1670,6 @@
    "t": "2026-10-23T10:22:45+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "EUR/USD failed to break through the French barrier",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmZNT2w2WndpQkN1X3BkWEhwZ21zdVBfbUJvSFVQdWtmeG9QMEZPT09nVjBwTm03WDFEeGhOYVhzZzJ1dWhseDNhYThaQy1lWHFJOWFmVG1SWmRMT3A4MjBGR2poTnVIb001UWY3UjlWaEc3a2dadzVfaGxVMW15MUU5UUsxQnE2bmJpT1U5UUZYSXlSNVg1YkVqZ1VKZw?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T10:21:00+00:00",
-   "tags": [
-    "eurusd"
    ],
    "tone": "neutral"
   },
@@ -2679,18 +2689,6 @@
     "gold"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Gold steadies after three-month lows as oil rally fans inflation worries",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-23T04:14:00+00:00",
-   "tags": [
-    "gold",
-    "oil",
-    "macro"
-   ],
-   "tone": "bullish"
   }
  ]
 }
