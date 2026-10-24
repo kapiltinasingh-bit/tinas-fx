@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T22:36:05.705965+00:00",
+ "updated": "2026-10-24T23:02:40.157658+00:00",
  "count": 250,
  "feeds": [
   {
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -158,6 +158,16 @@
    "tags": [
     "oil",
     "spx",
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Check out FT Vest Nasdaq 100 Buffer 30 Port 9 CA's stock price (FJSAGX) in real time",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1uZjZNeE16WXdzdVlJSE11RjhxaFBzYWpWR19fbXlmWldZZkk2MHBLakpOTXlydjdNVGFJckRIdmtyR0JFZ21DWkV3?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-24T18:39:30+00:00",
+   "tags": [
     "nasdaq"
    ],
    "tone": "neutral"
@@ -2681,16 +2691,6 @@
     "btc"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
-   "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
-   "src": "CoinDesk",
-   "t": "2026-10-23T10:53:09+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
   }
  ]
 }
