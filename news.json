@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-24T16:16:17.553268+00:00",
+ "updated": "2026-10-24T16:54:43.273886+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,25 +48,25 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 7
+   "new": 6
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "CFTC Report: WTI rally runs ahead of positioning",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcE9QY3VLWmM5bGYwYVBXcWdHNVhvbmJqbzFlUXFJT3FuX0dodEJFQXpvX3pTZ3gxdmFCUnp0VkhGN1BYaHhDSGZnNHdBQ0NXNTZuVW90ckJ4bXJEN0xDWmh1djNfWXRvZ0dYQnQ5eUNTa19qeVdMd0lkMWw0Zi1CQ0tTczJXZ0xmQzM5Y0xRMEJQcnBFR3o4bUNR?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-24T16:51:23+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
    "url": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
@@ -247,6 +257,16 @@
     "btc"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Peter Schiff Says Buy Gold Near $4000 As Prices Sink From January High, Warns Of Currency Crisis Worse Than 2008",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLWtvSGlKTkhKWV9DVUk0Qktsc2xHQ2ZDS21MR2k2ZWowUlMxa2xmQldKeFBjTjNvYVUtWlNWZHZnZGdfcFVYWFROWjR2bmY4WldpcEtmWmU2OHEyekhrSjBKQTRKTjQzQUpIcWdZcndKYllOMlloT3hGM3VDMHE1LTBfUWl3eHcyMmVBUjdQaVE2cl9nbk5oRWQ4aVY?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-24T11:46:04+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
@@ -514,6 +534,16 @@
    "t": "2026-10-24T02:20:15+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Trading the S&P 500",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TdFJNdmRpc3JhelJ2Zkx4cTJoWWZHTG5mSEs0LVhGeFFqMjk5cEhEOHFpSVhNdjNJNnNzbE5OckNCZ0pjaU85eTdJc1dBbTNUY19xR1dvWUlrcW5TbF9VaDVBeGlKd1htT2Jj?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-24T02:12:39+00:00",
+   "tags": [
+    "spx"
    ],
    "tone": "neutral"
   },
@@ -2358,6 +2388,16 @@
    "tone": "bullish"
   },
   {
+   "title": "France is flashing euro crisis signals. This time, the fault lines are different",
+   "url": "https://www.cnbc.com/2026/10/23/france-debt-euro-zone-contagion.html",
+   "src": "CNBC",
+   "t": "2026-10-23T11:12:38+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "UBS sees dip buyers stepping in to support gold at this level",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT21oQXRrLXliemZWM2wxQUhUb1pLNlpGS3NYMFh4YnN0MXczT1dPMkhuWTN4djRHelk5TlltdFJzNElnTkM0cHdySVE3TGtWVkpPYTZfUml6aWd5RXdteXNnbDhDYkFaeEtOOXNFaUR6VExEOFlFaEN1YUhyUFdLemtIT3o1ZkNXRHFaeXV6ejJyQmYzV3VVSlA2blRFcDg?oc=5",
    "src": "Yahoo Finance",
@@ -2649,47 +2689,6 @@
     "macro"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "The French debt crisis adds to pressure on the Euro",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQanZGd05zcHBPYVRBeGFCNDhpdGpoM0pfTU8zLXNWd1dxU0tFbVpIR1UyZ2VzUVVuTEg2S2pPRFVtUEtvU0lwRlo3YXVkWFJFRGsyQVVhV09CMVg3V1VIYUVMbXZlQzlUU2pQd1Rwc0JGOWZzSG1SbWI2YVhNRTdyZFdob0dkb3A5ZUdDU1JUZUhJOVhLNDA5bkpRLWkxN2c?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T09:15:54+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold on track for sharp weekly drop as oil price surge fuels rate concerns",
-   "url": "https://www.investing.com/news/commodities-news/gold-hits-3mth-low-as-oil-rally-fuels-rate-concerns-set-for-weekly-drop-4967928",
-   "src": "Investing.com",
-   "t": "2026-10-23T09:14:54+00:00",
-   "tags": [
-    "gold",
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Global Market: European stocks edge lower as Kering slumps, oil prices rise",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-edge-lower-as-kering-slumps-oil-prices-rise/articleshow/135141363.cms",
-   "src": "Economic Times",
-   "t": "2026-10-23T09:12:02+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Top Reasons Crypto Market Is Dropping Today",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNjBRYzhHT0NtMFBSeGctV3NCcS12ejl6R1Rnc2hUbkZOSFd1Zml5TTNnUHVsaUtyTlBFdjFfaTdxWlNCZXU5bUF3REFDNDZ5M0puak9uUHRqY01lUnNuY21naV9jVDNXTk5HMGZjUU93SWg5b1BuQXZzLTRlendMN3hpakdLcXBjSWtFUTB4b1NMU1pYUDNkWER3cUFiaGF4?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-23T09:07:27+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
   }
  ]
 }
