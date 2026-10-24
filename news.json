@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-24T04:25:25.721673+00:00",
+ "updated": "2026-10-24T04:56:15.522502+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "CNBC",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Moneycontrol",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 13
+   "new": 12
   },
   {
    "feed": "Investing.com",
@@ -397,6 +397,18 @@
     "macro"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Dow Drops 652 Points as Oil Prices Pop and Treasury Yields Rise: Stock Market Today",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzZqa1FQajJTQVVRcm1HS0lWamxpLVdablVSQVk0akpnTFZyd1Y3bmx6cXNueDBtSEQybGdUdmlVRzNmVEZlZER2Z256Yk1DRllyTTVIWHV5MTU1UGdDV2Z2eUJ6U29KbnZ4QWF6ZWVqRWxtWmNxRnFOd0R1cERMSFctd0RlejV6YV9hbC1famhQeTg?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-23T20:09:23+00:00",
+   "tags": [
+    "oil",
+    "spx",
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Gold price set for steep weekly loss as rising oil prices bolster Fed rate hike bets",
@@ -2689,16 +2701,6 @@
     "btc"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Sensex sinks over 1,000 pts from day's high, Nifty below 22,500. What's ahead for D-Street?",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-over-400-points-nifty-below-22500-while-small-midcap-indices-plunge-up-to-3-what-lies-ahead-for-dalal-street/articleshow/135134693.cms",
-   "src": "Economic Times",
-   "t": "2026-10-23T04:54:49+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bearish"
   }
  ]
 }
