@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T06:20:34.968173+00:00",
+ "updated": "2026-10-24T07:09:26.030071+00:00",
  "count": 250,
  "feeds": [
   {
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin hovers near $80,000 and Ethereum at $2,370 as macro uncertainty and weak institutional flows weigh on crypto markets",
+   "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hovers-near-80000-and-ethereum-at-2370-as-macro-uncertainty-and-weak-institutional-flows-weigh-on-crypto-markets/articleshow/135164499.cms",
+   "src": "Economic Times",
+   "t": "2026-10-24T06:52:52+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVEhvUXFJN0lhcWNjSlJiU0xrdWk5U2szNTBxbFZFMUJ4ZWlLV25fcmJOZEpaWTE0QV9HLTVPNDNXb0dlclFweTZqSGMyN05jRy1YMllSWXZFN0h1RngwcWZxQXFVT2hKcG1ILWlXak5raGtrOXF2dEV6dFZUcmNUOGlfU3FqcENlcWpuVnVpMmJRWkNsQXFHN1cwZEpfc25vbm51UDBCVkRjZkZUd1U1dlJ0Rmp6SkxDVEZyRkRCY183SkpsamI5S25NaVZ3cmxoampr?oc=5",
@@ -576,6 +586,16 @@
    "t": "2026-10-23T19:07:32+00:00",
    "tags": [
     "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Philippine Peso: Bearish but constrained by Oil – OCBC",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWDlRem5mRDVpOUlXQXB2RUtta2IzYVQ5M0MxbmJWUDNLTWdJbHFUa2JJZDBxRy1ST2Uwb0hxM2lUbTBkTGVuZ09JZW9aWUVfeXlOOUF6ejg0cUotZXZONkdzN3ZLNmJ0NmdUM2oybkg2UURsdHlpQTc3XzV1SE50eXdEU2RUT1gzV0p0X212b0tSYnc1REZxQ3dn?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T18:53:00+00:00",
+   "tags": [
+    "oil"
    ],
    "tone": "neutral"
   },
@@ -2071,9 +2091,9 @@
   },
   {
    "title": "Nifty Midcap 100, Smallcap 100 slide 4%, down 10-13% from 52-week high",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMVFLTEp6aFVPNm40UDZVM0szUW8wYnZsLVdQNC1tODcxalJQZm5iM0FsakN1MFQxUkdjcnVGQUdUaUJKRnRRSHhsM29SbGlkdWJkN2h4alMwYzlqcWVSZUZHdWNHbDNNek1oalRWVldqLUtvTDg5bHl5REJsN2wwaTdMMmtZelh3MHdxTGJJTXFHSzlTbm5qUTA0R25YVFZsdjZkTlRZdmVoSzllNlplX0tLdko5RlJTanhEb3NNR2IyOTNxZWFsUXhWR1RUdldP0gHWAUFVX3lxTFBUZDFvd3R5a1pWWWxDWmtOa044WlhlVkpYLTJIOHJBWUJGdHpOZjJaR2E3LXcyVzVoRXpueF9CSnZDWDYyTG9Zc29FeHdBNHVfekVONS1STHRMTmJnUDRLRjQxVjJsY2RncFpvcGFCUk55dFUwZl94SkthcmZ4ZDN6dG9hWHQzbjBlTWZBeVZ0ZTNyZXdKTU1wdnlVZGlOc1ZSMk5IRmxLcUFuSThBOFkxX3NQRVdlZXotXzU1SzRETkxLT0swdkVyYzVIN18ydEItVWNtSFE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMVFLTEp6aFVPNm40UDZVM0szUW8wYnZsLVdQNC1tODcxalJQZm5iM0FsakN1MFQxUkdjcnVGQUdUaUJKRnRRSHhsM29SbGlkdWJkN2h4alMwYzlqcWVSZUZHdWNHbDNNek1oalRWVldqLUtvTDg5bHl5REJsN2wwaTdMMmtZelh3MHdxTGJJTXFHSzlTbm5qUTA0R25YVFZsdjZkTlRZdmVoSzllNlplX0tLdko5RlJTanhEb3NNR2IyOTNxZWFsUXhWR1RUdldP?oc=5",
    "src": "Business Standard",
-   "t": "2026-10-23T08:55:24+00:00",
+   "t": "2026-10-23T08:55:26+00:00",
    "tags": [
     "nifty"
    ],
@@ -2229,6 +2249,16 @@
    "t": "2026-10-23T08:09:53+00:00",
    "tags": [
     "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Brent: Geopolitical risk premium builds – ING",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ3Rld0tCNHR0WktueXBEVllnWVk0RUZUeDFfNE5xNGtVRkdYOExPTTF3dlR1WE05aFpsYXZtOEhPNElKeVp0c185VnBRMkFYUUVCZjk5Q19rQU04b1VTTHNoRkRlR2JibW9FNEtyN1ppeUxfdGI2YURhSU1YVzYtaFJQSl80V2p1V2Y3TlJn?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T08:00:53+00:00",
+   "tags": [
+    "oil"
    ],
    "tone": "neutral"
   },
@@ -2667,37 +2697,6 @@
     "silver"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Tesla stocks fall despite Q3 earnings beat: What spooked investors?",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-stocks-fall-despite-q3-earnings-beat-what-spooked-investors/slideshow/135136546.cms",
-   "src": "Economic Times",
-   "t": "2026-10-23T05:20:32+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "What’s Next for Bitcoin? WisdomTree’s Take on Risks, Regulation, and Investing",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX3B0dVBtLXBhT1lJbHpWcG5IUXluZktWZ2xNQjVYU1ZpNWVTcWs0Zjl6WDkybmhiM19OUDg1b2gxUHBBemdsT0hKQ0w0cXdaazhPbG5uem9FalRVTHNBN0FpVnc3dGtIeGk3SUs1dGlzMUNmNGpOMDhSOWlqRHRsZmhZMk1qa08zbU1sb3o5Ri1QNG8zcjZiMmRUQUpIUGVhWUViZWZxb3prY1E?oc=5",
-   "src": "Morningstar",
-   "t": "2026-10-23T05:18:29+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Global Market: Japan’s core inflation accelerates, putting BOJ rate hikes in focus",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japans-core-inflation-accelerates-putting-boj-rate-hikes-in-focus/articleshow/135135200.cms",
-   "src": "Economic Times",
-   "t": "2026-10-23T05:12:44+00:00",
-   "tags": [
-    "usdjpy",
-    "macro"
-   ],
-   "tone": "neutral"
   }
  ]
 }
