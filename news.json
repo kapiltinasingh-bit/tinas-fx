@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T08:07:17.374431+00:00",
+ "updated": "2026-10-24T08:39:14.314830+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -60,13 +60,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -114,10 +114,30 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "FIIs dump Indian stocks for 10th straight week as markets slide: Is the worst over or more pain ahead?",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-indian-stocks-for-10th-straight-week-as-markets-slide-is-the-worst-over-or-more-pain-ahead/articleshow/135165684.cms",
+   "src": "Economic Times",
+   "t": "2026-10-24T08:11:14+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Coeur Mining: The Cost Trick Every Silver Investor Should Understand (NYSE:CDE)",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVGY4cTFpSHB1S0x0V0ZGTF94TEV0NDZza283ZnctcEdoQ2RMOURyQlpwSmFJdjlwMHZER2V5ajN4YmFfMTUyVWxpQnFkUlFLc0F1bXVQcDdxX2ZJVmNUajdOYnA4N25DVFJXTFc3VkVncVQyYnQ5QXZTSU1CMWt6RVItdzZjSDN1ZGU0RFRPaUF1eW9QcnFYZjFWLXhMZ1dodl92Uk5tRnRjdDV2?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-24T08:01:45+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Gold Price Tests $4,000 Support as Bearish Gaps Signal Further Downside Risks",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbzBQSnVoSVpPT1VWQ2UtVDVDUTZqSGJKQnBxNUxmNzhtdlF3X3VUTHdRVG5wZmRYRW5SSGxPOTRqYS01TktUTkRiYlV2WDBITzNsbDd5MHlxWFZWYUpSQ1oxam1td3JJSHpEMHF1RVd4UXl5VHNiaUFBVHd3RUx0TUdid2o0V2lDdEhfYmdIcW9YeEN1MnBNTjB2c1FRb1NZYjYwSmRPWmN6b3JmeWRrMFQ5LUJpQXZTU3liWQ?oc=5",
@@ -133,6 +153,17 @@
    "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPWXMtSjdGcVl0a3JtVHV6bmxySDZ4RHMyay1zRTBtX1Q5R25IbUMzeEQ5d1lCLTVadWZzOU9DNXppZ242andneDE1RG5TZ2doU3NsMkRIY05peFJwU0IwQzcxcE40LUY5TkpXTG9wVEZKMTZ5YkRLT0tjOXRvcS1zdVBidjg4aDdhZS1rTnNaYWx5V1VjWkZZdDV0dHB5RjV4VHFiaHd6VUh2aGhaTzhzUVB1X0hGR1FKSjJEOHRTZ1VIT2hNVXBfU0tsVWVMR0lqb0dtc21BcWY3YmhMc3MyLTF5bHYtcXdscUtCT2h2MmFHQjQzekJyM05TQ3oxbnVMSVM2d1Z6akp2X1QzMTd5WkVYZGVjbFZUSm1lN2czN2V5V0pTanlZLUhxU05QUHViMjJOMUh3RnpKNmtoekxxYW5kUF96b2syRnfSAc8CQVVfeXFMTms0S05aUVBBWU1vV0JfT2ZhYnhjM3cwVzNmVDdBR21aYWVSUUhqRXZBWF9SN3ljOWVqSGI2Rk1MMWNreExMWWlYb0EzY1pKSU03RHd3cndnN1Y2MG0wZXlTWUJ6cE1aUTRHNDJFd0gyNFd1OTJHanpjaU92eVNDVUVxSDNFbjdpbHc4MEdBSUNudFF6bUdxQTlhaHRqa09ydkRiTGpaZExBNGw5YWhfelVtN3hUc196SlhHRkpzY2QwSGFDVXlMSF9fYlk4UmJadDBEQnhrRXdWZXlEdy14ekFaVEFxcmpnX0R1cDh2R01MS3BJRjJDbDRDdHB1MTF6RGVrMjdPR3QwMmFUYlp6TjFMOWJWSEFzbUV4bVhVOHFVaFhCWFNlYTlaTldRcEZPX1FKMVgyak9qYXlIVHh0dXRjVDhWMzMyZzdiTUd3d2c?oc=5",
    "src": "The Economic Times",
    "t": "2026-10-24T07:36:10+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold, silver prices today, 24 October: Check retail rate of 24K, 22K gold, 999 silver in Delhi, Mumbai, Kolkata, Chennai",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNZm1JVUpZcWVtTmctRk5LcF9jTi00OXZBanlRdmZSY3I0b21zZXJKb09wRWEzSnJKeGpDZjNhWk03YWZDVm52VUFMZWdoZ29iY3htdU5SNS11RDU1NjhQTk5GQU5RSTBJT1pvcVpSUjhnd25IWXhobWY4emdFeVp0d2pCUnVFcThnd24tcWU1SUtlYTlDU29ob3ZqZkt3OWFNdDZGblBfaE5BWTlaTm9Ua3BhTUptX2Rqdk5MZDFOeXMzWWpOZ0FPU0JqYWRFeTJlVFBxcWExRTU0aHhqYzF5cVFJTldhWHJuTmJRYTRpcGt6Z0hjUHRTZjdoSVpDT3ZQQ2RVVmtMTm83Y3NfMThCUmIzYU9aUE1EOWE2bNIBnAJBVV95cUxNZm1JVUpZcWVtTmctRk5LcF9jTi00OXZBanlRdmZSY3I0b21zZXJKb09wRWEzSnJKeGpDZjNhWk03YWZDVm52VUFMZWdoZ29iY3htdU5SNS11RDU1NjhQTk5GQU5RSTBJT1pvcVpSUjhnd25IWXhobWY4emdFeVp0d2pCUnVFcThnd24tcWU1SUtlYTlDU29ob3ZqZkt3OWFNdDZGblBfaE5BWTlaTm9Ua3BhTUptX2Rqdk5MZDFOeXMzWWpOZ0FPU0JqYWRFeTJlVFBxcWExRTU0aHhqYzF5cVFJTldhWHJuTmJRYTRpcGt6Z0hjUHRTZjdoSVpDT3ZQQ2RVVmtMTm83Y3NfMThCUmIzYU9aUE1EOWE2bA?oc=5",
+   "src": "Livemint",
+   "t": "2026-10-24T07:31:11+00:00",
    "tags": [
     "gold",
     "silver"
@@ -514,6 +545,16 @@
     "macro"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Oil prices jump $3 on Houthi attacks, oil spill, highest settlement since April",
+   "url": "https://www.investing.com/news/commodities-news/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia-4967907",
+   "src": "Investing.com",
+   "t": "2026-10-23T19:42:21+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Precious Metals Prices Canada | Gold, Silver, Platinum, Palladium, Rhodium in CAD",
@@ -1073,6 +1114,17 @@
    "t": "2026-10-23T15:00:49+00:00",
    "tags": [
     "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Japanese Yen pares gains as bond yields fall despite stronger inflation",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOckJIaTd4LUdqUlBBMlN2OU5Sek5ySF9FV3MxaE1zSUpWSmI2cGxIQmxwUDNnMkN6c1ljaWdYeGpaYWdGYTI5VTNiZkk4a0U2emNBWXplNk9yNkx5bU1zWEd5VVl1UmNPdXBwNjV4T3h4cU5OREdxTWQ0bUp1MktYZVZBZUM2MU9NVDZwT1htcVpha0VwT2FwTmVoUVFDZFR2dUhJYzEyMjJESGtkeTBzQmlLUGM?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T14:58:31+00:00",
+   "tags": [
+    "usdjpy",
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -1979,6 +2031,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Merritronix Ltd. Share Price Today - Merritronix Ltd. Stock Price Live NSE/BSE",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xVG1xNlBidTVJLVBYck5DakF4UEdzSUtvdHE3cEREUHcwRG9uOG1oeWxxQUdjX1JjeGV5QlZZU3pha3RaZmdPZTFJd18wNUc0Z21LdGdZY1Z6MmNpVjh5WEtVSWpqcGRFUmhhRGRHUDJlN2ozWTZhSjlyblBld2c?oc=5",
+   "src": "CNBC TV18",
+   "t": "2026-10-23T09:59:00+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Yen rallies, euro sags, dollar shrugs as AI worries drive haven bid",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTGN0N0x0eXNfeEJEZWhxZGl4UjlyRWp5QTFsanhTWno0WHEtTFVQc0Uybno3bmlySV9hZVZZSk5FazlaZ3BZSnpoZjJQNnZLZWJIMjkxcnFBcXdpc1l1RHFYOEdVOFhFTjlhLUs4Rm0xLThJTmVxNXpOeGwySGcxeDFQUjhGT1NCdldaMWJUVEo3UXR5a1BMem93UVhWSTg4MTExaGFwazVXamxiWmgyRjFVTGdPQkZHU3c?oc=5",
    "src": "Investing.com India",
@@ -2230,6 +2292,16 @@
     "oil"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Japanese Yen: Set for further gains against US Dollar - UOB",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc0ZiVU04UXJNa1ltN1Rmcm91VGlISVZXS3M2Q3FVR3k3OURIRzJZVEhWSVl6Mm42WG1MQWU4M3dqX1F0eURlSUFIUjNQUlg0alJSRkJwZFdiSXVvem94YzRBbzVmNmI3MXZXZTUzejNPLTRaVEhCbnpGSGNZdFd5SXU0enByVHZobV9TUU9vczVLbGZrMDhIRzBrLWU3dzc5?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-23T08:41:34+00:00",
+   "tags": [
+    "usdjpy"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Sensex recovers 600 pts from day's low, Nifty reclaims 22,550: Key factors behind partial market rebound",
@@ -2620,79 +2692,6 @@
    "t": "2026-10-23T06:16:00+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Could lab-made gold crash prices like diamonds? US start-up says it turned mercury into gold",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OYzl0VkdycEx6d3JMUU0zOEtIa3gtMGxNUkZTTzRZQzdXMHcySVpuNVNJNzFVM0YtbndxaHFsY3hBX2N4ZDJSSWdEWVQyT3RnUmVGYUdJX3dvRTY1MVZ0QXNxTTdKV3V4NEEtQlctcUo2R0dyRkxBT1RIWV9FQVE?oc=5",
-   "src": "Yahoo Finance UK",
-   "t": "2026-10-23T06:14:16+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Turning mercury into gold? A US start-up says it has just done it",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORDg5QmcxQWh3NHA4c2FRQS1SOEJjUkxrZFRpY0lPY3ZGVGJsQ3daR1ZTNmNyYnhXZ0VibEpRaDhZZWtwSk55Tl9sRlUzQlJrRGwwajhIcVVPTjVrcFkwWUZkd0NqR2lVUndqTkphRExiYzEwRC15TjI2Vkl5UEZBTkoxc20wY1FaWERYSElBTEtKZ0lzcG9pZkFBUzRYVDVMd2I2ZEI2aVY3dm1DVl9GVGlSLUp3bC1HbG92UHJTMGo1NzRT?oc=5",
-   "src": "Euronews",
-   "t": "2026-10-23T06:14:16+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Euro: Range trading intact near recent lows against US Dollar – UOB",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmVMYWR5NWRPN1ducm9uMjBKZjVVX0FXSVBPbVk4ZlRPUm5KSnpfN2l1T3JEV19uRXphWmx5NVhJVGtkRHNISXA2MURkcTRGWnlTWFlMa01DY1phRXo0OEVNelVzeHZmSmxSdzNtbko0SnFxcTBXVzBTU200OGxTMkttZmQzX2Zwc21CcU16MWhfbUtNRXhuYml3QlZzaUxoTEpXakcyQkdyWXM?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T06:12:41+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Christopher Wood swapped Nvidia for a Greek infrastructure stock. The bet is paying off",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/christopher-wood-swapped-nvidia-for-a-greek-infrastructure-stock-the-bet-is-paying-off/articleshow/135136490.cms",
-   "src": "Economic Times",
-   "t": "2026-10-23T05:59:42+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "BSE Capital Goods index tanks nearly 4%; Hitachi Energy, ABB India slip 6%",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUkptTXgxekd1dmlzcmxmSDVFUjRnNUN0em5YSnNILTF5Vjl4MUcxRk1JOE1iMzRvajVHMDhvX0hWY1ZLNDJtam0xeC1HdElVcWlRZzMtbVMyZnQ1NWhmN3RhU1ZacnI5QXhoeGg1YmlOcTdJMm5QUFU5c3dsTDhxV3VqNlBRcFBtaFUtUVhUMS1HMGhpaWpSeDlNQVhIN1E4SUpSVWJLN0pVekVPaGViREtyMHBwNTUtVXQ3b1pUSm13c01nOVd5akYwc0ZpS3ZWQ3Jv0gHYAUFVX3lxTE93OEFlY0hVdG5NeGdNSk5UOHBGS1F4eTB0QXp6SmNtN1FTRGl0MV94U00tdWwwcUVBLWJqY00xc0Q5ZEJIS3BHVjhjbDUxVDREQ0dIekRhZUJjRG1jUDFhZ0lOMXhydkZjemtXSEpkTjVxaWZTcUdQNmM1ZF91c1BiYTdhcV9WTjdhNEJoUDBjbFBQNkFhb1lCQWVmNmVyY1pjdFFrVHpEdFl6V3I0akw2TXhxNmtVQk1qaWR4a0RJbTNrUDJrc3VmQmdXOS1rNjFnNW8wTEhycg?oc=5",
-   "src": "Business Standard",
-   "t": "2026-10-23T05:54:56+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Silver ETFs fall up to 5% as oil surge, inflation fears hit bullion markets",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa1JlREhRMlM0NlhPM2V2MDJ1Q0N5S1l5b3U2VThGS0o3elNmaDZjNm9Ja0F1cUJNUG5rOGd2V0Zkd21zSTU1SkxHeTRDSmZZZnEzb2lpYWNTeDcxR2dsYUxFQkZEQzJBcjBNazRiX1VpT2dfMUNuUlBGb09DNTBpcFA3X1hGUWNrRldNREFyT3lfU3pmcWtMR3NqUFo2U1hSLVFaUHZGV3ItQjBvMUk5ZlNRajZkUEgyZHNUNGNlajcxdm5qSkJIMUpuaWMySjN5TlZKbmlhMNIB3AFBVV95cUxNRklJU18zdUFyZTdWaE9veFhYelJ6dWlnZk0wZjBkNklfTjFxeEw5QUVtVG1wWEltQTlCQWotQzNKa1ZGQzdVWklkRzZsUWotNXVqcG9Xdlc0V2RmVTlJSl9zc1ZydE9uRVhZVzVnQWo0aDRVektuLV9WWnFoY0FRbk5pZjRUWkdrcS1LMVViVm1pUWJMMHhSMFpMUHp4MXBYR3otaXk3Q1F1TEN6bFNkYzJvMVlUX3Rzb3gyOGZhYnEzX3BPSU9yQWJMMXJYMl9DU256TWtVQ2Z0ZVBw?oc=5",
-   "src": "Business Standard",
-   "t": "2026-10-23T05:43:00+00:00",
-   "tags": [
-    "gold",
-    "silver",
-    "oil",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Sensex plunges 1,100 pts from day's high, Nifty below 22,450. Key factors behind Rs 10 lakh crore wipeout",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-drops-over-600-points-nifty-below-22450-4-key-factors-behind-rs-10-lakh-crore-wipeout/articleshow/135135895.cms",
-   "src": "Economic Times",
-   "t": "2026-10-23T05:40:02+00:00",
-   "tags": [
-    "nifty"
    ],
    "tone": "bearish"
   }
