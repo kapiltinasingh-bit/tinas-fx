@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T23:58:08.561891+00:00",
+ "updated": "2026-10-25T00:24:37.204888+00:00",
  "count": 250,
  "feeds": [
   {
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -194,6 +194,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Houthis say they targeted Saudi oil sites; attacks reported in Aden",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-24T19:24:39+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Check out FT Vest Nasdaq 100 Buffer 30 Port 9 CA's stock price (FJSAGX) in real time",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1uZjZNeE16WXdzdVlJSE11RjhxaFBzYWpWR19fbXlmWldZZkk2MHBLakpOTXlydjdNVGFJckRIdmtyR0JFZ21DWkV3?oc=5",
    "src": "CNBC",
@@ -320,6 +330,16 @@
    "t": "2026-10-24T15:00:00+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc?oc=5",
+   "src": "Yahoo Finance UK",
+   "t": "2026-10-24T14:52:10+00:00",
+   "tags": [
+    "nasdaq"
    ],
    "tone": "neutral"
   },
@@ -2672,26 +2692,6 @@
     "oil"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "France is flashing euro crisis signals. This time, the fault lines are different",
-   "url": "https://www.cnbc.com/2026/10/23/france-debt-euro-zone-contagion.html",
-   "src": "CNBC",
-   "t": "2026-10-23T11:12:38+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "UBS sees dip buyers stepping in to support gold at this level",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT21oQXRrLXliemZWM2wxQUhUb1pLNlpGS3NYMFh4YnN0MXczT1dPMkhuWTN4djRHelk5TlltdFJzNElnTkM0cHdySVE3TGtWVkpPYTZfUml6aWd5RXdteXNnbDhDYkFaeEtOOXNFaUR6VExEOFlFaEN1YUhyUFdLemtIT3o1ZkNXRHFaeXV6ejJyQmYzV3VVSlA2blRFcDg?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-23T11:00:39+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
   }
  ]
 }
