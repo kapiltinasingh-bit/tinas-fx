@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-25T13:38:06.228270+00:00",
+ "updated": "2026-10-25T14:05:16.357661+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
+   "url": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-25T14:00:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
    "url": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
@@ -167,6 +177,16 @@
     "btc"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Will the Fed drop any hints on rate rises?",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNakZWTzB3NVNya0JlTHJlZlgwQjREeHRhWjFja0xROGtfdmxSZ2M1aE9fMkpUN0hJOFd2QktlYUw2LXpYQzZDZzNXLTI4ckJrbnhCNlZEY2pwZUl2d3U2LUxfUkxEMGh1bEotTlJNdWxQb3NjVFg4al8teTBaSUFid1hNQWE?oc=5",
+   "src": "Financial Times",
+   "t": "2026-10-25T12:00:03+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Earnings playbook: Alphabet, Microsoft, Amazon and more report this week. Here's what to expect",
@@ -2669,26 +2689,6 @@
     "usdjpy"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "US stocks today: US stocks open lower after AI rout; SpaceX worries hit telecoms",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-after-ai-rout-spacex-worries-hit-telecoms/articleshow/135147604.cms",
-   "src": "Economic Times",
-   "t": "2026-10-23T13:38:31+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "The price of gold today, Oct. 23, 2026 — and the best places to buy",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zTE9YNk95Qkx4UlRKMDc0eVpkLVUzTmFKOFVkUE1BMWpWYUlUX3k3dWI1RHJVU0k0cGRaVlRZd2RTZGR0blV4ZXdSTEJtQ0VXdzRvS0NGa3RNX3lrSWFpS2VDSDhiWC15bndpQmlsYlZ3Z9IBd0FVX3lxTE93TERseWd2dE5RWFZsNktndXFwbnQ2Y2toQTFod3hEUmxoeml6U3JYYk4wR1NwMEJzWS1aTDZHQ2JzVVA4RzdjZjVtVUxJYkhEYWpjV3dWR1dUd0c2WjdIMnhYN19hdkFTMEtTVlAya2puZG5jUzhB?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-23T13:33:00+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
   }
  ]
 }
