@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T04:44:24.124367+00:00",
+ "updated": "2026-10-25T05:13:31.199030+00:00",
  "count": 250,
  "feeds": [
   {
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -494,6 +494,16 @@
    "t": "2026-10-24T13:05:01+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Check out Microsoft Corporation's stock price (MSFT) in real time",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5tT1loWkRaLUdxODJPR2NycnJZUHE5aFh2cnBaSkkwLXN1S0lwb2QwbVFrVi1LN0RsRUhwNnloeFNYeVdTXzg4?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-24T12:50:01+00:00",
+   "tags": [
+    "nasdaq"
    ],
    "tone": "neutral"
   },
@@ -2680,16 +2690,6 @@
     "macro"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "The US Dollar holds the yield advantage: Why safe-haven demand still sank it against the Japanese Yen",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTTRQdVpWMmN2ZGFwdTdmbVk4djhibDRXcXI0dDlHTjFqemlqUVJYazhfYUZaTmtQR2pBSkZ0ZGI5d2pLQ0NWa3hTQUVGZGM1N09ESmFDQnNuc3dKcW9wdTdybk80RDVJbENfdkRjQzcwVmx0RUNSWmZiMjhDSENGeUF1Q0MtOGdGajh4aHNVVFZZSksyMmRXVXpIR3hQaEJGRmY1M0pmaXBkeEQ2bXpQZjByR0ZkSjVNekswb0FtMGNFeUVIVEVaeVczUFhNTGM0bERqeWYyeUdzb00?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T11:57:25+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "bearish"
   }
  ]
 }
