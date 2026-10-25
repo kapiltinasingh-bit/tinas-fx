@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T02:38:53.670912+00:00",
+ "updated": "2026-10-25T03:09:54.219111+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -118,6 +118,17 @@
   }
  ],
  "items": [
+  {
+   "title": "S&P 500, Nasdaq, Dow Forecast: Nasdaq Selloff Deepens as Dow Rally Stalls",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORkZ6Tnc3eEZGajNjUC1jYWhIVFBSdjN5UFhKeVZDc0xYVFA4a2dqQUhoWU9DblB3MXhpVVRCR2IwY2I5Qi1pNE8tRWxmclBvVHJBQnRnT3BPMWd0N25oa2U5TUJWc05XcXgzQVNBVHRXenAyOWF5T05RYThXMU8xYTI2SXliWVRGNjdvZDBic3V3RFBEdDhDU3ZFQ1duMTFTSVlva3hjb0wyZ2FJSXZUNDVFMDY3VEZQUXgyWlY4MHNaWFIwQXhXQkxIb1Q1VWxiMHfSAdIBQVVfeXFMTkZGek53N3hGRmozY1AtY2FoSFRQUnYzeVBYSnlWQ3NMWFRQOGtnakFIaFlPQ25QdzF4aVVUQkdiMGNiOUItaTRPLUVsZnJQb1RyQUJ0Z09wTzFndDduaGtlOU1CVnNOV3F4M0FTQVR0V3pwMjlheU9OUWE4VzFPMWEyNkl5YllURjY3b2QwYnN1d0RQRHQ4Q1N2RUNXbjExU0lZb2t4Y29MMmdhSUl2VDQ1RTA2N1RGUFF4MlpWODBzWlhSMEF4V0JMSG9UNVVsYjB3?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-25T02:16:11+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Fed expected to hold rates steady days ahead of US midterms",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOVJlVGNFb0RfVlRmXzI1NERUYzFxUUdJNHFMY1p6cU4xOGljVzBtdXdWWENYMHl6dnZjelVTaDJqNnNzOTd1dTFhemh5U0lLQ0MwMHhxMm5oTXh5WTFyOXhjVi1MZ2RzaWlpaUpKNXltMEU1elBBcVp2SzRReUtoNFY4b0JZRFZ6Q0FSa2ZDeWZTT25xeDR6X3hqcDRxSlJ0WlFta1hwXzlEZFBUTzdYbno1MTJWY0hCQTM3SEZrNElDdTVPSTd1UXlMNmZ3bUJpTFJsVU1kcE0xNkk?oc=5",
@@ -747,6 +758,17 @@
    "t": "2026-10-24T06:52:52+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "USD/JPY Weekly Outlook: AI earnings could overshadow the Fed and BoJ",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEdvbWplM3ZrMWtsOGtHWkc3eDNpUlpjc3lSbm9BQXJrb2RULWpMdjFSNHZNVERVZTNzQmVNSFJCU0RHMF9MYjV0OE1lZDN1QzBlZ3I4Wk9NU29IYjNWc1VnMERSYUhYM09QVVRzVUlKZE5DUTBCdGV1VGFSaUZDNGp3Z2VQOWxjUy10ZVdTREZCUWNWdFV0UkkwdVpaQU5tUUt5R0JETHZ3OGF3RWh6ZQ?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-24T06:42:00+00:00",
+   "tags": [
+    "usdjpy",
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -2667,26 +2689,6 @@
     "eurusd"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Indian Rupee wipes out early week's gains as Oil prices soar",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd3JWUzVmUjZOLXdZRmJoX2NXOWtVSmNZS3FaMVZaWDdzMDViRHBfUE8zMDlDaTV0NHdwcTl3d3ZUWjhZNHVQeGZvM2dMcktSTHd2Mk5HT0VGdk4yWWlQUEpCelRjNmtzdFJmZGRsOWVGeV9PQzZkSEVMRVh2UHVlaEpKU2V6ai1wZ19uUjZfcWpMYW1xMjhMbjhTOHVaclFsWjNOWlVuNGRjOWR2MEE?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T11:39:15+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "TSX futures drop amid gold price fall, AI anxieties",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNnhwM1BGR2JLWWZQd0lhMDRMRXdILTJMSzdTZlR0N3F2cUgzeXZIRFEwS1lXYmN1cmNUaEVtMzVhUlJ6SVNQWER0WWFYeVlJRUE0ZjQ4MTVyOGtzalZONkhzbUlfU0Y0anhCV3Y2NlJSSG5OSHhCWlM0TndUREltOVdvb3puN2pwcU5oZUdzRXNYNmJZVWc?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-23T11:32:18+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
   }
  ]
 }
