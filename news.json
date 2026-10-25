@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-25T12:17:46.912304+00:00",
+ "updated": "2026-10-25T13:04:51.267989+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 12
+   "new": 13
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,36 @@
   }
  ],
  "items": [
+  {
+   "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+   "url": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
+   "src": "CoinDesk",
+   "t": "2026-10-25T13:00:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Mako Mining: 48% Below NAV With Production Growth Ahead (NASDAQ:MAKO)",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaWJzNU9sWnZJTHpTN0NYUV96U3FEVlBWWUI1RXlDaUVMdE9QRU9zeTExYjROcExtUkp3XzFGc1pYV1VxOWtCTFBhV1Nud3hXT2JmcWhjRjNkQlQ0SEZNVmttZW1aZk1iekpVU194a2lFYlh4eHc5OUFvR1FxZHJXR2pHallEMjUyYU1MNHZRbHkwdjRadWZQXzM5RXA1T2VKcW8weA?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-25T12:34:21+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-25T12:15:33+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Novogratz Sees Bitcoin Upside, Pepe Surges and More: This Week in Crypto",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmxMRmpXVlZYWGZWd2loRHN3VzMxVjJobm5tMXRzQVR5SVJRdlRIUHR6N2NpVW85WW5YWVlKbXVDZDV6SnBaVHBsMkhLQlJpbnVzNTBTaHdJSFVBNXJkYlVtMWRQWkoyUDVBRUF0R241MFNSS3VRd2M1bW1NTk9KdHMtckx2cjlSVVpRZG96WWlRQTFINnc?oc=5",
@@ -165,6 +195,16 @@
    "t": "2026-10-25T11:30:00+00:00",
    "tags": [
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Malabar Gold rates October 2026: 22K, 24K gold compared with Tanishq, Joyalukkas; Which jeweller offers the best prices?",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOVXFPZ0VwQTd2T3BWRjQtYllMZGF0c3VoQm9xS01jWTNNeDk2OFI5MndTVlhYSzhENXB3VmNOQzNxMVZIMV9EUERlMUVqX2tVSDBadDUwUlRBR1FzblR4WFp5OVpWTkowN3ljaTF2NEtna3Z6cGJZaWowMmFjaEI3YTY1SFcwc0pvSWgwMG0tLW9ZNnluaURJZGIzQ2prMi1iTmdlM0ZkU3RteWFkNzM3VUVOWmpIRXZySTlUNmVBM1dkdm5iWmZITVNxOGlaLXViSzZ6cVZ4cWVNMnR6QnFQQ3RKVExxcm9ObWNKeGVkeFpPdXVPR2o4blBMYTBxNVhxcWZpSUI3dVFKa3ZyQjNUNdIBlgJBVV95cUxQZHEwQU01SHVMRVh6YkhFNjl3SHNlREZJeDFZeHlDU2NpZnctdG9pSENnaWhpTlhtN2pQc2lUaGRLbU96RGc1ZlMwUW1lci0wWXlzTWJaaXZlNHJoc0xYUWtRS2ZjTERvd3JqRTZDRno1Ymd5ZG1aS1psR0w5OWhiXzNacFMxNVpmLUhoYThhY21aWTlQcEtpOTBzSkRzcjdjU2ExUjhUNmNwRXdkOXFZQ0pOMG5wRHQ2MWdKTnZONzdlanNvTUVPM0plY0xyUm53cmNGZ000NFdlN3RwNnVzSk5TSk50Y0VyQkd3WDhJQ0FmX2F1cENVajlkMzdubTRIbmIwVDJqNmxEWm1WRzhmbE1Fb0stdw?oc=5",
+   "src": "Livemint",
+   "t": "2026-10-25T11:25:35+00:00",
+   "tags": [
+    "gold"
    ],
    "tone": "neutral"
   },
@@ -2649,46 +2689,6 @@
     "gold"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Gold Is Sliding Back Toward $4,000 as the Haven Trade Breaks",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRFlxNzdOLTBfSDBGN29qanhNbzFJQ0ZtV3ZfRzY4bzk3a1N2bzl1cjlreXgxZmlrdlR1T3ZFdUtsZHpYTVZHY0tsMXJCNTRjRDZDdjNNbUxwamhRWnhFRnVTczlldGdoOEtOdHR1blFqX2NsMURjX1U4bkFTZlhwZk5YdDZkZUNnS2VZemxiTjUxNU82X1g4ZWIzQjVmZkNrM3REdQ?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-23T13:22:00+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Japanese Yen Surges Across FX Majors as Risk Aversion Intensifies",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmdZYmNxZXhwMllyc3pkRDVwNHpoVHprbTlSX3A5di1fSm5sUmFvdl9uS0MweE5hYktnaXQ1eDBRWmU1Mm1kNDlFLTZSUW9IeGVaMmRDRnRHTERPNmFfNEt1aTNEaF9iZ3o5ekhobGktSmx4NHk4RXBJQlVTb0RxZkFEZnJ1RFZLYjdMOFNCX1dmUnRLMjR3MXV1dzkyTDg5ZEZOWmNDOE1uaGh0bUlmb1h3?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-23T13:14:55+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Norwegians Leave Gold in Forest as Some Fall for Scam",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObmZRb0tFZG1KTHRjNTk2bXFKaEFITlFqMklra3NpSHlXQUhvX0RuUlp1XzYxdFJOTlJJb0JOdmJFWWVDYjlOMXdrbTgzVWx0Ui0xdkpOVnE4bEQ1YmRUTU9JZ2h1ZVowYWxmbEt3MnpmYWxnMV9Kc2ZDblZLS0tQSk5lU2dKbnFpdFg3V25SMmFULXVNNzFHWW1ub0p1dHlzMEVGU1Y4Yw?oc=5",
-   "src": "Bloomberg.com",
-   "t": "2026-10-23T13:13:47+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "NEM Q3 Earnings Beat Estimates on Higher Gold Prices, Strong Sales",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMjNpak43YS1wajRRRS1EVGpZR250NWtDazBEeWhkQmptTmlqSVhIc0VNdXlneXFOV21yMnhlY2NESWw4aU5Ec0l0Qms4LUVCaHFwbVI2SlRZZEdVeG5JSHdWRXM1a1pWNEFQdElGZTY5S3lHUHowUENmQ3RSUWNOTGpPc1JEU1ZnZXRLcl90SzZRTmhQRVk0SmFFWQ?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-23T13:04:00+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bullish"
   }
  ]
 }
