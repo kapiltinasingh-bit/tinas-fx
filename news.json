@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-25T09:20:41.044416+00:00",
+ "updated": "2026-10-25T09:55:09.786465+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -108,7 +108,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "SEC Approves Leveraged Bitcoin and Ethereum Funds for Trading. But Are These ETFs Worth Buying?",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcERwb1gtZDlLV2R2MFFHMDBOa29UZVFTVjFMaGxFNE53Wk55RUM2eGk3WUhxb0F0Q3hnUnRJV1B6LVR3Nzc3NEtndlh6ZG1RRm85T01VWF9TY3ZqaVM2czR1WlU2THExRUJDa3JwWHduTlBzeTRjQ1EtRFdqRUlOR1dOQUR0R1hZMEF3dW0wR3BCdmlmNTZqdTVucTNJQnFNQ1Ata3BvTQ?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-25T09:32:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Crypto Analysis: Even Bitcoin Cannot Escape the Market's Lack of Direction",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQWR2Rk9mZnZiLWJmZkxkdGJob1M2T1FCNHVqYnpjM0FKdWc5aHNYRFVjdnF0MjdGRTBXRl9oeXpfaXE0RmYwamI0aHhHVXdGWWZMNktUcE15ZDM0SnRjNnhpaHdsWGpSOUVqUGNwTEpOVW1LQUJNeEFtczZnd0ppZmFWRVJwdEhvTFExRzhWbDg4NVoxeDAzNGxnb1ZnQ1p0S0R6YzZUay1fZUppWTVxMk9ldE4yUHpodXdrd2lnaE43cFVLNi14atIByAFBVV95cUxQQWR2Rk9mZnZiLWJmZkxkdGJob1M2T1FCNHVqYnpjM0FKdWc5aHNYRFVjdnF0MjdGRTBXRl9oeXpfaXE0RmYwamI0aHhHVXdGWWZMNktUcE15ZDM0SnRjNnhpaHdsWGpSOUVqUGNwTEpOVW1LQUJNeEFtczZnd0ppZmFWRVJwdEhvTFExRzhWbDg4NVoxeDAzNGxnb1ZnQ1p0S0R6YzZUay1fZUppWTVxMk9ldE4yUHpodXdrd2lnaE43cFVLNi14ag?oc=5",
@@ -2681,16 +2691,6 @@
     "spx"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Treasury yields set for third weekly drop as AI worries fuel haven bid",
-   "url": "https://www.investing.com/news/forex-news/german-yields-hit-2month-lows-as-french-debt-costs-spike-4968247",
-   "src": "Investing.com",
-   "t": "2026-10-23T12:33:14+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bearish"
   }
  ]
 }
