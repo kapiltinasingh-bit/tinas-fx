@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-25T14:37:03.464030+00:00",
+ "updated": "2026-10-25T15:05:42.649594+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 12
+   "new": 11
   },
   {
    "feed": "Investing.com",
@@ -125,6 +125,29 @@
    "t": "2026-10-25T14:00:00+00:00",
    "tags": [
     "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold, silver face fresh test as oil surge puts Fed policy decision in focus",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQjNMaDdhMzE0OGZoMjRMNlRuNGV4X3dna01qbWNtQ1FCSnhjRjJkQmgtaXZkOHo1X25LUkJBalUyQU0ySzZ1SFRfNHJzbkFEUU83bHE4M2hSVmpHa29TdW9FcUpDb0hiX2J2Si1ZTTNyZWUwSHpPUS15T2tGc1VNRVZXTnl0RXg4OWlxLVp1aUhOQ003UzE2RWFVeXVkQ0R1MlNhcVg3bzlsRVl1cjBNMlRoRjJkakhpVFVvaVkzQ0tQajFYS01oemJNY04yM0xtWklObXUzVUfSAd4BQVVfeXFMTlZEYjZzVVZZeFpoVmpDNUNXT1JJTldGcHhreHBqVnN6eU1DQ1lra3B2TDdEOUk4UU9NY0hqY29Zbm94ZVVGSFNLSGsxRzRETmJUSlhDUVE0dWhMeFdzeGotUTd2eDF2MXhNYU85T3dDd0VYZlBDeUZMTTZGcFcxWENrb1ctenQ1Z1N1bHk1dXRZUU5DQ3dmQy01SE1mZF9PUHN2SFhOdF9qUUxXNG54Q3VIOF9fTTBVRHdfUkZfanpENG9FcjZLX01BZ0FHemkxRU9rUUFCTEtFdGRfa2V3?oc=5",
+   "src": "Business Standard",
+   "t": "2026-10-25T13:39:24+00:00",
+   "tags": [
+    "gold",
+    "silver",
+    "oil",
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Should you travel together? Ask these questions before booking: 'It'll save you time, money and disappointment'",
+   "url": "https://www.cnbc.com/make-it/2026/10/25/travel-compatibility-questions.html",
+   "src": "CNBC",
+   "t": "2026-10-25T13:38:01+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -2667,28 +2690,6 @@
     "macro"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "US Stock Market Today: Dow Slips 1% As Oil Prices Climb; Nasdaq Falls As AI Pressure Persists",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUWlKazRwaHdmQXBHTXBnRXZIU3o5TGV6d09saUJVTU5iTlg4a0lZYXRQYkdCNnprUURGeXhHZEJuUWszMnFJSHhZcV9KaEtLQWdqQnZzb21weGxMVlZHZHRFcFNJeVdXV2E1eUJHOHFIM1k1NFdiZHQ0NFNtUUtqa0FXV0xyNXFna0M2OVpSdE0xNjlQeWlqYjlzWGZqeVlJQWtud1phSFBBRmJUS1ZINmVjNEZiSFRnZWxBNzNGd093SUlraTZUaUt1VEstejDSAdcBQVVfeXFMTVF1MGkzLWZGU0VsT2ktdWNLcXBkbFRBY2g4ZjhPbEVjXzJLYkFTMFFWRGFUT0Z6aEJKSHp4TUNadVNkRFpFQzhkX2dUSmJ1a0xfeEpBS1JSZWl0bVF0bWF4WkxaVkxHdTY5WGJWd2Q1Yi1wRHlNTXFvUHQweTNjU29Ic0dQQXpGSlhBaWJQeWhnbFN5QW1Ld2s0U2U0TUh0dXNzMGVsVUdPSjRqZVNiRDJJVGlfaGQ1dGpfbjVKVks5NHhwNEpVTFB0b2NVUzdldkhyYXo5SFE?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-10-23T13:41:10+00:00",
-   "tags": [
-    "oil",
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US Dollar/Japanese Yen breaks below 0.618 support Arc – Potential decline toward 156.11",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYkN4Ukt2M2pwaVVob05HdUI4SWl0YjY2N2Z3Vm9CWUtEZk1sWUhQdXlvVGV3ZF9nOE9nNHVmblRKc2x1bHRaUlVzWUxROTJvenFfQmZoUWF6STNIbkFraXBlRVJ2M2tDZlJlUENMR1JjUjdtZkV0ODRtSTIwSUZVbWktVTZLVk1XLVVqWFVibHR6V29JeUR6U1VCekx6S2FmemJPV0RjZ0dBLWlIcmF2QUp1WE40d0RCeGk1OHc2OVZKbWE0b0FBRmRB?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T13:40:58+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "bearish"
   }
  ]
 }
