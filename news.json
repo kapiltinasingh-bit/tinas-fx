@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-25T15:05:42.649594+00:00",
+ "updated": "2026-10-25T15:38:13.022476+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
@@ -118,6 +118,37 @@
   }
  ],
  "items": [
+  {
+   "title": "EUR/USD weekly outlook: FOMC and ECB to set the tone",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFRvX3JPQVIxUldOZ1VqTVNGc3dnOENSZExQUTlEcHJ5blVJWVlMN2kyaXRDMmtoRWxTQlFmNERUWGsxRWN0akR5Qmx5QmJyTnktNU5XaDgtWGJrcFZtaHBDYlZ6emdFdjJUdXN1ZFNsbHh5eDRNNUJ0WkljdzVjUjBWYnY1QkdoeUJOZzlweTI4ZDJ4UWNNSHJJYjRqd03SAasBQVVfeXFMTUNDUVBFQTUyMms4aFAtaFVoQmZLeGdlWFRiWlNmTHBsU211MlRHOWRnTVBQSVpKaTZEMUdlajdmeGpFTnVBcTFIMVpXOTU4eHZ4ZjdDbDBtTUN5SUdPTGQ1Z1cxTG1WV3BWeFBNSHA4MzJYMmRmS2hLbEhNaXRscWl3Sy1wWDhGQnhQZnk4V3Q5RE9KeDh4S09kUUtDMDNVQWRFUkRDM2k3RFUw?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-25T15:26:49+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold Price Outlook as US Bond Yields Rise Ahead of FOMC Decision",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTV2U3h4MGhEYTdwN09jMG9zTlRjdHBOb1JIOEJZMEdrMmF3bVg1UjRQVGdaZkxYY2lRdEZ2SkpjUTdXcG1GaHIwQ3V5TElEU1J2c1ZVX0wybHZtUGw0bEZabDM0SW1wV1VlNHptcXhqSHVUNjVXdHNPSkpmYjl0c1FDRl9GTERkQVJvdmExM2kxTE9HTFpQSGdrLXFnbFVMS0syNHVFU3V2d1ZjekV4YXpfNk1LQUE2akYwSVkwM3NhUQ?oc=5",
+   "src": "Benzinga",
+   "t": "2026-10-25T15:15:15+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Gold price today: Gold rate, silver price predictions by experts are out. Check here",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY3hJemdXXzEySjJNaEhITEVnUjUxZzdlbzEyY1BXMS15VzNWX1dVTmRQTjR6M2ZSdTladnUxTDBZd1VjU1AwejZ6djFkRzMtclpvSTBULVNTMHcwb0hPTndRZmJIeFFYbl96SjRoLTFxNjY1REFKX3Z3REU0NENtc0JubUtwU3FnY1BSY3JxVkdqXzJpTERGeFYyMDZUVlRrRVZtQlNmVXZTQ1dnREdlM3Jzc1BIMGhKeFdoVFFSc0Ixbk9hODY2WlozczRmcGNGTm9kN3lTa0REMld1RnJ1elhKUS00Z0NMUWdHRlBYLVBfczjSAfMBQVVfeXFMTmN4SXpnV18xMkoyTWhISExFZ1I1MWc3ZW8xMmNQVzEteVczVl9XVU5kUE40ejNmUnU5WnZ1MUwwWXdVY1NQMHo2enYxZEczLXJab0kwVC1TUzB3MG9IT053UWZiSHhRWG5feko0aC0xcTY2NURBSl92d0RFNDRDbXNCbm1LcFNxZ2NQUmNycVZHal8yaUxERnhWMjA2VFZUa0VWbUJTZlV2U0NXZ0RHZTNyc3NQSDBoSnhXaFRRUnNCMW5PYTg2NlpaM3M0ZnBjRk5vZDd5U2tERDJXdUZydXpYSlEtNGdDTFFnR0ZQWC1QX3M4?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-25T14:46:00+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
    "url": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
@@ -2658,36 +2689,6 @@
    "t": "2026-10-23T13:45:09+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold And Midterms: Is This Time Different?",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOWE4UmdBOFZtel9oUDJHdlZvajZuX3pWNFhYdUpHV2YxRWN4akRVcmdrVUtVZlJQZXhmcHVGTmVKZlJGRHpna3kxYUx4eEpvcnVockdoVVFBNW5BX3J1N3U2cmNLZVVMR0IwR3ZCQ01jd0J0MU5MVHVKVUVjRGJEVVRiNA?oc=5",
-   "src": "Seeking Alpha",
-   "t": "2026-10-23T13:45:00+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Stock Market Today (Oct. 23, 2026): Nasdaq falls following tech sell-off",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83bTI2S2FWdVctVlAtR0dSSFRhRGR5V0w3ZHlacHhRTXhwRXk2WUZLa1E1NFltWVVPUGd5OGcxRVlORWFNakFEMjA2eFcteS0yakh1bVcxSFhEMnpJbnZpRElsSjBWdmhJanpjS2Q4b09YT3Vub3VMUi1rYXYzZTA?oc=5",
-   "src": "Yahoo Finance Singapore",
-   "t": "2026-10-23T13:44:45+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Canadian Dollar extends winning streak as Fed-BoC policy divergence comes into focus",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTVA4V3BacDB6QTNkM0RYWHFOUWItMjl3ZmlEQlg4TzJQZFFhaUtQOWtXV1c0ODR1akN3VlJjOE1wbTZnNjFaRjZQSktRUEVRVjlvTDVTaFRpNG5PM0ZSb2JheEw1ZWNyX00wMmRHd093TEVRTmI0T0N3SXJObUNLTkNLVGpIRlJyMnM5cjhNWEdyS3BIZjNCeWt5aW5Pc0xkOUxZOG9RUThtVmVhYUk3dl90TVdDQXlyR19BQjRUa2UzbmNPbWc?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T13:42:01+00:00",
-   "tags": [
-    "macro"
    ],
    "tone": "neutral"
   }
