@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-25T11:16:12.131564+00:00",
+ "updated": "2026-10-25T11:52:37.343042+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
@@ -119,6 +119,26 @@
  ],
  "items": [
   {
+   "title": "SpaceX coverage network designs draw Wall Street's eye. Here's what analysts think",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQZzdRSnhOUDBpVUt5QTN1dU8wand5RTBxYjRrNWltMzMzNWt4SV8tUlA0bXpVUmU4eGhQS3FXd1VsYTRGSlI3RXVRMG1vMExPeEFiQWw3X0NqNXlKWkFzMl9qMVZzSDl0VlQxVGhYeUVPNV9POHBEUlE4MA?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-25T11:50:03+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Here’s the real signal to watch for the Fed’s next move",
+   "url": "https://www.marketwatch.com/story/heres-the-real-signal-to-watch-for-the-feds-next-move-9189cb51?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-25T11:30:00+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Bank Nifty tumbles nearly 3%, slips below 55k: More selling pressure ahead for banking stocks? Check key levels to watch",
    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQclBNMkZCWHBDUEE4T19jd3NLWHFjUmpwVW92NUFfQVBnUEdjRGpleTlhVVhhSmFsb3FDY0xOMkRGeTdKeWFrVEp4OXBXMDdDWjB1Qy1PdklqLW0zalJXUVZxZnU4cjlQZV9XMTdLcF9qMWs0UXpreFBXdm9pX3kzRFNDclh0QUdULUNSZWtTQ0FFVFMwbUVsQ0hXY1FEc3V2b0ZvV3hoSzdTcEdLWEdUNUVMN2l2RDF6WHBJVUo5ZGptWGRIcTQ3RVQtYV8zNk4xVFBwNmlocHhZbDRWTFdTUXh1ZXZuWVU1QlktOVNBT3gycVNQc1JhU1lLT0VQdlkwbTd2bHU5OF9ham1mZ285TElvbVrSAZoCQVVfeXFMTnBCR2x0LUZ0U1gxeE0zYmptcWxjek8wQ2d0UUhObjdHYkJhS2xOblA4R3VnMFN3ZEFkNXpwWWFjSFA3STVtV2wteXZGWF90YXN2OU85TWZNazhkWjUtSUdVTkNMM0VoYjI5aFMxTDMybXR5UUNKcVdzUHBzV2V4QUtLU1ZIOE9OLVpiaXJ4dDV5WTdYUk9tUGtwLXVHLTdmUmw5QnBhVTE3TExwLURaamlMT0hDZUZXM1Q4bTl3VFFzUXVQM29zV2RJSWtFT0dGZWpFX1lKT2pyMHVxOEhlLTRseUFzMTdrWkwyUTB6UldKUmRtV1Z2d0Zfd2x1XzVwRW56T2Nick5oS19yWWR3b0tBRHFmcjZIYXJR?oc=5",
    "src": "Livemint",
@@ -137,6 +157,16 @@
     "btc"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Gold prices jump from ₹432 to ₹1.42 lakh in 50 years: Should you sell inherited gold jewellery, exchange it or keep it?",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWVNIaTdxNE5pS0FzN0VqXzVEQmFncDRaaGt1UUZOQ0ZIVzR2Uy1xYmdwUUg1QTJaUDF6SVdHVHNNTVUxcVR4blY0U2RzMXJmX3NUZUE4Z0lzVF9JdUhOVHZyeWNOX05OcTdlUEpwQU5vYnNGTEhlZlZDX2JDQUFWQUtqWUFuVERPY01OdHB5eVB1cVY1eVZQQVJQVFBBODVwYk8zRjZaYlBJN3NnS3l3MHE0TlJPaGxQR3dPQXNMclVWa1dHU25IenZZTkJiNUQ5RHJVMlo5ck1DakM2c3lNNVBvZ0thS0xXTFZvNTN2MFFlZXBPWWpvQjRrbGdOaGthUHpfR0p2eVYxdnBicUg0QWM4UULSAZQCQVVfeXFMTllTSGk3cTROaUtBczdFal81REJhZ3A0WmhrdVFGTkNGSFc0dlMtcWJncFFINUEyWlAxeklXR1RzTU1VMXFUeG5WNFNkczFyZl9zVGVBOGdJc1RfSXVITlR2cnljTl9OTnE3ZVBKcEFOb2JzRkxIZWZWQ19iQ0FBVkFLallBblRET2NNTnRweXlQdXFWNXlWUEFSUFRQQTg1cGJPM0Y2WmJQSTdzZ0t5dzBxNE5ST2hsUEd3T0FzTHJVVmtXR1NuSHp2WU5CYjVEOURyVTJaOXJNQ2pDNnN5TTVQb2dLYUtMV0xWbzUzdjBRZWVwT1lqb0I0a2xnTmhrYVB6X0dKdnlWMXZwYnFINEFjOFFC?oc=5",
+   "src": "Livemint",
+   "t": "2026-10-25T09:31:50+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Crypto Analysis: Even Bitcoin Cannot Escape the Market's Lack of Direction",
@@ -2657,38 +2687,6 @@
    "t": "2026-10-23T12:53:26+00:00",
    "tags": [
     "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold heads for steep weekly loss as Hormuz tensions lift crude toward five-month highs - Kitco AM Report",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVJURWgxVXc1VElXR01XdExIODFOSW9aRDR3eE0wSy15Tngxd0VLcFF4aTJrcmdDRnRYNWFQVGFUV09xWTg0UXBtdzUzR3NPMERicEtvekJnYXJBa2xTWXFqU05uT2Nhdmd2RUJrVHJMUXlMYVVKVXhNNklYUW1kNzB5eUltc1FiVmNQSFRRUUlPeFJPc3JKNUo0d2JQYWJSQlp2U25WVExmSnZfR2RSV1lNanlmZ1g0bXpB?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-23T12:47:54+00:00",
-   "tags": [
-    "gold",
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Mexican Peso: Stays under pressure as Banxico lags Fed – ING",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdFV4cC1mYkdzY1JDNXpfRFBHTmNIRjl2R3BZeVRrRzNxQzJ2MHc2UmozWk5mQ05JSlNlNE1lM3N5WE9zT3E3VHhDbTFlZ3RlbXh4V1BMZ3Z0c0ltTG9LY2plZ0tPRVB4UWJhRVppWmVWc0l3UUE0X2hRMWxGR2thS3pleTAzMktjX0hCYTdJcVlobkdDRWYwWEVwMW1jSV9zdnc?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T12:47:25+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold price today: Gold rate suffers biggest weekly loss since June, Silver price lowest since November 202",
-   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQWjJfS2hHend6VkV0blRLY1JGZXBVMTFGQzlYcmdCb2JnS1VZa0czdW9SX3BCd19WeGN0aU93ZWZHM0NzQXdtZnh2QVNfVkFrdzRDcWhOYm5ocDFYWFhGc0JwY2dUc01BQXNYY3pyX0Q3U1RkUkFNNC1CSjJ3ZUtCWFA5WmVhSEVWcWdHYl9rbnd6Q3l1TmRjR201VlBaWnJhRDVSVndUSUliRGg4OVpndnNzajhwdEJpb3cxQjlVZk9SYU1xRkpiTDFDYmZ5aUFiTXQ4LXJJd2RTRy1ueWZBVDZfZGVCdlJmTEdBNVFGZnJvbk9TX01NeFBKYzJFZExUNElFcE5lakNuc3VnX0I2aGFKamxaVWRpY2dtankzekNwd3Z0QkpPaVFHVlJQWk9YY0pkWGUtTXNMdHRSeW1PN0ZSS011d9IBywJBVV95cUxQUUVoQWE1SEdveVRlSmZ2N3BMQzBnZWdmS2pqQmdWYzBQdVJMZmpEX1ZmVGwzMl9PWGw5UU0yT2ItM1pYaHVpdUg2MDEwejFqdHhkdGItYjFQZHhmTlJDRS1RT3Z2VkpMVXphVGZibTQ1R0xYTDdiM1Y4RGJqWGxFZkpqbk1VMDVPcFZwdFh1elNPVXdRYjFFYkh2NzlVM0ZUWHJQSkhBbFlyZ1lRNUdPZDFtbkREcEUwRTA2U2hTLWFNOUpLREtwelhnNndXLWpRbXA0OVZNOV9EemxLanVSbU9zM3RKNEtqUHBnVGZBSFJIZzEwYjZMOU5mRUVaV0JMTWs4QUZDYS11czR0cElLRkdiYnVhRUh3TWRFZW8wMDJHWHFSSlF5Y3Q5TGFlRUpzdXZoa3BJeGxCbWt4NjdLWEtvWjV2SEJkeHhJ?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-23T12:47:04+00:00",
-   "tags": [
-    "gold",
-    "silver"
    ],
    "tone": "neutral"
   }
