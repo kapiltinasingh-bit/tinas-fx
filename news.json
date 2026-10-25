@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-25T05:42:50.183959+00:00",
+ "updated": "2026-10-25T06:09:26.214381+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -124,6 +124,17 @@
    "src": "FXEmpire",
    "t": "2026-10-25T05:34:23+00:00",
    "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin price today: BTC recovers to $80,800 ahead of Fed meeting",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU1VXTlI3TmVYNmt3YWRmTDRXXzFkNXJjWWZLRDFPLXhZYTF0RDBhcTBVcUpDRUpMcnBpbzVoTi1xN1dBYk9QNzhTS0w0X3ZaYW15Zy1FbFhOQWpaRTRCVmpGWVBZXzBGb05IYVJoVmJkY3g1ejN6eW1qRGtNVzZCSmdPbXM2RUZzYzlGandSdEkxV1daZVZ1NHJxQmpQZw?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-25T05:24:00+00:00",
+   "tags": [
+    "btc",
     "macro"
    ],
    "tone": "neutral"
@@ -322,6 +333,16 @@
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa2pUb1VaQThvM3RscnZLWU93d0ZQSkttNnVLTmhzWUlzSmZ4SVV4Y1hPQlNfNXVySVkxelh5LV9TVnhkUU1uZEQ3TUluYWMwc0xCWDJVVVUyXzdvUUp1aDR5YkJTdnpfSTVtYklTNmRPSVlIU0pwQ3V0bVZCajJuVEEzcEhLWUxmRnhkSVZpTktFVURRM3dEd2luNFFOM3BKQnNqZER0UEt5WlVUSVBab0w5OVJoa3hqOWd0ZUNWcUhGUUtUSnB6ZXJ5STFWVkU?oc=5",
    "src": "CoinDesk",
    "t": "2026-10-24T17:50:02+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSDJ6WDZ1dnhtREhzQVU1ckVrSGttZE15eHZ6eTJ2czJ1eVFWM3JRekFRUWYyRUM3RGdMQ1YzS0VveDQ0RkRZaXVnUlNPU1FyUVZsWERhZDdxUnNRM1ZCdGRyYmNyYVlZb1ByUGRZaHd1OGxYQUZOaHBDSmZLRDlVanJ3ZlhVUFdKdVNZMEhUZGV3N2xyUUpWYklfcVRmT29SZHloak1YeDVZM3dWSXhFZHFDWmU1a0p2amlxcDFXTDlRLWE4NmEyVXd3MWRMVHdh?oc=5",
+   "src": "The Block",
+   "t": "2026-10-24T17:44:00+00:00",
    "tags": [
     "btc"
    ],
@@ -2669,26 +2690,6 @@
    "t": "2026-10-23T12:05:33+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
-   "url": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
-   "src": "CoinDesk",
-   "t": "2026-10-23T12:03:53+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "BTC news: Bitcoin will now stop hiding bugs an AI can find in one prompt",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZWNKNWJQTlMzN2M3V1hlREZvZTFyVVZkcVN0WEJVdjZrbS1DYUFUUWIzN3Y0TFU1Z3JiMU1pTXA2elpoRVRoU251dG1YRW9DWEdnOXRRSndoenlTNUhZQmlnZHlxQ2kyTnVGTVU5QW5fNFRCMjJ0THQzRDF0bVlHbGc5REZ1Z2c5VXJKTTNjeTVMbmdiMXlOSmw0ZXo2NnpGN3lBaXJR?oc=5",
-   "src": "CoinDesk",
-   "t": "2026-10-23T12:03:53+00:00",
-   "tags": [
-    "btc"
    ],
    "tone": "neutral"
   }
