@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T03:39:22.664437+00:00",
+ "updated": "2026-10-25T04:13:18.741912+00:00",
  "count": 250,
  "feeds": [
   {
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -118,6 +118,17 @@
   }
  ],
  "items": [
+  {
+   "title": "Nifty bears tighten grip as crude, geopolitical risks, FII outflows mount: 5 factors to decide D-Street’s fate next week",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bears-tighten-grip-as-crude-geopolitical-risks-fii-outflows-mount-5-factors-to-decide-d-streets-fate-next-week/articleshow/135182716.cms",
+   "src": "Economic Times",
+   "t": "2026-10-25T03:48:39+00:00",
+   "tags": [
+    "oil",
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "S&P 500, Nasdaq, Dow Forecast: Nasdaq Selloff Deepens as Dow Rally Stalls",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORkZ6Tnc3eEZGajNjUC1jYWhIVFBSdjN5UFhKeVZDc0xYVFA4a2dqQUhoWU9DblB3MXhpVVRCR2IwY2I5Qi1pNE8tRWxmclBvVHJBQnRnT3BPMWd0N25oa2U5TUJWc05XcXgzQVNBVHRXenAyOWF5T05RYThXMU8xYTI2SXliWVRGNjdvZDBic3V3RFBEdDhDU3ZFQ1duMTFTSVlva3hjb0wyZ2FJSXZUNDVFMDY3VEZQUXgyWlY4MHNaWFIwQXhXQkxIb1Q1VWxiMHfSAdIBQVVfeXFMTkZGek53N3hGRmozY1AtY2FoSFRQUnYzeVBYSnlWQ3NMWFRQOGtnakFIaFlPQ25QdzF4aVVUQkdiMGNiOUItaTRPLUVsZnJQb1RyQUJ0Z09wTzFndDduaGtlOU1CVnNOV3F4M0FTQVR0V3pwMjlheU9OUWE4VzFPMWEyNkl5YllURjY3b2QwYnN1d0RQRHQ4Q1N2RUNXbjExU0lZb2t4Y29MMmdhSUl2VDQ1RTA2N1RGUFF4MlpWODBzWlhSMEF4V0JMSG9UNVVsYjB3?oc=5",
@@ -621,6 +632,16 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnS091SmlIQ0NWMXJ5SmhrR2p5aDY4cUxtSlhJZ3hseVlNNGQyYXlOQnFoTXZEa2lpZGdPQXM0WFJ3Q01vTUNzWmcxcFN3WXhua0p5NXpfM0RHY3V1eFNyLUIxYVRLQzY5R0Z6UUFVZ1c?oc=5",
    "src": "The Economic Times",
    "t": "2026-10-24T10:42:09+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "NIFTY Next 50 Share Price | NIFTY Next 50 Index | NIFTY Next 50 Today",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55aXRHRWc4WXVHUldtZ0tWXzFIeXJ3dGpjYWQ0WDd4cnJjVkdZSkltdGx6V0lJZTdfbmh0TUtNb0ZNYmhBNzJEbEZzR2Nic1NpNm42dEx5REhfQ3VPdUZaaURoVHA1Q193NXZSQzI5Q2VHNWY0X2ZxLUlEcw?oc=5",
+   "src": "Livemint",
+   "t": "2026-10-24T10:14:29+00:00",
    "tags": [
     "nifty"
    ],
@@ -2669,26 +2690,6 @@
     "usdjpy"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "India's forex reserves decline $5 billion to $721 billion: RBI data",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUmZQcS1WUnJ1WU5XRGlKUTZ4MnI4MHF4SlNFUXhfR2lmdkx3blZmb081TElrWVFCVDV3a05BU1hnTzE4X2xkVlhYenlZM2FlU0JWdGVXRmJwWWFzWDQtTks1Z21GS1FIaV9fZVdKQlJRSGFvQmFidW9fTk15c0ZpYlBlZlB5Q0dHcDhtcGUwZXh6MzZDUFlMbk9Cbl9ub25ZQ3M0R1RYdWUzR1NwX2MtNWZUMkZOcFNrMzlIU2xzcUc2Y2hQR3V6N25KWdIB0AFBVV95cUxNTTBlMmxwSDBzTXkwV0gyWHQwUjhTWGNzSlBtNUUzWkxFNFpOdkdQM0JlOGs2aGk2VWotbmlSdHpuRUM0TTlqaEtlY080UENxanJUNUl5WWRGQ3kyZ1lfekx0T0lQME9meC1IbWtaMFVWNldnNzJ2eDhYQ21Wcl9Xb2FqcGZ5SjYyWl9RaThsdWJtQUl1M1BSNWxacDNEMTFlMVhDZTUxS0k1MnNsS01YcmRXVnhJcjUzd0JWQXJ1MnV6VjF4bGhLd2lQQTdEWlVa?oc=5",
-   "src": "Business Standard",
-   "t": "2026-10-23T11:57:13+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Cryptocurrencies Price Prediction: Bitcoin, PI & Crypto – European Wrap 23 October",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU0V6Rzl3cnBicHhYMFZFRk8zb29ZWW1QT0lvTEYyTkN2R3BlTXc0VWhGZll6ekJ5aklwVUhzZ2JFcGVUdXpXTGJvTzNuQmlSdHp6MFBGN09vdGJBSE1DSnZaMEdRMUVEbE5qM1p4amU4ZU5lcDBpU1Rwem1UYWRtakpnWm5zY3Q1d1VBMVk4cmw0VjdUWDFyMlN0S0pmbnc1NXI4MHhodjhRYjhRYjExZ2pveFhHMUVwR0I4VVAtZnU2enFpLVJjQ2l6OTJXVkI3cmc?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T11:54:31+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
   }
  ]
 }
