@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-25T16:07:08.146964+00:00",
+ "updated": "2026-10-25T16:38:48.857422+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -119,6 +119,26 @@
  ],
  "items": [
   {
+   "title": "Bitcoin Analysis: BTC Slipped Below $80,000 Again. Is $77,600 the Next Stop?",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLXFPRFZTWWlraFpwdHo4ZEF1NjdBYXZuODFING9XUFh4ekpSMkxtbndLcGpfcWg3NVdEQXhxdkZ5d25tWEtXT0hqMXVaekZmcjBGbEVVdW1Hanh6eW9NdmMydlp2c1ZVUExXOVdVZ2syUEwxenRod3BLc2VTbVp0azBpdGJlbmNkR1B4S1dyUTVuWW44RnJXZk5XQ25sR0FMUmJ2Y2JSYnZOQlh4cHdfQ09ZOE15SkRnNElKZjVvWE9GZkJzQVJj?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-25T16:37:38+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Strategy Booked an $8.3 Billion Bitcoin Loss Last Quarter. Could Q3 Show a Gain?",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPak1SWUh3S0UwN0pnU3g0dE9kbnpuWVhlWGtqQnp2UG5KTGp6b3pRa0didnNlNFpoRFphdEQ0TVBrVzBXQmg3aGpYQXhLZ2FQVENrTGhTNFROcjJQQzZGVnplQ1ZEa180bWU2T1l0TEhRazVoV3ZicmllSnI3RThYOTgtOGc0bEg3Y19CcHB2V3Z4OEVZSmZwdEF0SXRhSXh5MUN1ellfc1ZlWmxIOVJOUUhpU29lWEVKVXZCUWtFYXpjdVNjcFlIT1dhd1FQcTFHcnc?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-25T16:37:07+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "EUR/USD weekly outlook: FOMC and ECB to set the tone",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFRvX3JPQVIxUldOZ1VqTVNGc3dnOENSZExQUTlEcHJ5blVJWVlMN2kyaXRDMmtoRWxTQlFmNERUWGsxRWN0akR5Qmx5QmJyTnktNU5XaDgtWGJrcFZtaHBDYlZ6emdFdjJUdXN1ZFNsbHh5eDRNNUJ0WkljdzVjUjBWYnY1QkdoeUJOZzlweTI4ZDJ4UWNNSHJJYjRqd03SAasBQVVfeXFMTUNDUVBFQTUyMms4aFAtaFVoQmZLeGdlWFRiWlNmTHBsU211MlRHOWRnTVBQSVpKaTZEMUdlajdmeGpFTnVBcTFIMVpXOTU4eHZ4ZjdDbDBtTUN5SUdPTGQ1Z1cxTG1WV3BWeFBNSHA4MzJYMmRmS2hLbEhNaXRscWl3Sy1wWDhGQnhQZnk4V3Q5RE9KeDh4S09kUUtDMDNVQWRFUkRDM2k3RFUw?oc=5",
    "src": "FOREX.com",
@@ -148,6 +168,16 @@
     "silver"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Gold Royalty Fell While It Turned A Profit",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHFEelh5RU11dmEtR251VXk1U2pRMC1XRnJ0bEt6QktZaks0emwtZ1ZsaEwyT3owcEtOaldqTzBmTG1CSGZGeFNsdmxUNGYyYlM1bzhDaXVtcGRYMlNZSmpsRlJMLUlHQnBia083NzdhMXQtRjllOGtweDJCSEdNZFpTU0ZJQWxVNFJPWkZVNmxlREppUk1yTjNURDlJeWVrU3c?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-25T14:09:57+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
@@ -444,6 +474,16 @@
     "gold"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "S&P 500 Forecast: SPX rises after SpaceX jumps, Meta up next",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQem1oRnRDSUtGb3NFaEtfR2dyYmRTM04wdlcxTHp1c1BiYVNTYTV3TXdBX1p6WXFVa1h4VlFTakVRV2x4dU9waHlfZVIxUm1yT1N1N1IwNko4N09uYkdfLU5wVVB5UnJiTlVmWG1SNXJqS1RSRW5NdFE3QWZVNGZlQUh0dGREc1diU3pMQ0J3OEFMclZOU1h0aEswanFBZFpqTkZCbGRCTEZlYzQ?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-25T06:00:07+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "The Week Ahead: Fed, AI Earnings and PCE Data Test Stock Market Strength",
@@ -2650,47 +2690,6 @@
     "macro"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTlaVVRSa0plR0ZjQkk5am1ReDkyS25leVdEcEhfRGF5amdldmF2ZWgxaGZ2ejJNc0pEZGVsOFJrWmFLN0JDVmRMOFN5OHlrWXlQRkdlMmZWeHVwdkNTRVpIbzB0bkRNS3FlaVdtdUJzN29iaHR6Ynp4RUZ5QWVTT3VaRGNpUk1LblZBM0hOU3RzMXdtTnpyTUx0UUhMNWFKd2RlaEc5dFR0VENhbXdDSTNTZ1k4T3ZWejVBMDBaTXd3bC1IY1V6WQ?oc=5",
-   "src": "CoinDesk",
-   "t": "2026-10-23T14:00:02+00:00",
-   "tags": [
-    "gold",
-    "btc"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Restaurant earnings will test whether owning more brands pays off",
-   "url": "https://www.cnbc.com/2026/10/23/darden-brinker-qsr-stocks-restaurant-earnings.html",
-   "src": "CNBC",
-   "t": "2026-10-23T13:55:46+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "USD/JPY weakness pressures risk [Video]",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUlpPREJ5VVNpX3RxU3dxcHB0RjVXQnhqck9uWkJBWTNiS1gwN3RFNnFtMkNFSTM4eUdxYWFmZ1JXWXpZVkdjMGJpTG5pc19nZFcyQXVGSDN5WVQ1TmphZGUwQkhGV1FqalY4OGQ2VnJ4M2RuMFhRanYyZWxodmdMSVhzUkVCNUdEMXBScA?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T13:50:30+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Euro: Fiscal risks cap upside against US Dollar – BBH",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQajhKRVBFNXpXS1JsOTh1ZVZMMEgxcmFnOWwwUE1ueVFtQWdzV29oZldiTDdVekliRUtsOWc0MVBMWDVyb01GZXcxRG1oRWZjQTdDUE5FTFIxWFRuMXh3QzBXbTFVNDBDTHlseDAyWGVLNkl5ZjJWTXA0bk9sRzJXUEFJbF9qLVFpaDFkU0FIbndPeURvSDJ5Qw?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T13:46:41+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
   }
  ]
 }
