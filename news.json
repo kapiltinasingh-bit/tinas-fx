@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-25T23:33:06.739977+00:00",
+ "updated": "2026-10-25T23:59:11.261138+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -114,10 +114,20 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 2
   }
  ],
  "items": [
+  {
+   "title": "Oil prices down almost $1 in early trading",
+   "url": "https://www.investing.com/news/commodities-news/oil-prices-down-almost-1-in-early-trading-4971306",
+   "src": "Investing.com",
+   "t": "2026-10-25T23:30:25+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Gold declines below $4,000 as higher oil prices reinforce Fed rate-hike expectations",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenkzWHJESUR3b3dVVTA2QzZkUlB6VmRRaVJzT2xvemEwakRCU3dDLThobUtKQmx6MUdBQVRNREw5TUgzdHNSLUVaR3JmRTZTeVA1VjJuWVpOS1pMWG5zbjg0M0RESlRzalROOUlKSDdNYjZZTW12YWM3TWtsYTJGTTZRSFFPa3kzYS00TG1NQTYzTVlJSXVETkh6dzh4aXZOUmNaeHZ0MkZXc2xNal9DaU1fakV3VjV6TlFsaDlpRjF4NjBY?oc=5",
@@ -2673,17 +2683,6 @@
    "t": "2026-10-23T15:25:41+00:00",
    "tags": [
     "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin vs Gold: BTC ticks up near $82K, XAU tests $4,000 as US S&P Services PMI eases",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQckhpSFRTQUtBM3ZSazR4S09SalIyWUJ0MHRFc1Q4cUQwbTlILTd4NUh1VDUtQVU0RmFmVEg5YlBKZzA3UklrZTFEZWRNSGlFY0ZQWUtUTUJOZWVDV0ZUWm5VMXlsemxvZ09kRzd1SDRuN1ZlYVJ0VEI0NEYxcmpVMi00a0lVU29UVG85ZXZ3bzhGV3k5Tjh1MzI5YUxUUG1RQU1oc05kOFBoOTEwb1kwdFp0R0dISkRqRzdHMERkWEQ0aWxmRjlwblRWZ0loeVRmZjduYW91eGo?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T15:23:50+00:00",
-   "tags": [
-    "gold",
-    "btc"
    ],
    "tone": "neutral"
   }
