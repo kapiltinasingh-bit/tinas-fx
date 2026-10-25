@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-25T01:37:12.999808+00:00",
+ "updated": "2026-10-25T02:09:20.962267+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 9
+   "new": 11
   },
   {
    "feed": "Investing.com",
@@ -120,9 +120,30 @@
  "items": [
   {
    "title": "Fed expected to hold rates steady days ahead of US midterms",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQkdWNDdJZ2xCXzNOMzJ3ODVqUXFhR2pyOVNMNkl6a21XVDlwdHYtd3Z2RllSeG8zRUJZSlF0TnBscHZhZm5BUjlQLVdIWWM4RExibk4xZWRXY2txQ0VLaUNFblJUUXljNU9VNWhrenR6a2RDT0FDNlk5c2ZfOGRnQU1faU9GQQ?oc=5",
-   "src": "Yahoo Finance UK",
-   "t": "2026-10-25T01:24:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOVJlVGNFb0RfVlRmXzI1NERUYzFxUUdJNHFMY1p6cU4xOGljVzBtdXdWWENYMHl6dnZjelVTaDJqNnNzOTd1dTFhemh5U0lLQ0MwMHhxMm5oTXh5WTFyOXhjVi1MZ2RzaWlpaUpKNXltMEU1elBBcVp2SzRReUtoNFY4b0JZRFZ6Q0FSa2ZDeWZTT25xeDR6X3hqcDRxSlJ0WlFta1hwXzlEZFBUTzdYbno1MTJWY0hCQTM3SEZrNElDdTVPSTd1UXlMNmZ3bUJpTFJsVU1kcE0xNkk?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-25T01:41:03+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold, Silver Prices Dip But Many Gold ETF FoFs Temporarily Halt Fresh Inflows: What Are Your Options?",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXR1X3c3UTREUER3UlVVTDQ2Y1FZLVZpTzZnSFRIR19YM1RHWnJkOVBpaWZIODRuaVlHOGhzSnBfMk5sOG1XV2FPa3c1aDZrTDVxT29qQzJPb0RaZWJNRnBtcW1QVC13bEtzU094RmcxWmVuRDlZSmxXNjRzeGJmY3lvQXF3XzlZMk4zcUhuZW00Um8xUDRrRTJ4V3BJcERnN2hlZGJJd3RwTTFiY1l4ZHFjd0RxQnVjb1RrX3VrOUdKcUhnd2FmYXp5UDhSSDJNTmdIbUNKMmRyZ9IB4gFBVV95cUxQa3RVVE5DYXRUOHlnOUVJYUpyNnlNRjJRQVVFY3JkVU9EQkVMeUs4WFB0RTAyaHJ0aUhKcmZtN1JSNHR1SjVxRDlmRmJMYXRNUkdsMS1TWUZxUzdNTktpMUxRRWhfVjI5YndSY21yUW1RSzJLQ0FEOGkwNnhIWVQyODROR05LTXZ1ZFpITHpIN3QycXppeFZIOFRwT2ZkXzNDeWRnM21kVFBvOGUway1FdXhiMHVTX19OcEFnV1M5SGZPbXBiRXR6R19zbDJsYjVrTG1KV0FkRHZqZkV3SzA0bEpB?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-10-25T01:30:01+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Rare chance to see Reserve Bank react to inflation data",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUHhRV3d3dUNSWVg3Z1hJSXgwUHpmSW9UMDZXNjV6S1I4RENocEZzSG5qUVBiZzBIN2YySFlYNmxucXdTOGpjNWZ4dk5DenNwVllJSHQ5QzduSGRlal96a05pNGZYOTFaa1dLcTN1UzBWZkFDT1M0STQzenNsaG8yLQ?oc=5",
+   "src": "Yahoo Finance Australia",
+   "t": "2026-10-25T01:00:00+00:00",
    "tags": [
     "macro"
    ],
@@ -779,6 +800,16 @@
     "nifty"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Wall Street closes lower to end rocky week",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWlPQTByNFJfVDh6NGliQ3dEZ3hVV25Vand0VEdsRENNQkRCTXdsUl9Tb1hjWUVLOWw0VEpPUC0xcHhPSWdBQW5xczBkUGc2RVl0QUxYNDhwSzRuZmpZWF82TEdGeEVWS1k0NlBISkZTdzNZZDItQjRNNk0wNWk5UXJjcVRERXNUbXNROUxLUnU3eGdRVmwtVWt4d3VFYmpyVVpvWlpZbUl3MnowS2xneNIBsAFBVV95cUxOUWlPQTByNFJfVDh6NGliQ3dEZ3hVV25Vand0VEdsRENNQkRCTXdsUl9Tb1hjWUVLOWw0VEpPUC0xcHhPSWdBQW5xczBkUGc2RVl0QUxYNDhwSzRuZmpZWF82TEdGeEVWS1k0NlBISkZTdzNZZDItQjRNNk0wNWk5UXJjcVRERXNUbXNROUxLUnU3eGdRVmwtVWt4d3VFYmpyVVpvWlpZbUl3MnowS2xneA?oc=5",
+   "src": "Moneycontrol.com",
+   "t": "2026-10-24T03:45:19+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Wall Street Week Ahead: Earnings flood, Fed meeting will test rickety AI market rally",
@@ -2652,36 +2683,6 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNnhwM1BGR2JLWWZQd0lhMDRMRXdILTJMSzdTZlR0N3F2cUgzeXZIRFEwS1lXYmN1cmNUaEVtMzVhUlJ6SVNQWER0WWFYeVlJRUE0ZjQ4MTVyOGtzalZONkhzbUlfU0Y0anhCV3Y2NlJSSG5OSHhCWlM0TndUREltOVdvb3puN2pwcU5oZUdzRXNYNmJZVWc?oc=5",
    "src": "Yahoo Finance",
    "t": "2026-10-23T11:32:18+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Ken Griffin's AI bubble warning hits Bitcoin already",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVm10ZUZpVHdWX0s2c1UtUDBEMWN5RVBxX3llQ0lJcjRxdHVLQWUwcDFqOGlKdENGZUt0Z2ZleHVrdkRmNmsxTDJaZ0RjN3lONVB4VFBEN19sQ09ucld5VlVYeVEyMzRQMWhLMGVIcTVXYkFUN0xUWGg3dzlqaUh2X1ppMjI5cGkzUXRJMFhhNkNMbzlXdHZ3?oc=5",
-   "src": "TheStreet",
-   "t": "2026-10-23T11:30:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "AI stocks: Midterm elections could threaten AI trade as data center backlash grows",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stocks-midterm-elections-could-threaten-ai-trade-as-data-center-backlash-grows/articleshow/135144162.cms",
-   "src": "Economic Times",
-   "t": "2026-10-23T11:26:15+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "$4,000: Gold fights to hold its ground after sharp sell-off",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTVjU1hSdWdxNkxCVWc1OWZyR1VTZE1WbGdiblo0UW01bG5vYU9Sanh5NG1zQnlsZG5aM2UzdjdqR0xjSHRHUEE3cF82UGd1em1jNkgzNmhIeW9pQUtaVDRzejl1NUtZUUZicUpXWlVKcEt3NXF3OHdUbXRLSG1ZaWdib21WQmhMOVpDMXdjV2VIN0FrN1JhRmVSVUNsVHdzWkE?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T11:23:07+00:00",
    "tags": [
     "gold"
    ],
