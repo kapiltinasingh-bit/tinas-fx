@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-26T16:20:03.636114+00:00",
+ "updated": "2026-10-26T17:09:54.289008+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -42,19 +42,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 8
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -114,10 +114,30 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Ethereum Analysis: Could ETH Fall to $2,180 and Liquidate a $214 Million Whale?",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlRheHZVTlUxSDU4OHN4M1VDczJUVjhMWFR1Qmk5MjA3Xzljd3EzYllqWlI0UmpFYzYzdG14dTZzd0s0WWlLQ0JGNFR3ZTYxY3FDSFlBNGpzRmQ2R09mUGhFbWRPU0k5QkR2VFo4cHc1YnZnTmwwYzZOSGk2RDFlU2E0bWlTUDZNXzBNZWdJTkdBOVRkVm14TUhRZ0xfZnhjejZSSEUxa0RGZXVqT0N0NVlKelhKVW1jQ1cwUzhmdGhiT3BJbEpNeDE0VDVEdw?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-26T17:07:35+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "US strategic oil reserves drop to lowest since October 1982",
+   "url": "https://www.investing.com/news/commodities-news/us-strategic-oil-reserves-drop-to-lowest-since-october-1982-93CH-4973313",
+   "src": "Investing.com",
+   "t": "2026-10-26T16:42:13+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Microsoft offers voluntary buyouts to 60,000 employees",
    "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
@@ -125,6 +145,16 @@
    "t": "2026-10-26T16:19:55+00:00",
    "tags": [
     "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Pound Sterling Price News and Forecast: GBP/USD slips as Fed decision, UK budget test Sterling bulls",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTHdSZzNvY2VIVWZTQ2x3c0t6UkFhR2o1NU1QZGtlRUJpUzA5N1VHN3dicVlFeXZYay1mbXRvSkw5bE01elVvRXV3eUJaaWpUd3lORmVHTm8ySS13OUpTa2E5dHJEU25uU0dHVDRuWkdWRWhpckNJNU1IMEFERnhZQTVaTi1mRFpENTJvamNMMTB0RXJBRGp2Si0wcDFpN2RsaWJ4SjV0Y1JCQjVtbUlBdFNGS2JDQTNJbDhxc3NRWnd5MHhrdXJqVG5qemFkYmxoSjh2UjJOaXE?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-26T16:07:00+00:00",
+   "tags": [
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -161,6 +191,16 @@
    "tone": "bullish"
   },
   {
+   "title": "Strive Adds 6,182 Bitcoin, Closes in on Metaplanet’s Holdings",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR292SU5CNjNfOTFJbFV4RW5ZSE96d0t4SkZEVUV3WEQtSlZyX2hGNjBzcGx0LUg2VDJ3Q1dNTXRWa0w1Q3piQVUtbkphUE80T0hUc3JQV2R0ZU93WjkyZlVnOWxSbnlEd1FwSFV4OEFobzBNQ3k4ZTlOckROSF9mcWRHSzhubG5xSmZMaW9qRV9Qa3JV?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-26T16:00:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Bittensor (TAO) and NEAR Fell Up to 22% in Two Weeks While Bitcoin Fell 4%. Is the AI Coin Trade Over?",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX2g2a2ZUZ25hUi0tU2UyYWw0RFd5VE5XcGZfa1lZcHgtTENTczhPRlpfYUhUd1lmSm5QSXA1ejQ5MzdtYldNOURKdnRqdEhJZVJMbl9pajVHSE1Mb3lrbHNOQzVXTkVDLTIyRXJlS1N0Rjl2QW1pVWZIUWJTVmFmUGxnOHA3cTVOWjN0UkU0SHhvSlRDcjRxUUY0YnhKZzF2bGpqUlJDSm5PUWtNd2xrUy1qSWh0TDB3bUNYa09nZXNuOVFaYk5LRDRVZXBKZjVtbjBHSmxtVjlkOFZrSGhnVlFtMWp4ZGZtU3Nz?oc=5",
    "src": "24/7 Wall St.",
@@ -171,12 +211,34 @@
    "tone": "bearish"
   },
   {
+   "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nNklNQlZSV0JkMk95ODdwQ3Fac1ZNbHJWMUFsMjIwbFB1UndnS29RNFNNcXN6X3FGVEx4dEFYWWtnQkhwMU5SQ1NHa2ZmVDZlMmZfT0F4VHRfelNCOWFvYnBwMV9SWkVMZ1pRTTNwNTh2NzNTWXlwVdIBfkFVX3lxTE5LZTNUMTJWT0hXQ2xBU2otcjZSWUQ5YkVrY1NJSkQxZ01BNHBrMnlSOEpIQ0tuVTZmb0dJZFA4MUluS3BHeUR3cVQxS3Q5VVVXN3hpWnVZMExOUDBiUHZra2tWM3VhWVBJVXBudEVXdDRCcC1iMk9hY2ZaM0FBZw?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-26T15:52:10+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Ethereum News: BitMine Just Bought 10,452 ETH and Now Owns 4.95% of All Ethereum",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVFY2N3BndE05M3NKS2VFaHhYSHZlaUtKRmNPN1MtdTY3Qm1GczQ1aHdqZ0VXSlBFWnpFbXVlZml3MnZnUEMtS25zSEVpSjE0b1B6ejYzZWpNaHhDbkRMM0JYQ05GdXBSOFZkV2RpOU1aYzBUTXdMbXZYR1poeXBLcHA3UTdDZ0x6SHpTbHlxRjFuVEN0bkVxOWl3dzlwZEpuWEtrTER6MWpKYjM0Qy01M3o2aUpXSVVuYVgwNGhkVGlBc3JKYW03NTZqN3JxSm1qa2c?oc=5",
    "src": "24/7 Wall St.",
    "t": "2026-10-26T15:45:24+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "$8 Trillion in Big Tech Earnings, Fed Decision and Inflation Data: Bitcoin's Next Big Test?",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVEVRMG93c1IwR3dLNk1ac3pJUVdhaXBpSVAySEpLU3E0LWpSVTVTUVk4dkhNd3ZEd0VBNG9HWmR1d1AwQ09HYnlvbkVyWnVoYk5kcmRxakpHU3BfUlR0ckhGUGEzZFdPN013UFFPSDlES0hSc2xobjBGZmg1Ym9RSkdDN2dvZ2VGdmFYTGV0QzZaaDlGWUtBZw?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-26T15:32:18+00:00",
+   "tags": [
+    "nasdaq",
+    "btc",
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -240,6 +302,16 @@
     "btc"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Apollo takes minority stake in Abu Dhabi’s Mubadala Capital",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzZ6MGdSdlNWc3BNeXNJaUJocVEyTlNZTHpYSkVESkhKbmVuZ1JNSWZkbVhfZnMtQ245UEw4OEY5ZWJhMWxMb292ZnJDR0lxVWJOcUlQOUJMRTlhWjJRSW9zUVlNaXBmcjdYWU9abk5vNHFSWEVIczlUaHJWQmxLUUFNQUo?oc=5",
+   "src": "Financial Times",
+   "t": "2026-10-26T14:50:43+00:00",
+   "tags": [
+    "dfm"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Two stock picks to capitalize on Wall Street’s misguided AI fears",
@@ -857,6 +929,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Currencies idle ahead of five-bank gauntlet; euro gains on Moody’s reprieve",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMllaUXFSTnctLWY1VVc0RFNKUHFDSmhFdEEwenYtR0xsTkFTdVJfWGZwaDFfcXNHQlFGeHN5amU1d21rbDRrRDlJYWVKQk1jT0hNUV9pNUNyQ2hrVDc0XzI3Y2wyX1k4a0tGakNSVkcyLVpzSlhCRXdXbTN1eWxuXzh3Rzd6VVRmZklQLWdJUGpJdHY1Q2p6dXR5MFJ0Z1BDZmFKRDRaVE1vZWNDbURrWExLNmRILXhsRnpSVHlwci1OT1E?oc=5",
+   "src": "Investing.com Australia",
+   "t": "2026-10-26T10:56:46+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "‘Guppy-Level Death’—Elon Musk Stokes Imminent Price Crash Fears As Bitcoin Suddenly Plummets",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSUU1WjhqQVRuTU1vTDZsWWN1NDdnaVdidk94ZjhoQW9UT0pidlo5Mm9rcTFpTElzM19NTDNWX0NydDBQTFhmVmc2bmtzY0RfOXBJa2dIMmNZWTFEYnIxNFZSdXJRZk9XODdyUVlFc1dzZERaZzMxY3luOGFQbExjRWZ4aVR5enRhWDh6MGF2YmtPSkJYZFVVVGg0VnVFdG9ucUFHVlRMSnBvOGFpVV9VTWdkRnpraEJOQWhyNlJSUU1aTmhDTzEyNA?oc=5",
    "src": "Forbes",
@@ -989,16 +1071,6 @@
     "oil"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Currencies idle ahead of five-bank gauntlet; euro gains on Moody’s reprieve",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUV4c3VobUxpNXJEbkNTMnNUanJhZ0U0OE1xTFZpYllnNlhocnNiV0x6aU1EV0Q0SXFBQ2RneENDaTdRNUFoWWdUcTVvRTFVaWZrWTBBUnEwNWFka3dmNk1XOE1ieC1Nd3k0LTQ5NzFkcTR5WmtSeEtJTllQT0FrWHM4QWUtVDVBQ3Z0OGo2VWRyaVd2MmVoTV9sZjhReGYtUUdxaFZWLTVzSUdmMW9maDRIYlNENV9hVHpPZDFua3kwVkNu?oc=5",
-   "src": "Investing.com",
-   "t": "2026-10-26T10:01:06+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "bullish"
   },
   {
    "title": "Fed Meeting Focus Turns to Warsh Messaging With December in Mind",
@@ -2635,78 +2707,6 @@
    "t": "2026-10-25T21:13:48+00:00",
    "tags": [
     "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Check out NVIDIA Corporation's stock price (NVDA) in real time",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5oYzZvTnBzNElXWTh3SERGby1VMGVVWFZTekRWQk5WcmVwZjFWcWVBMFZyWll2NXdXQlRhZzR4Ym14dml4WmJ3?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-25T21:13:41+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV1NyNS1zejVOVGJGN2lpNFRDbnRBajBKbi10NDFjNWtKWWJjNUpYdzNVTjB2cl9Cd0ZyLXJkS0tfTzFlTjBaT0YyS1d0YnJ0Q3RLYnNyaFZUd3QwS3V5Q3g1cWNrRmdEVXhobElocmVwbUg0c0FGTld3ZE53N2FqcVRfcWFMb1pVZTd5U3I2X1hVTkJIX20yOXdscGNIV21IRzNheXFtRENiZ2lhSTFQaFZzMDdILUZGWkc2NWYwOTNPcWlfbnU5SzJmUWtXMlJLTktfMVh1bzZLU0FXRHl1VHZCLWlzb0Z4RTRaMnp5MmY2eU9KSk5j?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-25T21:00:00+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin: Boom or Bust",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ydGtxaEdsV2RRYUdSVlBGWWs4ZVlJdkxDNE5OenNrRnFsa3FZWmhvbUtZZUFBWURNRFVVckJyU2d2dEE2TUI2dzZTYVVpaVlnc2ZXeQ?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-25T20:43:30+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Why Is Ethereum Worth About 38 Times More Than Cardano?",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdzFrVjUwWWVHemVoV0tGRVptemo5c0h0ZDlRM0lxM0d0algtb3BpbzUzNHNKeHFIZ3QtTjV3b3Z1Y1ZQQ2RkdEd1TnNVSURSQXRzeDhZUUJfS1JyU014NGd6My1EUXZkNXRDTVRwQWRTaXpPQnNNd292MFJUV0tSMENSRHBiM1BnRWVqMmdPRnFBUURYMi1SQWtJNW9DOFU2RmFKWDgxaTVrckU1QnJpU0xRYw?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-25T19:58:35+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin Is Down 3% in October and Ethereum 12%. Which Should a First-Time Buyer Pick?",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZ0pvOE9HMy04NTRHMnlKdHBwS3VSdjR5aHRxUVlxc2d1QnVzYnBvekJVNVFHUVJGMXNsaktVRGZ5ZWluVTc2cW5oQlRTS210MEF3TF9WSGZqUjVBdmdQVGI5SXhDZE9kWHdMRzBKb1lBUmN3WlhFTGFzeWVIU0M2MTd0Uk4ySm1UTk5sTzkwb0o5MzZkSjEyMmQzTGUyRFRNMk9sQ05qQzczZ3J1S09hMDA3Tk9WcVQtRHc2RGFadlloMTFYZ09BS202M0hjbjBTaXhGTnFMZw?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-25T19:05:59+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "JPMorgan Has Nearly $900 Million in Tokenized Funds on Ethereum and Solana. Which Chain Benefits More?",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOTlMSDMwQnRMNnNPay1IVVZJdVU1enZTWHdhMHRvVUZ0MFh1VzdDZTNRNjNGandjQ3Bvc0JXNkRFbTJtWFhwMEt3RGxuVGtFaGQ0YndNcmc4NHZLWGthNkhpamlKbnpCS3FWYThpZUV6c0hFX3pEb3BMMHF5bmtuYXQwS3pXXzFyVC1vVmhmTlBGaDlXamV1LVdCaWhaWnZOQllsOTl4QjNQQVFjdzlVc2JYN09HN29RdF9Wbzd0NDczQ09lNEpISVRpQk9wVmg3OVlXc0lqS0dwdWJmZFFnM3RQa2NuM2RvTkQ5eWlkaw?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-25T18:33:42+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US Stock Markets this week: Wall Street gears up for Fed rate decision; Q3 earnings from Alphabet, Microsoft, Amazon",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOU01ZbEczeWJSaUpzVXpNR3ZXV2xobDFPVWNMdEdERTVUbmdVbmEwZnZBRUtEamI5bjZmZ2VjYnVDNDcwRnhBYjY1Vmg5Wk52QUdRcmwwUFFCRjNUc05KeWpCc3UxV1VWUHpxc2NzZU5neFRpQ0RiMzNmSjBPUndZcG5yS1NRQmlyYm9ZQjg5NGdaQWMySEt2SjZNbWdJU2dRRmdoVm1OOGZGN2hTbWdtc0kzTGlzdHNTZ1RuRktfVUtrX0pjUmxsTlFZZjhjMllKdE1Pa29zNkdUb2g1VjM2UlhlWjR1S05QVFp1WkdVcnlYendxZTlJ0gH8AUFVX3lxTE1uSkZNQmNMQXRKVHp4RzFaVG1uVkpiWm5JRFZZaGpVVlNTazh4X3VvSDRmX242S3F0UDVqbzJXVUlfTW1NcGFrSGJTY1FJZ1ZUTnhWdHRwLXpfbVVVcnpUSlFTT2R2R2x0TGVpaTkxY2dvMnZVbjJEaTBUR2hSdVRvZWpnN3Rjd3ptSVJtb0lyVHFHS0EtLUMwSkRyWHluMkJXZzNzTEVGWXJ2emo3dExLS3IwWTF3NHgydGVzVlVRU2s1SUZkWi1OSGVWN3BiS1Y2NXAwbkRGUmo3NkhkZmhTUGsyelRvM0Z2WXU0cDhpbWRnTC1hb2dlMk1rSw?oc=5",
-   "src": "Livemint",
-   "t": "2026-10-25T18:00:39+00:00",
-   "tags": [
-    "spx",
-    "nasdaq",
-    "macro"
    ],
    "tone": "neutral"
   }
