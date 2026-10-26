@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-26T15:22:17.836969+00:00",
+ "updated": "2026-10-26T16:20:03.636114+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -42,19 +42,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 10
+   "new": 8
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -66,31 +66,31 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -102,13 +102,13 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 6
+   "new": 7
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,78 @@
   }
  ],
  "items": [
+  {
+   "title": "Microsoft offers voluntary buyouts to 60,000 employees",
+   "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+   "src": "CNBC",
+   "t": "2026-10-26T16:19:55+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+   "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+   "src": "CoinDesk",
+   "t": "2026-10-26T16:05:12+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXZ6VS16VVVGaDZiM2NoUDVUX0NQVldsR3RZZkZRR0lXb0R0Sm56dVdFTjh3X2dURUh5N2FUYXgyUGZ5QXlWUzJobDhpWTRHTjZ2YzA5Ry1LQ3hJNk93OGNab2c3T1lGRUNCcmR4TFZNWTVOX1I1Z19WckhFbEJldGVXUznSAYoBQVVfeXFMTjVYMVJhMVNScnd1RE1ObnFaMFhENE03c1NqZW5EaHpGbjUweWRQMXVwMl93ZjczZUlBSC02aDZsLVkydzdCMFlWc0xUZG15TTU0V2hTQnJTMS1iTWJ1ckdSejdCcnlIMWRZTnNaNUZmcnlOa01JOHNNYjQ2OEZyOXpTQzVjMmtDUzRR?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-26T16:03:57+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "S&P 500 Climbs 0.9% at Midday as Nasdaq Leads Ahead of Fed",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYmtQbXl4VS1vcHBfbjFCTHJja0stVk9LSzE5Y3hfcmpIZmpuR2JrWUxnTXJKMm8xVnFaYzBudlFoVml0MTVIWmRGcm1lcmQ4TkxCRW9WMFE4ZmtHUnJVMkZObnJFOHBiT0k5Tkpvcm0zYzdJN211QkhZMllwbDZEMXpEYzhxc0dpY2VlZEhlbXg3VGN1SV91Q052U0I5eEc5eUhwRGZnU3I0NUFQSm94dGE1UmFJZ0pNUHNfdVI3MHhDMndyeHN2YVVB?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-26T16:03:08+00:00",
+   "tags": [
+    "spx",
+    "nasdaq",
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Bittensor (TAO) and NEAR Fell Up to 22% in Two Weeks While Bitcoin Fell 4%. Is the AI Coin Trade Over?",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX2g2a2ZUZ25hUi0tU2UyYWw0RFd5VE5XcGZfa1lZcHgtTENTczhPRlpfYUhUd1lmSm5QSXA1ejQ5MzdtYldNOURKdnRqdEhJZVJMbl9pajVHSE1Mb3lrbHNOQzVXTkVDLTIyRXJlS1N0Rjl2QW1pVWZIUWJTVmFmUGxnOHA3cTVOWjN0UkU0SHhvSlRDcjRxUUY0YnhKZzF2bGpqUlJDSm5PUWtNd2xrUy1qSWh0TDB3bUNYa09nZXNuOVFaYk5LRDRVZXBKZjVtbjBHSmxtVjlkOFZrSGhnVlFtMWp4ZGZtU3Nz?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-26T15:53:50+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Ethereum News: BitMine Just Bought 10,452 ETH and Now Owns 4.95% of All Ethereum",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVFY2N3BndE05M3NKS2VFaHhYSHZlaUtKRmNPN1MtdTY3Qm1GczQ1aHdqZ0VXSlBFWnpFbXVlZml3MnZnUEMtS25zSEVpSjE0b1B6ejYzZWpNaHhDbkRMM0JYQ05GdXBSOFZkV2RpOU1aYzBUTXdMbXZYR1poeXBLcHA3UTdDZ0x6SHpTbHlxRjFuVEN0bkVxOWl3dzlwZEpuWEtrTER6MWpKYjM0Qy01M3o2aUpXSVVuYVgwNGhkVGlBc3JKYW03NTZqN3JxSm1qa2c?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-26T15:45:24+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin News: Strategy Has $5.1 Billion in Cash to Cover 3.4 Years of Dividends. Could It Have to Sell Bitcoin Again?",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWkM5TG1jM0pzZENtdFF0QWdIX0tjRVYzVFVDUFZRT3Y3N2FkUlJuVzk0TTlVd3lIUW5ibGpXQUxFd0lET0RsaENic3hYZ3hRU2dOVVpKRVdFeDVxb3JucDJEelVtWGpnV0FQWHVYb3JSanBqWkVOVUlIekNpeFVUc3ptdENES08teHZwU3REc3pnOGZaamRnUVJaZ0ZCOXJUR0pLa3MzazFVNmF6OENKMkhLcTV4UzZZdGQ3ZUs3LUxpRldRc0Q0N0hLWXR3X0hTSXhXalNqMkxBY3JZemdnaHZMRVJvSW5USG9WeE0tV0pvdmdGNHZ6X0Z1b1htZ1lQZlE?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-26T15:27:50+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Bitcoin Analysis: BTC Is Falling on Doubts About AI Spending. Is It Trading Like a Tech Stock Now?",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTGpRQjZjNWxvLW1mTGdieVdTeWltM1lHNW1wekpBbG9TZjcyV1UtMWdGanN1TnJ1Yk9fN3B0bnNRY2k4c012bDZNOVFRb2N1ODkwd29JRVIza1hZUTNybUFDZzhIc3h2cU4xUXEybzNhYXU5dFVBOVd3c01JeFp1bmVoWjVjRmFnNnlXaDJlRmw1TVpwd3habWNHTF83SFRrMTRnZUxjaTc0NVI1NlVXdG5lekRyTTVsMFFtRnlDdlE3S1RVTXRsMGxyclRQZ3RZTS1iVHl6WkpaTHA4VldaanBwdlI0Mm1JZ0E?oc=5",
@@ -805,6 +877,16 @@
    "tone": "bullish"
   },
   {
+   "title": "What are Bitcoin, Ethereum and XRP at risk of extending bearish streak?",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQi00b0IxbUZjUUVVUV83RWZBVVptTTZHUkZCMmRkeVdFV3Y3ZVRDazUzUUFZY0VHN0NpMWlOXzVSdlFmVG5jTk5qZ0NPTnB4Z0VfZFljTjVwV2ptVU1JR3VzdVRrSGNmZjMxNVpfVVNZVW14OFRONjEzVGpWdXg4WXBIa09JOTVCdE5tcUlodWdfdk5kZE9Lc05pZk9SdHpBZHJBajI4aFJDWGh2NEFoN2twTllLc2dzT1lXYXJIWFBwV3pRUFlUZFlERmowQ3U4d0Z3NzRyWWxjTUJHOXc?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-26T10:46:57+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Gold News: XAUUSD Gets Fed-Week Relief, but Inflation Keeps Bears in Control",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDd6eHY4S0Z4aHRCOTN6VV9laXpRbmFPN3I4LUU1RVIyYjB0cXRsOWdUN2hncUFrMVE2MnBiOEE4bXpTbm1XNW9fTEF0YTcyX1paYmMxbU1ucEgtSXpDTkFSU0ZybFFTbkJIRGNPRXBGUlBfRUdvWVhsVGtIdW16amFKMUlhbHoxR0Rrc25hWWdWbFlZYndFbW5LYVYxcWNPWlFrVW9keVVxN054eW02MmNpQmRkWUZTY2pQb0xENlN2U0U?oc=5",
    "src": "FXEmpire",
@@ -844,6 +926,16 @@
    "t": "2026-10-26T10:31:42+00:00",
    "tags": [
     "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bank of Canada expected to hike rate on Wednesday to stem spillover of energy inflation",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUXpOXzVmSjQ1YVpWOEdvN2ZtR2xyVmFDTTJxZzhqekRPVGRaVzl3QUV4bFFQYjZUckk0MExrRGZYbUNPd3czSV9yQVNORlFJc19rMm03T3BoNHhVNkRtTnRQckdpM0Q4MUFscWlzU1gtYVhrSUY0SjY1UlMxby00YXROUlJleDc4cXdBS2xFTkJvSHQwTGpwVkN5aVpqZ1dVM081dk9qM3dGSy05Z2kxaGU0TlctSXVMQUpBaGlVckQ?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-26T10:24:33+00:00",
+   "tags": [
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -1524,6 +1616,16 @@
    "tone": "neutral"
   },
   {
+   "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRG5xQ1ZNSTk5WllRU1BHdFU1ZGpwdEhqWEh2OXNqa1BuYURhd0NEbGZQQzRsU0h0VDg3Y2I0SlZOWDFRY25NdjM3YmRoOHBOZUVxSlBZWS1hQ3Q4eXI2cjVuQjF5c2tPVXhhRUs1LUVVR3VzaGY1cUpCOFQzSVpOVUJETmhUWWV5WnFfN2wwVVBBeG8tbUVpSFlOQXRfbXNId0ZpWHdxVFJBcGwtWUVlOVlKWExJSzIxNnFMc2J0REkzUDZqNDZ1RkNkdw?oc=5",
+   "src": "CoinDesk",
+   "t": "2026-10-26T05:49:42+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "EUR/USD Price Forecast: Holds gains above 1.1200 yet retains bearish tone below 100-day SMA",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc0t5a2R1bXkxUUxyVTJyMXdyTTBPMnItWEZLUkFtc3l6Z3FiUUFKdHlPR0d6MTFwdXB0SjN3Z2ZOYjNtZWI1SDFQVldDNGxrT2dzWlVwaXRPSjRodHVuVS10Yk9wRnhSSXJWMFFuajdTT1U2TmVqam4xWlR6QXNJTkU3X2JrVDdFQlZLaS1GZHV1amRQejVFbGU2cFVHWk5WNEd3UE92ZU9UV3EwYWhWR21JTmcyXy1UdEx6azIwcmFmZnhTbnlFcnp5dXk?oc=5",
    "src": "FXStreet",
@@ -1550,16 +1652,6 @@
    "t": "2026-10-26T05:42:30+00:00",
    "tags": [
     "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
-   "url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
-   "src": "CoinDesk",
-   "t": "2026-10-26T05:39:17+00:00",
-   "tags": [
-    "btc"
    ],
    "tone": "neutral"
   },
@@ -2046,6 +2138,17 @@
    "tags": [
     "gold",
     "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Euro firms against dollar, yen ahead of central bank meetings By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR1JXd0FoLU4xam5QcVZMMWN1dE1ycVZOVTdjdFBVUTRJNXZISkV3ZGF1SERFM2VfRGc0S1FfM2JHUHVoVV8wUVRXUjRLME1YUnFFZ2F5U29EaEhUOEYyVFV6TkU4U1pqUW5GaHE0b2c2ZzROSmIyNm5fWTVXX2hBSWozcU9CRWs1RmZKOEwyVWxwTlJWQjU2REozcFpHaEFRUDJwSE5xUjdfcjBaZGlj?oc=5",
+   "src": "Investing.com South Africa",
+   "t": "2026-10-26T02:18:26+00:00",
+   "tags": [
+    "eurusd",
+    "usdjpy"
    ],
    "tone": "neutral"
   },
@@ -2604,106 +2707,6 @@
     "spx",
     "nasdaq",
     "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "The US has the largest gold reserve. But repricing it to $1 trillion 'would backfire in a big way'",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbHBxNUF1SHZxTzlxSEpoUE5wUXJKbXNLdlI3M3pSeUpMenhqTEEwUTN2QngyNXhLM3FXVEhVanNBUlBGWnFoRlQyYTBoZlRBTVA4aVlZYWNkU1hsWkxQcFdNSzE2dEc4RDgyUHNEUHQ3NkVtZXF6QkdFZHlrSkJDLUNaOWlpdDJjai01U1lmTVJocHBzWW9rbDZ3dGZaQnNnbzNPZ0Y2WE5HTEJr?oc=5",
-   "src": "Fortune",
-   "t": "2026-10-25T18:00:03+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Monero (XMR) and Zcash (ZEC) Beat Bitcoin This Week. Can the Privacy Coins Keep It Up?",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOU5WZVNTZklwSHV4UTVCSXdHNmlZcDd4UXBYeHpac003QkNnbDBhRF9XRi13NDFMUTROU3VuNnc1TV9XY09BTXd0dF9Ea2NsdWJNUTZlVFVSRzJ1SWZqZHNDN1U3Z3pPV2tHWndnMm9UY0RYNWNhdjZJZGswazlaaGxVbW82UGhOOXpJZTVMMFlFZzllOXJDR0JUUW1adWIySmRsRExJNEdFaHBPR0p5MENlVU9NUWF0Z3d6V2RROHZ0UmN2Vi1YS09jUHNNeW90bURYZmRR?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-25T17:54:37+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Top Crypto Stocks to Watch This Week: SoFi, Strategy, Coinbase",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVFYzdnEzdzduM0dHVjRqOVhfbERCb3FMRGc5UlYxNUtoMDl2U1luWW1TeWZkbDl1ekRwNXBjNUVJRS1YRDlLc05sZmFQOHRrZ1hTMmx1U3IycUkzcmJoa09tdFAxNC1EUVBTZnFxYVVncnp3aEdTT1JRa3JTcnhFekswY0dQcGdLRk5Jc285dnZrd0xCM3RBRWZobXQtNmpTRzY1VkNpeFA5UDRWaEotanZmc0x6MlU?oc=5",
-   "src": "Benzinga",
-   "t": "2026-10-25T17:44:51+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Everyday Economics: The Fed can pause. Americans still won’t get much relief",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWQ4ZXRWTnhrSFJsZ3lhT1JFQWVyV1l2bWs3RUlPYmRYcGF4ZU1iT1c5am1kWkV4QXdKZjNPMThPX29JeXFEUUZGeHVPejZaOFg0dVRJbEpJMDdlSWRibWZVRlA1WkZqUF9ZTWI0RXdacFFYaGdnbjJmMzVLQ0ZMTGY2eXVGTHFrWnlpREhMU3hoeTlxcmdKeG9nTjl3aTZwZWV2V0F3?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-25T17:39:00+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin Analysis: BTC Slipped Below $80,000 Again. Is $77,600 the Next Stop?",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLXFPRFZTWWlraFpwdHo4ZEF1NjdBYXZuODFING9XUFh4ekpSMkxtbndLcGpfcWg3NVdEQXhxdkZ5d25tWEtXT0hqMXVaekZmcjBGbEVVdW1Hanh6eW9NdmMydlp2c1ZVUExXOVdVZ2syUEwxenRod3BLc2VTbVp0azBpdGJlbmNkR1B4S1dyUTVuWW44RnJXZk5XQ25sR0FMUmJ2Y2JSYnZOQlh4cHdfQ09ZOE15SkRnNElKZjVvWE9GZkJzQVJj?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-25T16:37:38+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Strategy Booked an $8.3 Billion Bitcoin Loss Last Quarter. Could Q3 Show a Gain?",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPak1SWUh3S0UwN0pnU3g0dE9kbnpuWVhlWGtqQnp2UG5KTGp6b3pRa0didnNlNFpoRFphdEQ0TVBrVzBXQmg3aGpYQXhLZ2FQVENrTGhTNFROcjJQQzZGVnplQ1ZEa180bWU2T1l0TEhRazVoV3ZicmllSnI3RThYOTgtOGc0bEg3Y19CcHB2V3Z4OEVZSmZwdEF0SXRhSXh5MUN1ellfc1ZlWmxIOVJOUUhpU29lWEVKVXZCUWtFYXpjdVNjcFlIT1dhd1FQcTFHcnc?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-25T16:37:07+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "RBI data centre to strengthen payment systems, cyber resilience",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-data-centre-to-strengthen-payment-systems-cyber-resilience/articleshow/135200305.cms",
-   "src": "Economic Times",
-   "t": "2026-10-25T16:26:59+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Will a $20 Billion Bitcoin Windfall Fuel a Massive MicroStrategy Short Squeeze Oct. 29?",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSExvVEN2SldlLXdsSGVDU21lUUZzWGZLMTJNdXBkZWxBTVZVcGNBc2R4Wmg0WEppUXhfM1pQZ3FPVThwc21PMk1aMXhlZlpfQVE5dGhDVzVZcjREOTdzbDlYd3FlYWpsQl9fejRJZEhVRldiZGtfUV90RUF0LWJqeVpuN2VlODAtV19taFUtSldiOEVYTGFSWERjbUFMR2FTcDhGT1N5TUphZDNBM2ViV1AzeS0yaEFmR1YyV1VNaHpjdWJEd0FR?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-25T16:15:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Coinbase Q3 Earnings Preview: Can Crypto's Rebound Save COIN From A Fourth Consecutive Miss Oct. 29?",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQelZieEk3RGJ2bld1Wm5XMm43MWFYTFViSWM1MzZYRHNrTHNidm9wNFpMcXNCM2pDXzNuNmxWR0lqdlUxR3ZVeVl6OHFsc093MXpKV1doNFVuYXF5elZNZjVzMUlBRWl6RkNQOXZ5dkl0Y01EZGVvVl82cmtpc1FlWGI0MUQzY2xvMFN4TElfSkdncU9QZ0ROZkxLanVNdHVhM0Y3anJIdnNuTnpFVTVNSjM4dlE0OW9USmE1bmRJVVJ0cHFjWmZrMGdSMjFlYzdqYzFIN3lsWQ?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-25T16:10:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "S&P 500, VOO, and SPY Outlook: What Investors Need to Watch This Week",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHpaZVFWVEZBbE5mTGptclYteFBzb0lvMlowWE05NE9Fa1hTd2NyQ29uaFAyVE4ydmdOc21XZzdSRDdnUXR0T2NWRlRWWmhpX2VZUHEzcU1hNFJtOF93TTZmTlluZU1CSzM1Sk9OdXFvbDlWSnZOQ1lhMk5nSWZTWHdNUFc5c3BvT2ItZW4zQ21kUjhVY0Rtd0liOGRmcFlVSm1tMkZUaGxKNUdNX1hMV21MQmlrZXlxQ1ZfdE5uSQ?oc=5",
-   "src": "Benzinga",
-   "t": "2026-10-25T16:00:28+00:00",
-   "tags": [
-    "spx"
    ],
    "tone": "neutral"
   }
