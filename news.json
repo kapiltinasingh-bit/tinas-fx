@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-26T08:27:04.696005+00:00",
+ "updated": "2026-10-26T09:13:10.500582+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -54,19 +54,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "MarketWatch",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 2
+   "new": 5
   },
   {
    "feed": "Moneycontrol",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 8
+   "new": 7
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,59 @@
   }
  ],
  "items": [
+  {
+   "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+   "url": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+   "src": "CNBC",
+   "t": "2026-10-26T09:07:53+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Silver prices are tarnished but not forgotten. Why HSBC thinks gains in white metal may be limited?",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-are-tarnished-but-not-forgotten-why-hsbc-thinks-gains-in-white-metal-may-be-limited/articleshow/135207313.cms",
+   "src": "Economic Times",
+   "t": "2026-10-26T08:51:56+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Dow Jones futures rise on easing Middle East tensions, Fed rate pause bets",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeVZaQXRaWWtfODJGb2RfVkdXclM5bWowLUU5cGhlY0FURFV0ZDFEOVl4Nk9LWEV6aUFDVVNmZkpkLURFRDRvY1FrQ2NEODBmcVk4QWVua2lrTVFyQlhISkZtS2llNlRmVzJ3RTNRTnpiNWktcnpUY2lXeU9sSnNIVk5RbXBzZGZocXJ5X1hoYU5zR3VsVTdDdURENFcwdnh0ZndMSjJOZTE3eTJKbHhjNFF4VnRkTGM?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-26T08:46:44+00:00",
+   "tags": [
+    "spx",
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Global Market: BOJ nears historic inflation milestone, shifts focus to rate hikes",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boj-nears-historic-inflation-milestone-shifts-focus-to-rate-hikes/articleshow/135206926.cms",
+   "src": "Economic Times",
+   "t": "2026-10-26T08:29:45+00:00",
+   "tags": [
+    "usdjpy",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "ECB Meeting: Five key questions on rates, inflation and Lagarde's exit",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ecb-meeting-five-key-questions-on-rates-inflation-and-lagardes-exit/articleshow/135206869.cms",
+   "src": "Economic Times",
+   "t": "2026-10-26T08:26:09+00:00",
+   "tags": [
+    "eurusd",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Why is the Euro outperforming at start of ECB policy week?",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNejJvbVdlNFVaVndOZ3BQNHY5NEVyeVN5NUgxNE5tTmx2ME5kUG40a2dvOFVkdVFoQVVlLVlaTHZvVXdyUnZkQmVGdEtXLUVhZ0xNMTNKdXlRbF9NN1VmMnZ0TzhKQjJtRldvaC0zbDZTVGVyQzl2OWV6RGlCQkpDYnA5c0dyalpCV2t6d0dJeVdueHk4cU8tMVFuSEFhdHYzYVp2Ni1wbjZIczJkZEhmNzZjRkF0RmhUUExGYQ?oc=5",
@@ -330,6 +383,17 @@
    "tone": "neutral"
   },
   {
+   "title": "Bitcoin pinned at $80.2k as oil, rate jitters dent crypto appetite",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMmFHN3NVV3E3R2JCc2xITjBZZkNveTc0MUlNMmlZanRMTW9DcEFtenBRVkVCbkEyZzZOODNFWmxPY0daOVdVbWszdm82RVNxMm0yVldMQVA0WUo4MFc2dER6QTBuUjFjMFNGZmE5QWlDY3Nhd0RpT1pPWXF2aFVNeDltZ0YtWFhuMjRDanNSVmpIUlE?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-26T06:54:00+00:00",
+   "tags": [
+    "oil",
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Canadian Dollar softens despite BoC rate hike expectations",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmh2dHpWQzIxa2tSdnhPZzBXYUNfTTB3RTJTbUtWa2k0VEZRTTdPRzdhaUphLVBHaWlOODhaOXBfRmVuMV81azhOczgtV285dlBocmZ4aEtxbTVIZ2NOcExJT0VaenVha0tuZUdwQzhyVTIzSHlHOVVPX1VQT3NwOURPRlFVaEJQWkVKMWZlTG10eUlNazJDVkY4NVZpdFpqS0Vv?oc=5",
    "src": "FXStreet",
@@ -405,17 +469,6 @@
     "gold",
     "silver",
     "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin pinned at $80.2k as oil, rate jitters dent crypto appetite",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpfblNYVE01YXZpakpBMkhHNjV3SU5Gd0FHa19DY25FS2tUQVJHTWxnZFFBdzM2QUluU0NuWmpuMkZfLVE4bUZIMnJCcDlWRnU0TkNqT1BPYkFzX0lJeUNEMnFUbm1BLThGdUhDZlI5d2JaMGtXYjdTOHdlQ0Y0X181SWV5MWxkb1NpYTNtcjlZMkVDU2tHR1B5RFVhSzFodGY0SWtVUURmV0FKZVpNZFFoRmJTYUJNODhyb1ZB?oc=5",
-   "src": "Investing.com India",
-   "t": "2026-10-26T06:28:57+00:00",
-   "tags": [
-    "oil",
-    "btc"
    ],
    "tone": "neutral"
   },
@@ -2632,56 +2685,6 @@
     "btc"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Nifty Midcap 100 Live | NSE Nifty Midcap 100 Index Today - S&P CNX Nifty Midcap 100",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Say1mSUZMSWM1U1JaV05oRWFlUnVTVjQ1UVpxaXFydGVCaUZhcDRMNXJzZWNONzVUTWhYVUdMRWJLMGZ1TUdUS2RQdy1MTzhRSU9LTW5NWEt5WHhMeEgtZXpVTmVyMjBKZUhsVDIyQkRpck53b01rX0g5OA?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-24T09:25:32+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Axis Nifty Capital Markets Index Fund - Regular Plan Portfolio",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGtRNUZ2SWl5RFRLeENHdFZMdVhxTlpFQTdqcDlqYVlHcFIzQ1NwOTVGbmtpbEoxclFOQURuWGxEczU0cGdsSXRMTXBhLTdRdVVSaXl6ZThqdklfUzNrMC1CcUhPTTRzeGp4dzVyRTB6Q0J2bGhzekg1Y0VRVmhIMFdhOEYyRGdheFp4c2NIdXppNy1wR0tYYmZLLTFWOElQR0lxaTROUGc4bm8?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-24T09:01:01+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "JM Financial Share Price Today, JM Financial Stock Price Live NSE/BSE Updates",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWkVfYl9zQjkwdkxBOTJObklVaDNGOE1XUHhoX0xIUFhabG44UUc1ZlJLZmpxNjctOWdqV2xmdWE0bWdzOXFvUXl3TGh6M1ZUT2lQTGN3aUh5Yk1fVS1HV3hsbEd1YkppOVNuT1VxZVNOTVI4emhRLUMydGRfOEJyUGJqWkFXWTA?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-24T08:44:57+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Fed Over-Tightening: How Much Runway Is Left Before It Bites?",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUHFtRnkxbUdoQndZTzF1N3IzMUtWMTBQSnpVbzVQcV9xVHpkRkc4bWpnMmlLWE1pUUx4UUlUd1o5eFU5eG1qODdoRUJvYl9Ja1hBOFpQTzRDQ0lsbjh2aUk5N2JnZk1NWkM0X2p2UjJSMWxOR0JQUFBZV0xRRm1tV0FnYmotenNScHlCUW9raFVSVnFhVWhjQ2ZfcGdCTElL?oc=5",
-   "src": "Seeking Alpha",
-   "t": "2026-10-24T08:30:00+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "FIIs dump Indian stocks for 10th straight week as markets slide: Is the worst over or more pain ahead?",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-indian-stocks-for-10th-straight-week-as-markets-slide-is-the-worst-over-or-more-pain-ahead/articleshow/135165684.cms",
-   "src": "Economic Times",
-   "t": "2026-10-24T08:11:14+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bearish"
   }
  ]
 }
