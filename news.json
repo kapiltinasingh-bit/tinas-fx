@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T23:59:11.261138+00:00",
+ "updated": "2026-10-26T00:40:21.976813+00:00",
  "count": 250,
  "feeds": [
   {
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -54,7 +54,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -114,10 +114,20 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 2
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Nifty outlook bearish, but near-term recovery in sight: Analysts",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-outlook-can-the-index-rebound-despite-bearish-signals/articleshow/135199446.cms",
+   "src": "Economic Times",
+   "t": "2026-10-26T00:01:01+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Oil prices down almost $1 in early trading",
    "url": "https://www.investing.com/news/commodities-news/oil-prices-down-almost-1-in-early-trading-4971306",
@@ -139,6 +149,16 @@
     "macro"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "US Equity Futures Climb as Crude Oil Price Dips: Markets Wrap",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGVmU0kxdjhvRF9ZU0VaeFFkODlaUTRlN1dQaHNSV1JiOTBwSV9nb1RKejQ2clRzQ0doN3VjVEtHb0RaTlVBNUdhMFI3aUtTRHB1dEE3NWdXZS1ZbktuMVUtYnE0ellyLWlNa29aWThtQkdSQW5FRzFIVUZlb3hEUlg1czdXd3FyV0VwNW0wVEMyTUg4ZEpoTVg0SzIyZ0VmLTAxOUlPTUtLXy1kS0ozbw?oc=5",
+   "src": "Bloomberg.com",
+   "t": "2026-10-25T23:18:54+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Dow futures gain up to 150 points after steep losses; Here's why this week is crucial",
@@ -2665,26 +2685,6 @@
     "macro"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Cryptocurrencies Price Prediction: Bitcoin, XRP & Ethereum – American Wrap 23 October",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSGNlb3RtRHU4YTVMVmxOdFVkWGh5UWxxSUR1NEJnRkxNTW5hRWd0MXM2MWh1VHVfcVBRajZaVVVkeVdIN0tHaUs4UW52QlBJTUZCdkFPaXBwQ1dxYkxyTmFjbU1PZ3hHTjVJdGhqQzlhay01bUVkQUdkdUJkNnlNQXRRaGZfRzlPVERCemdjWmthekY2SUJiY2J0eV9GSEYyUzU0VF9NTm5OdnpuMFBaUG1mUlV3eUhUel9SYXRyRWJWd3dPZHl1Ui1JWTQwY2szZ1prYmR3?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-23T15:45:32+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "RBI governor reiterates listing requirement for top NBFCs as focus intensifies on Tata Sons",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-governor-reiterates-listing-requirement-for-top-nbfcs-as-focus-intensifies-on-tata-sons/articleshow/135149631.cms",
-   "src": "Economic Times",
-   "t": "2026-10-23T15:25:41+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
   }
  ]
 }
