@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-26T17:09:54.289008+00:00",
+ "updated": "2026-10-26T17:44:42.003111+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 6
   },
   {
    "feed": "Google News",
@@ -36,19 +36,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -60,13 +60,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 6
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -114,10 +114,53 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "Gold reclaims $4,000 as Oil eases, Fed decision tests recovery",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSWZIVklTamozb3NfTXNDNXNSLUdEZDJXYXg2blRydlF1NW4yWW9hZFktYXNVRVU4NEtBcHJLMmwySmRFd0xHYUJSZE5TVjh6NzZEVVlicnZRbG0tbmpCemdEMHM0MUdmdDhsR0RlTnBVVllvaTF4NXVhMXdiSGRtMms3dVJnTV9vSXJERDRic1pkdVQ4Z255Ty1DaVNYTVA0TlVGSnRB?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-26T17:42:42+00:00",
+   "tags": [
+    "gold",
+    "oil",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Climbed Back Above $4000",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONUFPcHpOVUJESFg0UnkyM3h6b1VDNUNYLXl1bHIyM1VEbHVyckc1S3hqc0ZZVUoyZjI1Y3BzNGZUNDVHNEMtRGtFdFgyNl92MFdOVklfam9raFFqM25lQ3JDSG94RXoyaEpheDh4VUJSZ0JPVFh6Z194Y3A1YVVIX2pEVlIyd19TNm9LU2pQV0hJb2VpbFlRRmwxM3V4ZVhxWWV1QXRxcG9fY2RVRy1HYXVBWVdSa2Rf?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-10-26T17:41:25+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Gold prices are oversold below $4,000, but a potential rally could still be out of reach in the near term - BCA’s Ibrahim",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHhqQkVQaWN4T3FHOTAzXzdRTV90VlpQYTBHdHdIMnVGbDhPeTNiZEVPbVc0Q01IZnBiRjVoQXV3NWNSdFVzWkJiWXBYSVJTRjREbjZpREpJcURiZzhtLVpHTDNwWjQySFpOOXFlQlBBclZlRVZ5dDE3MERKXzVQX2tsQWV0QzRBR1VfczNESVBiUTc4VU9QSXlLbTZoenptdnlDZHoxVnhUaW1uMHUwNkdKMUdqN0E?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-26T17:23:30+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Scott Bessent just opened the door to a major gold comeback",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcVFSbmFGd1BTb3FoU2lpNUE5cEk5aV9WQXJET0FVaTFBX3QwOUh4cGFCdVRqeFdDX21rdE15akFUZWJuRURRd2pwS01WVW5EeHc0RHd3ZVF3ME9GNlhHMEVWRGJEcWNxY19VWERxU2FzeXU4Z0FOODloTHNKNGVVdTZTeFZ4QVdweTlsdVFHTGZjVDU2TVktYzNlLVVmTmktRGk3Qjhn?oc=5",
+   "src": "TheStreet",
+   "t": "2026-10-26T17:23:00+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Ethereum Analysis: Could ETH Fall to $2,180 and Liquidate a $214 Million Whale?",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlRheHZVTlUxSDU4OHN4M1VDczJUVjhMWFR1Qmk5MjA3Xzljd3EzYllqWlI0UmpFYzYzdG14dTZzd0s0WWlLQ0JGNFR3ZTYxY3FDSFlBNGpzRmQ2R09mUGhFbWRPU0k5QkR2VFo4cHc1YnZnTmwwYzZOSGk2RDFlU2E0bWlTUDZNXzBNZWdJTkdBOVRkVm14TUhRZ0xfZnhjejZSSEUxa0RGZXVqT0N0NVlKelhKVW1jQ1cwUzhmdGhiT3BJbEpNeDE0VDVEdw?oc=5",
@@ -211,6 +254,16 @@
    "tone": "bearish"
   },
   {
+   "title": "Dollar rebounds as euro slips ahead of key central bank decisions",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUV4c3VobUxpNXJEbkNTMnNUanJhZ0U0OE1xTFZpYllnNlhocnNiV0x6aU1EV0Q0SXFBQ2RneENDaTdRNUFoWWdUcTVvRTFVaWZrWTBBUnEwNWFka3dmNk1XOE1ieC1Nd3k0LTQ5NzFkcTR5WmtSeEtJTllQT0FrWHM4QWUtVDVBQ3Z0OGo2VWRyaVd2MmVoTV9sZjhReGYtUUdxaFZWLTVzSUdmMW9maDRIYlNENV9hVHpPZDFua3kwVkNu?oc=5",
+   "src": "Investing.com",
+   "t": "2026-10-26T15:53:09+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nNklNQlZSV0JkMk95ODdwQ3Fac1ZNbHJWMUFsMjIwbFB1UndnS29RNFNNcXN6X3FGVEx4dEFYWWtnQkhwMU5SQ1NHa2ZmVDZlMmZfT0F4VHRfelNCOWFvYnBwMV9SWkVMZ1pRTTNwNTh2NzNTWXlwVdIBfkFVX3lxTE5LZTNUMTJWT0hXQ2xBU2otcjZSWUQ5YkVrY1NJSkQxZ01BNHBrMnlSOEpIQ0tuVTZmb0dJZFA4MUluS3BHeUR3cVQxS3Q5VVVXN3hpWnVZMExOUDBiUHZra2tWM3VhWVBJVXBudEVXdDRCcC1iMk9hY2ZaM0FBZw?oc=5",
    "src": "CNBC",
@@ -282,16 +335,6 @@
     "macro"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Dollar rebounds as euro slips ahead of key central bank decisions",
-   "url": "https://www.investing.com/news/forex-news/asia-fx-muted-yuan-at-4yr-high-dollar-drifts-lower-ahead-of-cbankpacked-week-4971383",
-   "src": "Investing.com",
-   "t": "2026-10-26T15:01:16+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "bullish"
   },
   {
    "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
@@ -469,6 +512,16 @@
     "spx"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Top Wall Street analysts prefer these 3 dividend stocks for stable income",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYW5CQk1CSDYzMUc3VlppQVhVWFh5bWpWWUtqaEpEb0dJS3lFRDJpUXd2cnFabjFSTkk3c2w1NjNKYXBoY0FtOU5renV3RlF4RTdKMmVqbDlhdjRpV2R0ekpwdGJSeDcyWkdpbDZROTEzWU9FVWxHTnpHaDdxMU41WmppWkFubU9UZkU3cUp6XzN1SmMtODRSWERIRXFiTWM2Yjl6SGRzbGJuS1pySWdV0gG0AUFVX3lxTE02Mkg0bmlDTUZXSFlwaWt6NWlPb2NzR0lIWVFEa2dPMFppS0M2NjNCa2JfV3FLM3ZaRmNXQzhpY2k3S1B5dzExRUxGRlB1QVdyOW1WZDdCQUlINnM5eVFqX3BFbjRyRzdfREZaU1VfcDB0cC15amM2dU9haXJSckxPTkNEREIxc21KREQ2c3VzeXVmb0FiMFVJUVYwbG5zNlBTLUNIZklXZDc1VVcwakNkV1kwZQ?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-26T13:41:13+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "US Stock Market Today: Dow Jones, Nasdaq Jump On Anthropic IPO Interest, Falling Oil Prices",
@@ -1048,6 +1101,16 @@
    "t": "2026-10-26T10:14:27+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Egypt's gold prices relatively steady as global bullion gains 0.4%",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQenEyRFpJdHAtenlqQkdGQ1h6cFNUY3Z4YVJsMzJvV1ZtNTlYaENVR2VuNnlwdFhEYXdoU0hBdkpQc1AtX0x0akF2cU1sOFFGXzRuYmF2QkN3T0Y4R2RPQjRUM1dFM1ZiY21PbE9wNWhPR1lVS2p6QTNOR3lPWFVZOHNzd3FZZFk3S0dfN0lJSXJwLXFtdnB5bmJWMHFyYlF5UUNTb1JuZVBOQQ?oc=5",
+   "src": "Zawya",
+   "t": "2026-10-26T10:08:40+00:00",
+   "tags": [
+    "gold"
    ],
    "tone": "bullish"
   },
@@ -2647,66 +2710,6 @@
    "t": "2026-10-25T22:30:00+00:00",
    "tags": [
     "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "How Much Bitcoin Would You Need to Retire on $50,000 a Year?",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVV9tVm16WEhFODBEd0dVaUNOR3JsZndNdUtNUXBEUHFtQjFuVFNUZ0llb3d0SzdvN2ItUW54R2tfazFOai03d3FqVE5maDNNc3RLYnEyRG11WWJWbjBNMm9qTnhzcmwyM3hyOVBvSndGQmZvZnA3a2RZTlZUX293UVVLYU02MGplbkFudmx5dlFKX2ViVzNnQjNILVpoeUtZSFpBbHR4cnkyaHhyc3ZtbWotV0pGa2M?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-25T22:04:56+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold’s $4,000 test: Przemyslaw K. Radomski [Video]",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOW1YMklMNnhKaWFmeTZ5aFdpeXF6V1VaaDNmaGY3dE1mR04tTGNscVB1bURvWWJ1WGIycmNPcjFEMGtEcG9JMnlkTnA2S0hkR0dBS2lTQ2E1NHlSZzNRc0NMcmZuSHc4ODdNWU5pZkxIZ0lJc2ZOR1dIeEttX1YtVk8xLTN6UDZwMnVoZ0JBU0lEbHA2M2c?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-25T22:01:04+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold tests $4,000. Copper hits its ABC target. What happens next?",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlVkNFladlRzRl9HQ3NwOFBkS1Noa2d4dVBCMmlzYy1nRG5ZUGFBNkM4dWc2RUVUcGZ6V0NaMjY2R3BuUGhJWmktY1liNXdQUUE2NFFFZmVJZTBPMXR1QnVabDM5bl9hM3MzZWRsdE1qZ0RVQ1dyV0lmUGZDN19iTU1XWVdaNGhHeUk0R2dmaEE0QVJ2OTRnX1ZVa2Zna2FNdXhXUWJmc1kxY21y?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-25T21:54:25+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Check out NVIDIA Corporation's stock price (0R1I-GB) in real time",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVbkZvRXREYmwtbVRiVHQ3dWpRNlYtdVdEOXFKWVpFUDJTWEQ5b0ktS1VUdUFzRFg1MHpqay1lOFhuQ2V2RUxVcG54Yw?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-25T21:43:31+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Mike Alfred Says He Would Bet $1 Million Bitcoin Reaches $100,000 Before $60,000",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcHRYS3c4QmVuSmEyQ1N1Q0FQWjdneXhfUERJejFSRnFxS0xpblgxWUprM3g5RVRMUVRGUko3Ty1zc2U1NWxWS3lMSUt4UlFrQWotR2VZbG9qTTB5T1M5QnlkV3lZZU9aNjFfTXJvTnNSaGltc2JabXBQd3U0a09KT0hnZW43bFVSRkZuZUtLZWI?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-25T21:30:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Check out NVIDIA Corporation's stock price (NVDA-CH) in real time",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12bDA2TmgwVjRUR004Sl9uR0dIUmFWXzF4UWZXQmhIeUp3R2xQd3FxTWEtd3RrNF9ab3FoRGFGSmJZQkxCeGNEMFIyOA?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-25T21:13:48+00:00",
-   "tags": [
-    "nasdaq"
    ],
    "tone": "neutral"
   }
