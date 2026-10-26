@@ -1,78 +1,78 @@
 {
- "updated": "2026-10-26T19:52:31.218144+00:00",
+ "updated": "2026-10-26T20:20:52.489385+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 3
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 3
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 4
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 3
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "CNBC",
@@ -114,7 +114,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
@@ -147,6 +147,16 @@
     "btc"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Oil falls from near six-month high as Iran mediation efforts ease supply worries",
+   "url": "https://www.investing.com/news/commodities-news/oil-falls-from-6mth-highs-saudi-attacks-keep-supply-risks-in-focus-4971338",
+   "src": "Investing.com",
+   "t": "2026-10-26T18:58:33+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
@@ -2700,17 +2710,6 @@
    "t": "2026-10-26T01:22:26+00:00",
    "tags": [
     "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Stock market outlook today, 26 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei cues",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQ1VteDhIb2FLNjlYTDNFYnpHMkZnUUhzdWp1OXhZVmFEakEwUkRhaFRQWkw1NTFmT3pNWjdtWV9sRG44T2t3ZWJKY2hfZ2JnTVBHMkZaVDFFdWpseUQ2Q1BrMG9UTzUtWmJjaDlEQkJzWkczZ096NWNyekZwODNmTi1vaFRaRHJ5WHVoRnJ0anZ3RnRYVTB0UVJtaWU3VHotWHkyN253b1N2U3FBakhfcFBMcVotUXJEZVB3bV9VN0NpWnJIT2dQQ1lhNm9TNTJ0TnhSOHctb3FKeldmVmtzN0Y1UXBNWXkwckpSdU5LM2FpSDNrNGdkQmhOY3RzVThScmfSAYcCQVVfeXFMTVhYNU56cEdVekczaDV0QXFhMWhxYk1ScXYxVGpyZURHTDQyYmJYdTAtdEt3S0NPaDVxaXpodmMwNko5bzJtcnZjSlV5Xy1WS3ViVDFDWk9TUUdjclpRMnpGMWsweklyTk5SenllRUR4QnF0N1pMU0NaTXNHTWw1NmljUE1FX2FSOUtaZGc3SldjMVBjNzZsV2EyUEVTdlZ4STlGY0JTRlNOUGFxUVN3bC1kVWlTSHNUb0NlQUhSZmw1UlZxWkJHQjNMYlI2V01JZ2ZCcldqemg2Qk81NFZESE1yVjZORUxBSnlYY1FYaGtSeXowOEUwYVVSXzRuRWs2UjFhNmkzdlU?oc=5",
-   "src": "Livemint",
-   "t": "2026-10-26T01:22:14+00:00",
-   "tags": [
-    "nasdaq",
-    "nifty"
    ],
    "tone": "neutral"
   }
