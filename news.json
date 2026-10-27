@@ -1,30 +1,30 @@
 {
- "updated": "2026-10-27T22:48:02.420735+00:00",
+ "updated": "2026-10-27T23:20:58.618356+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -72,13 +72,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "MarketWatch",
@@ -118,6 +118,27 @@
   }
  ],
  "items": [
+  {
+   "title": "Gold rises above $4,050 ahead of Fed rate decision",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORkxjclBRWHkyNkpHUHJhQ0MwTGNhR0Y5aWNBWm0zMzVuRGZCWnRuYkRSMW5zRzBGbURJdExkclMxMUMyNThyZVctVl9qWEFTSTJaUG9yZlVELUx0a1hDUC03bGUteUNXZnl4VkIxMk1xZVFaelp0Y3I4MXF5eDVNSlpLVlZEdUIzNnFVM3NsOUNBVTFiRWtj?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-27T23:18:03+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Aave Fell 3 Times More Than Ethereum This Week After a Whale Moved $22.9 Million. Can It Hold $120?",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQ1k2bGdjUE9aeVlHWXBDSlhHQnZUQkhrVE04TlFHd3lzTkQ3UjQxbnE4NUk1azM1a3VLSnV3T1JsQ2VHRjNBMmpGUXRtVW1hZVpBWTQyOVV4M1dmM05JMWR1cF9hVkdwaUU1VDk1UVJlR2xvbkVaLUE2MW5MTWZLVVZtSzBBc1Q3UmRJSTNYcEVicG9xRjBuOUxYLUNuMXQ4QWZ5SXgzTk11THRKRW1VakJXSFVzeUFodS1nOFBrdjhTZXM3a2ZXaXRKVGxPcUVDVFdyUXBFYUtwRU1xbVBQcUxER2JDaFVPVkE?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-27T23:04:40+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Hyperliquid's Biggest Traders Are Shorting Bitcoin for the First Time Since March. Could BTC Drop Below $75,000?",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSXJJQmZoeHF2ZlRhcFZWNFJUMHFXdWJGN2s5dXFIengyZ1padEJxdUJSZjJZcjBqMDdDOHFzdTktTVp5a2RmamhLMkFteWRZelplaXFjUGtCelBuRlVqNHF4VzMxYzhya2dfaWx4UDcxbEI1SXBQem5Fel9XVkMwYkN6czc3dFBUQ01ybjJvQ3FFWHhBNDY2ajBLaG1WenVxc01nZWIyQjhuZmd3V0prUjBfMmktZmhMeFFyUEJFNndnMVRYT25LNHN4QzdxMEk0bDFyVDFoUXZNdVE1SGhuUmlNWEEwWFpJRld0UXZiOG14X3Zpa2FYemxn?oc=5",
@@ -159,6 +180,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Jim Cramer warns investors not to get fooled by the latest AI stock rally",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFell1RHQ2LWN0U2hFU3VBZmlYZXZXanNoVE9zM0hBWXVDT3BOVVQyd1IzRTVzQTdqVGI4UC1NOFRmU0Q5V2tKZHh1Ny1XQlF0X2hGMy1sV2piMXoyb3l4R1ljZU1fRTNyLXF0QjY0YTh4SE5yQ0RzYUNrRU3SAYIBQVVfeXFMTjV1QWFQb0FNb0VpYlRyZkFIbXl6bTBlVnhqMGdtQzd2U1Nuc0MzV1oxRTFtUm1hbS1lYkRkWFlhNHk0cDJHMW9Rc0tEUjh6eFQ1Ym1nc3NpN3dPci1CQjV0VmVQMkNWZ2VpYUoxN0FRRXBKeDJoOWRFckVIQ2ZJcGdFZw?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-27T22:24:19+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending",
    "url": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories",
    "src": "MarketWatch",
@@ -196,6 +227,16 @@
    "t": "2026-10-27T21:35:01+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold needs to build a floor or face further losses, Standard Chartered’s Cooper says (GLD:NYSEARCA)",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaFB5ZFRsNXNOU2xLUGVDUnhYbHBGekhoNlJ1alljbS1BQVhDTjc4al9JQjZNVkNNOGtiVDFUT2NqZWYxV2xFSHBPYUVXd2NnOXF4YmlyOXVULUxtM2dXVjAxR2ItMEZDRHdBYXBlSnJtY2N3UWFoOVZqQjNuWW55STFJaEk1MzJHclcxaF94UnNsRWdqdFdfVUZvT29CT2FJSTNtUnNtRFAza2hWZ25YckJ6Zkd0VndGWEE?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-27T21:30:19+00:00",
+   "tags": [
+    "gold"
    ],
    "tone": "neutral"
   },
@@ -263,6 +304,16 @@
    "tone": "neutral"
   },
   {
+   "title": "global gold ETP holdings description={PAGE_DESCRIPTION}",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJOWhvay1qVzl4MGxRMnRiZ0dNLUdKaTZMaFg1MjhrTGgwSzNiQU1HZUl2Yk9yejlOVjZXMnhjV0ZLbW1jYnVYanB0SG5DWTJtTzRrZ0x0VXo4YlBSME1IZkRMT3h4QQ?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-27T21:04:57+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "How could the midterm elections impact the Gold market?",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2xXVHdkeVQ1SmdHeXV3SXpfT0tYeGlmX2FGN05XX0ZLTjFEamE4dXB3SjFFYWV5U0hkTF90SDRJTHNoZklIWkdleFJ5QmpaRi1kQ3V6UE9NenoydEZBeVY4V0h6dzRlU3pkOHRfOThnNXFSaWlJYjVaMDVkX292RHJUdzhmVzdxV2ZyRXByYTlEei1HQWdxVTBMY0YzZnNlcnM0?oc=5",
    "src": "FXStreet",
@@ -282,6 +333,17 @@
     "nasdaq"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Japanese Yen Forecast: USD/JPY Seven-Week Resistance Standoff Faces Fed, BoJ",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnR2bzFJeE5ONHJXbnhrR1JqRTIzM0U3NUs3Zmt0Q2tGejlXdnJwbnhjYjhVTHpBbm15M0FDc25CelVwZU5HYmpBMkRiMnlzU2o5Z1RseXo2M2lRdEl2WFZzT0l5T18wWVQ2TTVIdEtUTjl4ZWRvTnpRcEx3anRyVnVzejdWYkRVbVl2MmNHVE1jdm4xY0xBRlI1LWowV1RnMWozRjNHaGNHMmRrOGdaSzB2akVsV0JiV2w5UUZjMlFyb2F2ZFpIaUU0RWU?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-27T20:48:09+00:00",
+   "tags": [
+    "usdjpy",
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
@@ -455,17 +517,6 @@
    "t": "2026-10-27T19:18:34+00:00",
    "tags": [
     "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Japanese Yen Forecast: USD/JPY Seven-Week Resistance Standoff Faces Fed, BoJ",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTUVGZTNrczRsWDRoZmdFRUpVNmpiUFZUejZLVVRjeDZjTjN3QnpXMFpfelJ4cDZ1MGZhV0MzZl9udzdvT0lRalJ1WTJHNXVUdVBzWmJha1g1Q2luelFXZjVqaENuNFRoX1BCZTFPMFdFYnN6ZUp1ekhUd2M5Mms2cnBpeWJXemtGeE1NUTJieHU2aDZha19YaHpETFcxR1hSaWJkSGI2aXQxLWFRSW5CQ1lQa1JENVdZeDdUdUlrYnhpc3Zpc0RPS3FiVULSAdgBQVVfeXFMTVRfM2UzNFFOaWRycnUwZlB5cDQ1N2VHZlZRa1FyOTJYeWRuLUxxMnNhT0NQRmFJelBHUHVQR2hacnY2b0N3WmxBcWJRWENiVlQ3SHRhR1ZZeVVNa21EWXJqSE9OTTVibEZPbGpJV004dld1WkFzS296dkNnakY2OHNZSFgzdTBBMWtRVWxhOGx1eWFpZWJNQTdVT1hUTWFqQXZuYk00X1RoVnE1OWNkOU52MEJRZmI4ejRHbENMRTY2dEs0TENvYUkxYThpSmpDYjJScmRGeFdw?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-27T18:54:33+00:00",
-   "tags": [
-    "usdjpy",
-    "macro"
    ],
    "tone": "neutral"
   },
@@ -675,6 +726,16 @@
     "macro"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Forget Meme Coins, AI Developers Are Now Working on Crypto Meme Games. Here's the Potential Impact on the Crypto Market.",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNXNfNFdRZFd6aUJNMW5rZ25fME9FSUc4dXFOMllraVVrTGV2ZUVJd1QwYTZOWGRKZlMzTDAtbEJEOE9ETE02R1ZJZjlRTndwUm03V29zeE5ueVF0R0ZjSHNZcXpIWlk0V3F0LWM0b0lMTzV4SFFPaXlNZlBtWng5WVoybHlacW1qREdYM0ZvV3R4emxGUnlCYkszejE?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-27T16:30:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Rebounds As Oil Prices Move Away From Multi-Month Highs",
@@ -950,6 +1011,16 @@
    "t": "2026-10-27T13:58:52+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "What the Fed's interest rate decision means for your bank accounts, loans, credit cards, and investments",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOaDlWS0VRSklaemMzd3V4dllmTlZRbTQtOVV6WlA2SjlkcTI2LTl4RU1PTk93OHpIelZWUWczX1RfS0xCRHVnN0FlWUZBOFUtc2dWdjE1OXFaekxLWjR0b243b1VWRENCeko4OVFnSXBEVFhCeUhGVFQxMFZVby1CY3dNMG1ZR3JEd0dRWGgyblV2UjIxQkwxZXNjakpHV0dBWUtoeXJlUUpJR2pkaVFlRGEtMEZqd1M2UXlwT1RfRWlxbzhYQU1WdUxXWkh0MHZNa1J6QVl2SFliSVIzVmgwSjBoZ1V1RlZjUGloa2xIWmVBeURVSHNLcFNtM21LMXY2RHNTOQ?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-27T13:55:27+00:00",
+   "tags": [
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -2645,83 +2716,6 @@
    "tags": [
     "gold",
     "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Price Forecast: XAU/USD trades with caution as Fed’s policy takes centre stage",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2xlZ3VVNlExVV9MOHZKR3N3S3ZUMjdrNTE1SUtnc0Jjb3NVZmkyRlNuNWFuTDUzWmQzVUdoZnFBSmhicWhyR0Itc3JlNTZhVTJPdE5qeERKaG1kQnh1SlpTaTJhVVl4djdhS01qRUduTklXOWRhRERyNWVZQUx0Vlk1dUxzclFJYkVlTVl0UUdNalNFM1A1c2R2cVBLbmhHTmQtZkpBeF9kbFBTLTY2dEZ5VV9NUWRaUkoxM3ZWQkpobmhjQS1j?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-27T03:30:22+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Silver Price Forecast: XAG/USD falls toward 11-month lows after slipping below $54.00",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeE5TTUZRUTlHd1JwbS13N1dUWUxpU2NCRjRWMjY2RTZJNjJaWkNibmhvX0hpUUUyQ0F0aW5RTU40YzlyNHlkZjdKRHBYc1h0R1pkakVSMkRJZ0RSYWozRG9VbThrUUJ3RklwQVlySDdEN3NPRXJsa1pDSzc1STNhM3duYlktZ2ZJUEY1WXJ5STRjWW1lbXQ3Z0ItN1J5a1ByNDhPcGNGaGkydk1lblVYdzlvZmJxMmRocWtFZE91RmgzTFU?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-27T02:51:23+00:00",
-   "tags": [
-    "silver"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Dow, S&P 500, Nasdaq Futures Climb As Tech Stocks Get A Boost From Anthropic IPO Listing: SOFI, BB, PYPL, CLS In Focus",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU2lDZllmMXloaklnT0JJT05vNTJOeTdyYVc0bm8tUFBjUWZXVUlaVHNSYjYtRVNySGh2eHdCY2FHeEZPN3VmN1RUdzlITzliM3BuNlNSWlROWk1iZk1UeFl1eG9wR1o1clRwdFQ1bzA1ZGhrV29sYmh3TXhmMzhSZGV5UC10RFFaVWE3M0d1dnU2Y1k?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-27T02:45:00+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "GIFT Nifty falls 100 pts, signals weak start for Sensex, Nifty despite Asian, Wall Street rallies; Fed in...",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOcHN4S2xzaXBnT0dkaGFrcDRkSUNmS2l1LWRyc1dtVG82QkpTYWthV2xLMWVpTzduREtTNGt2Wm40NFpweHFzUzBvaDFuVDlJMUQ2c29wLU0wM0o3ZkVwam1pQXlOWWJLcndwZGcyWEEydmJ1WEVxMG5DMEFSMHpfMFVyOU1sb1JiWldReFVlaWpPUkVzV1FjS2U1MmpxRTlwNW1zby1aTDJlRG9hMVQ2UDktWXNqWHZkTUEyOThIR0hQX3psSUxxVHBma0JaMTZ0R1kyTl9qTG5nUWc1alY5cVV3SUFkaG53UlhKc3dyZ282YTlYLTl5d2t4eUsxWlRRd2fSAYcCQVVfeXFMT1ktR0x5N3owTlVQZURselhVajNSWWItdUl6RFBBS1cxSVdvQ2VRdk9LVTNpQW5KNzR4LWlPMkl0T0tjNDZFbm9xblhTOTNKVWQ3NE1haGFtMkhiVXFJa3Q4bUJGcVROTkxmcUg5N1BpazRzSGxiWXhPUFhrZlQ0OTQwVEphX3lEQ2V5NEVWZkt3eDM2ejBQVFVBOGpKSWNKemIzaEo4TjdYQzNwelNPckxWTXZqMHQtWEJZbEhLdUJNb1lKaHBSTFhXRXNlVlJlM2RwNG1aM2RwN1BhNnJUYzhfX0hLVWh6SEoxYTlMUHcwTi1mRUhWT1ZNX01aSTRxMzZCVUNQclU?oc=5",
-   "src": "Moneycontrol.com",
-   "t": "2026-10-27T02:34:32+00:00",
-   "tags": [
-    "spx",
-    "nifty",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Stock Market LIVE: GIFT Nifty down 88 points; Asia markets turn positive; Brent crude below $115",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSlN3bzA0b1VnMWlwekt1ZGEycDNBeHkyY0JfaHJDZ2JWNS1hcXZCV3AwWHZxYjNrZDZfVE9FNnZ3MzdBV3MxbXh0RkYwaUMyQk50b3U5cWlPcWZLaDNHLWpMcm44MFNlMU9pSnhVeF9ldUhYMkNvZVBWRGtPYV81TkVkOEN6UmlBUkZzdWpKTUtDT1NKakdUMFRtdkItcG1EcFRsX056ZjU0aGlvUVBhdHEwd0N2Z2J6MEpFQ1IzYWxCc0dOQVRCR1Q0VmRlTFM1UEwtaGRoSF8zRWhxVmttOERLbWI4WWpBOTR0Z0F1My1ySzV3SnFyVzNHRVNJZDhJOWw1Z9IBigJBVV95cUxPd1B3Q0FXSjlQYkVqR29VT3NERGNlTkRHamxVMGFfMlFyWTNBcUQtaTYxSGxabllKd1p5V1hrZG5vQ1lNT3B5cFVSMXJkenZXcXZ4Z1VtM2cxTVM0d1dPOHdvQVhYZFVtMlVFS1FTclk0SEZwd3paZGVCRmJHVXFYcXpJeEI2SnI4Q0Z3S29VZVIwV0Z3WGVCZ0NnenBWeXU2UGxUNkRUMHptb2treWxWQ1VpRGZpYk5scThjQ2JIQlRaMWhBclR4OUlMLWhieGxQRU9sQ2QxMnZGdXRfT0VhQTZteUtmLXU2WU1kVDhvNV9SMVlJRWgwS0NDcjcwdTVuMmRyQTJ1Mkxydw?oc=5",
-   "src": "Business Standard",
-   "t": "2026-10-27T02:34:22+00:00",
-   "tags": [
-    "oil",
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Indian shares muted as oil stays near 6-month high, Fed rate decision in focus",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcms4SkRwSDBJVER3QkV1VmoyX1pvTUlrcjRpSk4xSmNLNFZYNjh3Vi1LMGNfUnZPYnVscDdQZl9Xa0d4SHhKM1lDLXItNWh0aWMxNThJeVpMOEsxWXYwNUVXSWMtVWZRZjRRQlFUYk9tRUZxRUR1MWo0QUdPVE9TdzFnWDk0Qzd3NDZfYml4cGdSenVORGpfUTB6RTMyRV9BRmowWERaeWdsSFVLUU0zdFl3?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-27T02:28:00+00:00",
-   "tags": [
-    "oil",
-    "nifty",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Australian Dollar gathers strength above 0.7000, Australia's CPI and Fed rate decision in focus",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRFFSaU0tdWtrRENHcVRwSEZPMkd0Rk1MN0NHX2FJWF9JcTVPcUQyTVA0MUprcWdaenM1WnNtREZkempTNHZ1WGs1cGtURGV1UzIzYXcwM21KUXgyYzh5MnYyNWp3RU5veGtFcklpbFNkVHFBTGllUTJuTkIyMHQ0MGZSRGhFaUluUHM2M3hWTFEwVjV4VmRGdTRqQnlWeUZtakJXdmc5T0xEMmYzUVhlVEJCZ1V3UkxDejRyWTNUX0VKZ2NDX3JqR2FPd21hb3gx?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-27T02:16:06+00:00",
-   "tags": [
-    "macro"
    ],
    "tone": "neutral"
   }
