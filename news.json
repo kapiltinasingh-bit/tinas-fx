@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-27T19:49:50.073516+00:00",
+ "updated": "2026-10-27T20:26:12.599108+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 7
+   "new": 6
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -72,13 +72,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "MarketWatch",
@@ -114,10 +114,40 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "Robinhood quarterly revenue rises 12% as event contracts, options offset crypto slump",
+   "url": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+   "src": "CNBC",
+   "t": "2026-10-27T20:20:57+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Fed’s Rate Decision Lands Days Before Midterm Elections",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUlI3SHJwYTFtNE1fLThJc2UtVTNQRGRfWFBaSFBaVDB6NzNJekFHUkduWU02OXNDaFhibks1bzJ1NGpDQTN3SFg5T2FXbGo2R1dSS0FQT01OZUpDWWl0Q2cwWkE3eFdieE5xa3BIT2w2SmJ1R3VpbWk5dXRwczV2cVFnUnlhYXpmNEJabUtKNnJySWJaa2V2NjQ5c0lBUElkdEFJMXo1RnY0NFVrVHBUZkFtbGlZQ1k?oc=5",
+   "src": "Bloomberg.com",
+   "t": "2026-10-27T20:19:37+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Tokenized Gold’s Next Growth Test Is Its Role in Collateralized Lending",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcVpvSGllVG5xekFTd2VYcUpydVQ2UDJJRkYzdUppZ1ZacThaUjBLTVE3dUJOUkQ0d0ZEcTNmUHEweFh5QVVzMTZxUEctWHFLelltQkZhQVN4SXlSRXlFem9Zc2prcVBWQ3Z6QkMyOHY1YlotelRIWmFyX0lOeEdzRWhjb1pKdEZ0NkpudWFmZXMzQnNQa1l2Z2QzbzF3MDU2emxXQ3Vva1VfRElTS3N4TS03MUVRQQ?oc=5",
+   "src": "Investing.com",
+   "t": "2026-10-27T20:15:00+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Pre-FOMC US Dollar Price Action Setups: EUR/USD, USD/JPY, GBP/USD, USD/CAD",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0Rndnp3ZVlKdFByV0NLR0VuT1l6dmFDR3JKcWt4dmZvZjNuRW5xWEs2MW5sZmk5dDByZ2Q4dHhIRjMyRWROdTE5SHZXUHVfd0V5UmRHei1fYjVrMEZmQ0RvRFQ5U1BYNm1rWVVmamdIVjBfVnlCYzVvclhrZ1A3YWMtTUx2bmdqeUpPbFhjVDQyRXFYa2pTcUZFc2hOSklRYW92dkJCSm5BNFpCZXNnZm1NMnhGdlI30gHEAUFVX3lxTFBhMVlQcjFlUk5DSTByM2VtSnRGeDExWV9wWTlLSVAyNjJpZU53WUxuY1BPWWlhT2dMQVJjeHhXdGFMUDJDQlZjX09OcGU0RTBXbDZ5Nk9uREJEeTBXWk1SRXJEQXRkQmR0TGpjNnktMzAxNXowU2p1bFhldGl6NzQyRFh0VEVaUzI1bUM1QXlaMWUwam9XYXVaWktXOWswRi1oUnppWXRORElUMlpMcWx2eDRwdEJUelVCNzFwNVk1UWY1MDY?oc=5",
@@ -261,6 +291,17 @@
    "t": "2026-10-27T17:14:44+00:00",
    "tags": [
     "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Precious Metals Prices Canada | Gold, Silver, Platinum, Palladium, Rhodium in CAD",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-27T17:08:44+00:00",
+   "tags": [
+    "gold",
+    "silver"
    ],
    "tone": "neutral"
   },
@@ -1265,6 +1306,18 @@
    "t": "2026-10-27T10:44:19+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Stock Market Today: Nasdaq, S&P 500 Jump on Busy Earnings Day as Tech Stocks Extend Rally; Boeing Weighs on Dow; Oil Prices Decline",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVZVZU41WDR2cm9hMkhTeEo0a0FGMjk0eHNKTS1kWm5HVDFFRFNwSXkzQ2M3bmJCVjNVc3QtUVpIUjkySE8ya0tiLS1hMW4wd1RkaFBhMHowQWVIdWkzcnhmczR3SnI5SFJETEw5b1RfYmxEang1WlBoMWhLeHRKZGNMU1hiUWo1ZmZDX0xWZ1I3OHUzOGZz?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-27T10:39:54+00:00",
+   "tags": [
+    "oil",
+    "spx",
+    "nasdaq"
    ],
    "tone": "neutral"
   },
@@ -2674,57 +2727,6 @@
     "macro"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
-   "url": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
-   "src": "CNBC",
-   "t": "2026-10-26T23:51:07+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "SILVER description={PAGE_DESCRIPTION} News",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JZENSQW9jVWdNYXlIMHpCTnA0bHdDVHlwVFExbzdIT0I2Uy1HVGV6akpMRjRucng0YTc0Tng5NWFIR18zNktLOE1idFRlZnlEMHphdGcwQQ?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-26T23:30:26+00:00",
-   "tags": [
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin and gold are 2026’s worst-performing assets, and history offers no precedent",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTlY1ajI1WkZuUDhucGlBUzNWSEpPTWlJc3lfUERtTFpEaEoxMVlaSWpvUThoTHdqNTAwbkJzMDlOdE1OU3dMYjE4S3Y2SllfWUFjb0Z4Y1dvaG1WcDA2WGVaRDU0emh2U2MxeUloRF82NkgteWNhM1lIOW5xQ2staER0aXZibDRpcGJaMVJNT3FyeTVWczFzU0dlcVdjaGFJazEweGZZYkpvN21BdlExNWo4dVJCWnkzbElOZWVzWFE?oc=5",
-   "src": "TheStreet",
-   "t": "2026-10-26T23:30:00+00:00",
-   "tags": [
-    "gold",
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Equities end higher as Anthropic's IPO filing buoys AI stocks",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-26T23:28:41+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold rebounds above $4,000 amid hopes of easing US‑Iran tensions",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR2h0TkR3TDJRYzVCLThGNTBZV1lScHB4NU1veVJXRERvaEpwX0o5NUdVSXV3TVB3Z05JMENoQkVIampiOWNrUGZuOGhCLXBqcXdSS0JWbkp5c3BULVdPUVhrLWJtZjFxcmhYM05pLXV5WmJ2VFhlU3g4ZGJoVzNXNjhhWENsVFY1c0cwNnp6UUdGRXJJbk5iRk4zN1kyS1Q2dldmd29DM0pEUQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-26T23:20:59+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bullish"
   }
  ]
 }
