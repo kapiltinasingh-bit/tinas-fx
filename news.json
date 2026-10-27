@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T22:14:10.327434+00:00",
+ "updated": "2026-10-27T22:48:02.420735+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,13 +12,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 6
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -66,13 +66,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "CNBC",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Economic Times",
@@ -119,6 +119,46 @@
  ],
  "items": [
   {
+   "title": "Hyperliquid's Biggest Traders Are Shorting Bitcoin for the First Time Since March. Could BTC Drop Below $75,000?",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSXJJQmZoeHF2ZlRhcFZWNFJUMHFXdWJGN2s5dXFIengyZ1padEJxdUJSZjJZcjBqMDdDOHFzdTktTVp5a2RmamhLMkFteWRZelplaXFjUGtCelBuRlVqNHF4VzMxYzhya2dfaWx4UDcxbEI1SXBQem5Fel9XVkMwYkN6czc3dFBUQ01ybjJvQ3FFWHhBNDY2ajBLaG1WenVxc01nZWIyQjhuZmd3V0prUjBfMmktZmhMeFFyUEJFNndnMVRYT25LNHN4QzdxMEk0bDFyVDFoUXZNdVE1SGhuUmlNWEEwWFpJRld0UXZiOG14X3Zpa2FYemxn?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-27T22:34:11+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Ethereum Price Prediction: Can ETH Get Back to $2,700 by the End of November?",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa25JYzd6TDV1Zlo4WXR0ZkI2TmlqbTNQVk1CdHpGOHJJVDNZWWpGWk1iSUxjNC1QQ0pBY3hubUtkNm0tR2NQWTIyem9rTnNsSlVXSGdhb25jUGI3YW1Oei1hRXJhb1pTS1hNX2o3b1ZoNjlZUzdteGxkN0gtWjdEQmhTbW5EVkRVYWZBMUhJUE5MUHJ0ZHVaSnhQZFg3RG1GdmFfdlBzc3dyaU0zTHZ1ZVdpalI5WVVfaUdVN25vU1YxcjVzSFo0NlEyYkQ?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-27T22:30:56+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Is Bitcoin’s Bear Market Over? Galaxy Thinks It Might Be",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY1RBX1JhWlhIaHQ0RW1SZGtBcEZGcXJvQWxicl82VTdkNFB2SFVZTHozeFlqbmlrWUxUTUk1VEI0QVlzSTBQOHJ0TDhKZDlHQ19NWWExckRMWlFCc2JaaTlhQjB0c1AxTEtfcFpMRllyN0o2VUNEMjB1TkVsSEFjVTB0RG5YOExDbXNqVnNUb3l1RG1wMHhHV1BFSDhGQ1FucWpzNnRYT1FEb3ZtcUY2ZjNmRQ?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-27T22:30:53+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold (XAU/USD) Price Forecast: Short-Term Strength Faces Major Resistance",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNUJucWdrSzBlbGdUazhfZnU2WGdrbDFrSk9NNk9NUWhzMlctbXc3U013N3BCdnh1VnB6LXNmanN0NUVVWWJCTmo5dVNFTWl5cXAyemp2dWV6UllmWENGSERsckVrTV9TUXlRRVJraVJVblhMbnJDU2daNjhaRkdGSllqTnQwYnVmc1k1N3ZEVm5UblZvbmo3M3ZldjFQd2RNeFY4Y21uZG5ORHUtaExwRWRNU1N6MzR6eHY2NlpB?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-10-27T22:27:16+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending",
    "url": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories",
    "src": "MarketWatch",
@@ -128,6 +168,16 @@
     "nasdaq"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "US gold ETF inflows description={PAGE_DESCRIPTION}",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00TU0yUDY5cExjSEt2Y09CN1NkT3lTMkdkUzdueHd1STNkUnYteFFFb0Z1RXNZQUVPRG1rcWwxa193Z3B4SDNhVUxfV0xfQW5JcDJPVk1DbE5SY1NrY1A4?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-27T21:35:59+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Sinda targets more than 20 million ounces of silver a year by 2031 - Daniel Muñiz Quintanilla",
@@ -2287,6 +2337,16 @@
    "tone": "neutral"
   },
   {
+   "title": "COMMENTARY: Canada takes a page from the Saudi oil playbook",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLVdYZEhQeFB6N3hoajA4RFZvLURrQWJNV0t5Sm5sMWxtVGN4VTRRRmpSSnpOOFNOUF90ZGdqX19MSk9RdWJzN0FiaU1tVlZEeE12UTAxajROdVZOeUFCT1VVNUtSZHJHTV9jd1o3d0VTMXBQcHpmTGpqdi1BenBvbVVnT09UOUZ1c2RvYXlSdlRSVzFiM3g0Y3MtV0EtR2dPTlVtbVdCNUY?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-27T06:00:00+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Gold eases on firmer dollar ahead of Fed decision",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWIyeWVhRnVBaHZfV05HanpZVFJzZDZiaC1MTEFVX0JEbWc5RVhRV3htMnJFMDNCVjBPWTJISkhha3ZWc3otaXBCTGloREJidmlqOWtXMTQ4Zks2aTA5czBzNC1OdGNuVXlqLVZ4TTk3M1VUSEZvdVdCLXV3bHJsZXBHSktGcXR0dk1wS2VYdWYxTm9ueGc?oc=5",
    "src": "Reuters",
@@ -2664,68 +2724,6 @@
     "macro"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Yen slips ahead of central bank bonanza, dollar firms on tech rebound",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeWp4LUFQSG1YQ0ZPLVJSemFVRlhkb0tpQkpBZXI0MWNHalVNSURwWEw4SUlDVVdWQUpGY3pkMnlhd0xtRXlYUDc1U0xvS25FUDBoUzNjREtmWEtKa0ZqalJKRlhWZWtSSVJMb0lhb2J6Ty12ck95WlZNRXcydkNMbVczbHAxUU9WMl9GS2YxLUdSS1JuNFlPdXJqZ0hQQjdTdjNIcW9KUVducVdxUTRLZk9uVzltbFo3WXo1RzgyUXBuUjRhNUFxT0pIVDA4TlFlaVRhRFd1NmJoMjNueXhqdtIB5gFBVV95cUxPTm50eVZYanZmNTZna1ZwTjg0UEpKOThFMTFaeURSOXBjQjJQdnliVnQ5SEtWWXVLbFFORmVTNGp6NWJkSWJiZWRvZFJxdkxWV0JTRnpydzM0QUVJVDhUQnkwTjJRTlAyNUZXS21xVWU3OVFDeFVzTjl5UXpHbE1DOGtaRE1iSTJPaEh6WWlZd0FldFBWQTRobXRCeFliLXJrTUxfQkdGSGFqS3RaTEhOMThjTlBQdEptNFVDVEJENUtjV2dsSWozM1AyMjg4ZTc0VG1YWmtGeGtoM2VmaGYzOXN0M2ZTQQ?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-27T02:15:58+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Oil Price Today (October 27): Crude oil below $115 amid peace talk hopes but attacks continue. What are experts saying?",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-27-crude-oil-below-115-amid-peace-talk-hopes-but-attacks-continue-what-are-experts-saying/articleshow/135222687.cms",
-   "src": "Economic Times",
-   "t": "2026-10-27T02:13:29+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Yen eases on risk-on mood ahead of central bank bonanza",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVDhUYWVaR1lyeGFScDAxOG1INFBuME5XaHhvOFNZTnhjUXFCTHVGX2k1cEJzSUMwUmpQblFZWE1WU2Z6Q0dnZTRmc2lCSEE1RklYN3VZdWV3aVRLblJ4aTFudW1aUkxUVWZXWUl6Ql8zQkVEaDBJakY4SnhyUmRwb1BQcHpKSHlOWG5DeDN3QVFIb1MyMU5mcDlESEdQS1BwdHhpaThFZjZDMDIweVVYX1VQX1VEdVdh?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-27T02:12:00+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold eases as stronger dollar weighs, Fed meeting in focus",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-eases-as-stronger-dollar-weighs-fed-meeting-in-focus/articleshow/135222653.cms",
-   "src": "Economic Times",
-   "t": "2026-10-27T02:09:00+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Oil eases on Middle East diplomacy hopes, Saudi attacks keep supply worries alive",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-eases-on-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive/articleshow/135222639.cms",
-   "src": "Economic Times",
-   "t": "2026-10-27T02:05:46+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Japanese Yen extends slide vs firm USD as traders keenly await Fed, BoJ policy meetings",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN0xyQ2RjamszY3VZdGlQQUV2NkNtX1Fvc1ZKQVlFSWxnbW01Wm56dTNHODdNdTFKcS0taElYb3UwYXJNd3IwZ0dxczBxbE02aThRQnIweFFZYWt5NDNEQ3Jaa3FiT182WENwVldVVzBvNlc1emN0ekZtX09UNEF5TGs5VW8tLUZhUFpDLVYwMVBzb0MwMTY2ZHpNZ2tJd0NXOEpYbzNOZG1oU003bEtSdkIxUzRwT1dqRGJmRWwwU3NVNk9jdHo1OA?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-27T01:58:25+00:00",
-   "tags": [
-    "usdjpy",
-    "macro"
-   ],
-   "tone": "bearish"
   }
  ]
 }
