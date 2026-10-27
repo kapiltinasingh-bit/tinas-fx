@@ -1,42 +1,42 @@
 {
- "updated": "2026-10-27T05:14:33.762619+00:00",
+ "updated": "2026-10-27T05:47:29.805103+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
@@ -113,11 +113,21 @@
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
-   "ok": false,
-   "err": "unclosed token: line 76, column 2"
+   "ok": true,
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Oil slips 1% as Iran diplomacy eases supply fears",
+   "url": "https://www.investing.com/news/commodities-news/oil-eases-on-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive-4974185",
+   "src": "Investing.com",
+   "t": "2026-10-27T05:24:25+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
    "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
@@ -129,6 +139,16 @@
    "tone": "bearish"
   },
   {
+   "title": "WTI Forecast: Holds below $100.00 as Mideast risks limit downside",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTlVkWmVRbU40b0k2eTFmUGVkYWFyUE1mcXc5MUJxdDVpeU1zRXlnTGlEb3pGNFhEY3FXWFRUVGVwZTNrS2lTVm44TDIxcVN3VVY3eGdENndkYXpuTHpzdTFXVFFZVFlBc0k4RzBqR0NmQ2dwQ2UzZFY5S0s3bFNraWhzNFQtS19vZzlaSDhIU1paSmJGRElXQ0VkV190UTZfLS1McmlGZVA0VDBmSXMyN0RfM0dSd2lmeGktck93U1g2eGM?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-27T04:57:07+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Sensex, Nifty extend gains despite oil hovering near $115/barrel. What lies ahead?",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOXlsMzNXU2Z0RG55UzZhOXFuMFlacXVTVVFTMkdvc2lLNE1XWVpxbWoxeXVDTGRDcTE0eWRmMUxTcGxZUkVQanFNMUJOemxfR0hEdmpTVHE4T0hNTUJSV2RIVE1mbGtLUFFJYmhESlJJeEtMUl95N0JXX2hwV3dZMlo4NVdkNmFFZVpzTlBQcU9ubEZod2pQSWVSc2MtdFY3VmJ2aUtYbUJvMXNGMzV2LUE4NWNiZUJGcmExdE5IbTdrbzNqdThwdUx6M3RvQXh0d2ZaLTVjNUxxUEZMUVU5U21fVGpKSmvSAewBQVVfeXFMUGxjNHlua0NBaEdiNm1uZVQtZmlwaHZXdFd3WHkxRGRZUjJVdFJSdml4Z2I4Um5TakVZSUszTWNFakpGX1RaUi1lVXpuQ085Wnh6dnBSMXFEa3A4WV9nY0FSel9hbHhYOF9tSU5zR0FUWGcwdlBpTUVETS1zZ0RULTZCZlhxdU5icTVtWldTcjQ4aVYyckZuaVhKLWpKSkRfOEdHeWttNlZGQ3hCRmotZkxWQy15c0lfbDZ3cUc2MkR1RkN5MUhxNEVkYmxIUF9CVmRRbUc3MDVhSXRsSTk5VHltLXUyeHludnRzR18?oc=5",
    "src": "The Economic Times",
@@ -138,6 +158,16 @@
     "nifty"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Anthropic IPO: Why Wall Street is bracing for an AI market test",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-why-wall-street-is-bracing-for-an-ai-market-test/slideshow/135225314.cms",
+   "src": "Economic Times",
+   "t": "2026-10-27T04:48:19+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Weekly technical outlook – USD/JPY, EUR/USD, GBP/USD [Video]",
@@ -200,6 +230,16 @@
    "tags": [
     "gold",
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Paytm stock falls over 1% after Q2 results, pares early gains; brokerages see up to 33% upside",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWkVLcXZBZzk1ZTVCRUEzcmFkaHRrN3pYNnJ0ZmdIYS1fNU95OGYzVkxqODdYUEFNRkVhdl9kSFVDbTdlWmhXNlloV3NrdVo0dkV4eXFKMjBjdmlQNHhzXzJqRzU0RDcxUHU2UGstYnlPRWgxZGFLOUxLTFB5cjF2aEVKcjROV1l6QU03czBFNVRFZGUyaEtwN055TXVxSlpNSkstQm1TVlVfREp0U2lVWThoNXJXODVKUjlhaEY4ZXozU2txV2pfNlJjeVZyZWxqNUtPeUZsQUVCbTNoTlpWbHdJV2djUzRXR3pz0gHwAUFVX3lxTE5RLWFEVFdYTUtFNzlXNFRJVmhJVWFkQ2phT2t0dG9YTzlQMzlTNk1FUWRVVENvZE1lUTl0cDhlay1BNGRhZWR4aEdxZHR5STgxSjBoZlJjdTBUOURsc2JZdHVWS0FqOWtxR2xkZVU5YWthMktiVkRJSmVPNkdtUWRQbTRpdHpwNVRtSjg5MmNKbVBwQ0RPYW14c21aVHRIU0xEZW9uWFlXU0hjNVdoR2lvNE1qTnlEWTh2WGNJWXV3R29PbzJ0RExwUnpEOGlhRlB2T0NwUXZVTHZRZzlLTWo0NXMzWHlvYmRKZmtQMkNWSg?oc=5",
+   "src": "Moneycontrol.com",
+   "t": "2026-10-27T04:04:35+00:00",
+   "tags": [
+    "spx"
    ],
    "tone": "neutral"
   },
@@ -2662,46 +2702,6 @@
    "tags": [
     "oil",
     "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Over 11 million BTC can't be linked to any known owner",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcWxSckhpMG9CRTRWaGJvb2dwazlWRENWcThLUm1SaXk0THR3anNsR3BsMk5pNmpvT0t0OXdkQXNoc2EyUUlBRXVWNnVjZ3Q1R0Noc3ZXR3cwZEF1eFRKUXZsOTNNZjFOc1BwTmZoWUZNNGlfbWxQbmo1QnVqSjRSVHlNVWFOMHpSb2JoZ00yWVVyRUtqb3RPcHZScURSdzJjR2k5bHdsS0gtRWZ1RlhqRjd5Ml9BNlVjRERIREdrR3FmelVsSkY4?oc=5",
-   "src": "CoinDesk",
-   "t": "2026-10-26T07:18:24+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Over 11 million bitcoin has no known owner. Here's what it means",
-   "url": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
-   "src": "CoinDesk",
-   "t": "2026-10-26T07:18:24+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US Dollar: Fed pause keeps December hike in play – BBH",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSHRwaHFtUk1aelltenR4M3dVTWNodFdjYlR5NHIxdlk4c0dCMlVNbk5FTWlEelcwZTgtYnlzTDc3YmFZblY1cE55SUVPWXY2Y0xiZE1yOFZ4MmtDZkk4UGRHQ0RWeVFOX3FVOC0xYmJONXQxV1V6VjVyUXo4cjNuQ181NkFjTWRpdG53enNRalFwdGx4bnRiMlZR?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-26T07:13:29+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "London Gas Oil consolidates in triangle at key support: Live levels",
-   "url": "https://www.investing.com/news/commodities-news/london-gas-oil-consolidates-in-triangle-at-key-support-live-levels-93CH-4971507",
-   "src": "Investing.com",
-   "t": "2026-10-26T07:11:13+00:00",
-   "tags": [
-    "oil"
    ],
    "tone": "neutral"
   }
