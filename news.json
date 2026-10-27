@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T05:47:29.805103+00:00",
+ "updated": "2026-10-27T06:26:02.707513+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,25 +18,25 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "Moneycontrol",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 8
+   "new": 9
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,48 @@
   }
  ],
  "items": [
+  {
+   "title": "Gold eases on firmer dollar ahead of Fed decision",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWIyeWVhRnVBaHZfV05HanpZVFJzZDZiaC1MTEFVX0JEbWc5RVhRV3htMnJFMDNCVjBPWTJISkhha3ZWc3otaXBCTGloREJidmlqOWtXMTQ4Zks2aTA5czBzNC1OdGNuVXlqLVZ4TTk3M1VUSEZvdVdCLXV3bHJsZXBHSktGcXR0dk1wS2VYdWYxTm9ueGc?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-27T05:46:00+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "AI stocks rally after Anthropic IPO filing, Nvidia gains nearly 3%",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stocks-rally-after-anthropic-ipo-filing-nvidia-gains-nearly-3/articleshow/135225580.cms",
+   "src": "Economic Times",
+   "t": "2026-10-27T05:45:30+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Indian bonds tick up on calm oil before Fed verdict",
+   "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-tick-up-on-calm-oil-before-fed-verdict/articleshow/135225679.cms",
+   "src": "Economic Times",
+   "t": "2026-10-27T05:44:11+00:00",
+   "tags": [
+    "oil",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "TCS, Infosys, other IT stocks drop up to 3% as Anthropic IPO sparks rally in global AI stocks",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-other-it-stocks-drop-up-to-3-as-anthropic-ipo-sparks-rally-in-global-ai-stocks/articleshow/135225464.cms",
+   "src": "Economic Times",
+   "t": "2026-10-27T05:36:16+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Oil slips 1% as Iran diplomacy eases supply fears",
    "url": "https://www.investing.com/news/commodities-news/oil-eases-on-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive-4974185",
@@ -211,6 +253,16 @@
     "macro"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Gold holds above $4,000 as USD bulls await FOMC decision",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcDY2T2dHeXp1anl0WVRhbDItM1ppQVJFSDRiVkFTLVdOZkNUalBsekIzTmhaaTd4OG1NU2QzSkpmbWc3dXN6Q3EwQVUwWmVxYkhLc2NVMENRdTRqU2xvLU1rbzZmTldHUU5oZWppNnptUGZhLUR6RDE0YWRkUUUxNUR3VTlaQmhpdUdfTV95VmpiLUZqb2FPWTlQU3E2LWs?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-27T04:28:19+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Sensex rises 300 pts from day's low, Nifty reclaims 22,750: Key factors behind market gain",
@@ -307,6 +359,17 @@
    "tone": "neutral"
   },
   {
+   "title": "Dow, S&P 500, Nasdaq Futures Climb As Tech Stocks Get A Boost From Anthropic IPO Listing: SOFI, BB, PYPL, CLS In Focus",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU2lDZllmMXloaklnT0JJT05vNTJOeTdyYVc0bm8tUFBjUWZXVUlaVHNSYjYtRVNySGh2eHdCY2FHeEZPN3VmN1RUdzlITzliM3BuNlNSWlROWk1iZk1UeFl1eG9wR1o1clRwdFQ1bzA1ZGhrV29sYmh3TXhmMzhSZGV5UC10RFFaVWE3M0d1dnU2Y1k?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-27T02:45:00+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "GIFT Nifty falls 100 pts, signals weak start for Sensex, Nifty despite Asian, Wall Street rallies; Fed in...",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOcHN4S2xzaXBnT0dkaGFrcDRkSUNmS2l1LWRyc1dtVG82QkpTYWthV2xLMWVpTzduREtTNGt2Wm40NFpweHFzUzBvaDFuVDlJMUQ2c29wLU0wM0o3ZkVwam1pQXlOWWJLcndwZGcyWEEydmJ1WEVxMG5DMEFSMHpfMFVyOU1sb1JiWldReFVlaWpPUkVzV1FjS2U1MmpxRTlwNW1zby1aTDJlRG9hMVQ2UDktWXNqWHZkTUEyOThIR0hQX3psSUxxVHBma0JaMTZ0R1kyTl9qTG5nUWc1alY5cVV3SUFkaG53UlhKc3dyZ282YTlYLTl5d2t4eUsxWlRRd2fSAYcCQVVfeXFMT1ktR0x5N3owTlVQZURselhVajNSWWItdUl6RFBBS1cxSVdvQ2VRdk9LVTNpQW5KNzR4LWlPMkl0T0tjNDZFbm9xblhTOTNKVWQ3NE1haGFtMkhiVXFJa3Q4bUJGcVROTkxmcUg5N1BpazRzSGxiWXhPUFhrZlQ0OTQwVEphX3lEQ2V5NEVWZkt3eDM2ejBQVFVBOGpKSWNKemIzaEo4TjdYQzNwelNPckxWTXZqMHQtWEJZbEhLdUJNb1lKaHBSTFhXRXNlVlJlM2RwNG1aM2RwN1BhNnJUYzhfX0hLVWh6SEoxYTlMUHcwTi1mRUhWT1ZNX01aSTRxMzZCVUNQclU?oc=5",
    "src": "Moneycontrol.com",
@@ -356,6 +419,16 @@
    "t": "2026-10-27T02:13:29+00:00",
    "tags": [
     "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Yen eases on risk-on mood ahead of central bank bonanza",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVDhUYWVaR1lyeGFScDAxOG1INFBuME5XaHhvOFNZTnhjUXFCTHVGX2k1cEJzSUMwUmpQblFZWE1WU2Z6Q0dnZTRmc2lCSEE1RklYN3VZdWV3aVRLblJ4aTFudW1aUkxUVWZXWUl6Ql8zQkVEaDBJakY4SnhyUmRwb1BQcHpKSHlOWG5DeDN3QVFIb1MyMU5mcDlESEdQS1BwdHhpaThFZjZDMDIweVVYX1VQX1VEdVdh?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-27T02:12:00+00:00",
+   "tags": [
+    "usdjpy"
    ],
    "tone": "neutral"
   },
@@ -595,6 +668,17 @@
    "t": "2026-10-26T23:51:07+00:00",
    "tags": [
     "usdjpy"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin and gold are 2026’s worst-performing assets, and history offers no precedent",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTlY1ajI1WkZuUDhucGlBUzNWSEpPTWlJc3lfUERtTFpEaEoxMVlaSWpvUThoTHdqNTAwbkJzMDlOdE1OU3dMYjE4S3Y2SllfWUFjb0Z4Y1dvaG1WcDA2WGVaRDU0emh2U2MxeUloRF82NkgteWNhM1lIOW5xQ2staER0aXZibDRpcGJaMVJNT3FyeTVWczFzU0dlcVdjaGFJazEweGZZYkpvN21BdlExNWo4dVJCWnkzbElOZWVzWFE?oc=5",
+   "src": "TheStreet",
+   "t": "2026-10-26T23:30:00+00:00",
+   "tags": [
+    "gold",
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -918,6 +1002,17 @@
    "t": "2026-10-26T19:23:11+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "London Gas Oil consolidates in range as ADX flatlines: Live levels",
+   "url": "https://www.investing.com/news/commodities-news/london-gas-oil-consolidates-in-triangle-at-key-support-live-levels-93CH-4971507",
+   "src": "Investing.com",
+   "t": "2026-10-26T19:19:02+00:00",
+   "tags": [
+    "oil",
+    "dfm"
    ],
    "tone": "neutral"
   },
@@ -1442,6 +1537,18 @@
    "t": "2026-10-26T15:04:30+00:00",
    "tags": [
     "gold",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold price rises as lower oil prices ease inflation fears ahead of Fed meeting",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeS1falBJUHlWUXhibUpwdHhkRlp3WnZ4dDhNX1ZneXZYeGxFUVA3eVk5V3c1US16VVZ0UmZiNmwyS3VHMXB5SW1RUGhSc0xpQk9rSnZuWmxlUXkwME00OGo4eWFWQlp4Qk5ZWi0tWTBCNmFqaHdQMnpreTZFSjY0NjhrSTNqWWVfN2M1ZFVORUFTTHA3ZjJFa3hvMXZxZVBrakpPMUl0WFlndw?oc=5",
+   "src": "Mining.com",
+   "t": "2026-10-26T15:02:10+00:00",
+   "tags": [
+    "gold",
+    "oil",
     "macro"
    ],
    "tone": "neutral"
@@ -2603,107 +2710,6 @@
     "nasdaq"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Canadian Dollar: BoC rate hike bets boost support against USD - BBH",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUV5QTBxc1VKelQ5VjVMV0xoTUlwQ0dtSmxLRk9NRUNCeUZvalhHRnE0RmZySG1BTXdBbHpxS0VDRmpSV0hydVBGdkd5bDc1VmhoRmlSSXlWQzRoa0xQWmxMaEtHaXllTlNsSC04Z0pUcHAzcjFkVElVTHhHcGltY1FHWEdaeDQ2aVdtdXVfTG1wZ2RZX0ZrVDVyUGJVNllqajViU2FNTnV4THc?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-26T08:21:55+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "MRPL share price zooms 12% in muted market; among most active stocks on NSE",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONVlFWGxsRDZieDE4Y0FHUjltWWpCUkNtY1pJUzdDSWdidERqV1V4X19kMDdLZW9pRlFLWFBMSUU3Z1FUeGZubGhINVNBQWhDamIyWUc4SWZkUk9fU2hncW5kLU4yV2Z2eTBuNmVwM2Z0bkFsbDFvOFh1ZTVHTWpabDhERHRQdE5HVnRMMnQzbmIzZ2xBNjVWU1VndkxEZGJDbXFMWTZNSjhhRzlMZzdJRVk2UGVHeGpuWnp3OFF2UFF3RkZldEZVODFwYXF0UzNuUXdaOTBuVdIB3AFBVV95cUxNUmtIaFo2SUQya3ZNSnpkd2N3UllIWEg5ckR1M3hZeC1aZUw4VGhPYjVFQWk5Mi11Nl9UdXA5Z3paMlYxZ3pWVjdTZnd3YWV3c083ZlhzNl9laEp4UzZ0ckU4bDRNamluOVZhQjJMb3ppbXlQTE5nN3hEUm5KczNqdUliRmphWUZvR1Z5Yy11OXRacDhkM3RzcGpMNzBRTUk1ak44YWtOcjN6eWhGSTFCSDZpdVE0S25LWnRXNVZ1ZGFfeUJoZzJIa1c3YzUwVXpnUkhPXzR4OEctb05Y?oc=5",
-   "src": "Business Standard",
-   "t": "2026-10-26T08:15:49+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Key event of this week: The Fed policy meeting",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZU4wWVFRLURRSTZHMkFCWWo3TVp3aXFBN25JZ3hQSmt2b0J5MmVkU0lEVmhVYzE0cWpMMUktY2M5dWtmZVctbXROU3B1aUNXbFVrMVEwWGJKWG5LZFI3Nm9mM21MR1BtSEdMQXBSQThJaWN0cTFsZXlXRWhkNEZtY1dBYW9EWTFJTllYWksyWGktSmdLbWxF?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-26T08:13:21+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "USD/JPY Price Forecasts: US Dollar shows hesitation below 157.20 area",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa1N0QWVzNHhNUEcwNEpMN1N4bG41cXBueDVub3ZlWHBmbEhENVFwOVVrZWxwOXloQ0ZDWF9Sa1RFb2RFc3lvbGRWTXpKMDdnZWYwUU4wLUtTRjFTRnpId0hRM01MWXYxTXh3cVFwbVQ0SksyQXl1V3BnSzQzNGJfWnlCMEJqa2pQU3ZpSWZ2a2RnUldmc0NkUllZSlVkZHQycmRmY2RPY1NZdktMNVFz?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-26T08:11:33+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Greatland Resources Reports 70,131 Ounces of Gold Production in Q1 FY27, Begins Havieron Construction",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWlKWmZwZGZTRGItd083d2xfbzZnSlZicmI0ZjFQSzR0QTNHNnl5cE1IU0VLZU1DUHpyVmhqSjhISW03OGVGNjFjOGhmbXJrenppVFdkRzZpSkZqM2U2YUVPWlpVd29RcUFjZ0ZGT2ZDS0VtM1ZxUzBjOUFSRU4tRUpVTldpLTc2anZr?oc=5",
-   "src": "Yahoo Finance UK",
-   "t": "2026-10-26T08:01:23+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "U.S. Treasury yields are little changed as investors look ahead to the Fed's rate decision",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdnVMeHR0cjdhVXpVQk9hZWdUUkVoMjAwX3g5OG5iWWprMW5XeEJoaC1CaTlDUVZSZ1ZjZnE4SFpsLWlCMXFXWE1lNnRoNzBKU1NqM2J1QmNUSVNhRzB4MUJxdXpMR0dQRUpNeGFOdDJ6Z25fcjA2QmVvczUxQko5RHc0d0tycDdIZGxIaGlqM3Z3OWhKeEhGMUxB0gGfAUFVX3lxTFA4SUxwS3ZmSEZwWmtRM0VkOUtZQUlSN0djS0JYRkxhMnF1VFhpVzdRWU91b1BoTjBhUm5HVkt4OHhMNElOR0JHYXpGTm5Md0NRa0lmTC1MRzNmWlAwb1lzX2hYbWgzSExzS0pZRXNfd01LNktjbVZBYTJwa2t2d0M5NUxqd2ZMVXJIam9lRHJrN09hcmlyVEpUYVptZzM0VQ?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-26T07:49:09+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Euro: Seen gradually lower from 1.12 against US Dollar – Danske Bank",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclExR2tXNkxvU2RmRnlBdWp4dFhlVHJ2VXZfbFcyQ240d3RRcGVZdWlZR3ozX240WFJJNVlRekRKT28tdlhzLXYwZnNkZlBrb01XZ2UzbnZZQVdtUm5tVzZqNE81VW1HbFVOSnkzQlFoR09FVHRNUzlIX19iREN1UjNpYlhXVXMxbm5KYmFMZFRRUDFXamdEanlobHR6SnVFd2U2QkhWdFlyT1E?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-26T07:45:16+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "New Zealand Dollar poises for gains amid RBNZ rate hike odds",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcU5Rc3l1UUhjaDFlN2E1MFNOUld0am5Yc3JnZGI0S0h5X0J1T1ZPbE1hdHEwRFhqelJLYmFPN3J2NThkVGRleWFQS1pZdmtDb28zUEtLWWdnUzI2bXVpT21xd2ZfTEoybHc4dTdQV3lmeUlPcDJZOVVXZHZ0OU9yalZFd05UekFhMnZoOXh3TkJoNmNnNmtnZGhnbFc4d2hvVEdKcGNB?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-26T07:38:23+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Fed Rate Decision Looms as Inflation Fears Rise: What’s Next for Markets?",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMFduSnhLMzhjUTI4MkI4bXlIcWU0MEEwSmJzWDNTZGpzT1BQU2wzd3BRY2VKR1BYb2RzbklSX3JsNlRPMExEYXJzN1FCUmo2bXVpYjFFeXdBQzloVEtBb3RkVTZnY2lNLWxtVHNQeThJVVJnc1hxUFplUC03MnJHMkdEZ1Y5WkFLbWpjUkY4cEF5RXZDdWZ5TUQ3ZkdSVUc1dGlyd0EzQzNoZlZvMnJYNVlDajVhdw?oc=5",
-   "src": "Investing.com",
-   "t": "2026-10-26T07:28:04+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Euro pares some losses against British Pound as Oil, French yields dip",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTThrVFNENDdzUGtuUDVyaWFWWW5tUnhkcmpES0cyT21DSElnYWFWNG9OZ1BfWVBnOEVyR2RtYkdOZ2thUEdLQVNFX3NWNVFaZVpXUzNsVjVUMEdZTjhMeDVhbXBMMDR0RGF6XzJWakxQSGw4WW1sMFgwOVNHQUxxTVM5QmlJTGpndzhoY2UxcTc4YXdpUVNXa2RpdFg0cUlGWFY4ZGQ5ZzR2S3VVaEtWZ2ln?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-26T07:19:45+00:00",
-   "tags": [
-    "oil",
-    "eurusd"
-   ],
-   "tone": "neutral"
   }
  ]
 }
