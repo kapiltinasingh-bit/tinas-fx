@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T00:07:06.636257+00:00",
+ "updated": "2026-10-27T00:52:27.872503+00:00",
  "count": 250,
  "feeds": [
   {
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 6
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 4
   },
   {
    "feed": "Moneycontrol",
@@ -114,10 +114,51 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Rupee slips below to 95.18 against dollar on elevated oil prices",
+   "url": "https://economictimes.indiatimes.com/markets/forex/rupee-slips-below-to-95-18-against-dollar-on-elevated-oil-prices/articleshow/135222166.cms",
+   "src": "Economic Times",
+   "t": "2026-10-27T00:34:53+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Oil extends losses as Iran mediation efforts ease escalation fears",
+   "url": "https://www.investing.com/news/commodities-news/oil-extends-losses-as-iran-mediation-efforts-ease-escalation-fears-4973997",
+   "src": "Investing.com",
+   "t": "2026-10-27T00:24:23+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Indian markets rebound, but rising oil prices keep investors cautious",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMTluUDRLN1ZKR1huN28xZ01hTnEwVVlIRlFiRG8xQWdfTWFNVThkNVZzU19ZOFRnQlNLUDdxT0g2azByQWdHZkpVWXpLY2Y3TW0wLUl3eVdhZXJFZlRoSnR1T1V3MTUyV1N1STVmZ2FxYVhVb3hmQ1RhR2RRUU5lREhxRWtTV21VSWQ5bi1JMTUzX0tRQWFDakJkaDFBVU1JWm51bUZVX2F5cWRjYUM5QTYzdFZicGNhSmZVRXJDRmc0aEpaQ3Y3YzN0RWRqbXFzajBiU0doZXlNRFQ4bVRTZUtmODhUQmJJcTNKLVlvWjVVWk1SREUyRnNfTEYyVWljQ29fNnAwSTjSAY4CQVVfeXFMUEVhRTZ5clRxWkZrdV9fazVrd0xQdXFmTHY0eGIyWGlCVklTZm0yTE15VEh1TVk1T0t0SzdGYjRYdnczN24zbTBnd0FJR09RLVlZWFdOeC1DYkVKYlcyTk5Nenl6NVVRbTlWQVJLalpSM2J0akhJaUQtMkhBWVJRdndhbE9ZQjlQWnkzUUR0N0FwM1pqRGxFZ1hhSUtWTjRDQlhRMXpJdE85LXp1cDQxS1VZc3huUV9VOVdnQkpnd0xtNTBXYmhLZkdxUk1fWmExNVBpYmxadUdTem9fSGN2RzN2WTNGZy1oUUNxX3lrZmhxVEdGU2g0anI1OHZrY1ZTYTJBVDltMXFlcm5hZkl3?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-27T00:15:14+00:00",
+   "tags": [
+    "oil",
+    "nifty"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Rising concentration in AI stocks poses a risk: Kunal Kapoor, Morningstar CEO",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rising-concentration-in-ai-stocks-poses-a-risk-kunal-kapoor-morningstar-ceo/articleshow/135221935.cms",
+   "src": "Economic Times",
+   "t": "2026-10-27T00:12:21+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
    "url": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
@@ -2657,49 +2698,6 @@
    "t": "2026-10-26T04:10:30+00:00",
    "tags": [
     "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Euro firms against dollar, yen ahead of central bank meetings",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzBCR21LYng1YlpWWUZJSmdpZkVHeTNWdzJQMERzNzV0Q21lUHpVNDFuVWxGSlBYYTd2UDh6aWxJYzZ2a1IzVkhldXluNmxrUzhnR2VOMU52akw1SmFtLWZJMDNZcjkybXowaHpmLXNWSldvQWFDVGJNdDFSVVJNOElpcWp1RnBETWszRzZyeXBHUkxNc0IwQzROanTSAaIBQVVfeXFMTXBhb29wM2FZdnZXQW9WcEtwVmR1dGxJaGZMWElQZmpaZzNhdGRqRk5pYmxNYjlwT1BQTERVcmJCTUQ0XzFWWXBFbmpWQnRRclhVa0kwVC1aR3pmUVNmQVBkQjJRaEFDaDRYQUxHQ2RsMXFrOTZuQ2tpWW1SWnB3LWQ3Vllhb2gxSl9famQtcVhuQUI1SFg0eHpicHFqR2d4cXVR?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-26T04:10:21+00:00",
-   "tags": [
-    "eurusd",
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Sensex falls 500 pts, Nifty below 22,450: Selling in IT shares among key factors behind market decline",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZGJTRkJ3STRTWlo4MnFxNlRXMDN4OVdjVXhHZXFHT2wzS3V0RE9sRUdXVUpzSHpDMjM5bE5tWGJ6SkRkWWh2aVNRX3Y1WnQxMTVZMC1HY1VqN0VzM2k5VkE1VV9ORHpCR2t6Tld3bDYwdWw2djVGX3hZdXluemlzRXUtZW1mMEtwMXdxeVJfaTRGVjlrY0JLeXNwb3dvZ1V6TjhoQmloUzFKSkUwQUxhSU5iMnNZMW4zOGFOX3QtU2pNcVVBejlGZHdZVXg5UlQ0eDlpcXVCNTN4ZzZGUWpRb3VoZGEwLV84MjgwdEp0V1Y4dng0V1VZLdIB_gFBVV95cUxONW9HZUR5V0tBRDJ4NnQ4ZWhzSk43V3RaNk1ZVlhoUTdKb1NlWHZ5S0dYNERMcWRXTHlaX2xUVURjTDlWeDVTWGp3OVhDbnFZTkx0ZGNPdlpFajZPeVdMaW1XX2hibkdtUnpoUHdRUjNlekNtZU94NktZMHNndWNUNTVVaDc5eGJraWZQczhxb0tKX1NkZ2NLX0prbEhHLXc5NnBsYm0ta0NhWXpuNkhhSHBYbG5tSFBFM0NmSUFpT1NpRjR6LUdyaDhGVUxaU2xRMFIyYmQ5a1ViLU1NSjREQjhna01oRjA2R1FTUmtHcFpfY1Zia1dOaWZOSXgtQQ?oc=5",
-   "src": "Moneycontrol.com",
-   "t": "2026-10-26T04:06:13+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Indian Stocks Open Lower as Nifty and Sensex Extend Declines",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQnZYT2dwQV9CdnpCWGQyaUozZ01FTGh1Wi1LTXBQc2wwQ3NjSlVCelVKUFFOWTdXazJ5UzhyYkF3RE5pdzRzX3ZzX2JfRDVuOHE2UVVYdlJWSHFpbFlwWTVvaDQ2dVNrcUNoM0dDcWhkaEY2MlpuaWlWSl9YNHpCbmUxSHNDTzhfQXBhcDl6UlUzVWNBeU15WW12bGpQbnJCRm0wNk8zVVNOdG1TMjFZNTZkVUthTUk?oc=5",
-   "src": "Investing.com India",
-   "t": "2026-10-26T04:03:19+00:00",
-   "tags": [
-    "spx",
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Gold, silver prices today, 26 October: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVTgyWW5YX0x1RjhHamR0TTA2VnRhNTJwRUxUSk1sanR6cEZIcWhRdEtfbDZWQm1uTkpPQURybEM1LVJCamRCcUZJQlp1YWR3b1NtbHZPZE5UbnN6VUNBN2VBMmZtdFpKZTdMbVlYRzZoVFQ5SWxwc0ttS081VTJFNnZDY20wMzRXSDkzV2xTSlBlUXdqXzlGLVUxQTd1ejJ2QnZGMy1DekcxTm53Z19qOHF3N1c0a0dZdDBfTDh4UHh6NFZidGFvT3VReVc5T0RXS1FOWmxiMXhtVnVJVE9ieUUzQVRHQ0pQekFCZVlXQW1UNEFZRVhvbEhDYXl3V0JFNk82QU5LQ1TSAY4CQVVfeXFMT2tnZTZVcHI5S2J5R2JpdFUtR3UyWWFKb0VSbG5PQml5UFNpY0UtYVFjUjFSS0VPZ2luUU10d3QwTmYyQTFaR21RQTZzenpfQl9JMUNYTUNqZ2dYU3VXTTk3V1JfMHV4NE9uU2htOTRRcjVDYW9rRUFlOTZjSktIUXdZU0hOazNOMkJ2a215d254N3JlcmxGUTNxYlRaRTNicUQzZS1uamxvVjRBSlo1Z21KN2tZS29ZTFNNTzFRcEYzSG5qM3hBUmRFUlJwdktndk1hRUVQdy1XZ1pyekREYVRjN3BRMWV5Tkc0Q2l3bzFxazlwYWZwZnRxN3lqT3FocXRVTWFNYjNQOWFBMVp3?oc=5",
-   "src": "Livemint",
-   "t": "2026-10-26T04:02:07+00:00",
-   "tags": [
-    "gold",
-    "silver"
    ],
    "tone": "neutral"
   }
