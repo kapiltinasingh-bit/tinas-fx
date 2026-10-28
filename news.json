@@ -1,96 +1,96 @@
 {
- "updated": "2026-10-28T13:37:34.840835+00:00",
+ "updated": "2026-10-28T14:30:25.359824+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 3
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 3
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 4
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 3
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 4
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -118,6 +118,18 @@
   }
  ],
  "items": [
+  {
+   "title": "US stocks today: S&P 500, Nasdaq open higher as SK Hynix lifts chips; Fed meet in focus",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-sk-hynix-lifts-chips-fed-meet-in-focus/articleshow/135267943.cms",
+   "src": "Economic Times",
+   "t": "2026-10-28T13:39:22+00:00",
+   "tags": [
+    "spx",
+    "nasdaq",
+    "macro"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Gold slips on higher oil prices ahead of Fed decision",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNUpNRHNTVTl3VlUyYkQyREstclhqc1JzWGNKZVBqY2dldnJGY2tDZTFiUVFXa0djNkdWZDhkS21RUXh1eXlObVVHY3o3NmhobzRmbVlCYjJieXZyRzVEaXpQazg3b1lZNG96djFhSGFZU0I1Y0hwUXJIbW5wejZ2Y3E5NDkwT3pTRzRLejYwaVZUanVxR3NYa3c1bGt4d0k?oc=5",
@@ -2700,18 +2712,6 @@
    "src": "MarketWatch",
    "t": "2026-10-27T15:25:00+00:00",
    "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold recovers above $4,000 as Oil prices ease, Fed decision looms",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOGlfRzVGWHhsRWtONjBaTmU0RkRXMTVkdHQ4b3puMXdEUkR0RTBzc0ptNzhzYzMwR1Q1Uy1qalZBZGFqMFdCUzA0TFQ5d0ZZVUJld3JRZEZSam1rNzhrS2J3U2RVcHF4N3VPU2NyYkdmNXV3eXozVW96ZEF6QTBTOUJKRDcteUlNb1dTang3MGh1aVNELTZUdTZsZEtVbVc2WXhaZHliVXpGejFvSnNkWW9zbUtzdw?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-27T15:13:24+00:00",
-   "tags": [
-    "gold",
-    "oil",
     "macro"
    ],
    "tone": "neutral"
