@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T19:35:54.004735+00:00",
+ "updated": "2026-10-28T20:20:13.249885+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -48,49 +48,49 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 8
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 2
+   "new": 5
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -114,10 +114,100 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 3
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "U.S. oil-refinery stocks are up roughly 150% this year. How long could this historic run last?",
+   "url": "https://www.marketwatch.com/story/u-s-oil-refinery-stocks-are-up-roughly-150-this-year-how-long-could-this-historic-run-last-f01c590f?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-28T20:16:00+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
+   "url": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
+   "src": "CNBC",
+   "t": "2026-10-28T20:13:50+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Treasury Secretary Bessent talks to CNBC after Fed holds interest rates steady",
+   "url": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
+   "src": "CNBC",
+   "t": "2026-10-28T20:07:48+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information rich’ period is coming.",
+   "url": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-28T19:56:00+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "What smart people are saying after the Fed held rates steady",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaUhhSVlOdDVKRUhhaXpoWGxuMjltYjRzeFZnc0JDUGpkQmxpazMwOVBieHhSS2NCbXloMVl3U2ptT0tINFNjNTZsaHlDTk1HekpSQncwRGg2ci0tOVRYLTlsODdTaWd0X2VpOXpVMTZDVWpuTWR4ZVdGWHhDMWtqOFoxbnNKa0lPUFZEclNlMTRkMmkybTlxOA?oc=5",
+   "src": "Business Insider",
+   "t": "2026-10-28T19:55:12+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Fed's Kevin Warsh says US economy not running too hot from AI boom",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-kevin-warsh-says-us-economy-not-running-too-hot-from-ai-boom/articleshow/135279091.cms",
+   "src": "Economic Times",
+   "t": "2026-10-28T19:48:14+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Fed holds rates steady despite concerns over inflation",
+   "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+   "src": "CNBC",
+   "t": "2026-10-28T19:43:48+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Grant Cardone challenges Bitcoin bear to $1 million bet",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMndTRjZXaml3am5Xbm1OSzQtSWdVRTZqZl9SX09aOUhmR3ZaNWVqN3hoT0s0alZjZEREa0FIVmlzeDRiWVBKVGpZb3dTUVh4NEdSZkFiU0F1TzliY0NYRDdIZ3hBMUdNX1RqalpHS1cwSzcwTmVQVXJZSEd5SHR0aFA2U2wwYjZuMHFQS052RVFuMU1BWlk5Ri1qYw?oc=5",
+   "src": "TheStreet",
+   "t": "2026-10-28T19:42:11+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin Is Trading Below Its 20-Day and 50-Day Averages. Can It Reclaim $81,800?",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMmpnbTllbkNSaGx6SWd2TjFaSzk0Y25jVkxneFNXU2dJNTNENFdIVG5RVFppaERuVVl2YUZPVlJuMUFIdV94OFBmTHM3R21GRG9reHpZOXA4eTlTQmNPZlBCTW9IR05FczNBRzRhUm9VQWsxOGZ3QU9KaWYwYlhQYnN1TG9rSG9RRDRTTUNITTVkaWRfeVZTU2hVVnBCVTFXZVpWbEF0aVg2OUNSR0Mxak5ySW80VVVDV2plT2E1aXlybEwwdHhqT0RVdFEtbk5m?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-28T19:37:01+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
    "url": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
@@ -179,6 +269,26 @@
    "tone": "neutral"
   },
   {
+   "title": "Fed chairman talks tough on inflation — plus, what's behind Micron's big rally",
+   "url": "https://www.cnbc.com/investingclub/2026/10/28/fed-chairman-talks-tough-on-inflation-plus-whats-behind-microns-big-rally.html",
+   "src": "CNBC",
+   "t": "2026-10-28T19:17:35+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Federal Reserve makes interest rate decision ahead of midterms",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0hLUjN3TllXcDVjaXRBaUwxOW1QcnJLRkc3ZGR3SnR1U283WVdPeWozMmw2eFlLa3ZVb011TlEtMHI0RjV6eWE0T2ZXcXRNQVR5eEIzbVhRektfTHkzLWNLbVc5U0RQaXUyRnFSZ2VCUmZNOFlpcTQyWXc5S21zRWxpb2FBSS1FSkpiVnc0VnV5S2o50gGaAUFVX3lxTE1DUFpkcUswb2dYdVhleE1XejZfZVdTSHJsbUhOelF3Z1B4UUpGdWhqUGQzTmxvTmhGbFFQZ1VNdmhNenprZE1Hbjh6bW9RUTFGN0lfYkZMZ3g4YUh1VlM2eUhGNHNpVUN5ZG12R2RrSnpxTDRKTVR6Y29oMUhHNVdMZ1N1UzFLUjF3LUNnc0pvUFNQZXA1T1JnQ0E?oc=5",
+   "src": "Fox Business",
+   "t": "2026-10-28T19:12:00+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Bond investor Jeff Gundlach talks to CNBC about Fed's rate pause, Warsh reducing vote-setting meetings",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbEVyM1lDY2RtTmtlRktDOHBrVzR3bGtFajBVSWZLc0xnNUFrbGRwYjR2allBWllLQlZtWlZZeVB2RnlOTGFCX3dINGF4d3d4OVZEWVRYUG1DNXJ2bG5oZFpRS0ZlTm9WQ1kxX1Ribm5KOURXUURBS1JfTUFERVZrS2tsWWlkQmNQUUVWZXJFZ29VZV9nQzJ1dVN5TEXSAaIBQVVfeXFMUHk1Nl9IWTFPaWtFSmJIUXVLVFlFa0NGR3J3WmE3VHhfMVpTZW80MEhDaTQtRmVjRWFSZWFxM2ZXUjRBSWtRV0JSZkRTeDhpUkFFRnlWSk80T0N0UFMwMmVfeUszVjJrOUkxNGhRTDMwbHJXcDN5cG1LajcwNTlxemNubkRFZTk3Q1dmLVhVdE5aSHI2X1kzMUp0dW5qQjJPQnN3?oc=5",
    "src": "CNBC",
@@ -224,16 +334,6 @@
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUwzSmhPUV90MjNhaUZhME9LdDBBN3RWT3NaMTNJeGtNNmY3VldDUUg0RFAtSEF2ajNuNWd1TVdsRHd4SlAyX1N0dUQzUXVVcDVUMTBqRElPaGJxLXFPMWNPbE4wNGlXb05odFFQdTh4MHhPQUY5UXRuWUhvUWdNWHBGZEJwZURqQlNZWW5XWTM3RnpJVjcxTGY0dXlEQ3ZoN0lYUUdXRQ?oc=5",
    "src": "Fortune",
    "t": "2026-10-28T18:29:20+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Fed holds rates steady despite concerns over inflation",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZV92RU9EZHp0SnMzUENFXzhnamR3OFUwZXJERndHS3hadTFfT1NGaHdqektXa01ZZlJDRlhGekRlMTJBMHBYQlFLV1cyR21fSVZGWWlXY0hGOUR0UU82bS1EWUItSXBvVE9uTUpia3RYMTBVb1d5UHJhbWY0VkQ1NXZSOHdnVlpKdGpqaGt4YW1JLTZZdm9Zb2xCTnpGQQ?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-28T18:28:47+00:00",
    "tags": [
     "macro"
    ],
@@ -403,6 +503,16 @@
    "tone": "neutral"
   },
   {
+   "title": "December Fed rate hike description={PAGE_DESCRIPTION}",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5adUJhY0hwN3RQYWt6S0Z3MmRMQnRReTJvOTJVdEhLMDJFV0xySU9QMThXQlNoYVBiNnNmVlpiMlhBcUtFMDhERzRUQTB1TEU1OFJUR0NEVEQ0TE9OZFh1Y0pJOA?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-28T17:33:34+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Gold slips toward $4,000 as Oil above $100 clouds Fed rate outlook",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3JTdmtHTC16RXZVLWJaNGhBNXhmZDdhcEdhZ01RcTF1RTNsM0JfcURhY3VGWlR5UThMN0I1S0JNRWNtenF3dk1qSE1LYWM2MC10cm9xa1l6TDVyWFR5bG5kTHVHbHc1VXNWRmlIMnpRcnhLU2tydHhBcjhLbVpaelpHRVB2aHlCTXFFX09rQ3lnQXUwQ1lZR1VTS0p4VlJNaTVqaHhyLTRkeDQ?oc=5",
    "src": "FXStreet",
@@ -410,6 +520,16 @@
    "tags": [
     "gold",
     "oil",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Fed holds main interest rate steady despite accelerating inflation",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZkNKcVBTRVFXeVdiRlhXYVZBb1Q3T1ZwMkZOc3hQSHVlRmhESno0TS1PYkxldG1HbGxrMU1aaXh2Yk1ma0pEMkhPbnRGbGdqUHVFTmtZNW1MQ1BsV2lFVlphNVlPcXUtV1g4NDRXSWhteHRJT01FVzNfbkU0SnBJSWtZTmRERW44bXVkS3VnSjJBX1lldGZ4dg?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-28T17:21:09+00:00",
+   "tags": [
     "macro"
    ],
    "tone": "neutral"
@@ -2593,129 +2713,6 @@
    "t": "2026-10-28T00:18:19+00:00",
    "tags": [
     "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
-   "url": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
-   "src": "CNBC",
-   "t": "2026-10-28T00:14:24+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Yemen's Houthis say they hit Saudi Arabia’s Ras Tanura oil refinery with missile",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdlBEaEZWNlFQLUVnd0hwTGZLVHZNRlBBckZ6Q2VUTXNoZ3RIT3ZwYjR5S1A5YU1pS0lrZ0FGUTU0T1NDbEZFMFpVT1ZWV0xyZUVpc2ZsRXUwWFRnelFTejcyazJUMmRqRGQwSm9yU1ZrX256T2tfSW5MeGdaZWVqTDNDLXhiRnRIcW8xMHBGNnhxXzQ3ZHNqVERyVktnNzBtQ0V1RGdMUEhfeUVZMGdlaEhNQTJrVEljaDg4ZGpB?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-27T23:40:57+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Swapping One Crypto for Another Can Trigger a Tax Bill. How Much Could You Owe on a $10,000 Trade?",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNT0MyT3R2NnlodTVTNDlKRjc3NjZmOFdIdzlzT2N4aXpVTS1nX0NWQk1ELUxOajdpelFudGt1V0s1LVFnQUlabVZxUU1ZcnpwSWxrV1ZhdGo4eW52U3V2M2hlbmRZNjNZWGNJWEVyQTlSZ01xOUUydmpWMF84czl2RlVhSVVMZmlRNmpybmZWdldyY2hVQmNWNGk3NFY2SWdoR2F4U0VQOWJacXA1M2tHcklSZkVIa1VhVkJyR2IxSDBDaTVyR0Y4TTZzeFU4TmwzMkd6cDFlY1NGZkFhQlJHRk5SbzhuY0lh?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-27T23:32:26+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Will Australia CPI back RBA’s hawkish outlook?",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkgwRVZiamNSUmJ4Rm9GLTFieE5rbUIwd2pYUjFZeXYwYjk1RUQ4dnZvdHRVTjNOZHZ3VlJYMUtnMG44dFdoaS1rVzJoWjlvZnJoVVk1UWVLM2ZFZkNCR0dpWUJnZDE1amEtWjRhc215LWhOeXhsbkQxZ1VYR19Wb0YxTWpKQ09jNXFXZDN2R2ZhWEtfczJv?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-27T23:30:00+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX203dWxrZzRtNEZVQVFkRUVXMVdIblBYdzRjQmw5em14S3g4MVlqQkZreTRzdUtfR2oxdEplVnQ3dW1WSWl3bjNPeG5EWVhwU3dBanNmT2RReDRoRWZnRkdOamNfdTdDMUJaYmFreW0tUEduS1NmRjFUX1dyelVSbXd5bw?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-27T23:24:45+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "S&P 500, Nasdaq extend gains for second straight session ahead of Fed decision, big tech results",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUmNDRU9JRWMxUktJMVN0SmltQTNMcjdoTTBLa2V1VUdncTJJd0dlWE5xMnlBNFRSdF9Za1FmQUJKYmgzSkpOR2J3Rl9DTGRrUnJydUxxM0hSaUEwTWhmeFN0ZUlOVW5HZF9ON3Y5YUYydVVEQ3Exbnp5QUN2ejNraTBIcVM5bjlaa1lGRzEwdkJTRnBpRTl6Z2RuWHNDNTItT3JrYWllaDRmOHZYTUdVWDdtRDh6N3NDSDdYdnFoME1jX2V4R3ZiQWFlVFBZTHhfeXNIVEpWWGFaREhFRDJva3cxTE5MQnhRc3fSAe8BQVVfeXFMT0otN2N6bktPc1hXWDV5SGl5YzlXYzlkalBqS2R6UkVhVEVfQ202MW1GeGl3dkUteWtUT2NxeF81Unl5Z0l5VDhqWXZoS2ZTZzVyNGlfdTVTV3RfamI2SmN3bVp0cExhQzE3blJEanJGS09nYWdFbTZpSTBlTWZXMUdiVGxDbUg3V1FubzgwR2NQakNOY1Q2Z2FRQlJsbWlLd080VWlqNmFLVmxuTWY5QXd0YjVqMXVYS1NRRmFubnplZ21xcFlkRkVwWUY2SnNQRHFfcmV4Q0dFUENtYkNwU1M2N2FySjMtQU45QXNCOXc?oc=5",
-   "src": "CNBC TV18",
-   "t": "2026-10-27T23:20:52+00:00",
-   "tags": [
-    "spx",
-    "nasdaq",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold rises above $4,050 ahead of Fed rate decision",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORkxjclBRWHkyNkpHUHJhQ0MwTGNhR0Y5aWNBWm0zMzVuRGZCWnRuYkRSMW5zRzBGbURJdExkclMxMUMyNThyZVctVl9qWEFTSTJaUG9yZlVELUx0a1hDUC03bGUteUNXZnl4VkIxMk1xZVFaelp0Y3I4MXF5eDVNSlpLVlZEdUIzNnFVM3NsOUNBVTFiRWtj?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-27T23:18:03+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Aave Fell 3 Times More Than Ethereum This Week After a Whale Moved $22.9 Million. Can It Hold $120?",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQ1k2bGdjUE9aeVlHWXBDSlhHQnZUQkhrVE04TlFHd3lzTkQ3UjQxbnE4NUk1azM1a3VLSnV3T1JsQ2VHRjNBMmpGUXRtVW1hZVpBWTQyOVV4M1dmM05JMWR1cF9hVkdwaUU1VDk1UVJlR2xvbkVaLUE2MW5MTWZLVVZtSzBBc1Q3UmRJSTNYcEVicG9xRjBuOUxYLUNuMXQ4QWZ5SXgzTk11THRKRW1VakJXSFVzeUFodS1nOFBrdjhTZXM3a2ZXaXRKVGxPcUVDVFdyUXBFYUtwRU1xbVBQcUxER2JDaFVPVkE?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-27T23:04:40+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Wall Street ends higher on revived AI momentum",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-27T23:01:33+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Fed Expected to Hold Rates With Nod to December: Decision-Day Guide",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0paU09FYWlzUUpDbmRoemdPTXZkaHR1SV9BMjE1TjNVTE9XUGtxajVPU3J3elpBNUJnTHZHNEZWV2tiZExkczdleE1MSmc4Q25kaHJ1YzZGUEtvUlZHY1E5dmNvM3pUYzZ4WDcwblJnbnZoUmRCSzZIWjg5RC1sbnI1UkVMbnF6eUVRUU5BYzVYY252eDRrcjhyVk1tSkZ3M1JuM3JfWmN1ZHBqcm9rZ0owQQ?oc=5",
-   "src": "Bloomberg.com",
-   "t": "2026-10-27T23:00:00+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Ethereum ETFs near record monthly outflows as ETH tests $2,310",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN08wX242YzhvXzNHOUNib1BGTHZndnlCYm14Q1E0WmVmSUJXZkwwSmlKSmw1UHpTTk9OZ1Q4LV81SERYSzg1aFhmYjF0RzZDT3lxb3hVMzlYdjNlN0lYWXBJWFc2ZjhnelR3QTJDYWwyd0tfZjNHNk9sQmwzYll0NkhJRl9jWVZTNVc1UG9oZWNuTTByYzFxYjN0VXpIUEg4R0hYamotLXRMU1UzOHVaa1p0cG9uV0I0NlRHQ3F3?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-27T22:43:59+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Aussie Dollar holds above 0.7000 as Fed and RBA, inflation tests loom",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTkl1a0lDRVpNQmFXUjJITFJsWU82VGR3MklBZDVsbmZna3hXYTZ1ZnQ0VDBvLTJMWE1QLTBDLVlNSnBJZVQ3UDBxbC1mbFZOV2hpUUdVUkRqNlQ0MFdPMVNYZ19HaERJa3dya2VfQ1BONmV1dndMakFvZlY3UFZjSmtUT0hiVlV0VmE4aXRtbW5NblhlX3drWmhlb0pSdm5OUngtTkg4am5ZSU01YTc4?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-27T22:42:39+00:00",
-   "tags": [
-    "macro"
    ],
    "tone": "neutral"
   }
