@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T16:23:43.336805+00:00",
+ "updated": "2026-10-28T17:16:18.758399+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -66,25 +66,25 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Economic Times",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Investing.com",
@@ -114,10 +114,82 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+   "url": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
+   "src": "CNBC",
+   "t": "2026-10-28T17:15:23+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
+   "url": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
+   "src": "CoinDesk",
+   "t": "2026-10-28T17:02:57+00:00",
+   "tags": [
+    "spx",
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Wall St treads water as chips rise, megacaps fall ahead of Fed, Big Tech earnings",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ1ZmYk10ZHZEcG12bWplbFJ4Z2UtNDlWY2xUSXd2eWNPWmRhTmkwMDEwOUFYQnFCTE9tUE9iYTFRQk9sbmIyejBObTUtVDNyX1lNSGFlMHh5NTVnWklTMmwzTUx6M2R4MnpMcHR4bkg1elpUU1hPUVc2QTdwLS13azM1TDFERm1lVFBOMVBrckhTZndrYWh0TVhFUHd5NDc5bzB1R3lHY2NxQmlKLW9fVVlIbWlXdw?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-28T16:40:21+00:00",
+   "tags": [
+    "nasdaq",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Federal Reserve likely to skip rate hike despite elevated inflation",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
+   "src": "AP News",
+   "t": "2026-10-28T16:34:00+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Kinross Gold earnings in focus after production guidance cut By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTl9iblpZLUxkeEptdHl2NkhIZzlzQWs1OEpRZnRqaWZHWld5TGNwU0ZmNFFZOTBZNnpWejBPUEJSUnhleDlQQ0VNTVEwT0RNWFJqbnpma1htb1laQWxZRGxGR2gtQkdIdzZLc1VCS1FjUkhrSEYwSDBOMXhWX1VZT0ZOVlowYUxYNGlsNWRSOHhDSFpDZ2JVQXc3RlNmM0FEN3hCQXlpZUduT0hwSXM2aFVWem9rNl9aeGJ4OU93?oc=5",
+   "src": "Investing.com Nigeria",
+   "t": "2026-10-28T16:28:58+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "The picture for silver by the CoT",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zMVRDYlFTeUd0UGxlMDFJUVhpZkxlTjVtTW1sdk9WdXVEcndhd29VLWFlNlRxclZqbmVLMUI3MjFyOEs3QnptdTk2amp2aVNJa0lHRGNJSFE2SWZYRVR2Y0VrZ21sT2lNZnVr?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-28T16:22:03+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "AngloGold Ashanti: The Dividend Survives $4,000 Gold, The Share Price Doesn't (NYSE:AU)",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVGFUV0c5ellJdWptNjN4c25YOW9jMk9hMHU3dW95TzczejRieHRTeDFNX2tSWXIwZ1R1WmJGX1lZWDFaN1h1bFdza05qLWJGTlc4SVhxejBNS0RBYjZURXRfQnhoaTJzdWEzb1diNUdpMjY0TmtRRWpnMTV5WHdlbU50WUViaWlNVXppUkxiTEt0UnFyQVZFNXVjVG9KWWY1MU9iRHJZSUZMTmtYUVV2TlJoTQ?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-28T16:16:42+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "S&P 500 pulls within 1.2% of its all-time high even as majority of its stocks fell",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0RvZlg1ZnByaExDWmlpcU5XRHhFZDFONXFlcmd5Z201TktDQ3c1U0FyV3dHNUdBNGtpcUtvWkNfLTFuSUJPWnV1TG1xQ1lTTXhtMVJoWkowLU9iYlRDZzJ4T0drMTBaZlJCLWF4Y1BmaVlCZmVwbHpYbW5zWGs1Tno0RG94YVBy?oc=5",
@@ -202,6 +274,17 @@
    "tone": "neutral"
   },
   {
+   "title": "Top analyst calls Nasdaq AI firm's Bitcoin filing 'one of the ugliest' ever",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVUZjbVZqNU13SjQwUVBmMXBseTZmNUpLLTBLYnBiVEI2ZDVGc2ppV0xJRksxSDJUNEM1dk9oUjV2MUg3U2hCV3NZRHpLZ3d2dU1hSVoweko4bDRlRWl1dlg2cjV6ZEFQX1VWRUlWSXdtTkhpMUpBWlVldlFlRW1HR2plZlBCNFdZUWVocV9meXVrTlp6TkpVNHFNR0RjTklDSHFNLWhScEkwbVhORkhBZFlubnVIaW01ekZaM0RLZw?oc=5",
+   "src": "TheStreet",
+   "t": "2026-10-28T15:30:00+00:00",
+   "tags": [
+    "nasdaq",
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Gold Sits on Support Heading into Fed Meeting Results",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXRnVzRROXFkOFlpOVZrZ1hIa2xRZ0xYQ0V0WTJYT2J3c0N3eEExUmZmNDRGaDVBSjZqRUdwVUVieVd6Q1VsdVJRSG9HYWVkRnJwSVFfempQNnp3SkNyS1lfaWZFMVlxSVpLNjNTX19KMERoTElabE92R19xMUVzQWY4dmxhWXU4eVFsY1F3bDBkakY2ZWdWaXZTOFZqSU91Q3FxcTY3TQ?oc=5",
    "src": "FXEmpire",
@@ -239,6 +322,16 @@
    "t": "2026-10-28T15:03:00+00:00",
    "tags": [
     "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "This is what historically happens right after a Fed rate hike – Goldman Sachs",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORXl2NW5ybTFJbG84VG01OUJLelZNTGUzYmVQT1dtQlVXZ1A3WkpUTExFaW55aHJ3bFZOMWhHS0FIT3owZWZfNGxkR19Zam1fUlRqcjFxeks0QktUcTB5RThIUFNlYU1tNUQzNUtmTzJmWWhTc1N4WGl6Wm5PR0hYN2JpU3VabDhKUVRUSDlfdmZhN2hMV0VHdHdIR1NQaG1EWGlFQVE1S2labGhmdHFWajFIdw?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-28T14:43:47+00:00",
+   "tags": [
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -313,6 +406,16 @@
     "gold"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Goldman thinks there aren't many Fed hikes left. Stocks could rally",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GVXZjb3p0b0VnVjg4WTAzaXY4aHlSb3hEV2FQTjJoYUdweTEyOWxLVU1QeGJrdE5RUWMzYkluYjE2MFlHUTJfWldndzZjckVUWEJ2NjJjbEFoQXV2Zm5sRWQxRDdIcUdvTTB5Mmx3?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-28T14:00:06+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Fed expected to leave interest rates unchanged in October",
@@ -410,6 +513,16 @@
     "macro"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Japanese Yen: Safe haven debate and fiscal backdrop – Rabobank",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVGNMRnBFaWMtNjlid0JhdWg1b2RUNGQ3bG12RG1VSGM5N01LSnZJNVRfSGJTWHdHdnp1RDBySTVCaVRIN1NaaUZvdVRvbmg5OEtEaXkxS0R6d3FMWE10SEJYcnBKMmx6a2RXMjVOTTVfRGp4Y29WZTZidGlMVTRZY2pXOHhTQkl1NjRKaWY3THZOaE1hVHAyNnpad2hBbjNGUXNxUg?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-28T13:35:04+00:00",
+   "tags": [
+    "usdjpy"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "S&P 500, Nasdaq open higher as SK Hynix lifts chips; Fed in focus",
@@ -1412,6 +1525,16 @@
     "spx"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Top 10 Cryptocurrencies In Canada For October 27, 2026",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORVhLM2VTLWhXSUxlUTBxZ2ROZGZHVGpKaGZkZDdmalVjNjlFZTl3RjI1aENtSEhYNEVPQ1JaZ0FBeFF0U1VHbUhUaTlvcmJESW5zZWZnQ1d4UGYwak8yVmRVSEhOcE9GYWNWaVp1cklHRFpJZEFyUE5sdFRvSDdVRjIyNG15WkFvemVB?oc=5",
+   "src": "Forbes",
+   "t": "2026-10-28T05:41:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
@@ -2598,129 +2721,6 @@
     "nasdaq"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "S&P 500 closes at 7,732 as Nasdaq leads with a 1.2% gain",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZUJjSkhfZEpGbm1SMkhFWXJmZVFmU3BLZk1rU3BLSnRHamFTYmU2dk4ycHZnYTlTbUp2UFNrOVJnVDV5OFhuNDBQRXNoWXlKa3BGUS1LbE8tMU0yZmxqa1g4MWxfMUxLZnozNldtNTNuVVQ4a1V1OUMwTHN2S1Y2THNzNzBiUEtvTEViY2FKT0V4Mi1TQTZRYUFXMF9VaUItQk9vclRPbnVLNzhhMC1WMi00dm1UUFFBV3BBazFwRVRXTmpzU09mUkVwdw?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-27T20:10:05+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "US Stock Futures Gain, Oil Falls on Iran Comments: Markets Wrap",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5",
-   "src": "Bloomberg.com",
-   "t": "2026-10-27T20:06:31+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "What to expect from the Fed's meeting this week",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2QjMwVy1tS2cybWVnUXFyMkJaTmxYZUtpR204enBzX0RJZ2VMN1B5S0xxODN3NkZNWFlMcFN2VmF3dFBsX3FYZG9VMnBDbFQ4NDVxQ2NXa0Mtc3A5UEtTcjRyRTNDakZVdTVsUzJvRHI1LTA?oc=5",
-   "src": "Axios",
-   "t": "2026-10-27T20:06:24+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Italy's Intesa gets ECB authorisation to take over Monte dei Paschi",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNelAzbVRKVXlpeVNyZUJPTGc2eGhQbDBBeWtaeVlZTGNNTm1Jbmx6MUtYbVFHQ3RmYXR5ZUJvWHk0ak1nOW41dTNja0wxVXF6QUhGUF84VHZrWVN1SmZYcWpMQVlXalFJTXZkSlQ3bUR0VE00cExaV0FIaVk5N2ZGMGExUW8wTDdsYndxcEs2N0g4SlF5NFctYi1kOVowelNUYjVQbTlBSTRhZGIzaDNiMWxsRHd5enM?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-27T20:00:11+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "How investors can position ahead of the Fed's next policy decision",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOXy1vYmcwMnBoVHRzWUpvUjIxSE4tOGlCMVRvZXJBNGtaTS1mRVpqMTloZ3dvcXBBSGdCUjdianprQVV1VGh1N01vT25qQURYbmhSQjc1dXBGSlR5SG1uWnJhMWRlaVJvYUg1QThKa19yOW9XbVFSakdGSHUtU3AwVzczOE9WTWxuTURnVWVLckZXelh2djlYM0hOSF9Ld0t2US1rd0hwT3RId2c?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-27T20:00:01+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bond investors are thinking less about the Fed and more about AI, deficits",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVZDTFViUjF0VS1rM2FQX1ZjYmpIQncyQi1pMldoZ1N2U2JXUjIydVFJUGN1dXV4STlvYlVEM3FPSEZaSEt3Rnkxc0R5c3JrOEg2b0g2d2pUemFMbXpKNjZ6M1NabkwxcmJrbE5sdWtnU2pDd3R0X3ZkakhTNTZraUU0ejJKdDVRR0NheWhzcXBLUnU2dGxGUXFURnJZaExIM1hTRW9LWE5KbkNJN2RZ?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-27T19:55:40+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Pre-FOMC US Dollar Price Action Setups: EUR/USD, USD/JPY, GBP/USD, USD/CAD",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQUNxRTlpWENWdGhhWGllZzNMRkZneVNKS015ZmxETHZXT1hkSmJGZnJvcS10NTExNVZyeVl1ZHB4bENoNDNwdzZhanNKbVJxX1hOQzR3blFnTlVBSEg4R0pyVzRlU1kxRENJYW5QQURlS1JTWlUxczV1aEhTVXoxTkN4NzR4V1ZaS1c5ci1hSWZxa0ZDZFZlVnByLTJ1QmZVRkxpZUZsZlR1VFlPWF9kUnk5MFFKdDE1?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-27T19:48:24+00:00",
-   "tags": [
-    "eurusd",
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Nasdaq Index: Chipmakers and Lower Oil Fuel a Second-Day Rally",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObmpLY1J4TkRJQm5VTjRzNjhPNVoxREVpM2lpZEpTSW5sMDhXeC15LV92cXlDUVBfWUR4R0hKd3NnM291U1dZeE5qZXdydlg5VXQ4TXF2U2NoZ0c2SUcyMzFwSkhTOTJSMEtNNHhXLUg2VlM2SkNaNWlHalFoSTBmWlY0Y2o2Q1JSM3RpSHJTZlc3YlNRMEJMMk1QZlVHMnR0OXBQWFNfLTIyX3RETDQzTWpB?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-27T19:32:31+00:00",
-   "tags": [
-    "oil",
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Oil slips over 1% as Mideast diplomatic efforts outweigh supply disruption fears",
-   "url": "https://www.investing.com/news/commodities-news/oil-extends-losses-as-iran-mediation-efforts-ease-escalation-fears-4973997",
-   "src": "Investing.com",
-   "t": "2026-10-27T19:29:08+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Oil falls almost $2 as Middle East talks help ease supply worries",
-   "url": "https://www.investing.com/news/commodities-news/oil-eases-on-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive-4974185",
-   "src": "Investing.com",
-   "t": "2026-10-27T19:24:45+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Forex Today: No surprises expected from the Fed",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeHgwQWZCNG9jZmpjSzRfREl1cTFlLUV0bGpXS2VVWUFENnNSNG41VWpfekpFRlFUUGJOQ2Q4Uk1BRDMzQ3pEeEZpQzFUbjBPWGtkMUpsMjdGWW9od2lwRlk4eUhLZzRrdXc5WWNaR3JPNFZPb3RWelJGT05iYTZtYUotMkFzSE85MlRad1JZbDlfMnc?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-27T19:20:36+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Crude Oil WTI consolidates near $100 with bearish MACD: Live levels",
-   "url": "https://www.investing.com/news/commodities-news/crude-oil-wti-consolidates-below-10350-resistance-live-levels-93CH-4971501",
-   "src": "Investing.com",
-   "t": "2026-10-27T19:18:41+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
   }
  ]
 }
