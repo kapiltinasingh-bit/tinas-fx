@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-29T02:52:48.769254+00:00",
+ "updated": "2026-10-29T03:33:26.484165+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -24,19 +24,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 8
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -54,7 +54,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 9
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 7
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 5
+   "new": 6
   },
   {
    "feed": "Investing.com",
@@ -114,10 +114,43 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 2
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+   "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+   "src": "CoinDesk",
+   "t": "2026-10-29T03:32:43+00:00",
+   "tags": [
+    "btc",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+   "url": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
+   "src": "CoinDesk",
+   "t": "2026-10-29T03:21:24+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Dow, S&P 500, Nasdaq Futures Mixed After Fed Holds Rates Steady: GOOG, GOOGL, IOVA, MSFT, NOW In Focus",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUlZCYVZTNjdUbS1rVXljY21oU0NVNXNZSlVBQnBZWWNHQWw2TThJOXNwNG9hNFJ2c190dFJlZWxtWW1tRUY4ZjJuQjQ1cjYzUkFkUGlDZ0w4T080eHpuLTVVd3FWcWVnVTFvczdzTjdFZVd2Z1ozU0dqam9BOGxhbVQ0MnV4YmV3MDdkTTZtRWN2SkE?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-29T02:59:00+00:00",
+   "tags": [
+    "spx",
+    "nasdaq",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Ajit Mishra bullish on Airtel, BSE, TVS Motor; wary on Nifty below 22,825",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRUNzUnpqVzZ6dVRTQWZMbEd4LW9LX2RDRzVwQm9Sc01BdldKSGR0ZjhNWHJoTWJXYTlEVjVmZC1yblRqOEY3SWlOVm4zZ0RRdm5EOXhBNTdmdEhsdEJjLXVVaXZfRER4MWs4X19STGJOeVVIR0NXcUpvU0hDNHhDTl9NRU5yOGExTjFVdGEteS1NcklnLUJGVzFjclhOMTlWM2RKVmYyblZGUWFqRHBIbXVNRmNORWw0eVczWW1zYnphMnoxdVJKNnk4bmYtX3N2cEtr0gHYAUFVX3lxTE1TbWpxc0Rac2JPT01rVkx3X2o2YWlhNm0tU0I0TS1hR21GZ1RhOEZCWTRsTzUzN29PY3ZUOFA2R1VEeWRQWV9ObUhhOUp3cTNKRkF6LU15QmNWckxlbERDejZjekt4MVgyb3I1OWxpcWh0T00zcm1BZldiWVhXMUIyQmxvTjZGRWtoLW1BQk1XY1lGMTM4UWFXT0xMSTZvQlhwR2psZ3JlNjIyZ3ZxZ21DbDl4TE5DMzhGb0p2bkxUTGFqMU9vUmZpNlBaUWpLdkRlY2oxQ3hKcg?oc=5",
@@ -151,6 +184,16 @@
    "tone": "bearish"
   },
   {
+   "title": "Oil prices fall as peace hopes offset fears of growing Middle East conflict",
+   "url": "https://www.investing.com/news/commodities-news/us-oil-prices-fall-as-investors-gauge-risks-to-mideast-supply-4981268",
+   "src": "Investing.com",
+   "t": "2026-10-29T02:12:23+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Dollar steady after Fed hold leaves rate path murky",
    "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-steady-after-fed-hold-leaves-rate-path-murky/articleshow/135286431.cms",
    "src": "Economic Times",
@@ -177,6 +220,16 @@
    "t": "2026-10-29T02:05:05+00:00",
    "tags": [
     "gold",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Dollar steady after Fed hold leaves rate path murky By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXp5bGlXcUhLUWFrMDNlVkRxcW54QmVtMDlKRmhjdG45MmFkYVdkTnVqdm1wMUpkZFlEYllpMGV0am9hSWZEWlhrbFY3MTdXcmx0QUU3SXZWWE4xUmxvRDY3VkVQa2NhNVdfX0RjVTk1Q3ZfY1EwVkNiM3JTYzZFOVlaNHNEUTFOSGRpUWFtRFMxUFBYQ1NWY1J5N1dpMFdjU1IxLVR3?oc=5",
+   "src": "Investing.com",
+   "t": "2026-10-29T02:04:48+00:00",
+   "tags": [
     "macro"
    ],
    "tone": "neutral"
@@ -328,14 +381,14 @@
    "tone": "bullish"
   },
   {
-   "title": "Oil prices fall as peace hopes offset fears of growing Middle East conflict",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ?oc=5",
-   "src": "Reuters",
+   "title": "Carnavale Resources September quarter puts Kookynie Gold Project on pathway to 2027 production",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRDh3U20zMUdEdV9uaUxLREpfei0wdzdESk9mMGlXRHU0Wkh3QU9ZY01icl9Rd1IzTjRtVFFDVU40RVlaR3FKamlEUzRpQ29nLXdmX2YwWkNKa185UTVneDU4cjR3cUhjOXJ4eFF3OWNVclhfZVVnZVFtNExiR3JGLVhsR3loYUFWelU2allpUldEMUlLZkE?oc=5",
+   "src": "Yahoo Finance Australia",
    "t": "2026-10-29T00:28:00+00:00",
    "tags": [
-    "oil"
+    "gold"
    ],
-   "tone": "bearish"
+   "tone": "neutral"
   },
   {
    "title": "RBI accepts 20 bps higher treasury bill cutoff yields than last auction",
@@ -428,6 +481,16 @@
     "macro"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Fed Holds Rates Steady Despite Elevated Inflation",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSUZxdHpuamh0dmU0WWdXQkIyZDd2dkwwWjNtSUYwNTVMMDYxd3RoT0RDOGxyUTdQYV9OcnNqdnhWQ0JsLUtteFdlM3AxTGxpRVZLMWRINHVoRmhyOUhESTN1bS1laEZFWGNfdWo2RXdUa09sTndoVUZNS3R3bTlOZGcweGtfcmhqa0JjcTZUam82WmRQTFNYSDJ6WQ?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-28T23:49:01+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Fed's policy committee to weigh balance sheet issues early next year, Warsh says",
@@ -2644,72 +2707,6 @@
     "spx"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Bitcoin has soared 50% on average after midterms. The S&P 500 has gained 15%.",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVW1uLUNLX0ZRV3BPSmhCRWxPTXR2UjZCTTJ5ZE9GaWdwX0h6YlAzaFFCT1NvaGNrYThIOGkwZnk1OWdfODZVWEdFVjNjLXVLWDNkRExUaGhrLXlIS3ZWUDktbFVMUVhrUDN4dWZMZlc1ZDNBNlNGRENPUUZJR0NERUJhY2oxRUdpd2pUaFVabFFaUTd6SHZXa25fcEhrOEFaSk5wRzNJSHdGVmhiRDZGYkZkaHE5LWk3aUo1QXNR?oc=5",
-   "src": "CoinDesk",
-   "t": "2026-10-28T09:15:22+00:00",
-   "tags": [
-    "spx",
-    "btc"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
-   "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
-   "src": "CoinDesk",
-   "t": "2026-10-28T09:15:22+00:00",
-   "tags": [
-    "spx",
-    "btc"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Euro seems vulnerable near yearly low, Fed-ECB policy is under spotlight",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTzllUE5OSG03R2trZ2t6T191NUtDc1o0Mk1iZXJuSkxMcHJHM0hwdmpDWGxoMVZObi0tUTBEakRsWlVIbFRFWVk0RHk2UUs4Zm5IR3pGNVNLeXM2SzExSU5aVTdTZXNTY1BJZXNxTEgxTUdDUnVxR2oxSkRmNEpJQ3pRTXBtRGZZaF81eE9ZejF4SUVZdzdOTXhWQ0hpRlh0SEZLcE1PaE5zRk0yWU1ta1dOV20?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-28T09:13:30+00:00",
-   "tags": [
-    "eurusd",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US Dollar: Dovish Fed surprise could weaken the Dollar - MUFG",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPODBrX2hkb05lQ0FwdzlTNVdvTkt6OF9aVFNDZi0td19nRzZkRGR0YmpORXo2M0pnNUVhVHFjdldzY0FQNXcxcFNST0dFaVY0LXFpR2JZTkdtR0pZaXI5SnYtNTdTTVduVy1mQzcxNllxcDFpc3BCWVFSNkJqZUhBZk1vZ1E2N1o3RlhPdGNLTmthY29XX0xqMGRJYUZGRGdvd2pj?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-28T09:05:03+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Eurozone yields push higher as French spread relief fades; Fed, ECB eyed",
-   "url": "https://www.investing.com/news/forex-news/eurozone-yields-push-higher-as-french-spread-relief-fades-fed-ecb-eyed-4977652",
-   "src": "Investing.com",
-   "t": "2026-10-28T08:57:29+00:00",
-   "tags": [
-    "eurusd",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Dow Jones futures decline ahead of Fed decision, big tech earnings",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTW5COGhVWDF4SW9GaTZIZVhlX2o0M2diZFZ2R3FoSnlSTlRpdWROdFFsZG5fc080VkdkVHNtc053enFQNXBzRnR2NzVKRXRzTFlGU0lXS0FNeUV3X2JOS2ttMGIzd3RqU2NUWFhQaUpUZGFCRVJZN1pmMU5KTjNRYVluNHNKa3lycmUwMVVELTRsb2w4bC0wVF9zMUNabS1rRzFDUHM0ZmZCT1BM?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-28T08:56:37+00:00",
-   "tags": [
-    "spx",
-    "nasdaq",
-    "macro"
-   ],
-   "tone": "bearish"
   }
  ]
 }
