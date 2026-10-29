@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-29T21:55:52.893721+00:00",
+ "updated": "2026-10-29T22:29:09.237990+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 7
   },
   {
    "feed": "Google News",
@@ -72,13 +72,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -114,10 +114,30 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
+   "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+   "src": "CNBC",
+   "t": "2026-10-29T22:17:42+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Oil cuts losses, settles flat as Iran diplomatic efforts offset by supply fears",
+   "url": "https://www.investing.com/news/commodities-news/oil-dips-as-traders-weigh-iran-diplomacy-against-renewed-strike-risks-4981275",
+   "src": "Investing.com",
+   "t": "2026-10-29T21:47:10+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Gold (XAU/USD) Price Forecast: Bearish Reversal Threatens Key Support",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY3p3ZzFTMlM0cnVSN3NKeFE1TEZZdnJhYl9kWHZnc1hGaUoxVHlsTjJjRHJlMDJ6MU1UQTNSZlU1aXV2WmtiQloySDZNLVBXcFdVQ0xIaWZTc1lXV1dPdWxxeGRMWE95ZHQ1by1hYzkxYmpRbUhsRlMxS0FvOThUb0ZFQ1J3enBHaXhUdHJUbEdkUTV2WjVPTXpnQVNvbDJMMkxuUHM4aS02S2ZEeG5sV3BIVkNuVmw0?oc=5",
@@ -125,6 +145,26 @@
    "t": "2026-10-29T21:31:23+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DQWNxa2JydjlYazNWN1EtQTRLS2NQTm9uRl9BRTIzbkwzRm5Wa3hCM1NWWVN5V2ZLSFNnbkJQeTc0ZGhtZ0c1WlZNLXd5bTRtTnpGRkhSWVdBTEpyZ1hxU1p1N3R4anhsSkNhVmRqT241bXV1WVU00gF8QVVfeXFMTWcxSDVOZC1xSnZUdDlPWjlNVHYydlVIblgzZ0kwOVUtM0EyX0QwN0hMczRLbUx1UExIM2E0ZWpNTUJQV2pubHR6Mmw0THJ1QlBjOElwc3dfTENPN21rUVVseG51LWNCUXhJS2NaOFhXN2dEWjdHMzRkOGYwdg?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-29T21:25:04+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Multi-billion Binance hack hitting crypto markets",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT3E4YUs5ZXczcXMzVVdfNXJVYnlaV1NZUWJoS3BXSXkxX0pMODZJbTBnbXFfX0p5Z1RxSnpXRllQbEpFR01WMk1rZmYtY1VHakphMjZtT05QSFlYaUpQYjBOMm5tYlpPajBRQk1XVkFmYkREOXJuVWduaFZyR2xVaXN4bDZnSEdTUzRHWlFqNVpOVnFQdlVtaldMMXdObDJjQ0ttN3REaw?oc=5",
+   "src": "CoinDesk",
+   "t": "2026-10-29T21:17:44+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -366,6 +406,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Sen. Hagerty hints U.S. could add to its Bitcoin reserve ‘very soon’",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQakh3Y2poc2xYNXFSaE83clhpMTFLRnh4ZlRHLWE5ZWFBdHVBcDI4eGZWYmV2Xy01Q3FLUGFMTzk2OHVMSVRzTll6c0hwc2hET2tKbG12dVdEZzVRYzc2V0hDVngwa3cyRFN2M25jZi1aTXRacFpDV3g1MnpETlhaLW1KVjZpcVNIODAzUTE5S0NyeXdTVWZlWklOaTg5bWJ3M1dBb2ZQbw?oc=5",
+   "src": "TheStreet",
+   "t": "2026-10-29T18:50:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Bitcoin Could Hit $90,000 by Year-End Amid Bond Market Turmoil: 10x Research",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR3g4UUZlc1l1NlN5ZXdFZ1ppY1pkNEdvQk1ub25KNUlxd3hiQVQyRk9VWkRlUTZWTHFaeWRxb0k2SWJNREJ0ejFkemVSVndRVjRhUnhxNHJTTTVQZWp5azBhT3RVY3B2WUdGVmowOHFEVVVtM0JfakhUX0k2aEcySEtJcEdEOHFPZkI0WUpaQlh6TGRfUWFXWkJoMmEycHdJWFVpTzNVQ2NmTWp6bTA0dFZNeGxCSGZXeTVxUjhhWEVvS0p5VTB4clNkV3p0X185?oc=5",
    "src": "Benzinga",
@@ -382,6 +432,16 @@
    "t": "2026-10-29T18:46:11+00:00",
    "tags": [
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Forex Today: BoJ to leave rates unchanged",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON0lNQTJ0cHNiYVFzdk44NnNPQ0JrNVpCdkhsU1dTc2tnbVB3dzl1cnpXWE5rVHkyQzVUYlJMUk90aWFfQUg4Qks3ZEtEY0lNUGZUVTdyYmFnZ3ZTOEpWdEpPT1NrQno5eXlzU1NpeUVuMXNWY2FZZ1VnM282VU4xV2ZDZ2tJSUVYVlRN?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-29T18:44:13+00:00",
+   "tags": [
+    "usdjpy"
    ],
    "tone": "neutral"
   },
@@ -425,6 +485,16 @@
    "tags": [
     "gold",
     "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Japanese Yen struggles for direction as BoJ interest rate decision looms",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFltQmpmVUJMWHZINEZtZGw2WXFIbTNPZVZEaDMzVVR5OEc0LXJkVFM0OTNncl9CM2dSdXJYNHRBTVZZVU1ScUtON0dMa252RENkejZDQnh6d2JOcGdsNE9EWXRaTmI2X2sxM1RyaUZBdjRhNGtjMm9jeXl6cjBKY0V0UU0wM1o5ZlBoV0xCdWE4bEV2WHEyYUhfR1NkYkF3aVBhaFpFRERnN2xoUVpnaVJ3UDhVUQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-29T18:19:58+00:00",
+   "tags": [
+    "usdjpy"
    ],
    "tone": "neutral"
   },
@@ -900,6 +970,16 @@
    "tone": "bearish"
   },
   {
+   "title": "Will The Fed's Pause Complicate The Inflation Fight?",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTnVXM2ZURy1BUi1peVd5VXZGaTZNT1piYlNZRTF2SGh2Y3F6LU5GbDl2YnVsTG9zdGFQRFF1bXRNa0JJX2l4ZmZIb2k3TGtIc2k3WU5VMDhkNUlYeHZIbXRsUG1rN2lYbzdRSXYtZDI3TmFIYkN2QnF4c2I0djVUS05tZ2l1NjV2eGc?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-29T14:10:00+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Lagarde speech: Governing Council debated whether hike was appropriate",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3JFS29nelhRLVg3SC0xSGFnQ01lSkVmT19RdWJiaXlMeFUwUC1uNjQ2T1lwWnVpeHUxSF84M1hMazNkSUgwMFFoNVZmME1VWVhIQlotaGl1UmR4WlF3d2M1UWZzbFRpb2VkdHdpeEJfRnozb1d3M2N1Q294c0tKdWs3eERPQjlMVTMwMmpTSE5MT3dtZ21oci1aY3M5a1dDNEt4c1BtMFJESzM3ZzZ4ZDNn?oc=5",
    "src": "FXStreet",
@@ -1164,6 +1244,16 @@
    "t": "2026-10-29T12:58:30+00:00",
    "tags": [
     "silver",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "PCE Inflation Accelerated Last Month",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN05udWJhTkF2akFvSEhxbUF0TXpBZ25iVWZKMEsxVmhxelQ5X3BZVUFTZE9OMXdsUUc0empSRjBzOEVfalFrbXJiY0ptcDZtREJUamZJb2thX2hLaEhnVzdVUFVLR3pzOU53cVJoQ3ROMFByeXNUcTB6T3RjVnNDU215WlNqQjJWM1NTbmVfbmdZVVE?oc=5",
+   "src": "WSJ",
+   "t": "2026-10-29T12:56:00+00:00",
+   "tags": [
     "macro"
    ],
    "tone": "neutral"
@@ -1742,6 +1832,16 @@
    "t": "2026-10-29T09:35:30+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "India's finance ministry sees FY27 growth at 7.3%, flags inflation risks",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbHJKOFdCa1lNa3I2Y01DOVFLMDhSR3lhVnBGTmd3cG1UZXQ5LWdudTlhOUotYVZpUlktR09YbzhfR19RUkFCTzFnUmNjY2hxeVl3ejRscWNRV2t2TkpYdGNMWVhZZ0tOYkpEQmtxNDN3d2dhU2NSNktwMFJ6bUZkVVluUmJuNW1vYnhkZjJDMWhDTThvQ0l4NjdNc0tyTDM1cllSa2llM1MwSWN4WjZ3YnQ1VQ?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-29T09:33:44+00:00",
+   "tags": [
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -2592,110 +2692,6 @@
    "tags": [
     "oil",
     "nifty",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "The bond market swings, but US stocks remain steady after the Fed says it won't raise interest rates",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/the-bond-market-swings-but-us-stocks-remain-steady-after-the-fed-says-it-wont-raise-interest-rates/articleshow/135286393.cms",
-   "src": "Economic Times",
-   "t": "2026-10-29T02:07:42+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold dips on firmer dollar; US inflation data in focus",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-dips-on-firmer-dollar-us-inflation-data-in-focus/articleshow/135286296.cms",
-   "src": "Economic Times",
-   "t": "2026-10-29T02:05:05+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Dollar steady after Fed hold leaves rate path murky By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXp5bGlXcUhLUWFrMDNlVkRxcW54QmVtMDlKRmhjdG45MmFkYVdkTnVqdm1wMUpkZFlEYllpMGV0am9hSWZEWlhrbFY3MTdXcmx0QUU3SXZWWE4xUmxvRDY3VkVQa2NhNVdfX0RjVTk1Q3ZfY1EwVkNiM3JTYzZFOVlaNHNEUTFOSGRpUWFtRFMxUFBYQ1NWY1J5N1dpMFdjU1IxLVR3?oc=5",
-   "src": "Investing.com",
-   "t": "2026-10-29T02:04:48+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "U.S. dollar turns lower after Fed’s ’hawkish skip’ By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOEZtSWlvajVZeGlUbGJZRDdHV1ZNSGhDdTducEl2VHBLcTdGSFlIODQ4ZUJpNzJXMjR4eEpTQk5pQjVCWE9Day1aUkxBSEtFLWxBMUI4X1dLdWNidjAtQ2tTN1NlUVdmRDJ5aVB6ZUR6WGtzTmRBLTRrbi1LS2JWQUdXSXZWZ2sxRzN3Y3VRNFFaMnh2dWcwOHpMY0puZ2MzNkgwN0hVaDNScnVZM3FUNlFyZjY1Z3U1ZlJRaDRDYUl6OTd4WVFTYm1n?oc=5",
-   "src": "Investing.com India",
-   "t": "2026-10-29T02:02:36+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "US oil prices fall as investors gauge risks to Mideast supply",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/us-oil-prices-fall-as-investors-gauge-risks-to-mideast-supply/articleshow/135286261.cms",
-   "src": "Economic Times",
-   "t": "2026-10-29T02:01:21+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade higher",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hcl-tech-adani-green-share-price-29-october-2026/liveblog/135286421.cms",
-   "src": "Economic Times",
-   "t": "2026-10-29T02:00:47+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Bitcoin Controls 59.5% of the Crypto Market. Is Altcoin Season Still Possible?",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdWlZTVJ5NHRUSnhKc3dESThjQXl5ZWhBcC0xZVJoeXlEY1J5Ulhic2FlcGVvTnpKQUhqTUJ0VWNjdF9KRW9jdWZyVUJ5UHZmTS1EbWt6Q3haZlpPdUcyaThWX2RCSGtpcnNDWUtyaXllNmFJRGtCVjdMVnNmM0hIU2ZzaXhfZjVVUGVJU180U2J5Z3lOeTR4cDVQUFpCckpINEI3T2VtYm8wNXVhRlVBWkpZekN1OGJJUW13QUVNN0JaR3R2SFhCVzNtRWdNNkE?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-29T02:00:40+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin, Ethereum, Dogecoin Gain, but XRP Falls as Kevin Warsh-Led Fed Holds Rates Steady: Analyst Puts",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLWd4WG5pTDB3cG1xQjRFVW82bUdTT0JnVk9JRUdaWGpiSEI1R1NMWHFjWldjUF91bjZHcGJzNzhtNFMtSXJ0MTJUaWh2WVYwSEZuX3JSSER1UGNodVZvRFlNMXF2V0x3V0REMFA2dkdIXy1HdmZOQS1NN1d0eHFWRlZ3SU95bVgxRXlKUzVxelZ6SFNkVGJDcU4zdVdJU3BYQTlJVVFuVENrVFpVbUhRQ1YzVQ?oc=5",
-   "src": "Benzinga",
-   "t": "2026-10-29T01:58:02+00:00",
-   "tags": [
-    "btc",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Euro steady before ECB decision, dollar holds ground as Fed stands pat",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYmVmOE5mU3JyckhjNGlWelQ5QVdhNzkwU0h1Zkd4bjJ6UGszY2lYem1BRmxjWW95VDBrYzg5NXNIWFhFWmNjNmFlUHZleE01YnNOWjRWVV9LWU1SYS1lRlVoRm15U1FrNjdvbkhtVzA4UWNzREJFWjBmUS1vU1FmcEN5a2loa1VsaHRRN190UHZNRmtvTVR1a0RmUlZwTlBPTmtoVFpURGpudw?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-29T01:55:00+00:00",
-   "tags": [
-    "eurusd",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold slips after Fed holds rates, PCE inflation data in focus",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeFJEQTA0cWtHSklxclF1ZVA5bElFY044SEp5T1lxSzFSQndyRVVjT01YSFZFejg5RkJHdVIwODFFeHQ2TUxIaTU0Tk50ZXZPRXNPQXhoY0lLdV83cDVoU0wzdV9wV0hMMmxrV3dwQ3IxeHB5QXlfbHJtcEp4UlZjMQ?oc=5",
-   "src": "Yahoo Finance UK",
-   "t": "2026-10-29T01:52:00+00:00",
-   "tags": [
-    "gold",
     "macro"
    ],
    "tone": "neutral"
