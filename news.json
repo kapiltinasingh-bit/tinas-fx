@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-29T15:31:32.337792+00:00",
+ "updated": "2026-10-29T16:31:53.180711+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 8
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 9
+   "new": 6
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,43 +48,43 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 7
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 7
+   "new": 10
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 8
+   "new": 7
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
@@ -102,22 +102,94 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 2
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
+   "url": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
+   "src": "CNBC",
+   "t": "2026-10-29T16:22:19+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "IMF says Federal Reserve is 'appropriately' keeping close eye on data",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRE05Y214SmpEbURJUXQwdlBZNjR3ei1DSHFlNmR0aHhGdTdWdU1aaFZhSWtqWjVOYnoyc3JSOW5zNVpfNEVWdzE3alJXNnJUaFg3b2IwZThxQlhlNkh1eWF0bWZRdXFPZld1RTNvNDJiRE4zRjJLcG9WdlBvT3UwZUpTYW9PMVgwSEx3bVlHNERieXJfbG1fT1Y2OWxTX3ZqOGV1NjZ3?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-29T16:19:28+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Crypto exchange HTX exits the UK after settling with the FCA",
+   "url": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
+   "src": "CoinDesk",
+   "t": "2026-10-29T16:11:18+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "S&P 500 Slips at Midday as Nasdaq Drags Tech Lower",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeDJSMXo0OGY5c3hmTGc3NTlMUWlDSHViS04tN1djZHUxT0hDSTQweDNZQV9ZRGVTRmJCcDNMMEJfTC0zRk9hSmhNcERsaFpucFZMV2RRUWo2dHpfUWUzVUZLSGV4VmFVaVhBOUNGenBIQUFXZDlvSWMzLVVpUE0tdGNjRXQ2US0tYUMyTGtpN1VxWFdaUUhuaDhrSlRrbDdrYkJoNENMMGZDMUhFdk5NWXUwR2ZNaTVGYzRDc3dYS05nWVRndGVQb3pfbw?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-29T16:00:00+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Earnings call transcript: Eldorado Gold misses Q3 2026 estimates as stock falls",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV09aQWFnWnhoWktaemRRc2J4VDBoNFVFdGRqeUVUalRlSFV6d2VjSl81OVZnRFJ6WWRreEt3X2xwaVlIUWVRWl8yNWFaUE91di1ONEhOODhZdGt6NldoN2JjQXdPNExZcExCR1I0MktIcTdRNXo0cjRLVzhzRk0tb0N4U1ZUVjczY194OGNIcmRJaWI4X3dxNHowbXVTRDZ5WTFSSnRjQlBvUVhVZ3FzcS1RN0FKdXNRU0loQU5sVU5MTGhrY2NjWTA5bGFqV1dobVA4SnhB?oc=5",
+   "src": "Investing.com Nigeria",
+   "t": "2026-10-29T15:59:51+00:00",
+   "tags": [
+    "gold",
+    "spx"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "LBMA members back tokenised gold but seek legal certainty and safeguards",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUkhqUDNUTXk0cjVvcmYzc3cwRjZscDB2T3hzdi00VzNKVDdTM1gxNWZwUy1CUkhzc01STV9Kd2pKSzBOYnduYVRVTnY0N3czd2lpRzRxc29LTkUybV9xQVd3MUh3dUlWcENmTU9YcVRWdjRvQmZBVjY3aG4zRUd4eW5DMUlQVW54VnR5YklrdWpvTnV5MTUwNTloOXM2M3FMSnJKRUhhZ1dyN3BSZnZNS3RraVFVRzJzWWxj?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-29T15:39:16+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.",
+   "url": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-29T15:39:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Hassett Sees Fed Acting If October Inflation Data Come in High",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTXVySnF1Q1Q5aWpLOU1BVjVNRzVFME9GV3NldjFJOGMyS2Rabk5wTEh1aG9fMXBzVXR4SjUwTmNmYTNFcXNLU1RrMWN6MElDRHNaelJnRTdUUEpCakF6aVpXTnAxRGgxblBhOWU0T0NSQkxvY3IxYS1Oa2hxekNYRWRiSXhvOUxsMXJ6T2c3VEZNM0JvSnAySG9TUW5PX3dkbUVPck4xSTNGX1g0UWo2NUtMNGlpU1Nyd3NCLWFWQWw3RVpLZVhVbVBOemFnVnAxNXc?oc=5",
@@ -185,16 +257,6 @@
    "t": "2026-10-29T14:54:01+00:00",
    "tags": [
     "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "LBMA members back tokenised gold but seek legal certainty and safeguards",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWGsySVpZX2g0a0R0ZndGOUhvdWQyVzRpY1pUMC1YUHRfa3V0aG80MGRId2U1TWN6bDZJdEV2QXpnYWhJX0VVVWZtTzRNaFdWT29UWVN5OEc1eFN6LWtqZkluVU9rd1htQkZGWG14VW1VUlB5RGFhWmIyRnNJUVdOVHBUcXNKdFUxWC1oeTZGcFhrYnpULTI4VXFaUGlOcVY0XzFzVFRvV2ZFYjNDM2c?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-29T14:49:43+00:00",
-   "tags": [
-    "gold"
    ],
    "tone": "neutral"
   },
@@ -363,6 +425,16 @@
     "macro"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Wall Street is betting on a clear midterm result. A contested count could rattle already edgy markets — and these sectors",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdm1CUDFHR0gzRFNPOHlvVEJ0VnBXWkV2Qm9udFA2SWRfaUFoS3hoM1NLcXowRjdGb0NBeGswNVFFdmd5VU1iNzBxWkxCTF9MRGhuUDF5Y0pOY2s1Y1ItaFp0NEJpY2thenFBUjBreHNoWTFGNnV5emZha2R6dEgyeGtzTVBBRmc5OGhjdmFR?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-29T13:31:47+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Gold off its lows as ECB leaves rates unchanged even as inflation remains elevated",
@@ -879,6 +951,16 @@
    "t": "2026-10-29T10:35:58+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Euro retreats within range with all eyes on ECB’s monetary policy decision",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeGNUYjhKbUQxY3RJbnQtYnJmMXktV1ZqMlhSZ25DTUozT1JlWlNYVWV5VW1JeERMNnRSY1o1bGZxeWZqbWdBSERyczdLZ2FzbC1ZMXlfY2lxU0k5bzhWdmZXNHVLNGxlRGNZLWdMTGxPN0xLQlpNZ0lEVXJjMUxiV3FGdzBwRzZlQXR2MnJOX0JYNDJ0dGd1bGZoVkZTcl9zWUpRbU9NZ2N2Wno4bjlPLVFpMlFFMTA?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-29T10:28:47+00:00",
+   "tags": [
+    "eurusd"
    ],
    "tone": "neutral"
   },
@@ -1976,6 +2058,16 @@
    "tone": "bullish"
   },
   {
+   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E?oc=5",
+   "src": "Yahoo Finance Australia",
+   "t": "2026-10-29T00:45:15+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Oil dips as traders weigh Iran diplomacy against renewed strike risks",
    "url": "https://www.investing.com/news/commodities-news/oil-dips-as-traders-weigh-iran-diplomacy-against-renewed-strike-risks-4981275",
    "src": "Investing.com",
@@ -2607,100 +2699,6 @@
     "macro"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Mule Canyon gold resource advances restart plans",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSMEpBbElLNFUzZEk1WlpKeTIwdnVISlZlWHBLUWVCbWFlS1FUbDFzelVwVW1XQ3Q4dEpVelZsZEE0LWV6bjdXeHliM3AwXzJrWV9QSFkyOGhXazNlMTJZdzJFOXBITGhKblE4MG85NkJ6QzBMRlNJRGF1OW8?oc=5",
-   "src": "Mining.com",
-   "t": "2026-10-28T20:34:36+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Australian Dollar surges as US Dollar weakens despite Warsh's comments",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdmFrYW9PQmFoWWlqWU1UeWd0ajN2X0FHOGxiV1hEWlg5ZE1fd3plTFY4ZVVVcGFESkJ4TjBORGxpUEpkRG0xNkNqQVRZU0pjcVZXdnQ1NFBTY1ZtNnNhMmFzdDZLWXdKeEEtRTk0N3lrNnFlV1JvMWFGNzNPTXNrenpFeWpYLUhJdUlBTzkyUWdMajZ0NUtFTVN1MlJPRWdRYnpEM3JFbzgxdzBmZGhha09aVQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-28T20:29:37+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOFJMUDA1UWY0NlpyWjR4TWVLM0NXTVpPdFNwRUVLWWNUUVpwM2xHU1hmaFdxUHVXYTBEVE9LMnJWRl9leVV0R3ZnVU01Y0hUcTI3V0xfX0pfbVF6aTYwRHEzblloS21hTFRrSHZFdDBSVHdRNmpURGZPR0JsVmtmcFlvdWhJb2xNZFF5YVBHMUIyaThjUnc1RA?oc=5",
-   "src": "Fortune",
-   "t": "2026-10-28T20:24:00+00:00",
-   "tags": [
-    "btc",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Japanese Yen recovers modestly as Warsh reaffirms Fed’s 2% target",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmxqQ0JDbUVGR2VDT2JNMDJXTUpoYzRobHU4ZnQxcTB3ZVBLYnZsbHI3am43Nm1fX1RkSS04TC14c3FEUUNwckdMdDJOanJaUHA5MDFnVEdnSTBqekhzRERYMTF4ZGlVUWR3b3NkdGtsc1JDV2ViTTBYN29HN09UYUpFalp6MndOWE9XSGlMVjd6OEsyc2ZlSU9ndVFNdHc?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-28T20:22:07+00:00",
-   "tags": [
-    "usdjpy",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
-   "url": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
-   "src": "CNBC",
-   "t": "2026-10-28T20:17:19+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTNINnF3d0YzSWhxXzBuRUxDc2RycVdyV1FFVGFMcFMtdUZxVmx4RGQ5NDdJRmpRdlhMRlN4d1NTV1BFYVFXekxSQUhjRjBKWlNxTzNrb04xTmx5THJ1OVBZem1HWldlb2EzaWFsbmVNYUIxVWtqano5ZFJZanllZVJTYWNuYXVqRzFxMjRRSjVqaXBvWFQ5cTJiSElpWldqbjA5bXl6eEM?oc=5",
-   "src": "Bloomberg.com",
-   "t": "2026-10-28T20:16:34+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "U.S. oil-refinery stocks are up roughly 150% this year. How long could this historic run last?",
-   "url": "https://www.marketwatch.com/story/u-s-oil-refinery-stocks-are-up-roughly-150-this-year-how-long-could-this-historic-run-last-f01c590f?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-10-28T20:16:00+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US stocks today: US stocks end higher as Fed holds rates; focus turns to earnings",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-fed-holds-rates-earnings-in-focus/articleshow/135279631.cms",
-   "src": "Economic Times",
-   "t": "2026-10-28T20:14:51+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold Slips on Oil-Fueled Inflation Fears Ahead of Fed Meeting",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdVVxb2xEbjVHeG1xQlYtVllsZmQyVENHYnVKeklpUElkYmVnSFFsVFc4eU9PMlFQTE9EY0tla2dJTzlpMHRSNkJNUnNwXzhqbklTZ3gwX0p3bUtYaFhRTFpCeVNWRzVrTXdOMmFPbGNRaTc0RWpOSFF4UHRlYWNrMks1NFJJR19lQTNuRU93SWpkVno3UTNlRV9Dam8xdFJD?oc=5",
-   "src": "ASHARQ AL-AWSAT English",
-   "t": "2026-10-28T20:14:35+00:00",
-   "tags": [
-    "gold",
-    "oil",
-    "macro"
-   ],
-   "tone": "neutral"
   }
  ]
 }
