@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T23:43:34.299602+00:00",
+ "updated": "2026-10-30T00:16:23.812946+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,13 +12,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -60,13 +60,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -114,7 +114,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
@@ -2549,6 +2549,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Current price of gold as of October 28, 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQa2I0dGY4OGxPWTg1aDhfbDZuYmJtMWQxdE1QaTFya3N1elZJanNzMjM2LXJ1REpCZHpYa1JZZzJVOGE3N2dpb2JVcGVwN3NWNzBMVnVaTVN3bmdKTklfSzhjLXVPOTMxZDIzR3BB?oc=5",
+   "src": "Fortune",
+   "t": "2026-10-29T04:14:04+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "USD/JPY and EUR/JPY: Diverging Setups Ahead of ECB and BOJ",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzNWanRJV1dDX01ZelVQRWtNLVc0el9MeUg4bTVtRGlDZDVJcE53T3A1ZDJ4aTFOd29ZWlh1eGE2Z3ZhMGFxOU1JSk4xanlpWU1La0YtQmttdW1RdEdXSmM2aE16a2VMd1J1SzJjc2VCME5TT192MUdmWkFkbmhHYnJHcVBXdlVXaEpWclNUZUtIRThGZl9XanNJdU5xcEdWeG1OdzJ6bw?oc=5",
    "src": "FOREX.com",
@@ -2678,17 +2688,6 @@
    "tags": [
     "spx",
     "nasdaq",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Silver Price Forecast: XAG/USD slips below $53.50 amid Fed outlook uncertainty",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUUlaaDBKaUVUakZ5WmRKUUlzdGdjVmNiZmZ0VElfSGttdXA0eEhiTlYxVEM2cWsybmwxX0lySW9kc19ZWS05TmFYZ1NJQUJvNExPZC00WXBWUV9TRmxza0t5ZTFmX1ZQeElmMVVHczAzRXRDYzRVQTZwc0p2RTJuZjk5TVZMUDA2aE5obDNhMmRFT3FfRlkxWlpfYVpwZjA3eG8xaW45dGlPWl9JMnlhQmZtODJkWW1MWkE?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-29T02:51:55+00:00",
-   "tags": [
-    "silver",
     "macro"
    ],
    "tone": "neutral"
