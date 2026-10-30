@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-30T23:13:21.747596+00:00",
+ "updated": "2026-10-30T23:47:03.800119+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -24,7 +24,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,25 +48,25 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 8
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 8
+   "new": 6
   },
   {
    "feed": "Google News",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Economic Times",
@@ -119,6 +119,27 @@
  ],
  "items": [
   {
+   "title": "US stock Market today: Wall Street stocks that jump on tough trading day for S&P 500, Nasdaq, Dow Jones, R",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOOEhRODlZc0h0UGhEeXNwT3pPUUdsbkNremxUckxCeWlFanlGZ2p6VzF1VEljUkhuQ3NvQVhIcDk3QWl4bVIwVS1YRUNmZXRUMjR5S0lvZFR2Rmd2ZHBJbThMV3Q2NVdubzgzM1JySFV6Y3Q2X1c2amNiZXcxa2RuMDh2Ukl4a0lXMHdsWDFPZG10ODdTQTN0cTBoWTcxR3QxSl9pVHVMU0hMMzlfaXFrRkxVUE5QSUw0UzgwWUhnaWM4NmN3aF9US2VjcjI3R3QzSWhJMjEzNTA5akFuUXdsdUlCVl9iVF92LUE2X2FMbW9vcXVKLW9ETXNvcFh3VnM2bmxhb0l1NDJDeEE3Z3UyZzQ0aUcxV2vSAZwCQVVfeXFMT0VCdjFTOHRzWGFFRUpza1k2QzJobHpVeGY4QnktbzZaSUotU2NCNmRJUTZUVFVwcnZybDV3REtFODFQOTJBWmhzNTZBSlFyZGllLWxsWXZtT0x6ZFVnbllyZE1pcFB3ZWo4RzJYbmF0SHdQTVJCN1RiM3FoQXZVUnJJc051TW5JZ2pjZkF3WllWcXRPcGZBa1hqbDZOY3dSVHAzZWNXYTFMenVtdk5hRnFkZmxaTVl1TUN3djB6TndEbnNRY2tQal8zSVl0VDZuNmh2a3JzZ1djWk5BSUlBeHhxTVpJUlR4aHo4ejVFcHFLeFZ2VUdjNVFWR0dfbnJjYldGT2tnZ3JXc3pGYTl0NlRYUXotYi1CODZsZ00?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-30T23:23:58+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+   "url": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-30T23:14:00+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "How Much Bitcoin Would You Need to Be a Millionaire if It Gets Back to Its Record High?",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZmlhV3k2Y0hRYnNxR1lVa195TU1iNWpxdmNXYmRnU2daSlhzeVZxRFhjM1BoRDItWnFBckN5alZSdmJadWVSOXRXOHFKM2JjSThsX1ZDOFhSWGsxUWJEOGhyYjBFQkFPNF9IaUFNTEtKRHNIVTZ4MkYtNHIwY3kwNF9WNWRjS1luWEpWRXA3aEd5eG5udU5SOVhsdEVFU3cxVjVkWldqUUpKZldXRnNPWWpBR2dmUzBheWh4OURsbDhKY3Jvc3BpVC1odkU5eDd0NzFiX0lMbVpfelRicmc?oc=5",
    "src": "24/7 Wall St.",
@@ -145,6 +166,18 @@
    "t": "2026-10-30T22:02:29+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Gold sinks to one-year low, silver slips below $50 on inflation concerns, tech selloff",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjlsWUMxUzl3ekFYUW9ON28wdURrNlZaTDJZS3p1cllobUVrY09kUHo4ZzlvMzY4RmZiVGdvTmluaDlZS0JHX2FDQkxJYXNiTmxOU2RsMDQzUnV5STN2WFFLNjRLdGdJVTlSRjJBUkhQTVpIMFRwd3FqbkVfdHhoR0Fqa3RpSU9sczYwcjNxTGUweVVGTzA3UDhoQTJTQ29yd0F1NlhMQWl3MFo1ZVMxd0tQVTh0dVVBUEItNXlB?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-30T21:58:31+00:00",
+   "tags": [
+    "gold",
+    "silver",
+    "macro"
    ],
    "tone": "bearish"
   },
@@ -530,6 +563,16 @@
    "t": "2026-10-30T19:18:49+00:00",
    "tags": [
     "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "North Korean hackers linked to crypto thefts among world's best, experts say",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX1VyT1h6VFVDRHB0ZWRFWk9OMVNrYmxIa2lrV181eFhJMEZZMElNNzNLRFVLWGtrWE1lR1hwYjVaS1U4Yjg0RXlIbjZrUHFtREZJUzY2YU9iVU9tVk93YzY1WERWSmQtUHM3WXEzY056dWtPejRIcHRYc1o3N0RNaG5hQXpCeVVfMUdsdnNaQklBRW5BXzNSeGtvaldFNHNEWkRHMDhBVVFsVEVTajJ4WDExdi1IaFo5ZWV6YUpjb3RVQQ?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-30T19:17:50+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -2633,48 +2676,6 @@
     "macro"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Gold (XAUUSD) & Silver Price Forecast: Hot PCE Lifts Hike Odds, Can Gold Hold $3,975?",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRkdfNUpzWXMwQUExNjNlYXhFejdUWTNWcmVfZmdxZGQyZlNyRE5kTHRNMGRlNHNNT0F3U0QwUEhQVnhoVzg5eFZNc1VIMkotb0FZSDFsZzJ0T3lGVXJfRHhSSmZVQWxQSFU4WHo3MTdvYzA0OW16S0c2WGZhSWZzYVVWaEtFRU1IandJb2FQa1Y4aVVkZzF5TXd2cDdOd0g4WElqeV9xd2hnT0FublVrZ18wOFlnQzYtYTRhdU5JMXBIb0dKY2c?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-30T06:30:00+00:00",
-   "tags": [
-    "gold",
-    "silver",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbExNNHo3V1MzX2dKUHhjWTFpN1FHbjZ2Tmo2SFRDQVhHN2FwZ2M4Mm5udUdUcmNRNktMdjU1X0VrZVUxRkpnNTJwNW4zaGdWdVUxbDVTdTZNTTR5dklWLXFRdlJwM3R4bHpUMnZZWjI0UGZ2eHdldTlEb1lzN3VQZG5mV1B6TFJkZG1DY3padmJXanRJRWgwcnhma3drNU5DUjg1Y0VMREZtZjZ2bi1iTHd1TG13LW1QTzQ2VzNYODA?oc=5",
-   "src": "CoinDesk",
-   "t": "2026-10-30T06:22:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTy1oek9FTTlmdlpuUFZPTUs2d1hhU2lsUFJHZUJMTlJhaDdfQ1l1ZjVCUjNjUHRfZjJMeWJ1TVNyYjQ2V3pNdGJkRHdhQWMySXFsb2hRUkN3dkp3YnhFSDZoaV9FSUZ3dHk0ZDRuZjFhLXZPbmloUkdRR2tUTkFMV2RBbnVNeUtXckViTzlnNWpza0NycUJNUmhHTUxwTjg4T3hkb0djZWNFbExFckJOYTBWY3dwdjA?oc=5",
-   "src": "Benzinga",
-   "t": "2026-10-30T06:21:29+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Euro: Rebound extends toward resistance against US Dollar – UOB",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDBHSlBIeGw5b0xiakF4TGlaS2hZc0NVbFlNMXRQZlBST1ZhY25taWVlYWVadXFoWEZNaXE1dTJ1TjJFMXpqc0VWVm14YVVvbHM3SUZwb21xU1BVUHRRd2JOcVo0N3dtVWtkN2xQQTFmcEhHa3AzbFJEVUNjbllnblVZMnV0VThPaG1sVEY1RlBjWjZVOUZQeUNuVDY5cmZ6VlJfakVR?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T06:17:15+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "bullish"
   }
  ]
 }
