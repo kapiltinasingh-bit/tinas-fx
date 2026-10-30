@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-30T22:00:05.960619+00:00",
+ "updated": "2026-10-30T22:36:00.976599+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -24,19 +24,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 6
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -60,19 +60,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 7
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 7
+   "new": 8
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "CNBC",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Economic Times",
@@ -119,6 +119,26 @@
  ],
  "items": [
   {
+   "title": "This cybersecurity stock will be the next to join the S&P 500",
+   "url": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-30T22:20:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin Fell With Tech Stocks on the Binance Hack. Is BTC Still a Safe-Haven Asset?",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMC1DQjdibDlhRWRNT2Z3U21kVUk0dTQ0ZTlZbUNPYkhMRE9SSWUyWnl1eVQ4UmdTMXlqMEhTNF9XQTNTbENUMmlZQmlPVVNhLUZfVzd0bTMtcHhua3B4dlN2WEdteUdGQTRHRVZ2ZktxMURjODBWZTF4Y2ZhU0lXaXdpbVpOanZTYWhGSGNWa3VYRGlkTE50TV9kcWRVTEFXaXkzS1daWS1UcjJfVU1pSlNKMjZienkxdGR4bGRGRjl6bzl5cUk3djMyZ3YyZjFUX2VmQVpQaw?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-30T22:02:29+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Gold (XAU/USD) Price Forecast: Breakdown Puts $3,500 in Focus",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUNQdlc3dFBVOTVwS2JBUW1nXzJaRV8xanJ1UDhtYW9lak4xczl6Ry1zTnlHWmdlMDVvQVNRalk4LVpyYUdKcnFwcnc5T2xYSGl4YmQteFFDdXFxMFpJU2JOMEdnQ0xROEZCWjQ2ZmtROXJtaWVZRExZRTdMT2J0ZzFVaVFVMklyaFAzRWxKcFRpSnlDbjVwTnNHNW5rZDBpMjlBZTdJZGRUSFk?oc=5",
    "src": "FXEmpire",
@@ -127,6 +147,16 @@
     "gold"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Top 5 crypto gainers this week: Hyperliquid, MemeCore, Quant",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcVI2M0xGT1pfLUpUdU5jRkJkSlZta0ZkNDFobEVveW1IZlR5WGY4QlV3VzJiSXh1RHl2ZGpNWnhxdXZqaXZrRGNwM1hPYzZFT0swTE9zVUV3azlqQTQydXpHTDR6ZjQ5Sk5IMGRmVjRRTTBMajVwT0JrNFFsRmhnb3N4UEFQLXR6bWdQU2dNd3lleFRRc1VvWUgwVDdMRVMzaURTZFZPM2VEajlPRExIYy1PdjdQcnNEMEJUSThCVmMycDZqZV96U1NxT2c?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-30T21:54:18+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
@@ -201,6 +231,26 @@
     "spx"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Update: Nasdaq Composite Marks Worst Month Since March 2025 as AI Spending Fears Rise",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGR0bGtndF9DYXV2TElVdWZKVU16Wi1FcUJ3emNKN1ltR1BEdk55UkFLMXNMQ0ZnSXllZ0dEcklvWDMzYWRjU0taTlFNbW1mWkl4VlRLTVI2VW9pSVlmdUp2Z0JCRTg3SGY2NktQY054S1pSV2QzR2NpbjJFdXNJdlNiVWsyX2tpM0xvWkhqb2hYQVo0VW5BdUNWRkNnVlRG?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-30T20:56:53+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Stock market rocked as investors dump tech shares; Nasdaq suffers worst day since June",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVll4LVFGMjA2Y0lxRFBqS2g3T19vQmtzeG1STUp3cWdYZTJVNTRxeHQ1R21JTzBRcFRhNHFha2pEMmI2Z0ozVnpIYkY4RkxaamlzWGp5MlhLZkVQYjJnNkw4VjBNTnJ0Rk5VcVpKS3JqeVA3T2FEZnIwUU10NTdON1AxNGVZRGwxVjJLOXNXVmswM3lhNk1xdm8xT0h0aVBmc1FCVWs1c19nQV9rZEtGbXZ1dkJKRl83QjI5LU03WER0TlZsdjRB?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-30T20:54:23+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Dollar rises for October as rate hike bets remain elevated, euro and yen slip",
@@ -2623,57 +2673,6 @@
    "t": "2026-10-30T06:07:09+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Outlook To Q3 2027: A Firmer Foundation, Renewed Potential",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM3VGN3BIcGU4eC1FcXlsdjVtb3FETjhrcmZTV2FhR054dGQtSkVTdE1uYjdBTndiUDRJeFJGODBQb3VIdjZiWFMxc083UU9nNnpGbnZoOFBnLXo0czNJVHU4Y2JuXzdDZmFGcjhGMzctQXJUUGlXVGFMRF9mek52Ty0yaTRSM19VajdJNDZEVThyc3A1S3JPVk15bVNldXZTWUE?oc=5",
-   "src": "Seeking Alpha",
-   "t": "2026-10-30T06:05:00+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Sensex rises 400 pts from day's low, Nifty reclaims 23k: Buying in IT shares among key reasons behind...",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUnMzRXNpZmJNQ0NDcmtNMHlmcldZd0ZFejZicWQ4X0U5WUZfTVFEY3VsTFY1Qzc0ZE5XbUhHc3BTelh0Z3RULTZZU2hqUHJCNU8weVlNY2xIWTlkajhZUXFOQnU5N0w4ZHJ1U3JTaVZlbTBYN1ZTbTdaNlJzaEhOZ05yR0J6aFVfeVRJWERxZWlqTzBlQklVQU8tSnJUZ3A3YnFIdGFJQUk0WjFrcWVLdFN0cUwxdFdwN1ZrVklTaTBUMThrY3FnRWhPaHZlcGgtR2RsYjc3S000cTF6djRmaFpwSmlFZzF5bjVTbURlZF9kTEQ2RFllRzdnTW9wLWtfOGZnQWRTWdIBjAJBVV95cUxNdUU4bjhQbVNBbXZtNHYzZ3B2MFdLUGt0VmhHSndVa3RMWDNheHhXZ1NSbmJselR4cnRDRUFuLVFfbUlmb2s1cklCWUhmQzAyZTFBMFZzcjhhSVdOcjlrMFNJTkg1c3hQc3VnQXNjbWxWbHdFd2NDajJWUHI3cExWMjRrNDlYTnR6Yl8xdXZ5U2JlZGRRNnhIVjdFdlNsU2VXdWlWY0U4SEpjSkFNSTBSNEQ4UElZMWYyaC1LMHdQV2dJSk1GamZzcmNNT0d5bnFiMzdNWnVCdF9ZUnJJcHhMYmtYNDZwaEowa0dlVTZNRmpOTFEwTWdiOWlnWFVhb0JWREpyQXhCbTVIN2dM?oc=5",
-   "src": "Moneycontrol.com",
-   "t": "2026-10-30T05:57:07+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Global Market: ECB may pause rate hikes after December amid growth risks",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ecb-may-pause-rate-hikes-after-december-amid-growth-risks/articleshow/135346378.cms",
-   "src": "Economic Times",
-   "t": "2026-10-30T05:53:18+00:00",
-   "tags": [
-    "eurusd",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "BSE IT index set to report 2nd sharpest monthly rally in over two decades",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNlZWX3NYV0RDNkQxcXNfZ3Z3VEZwVDY3ejdUOElORUN2YXd3eFNBODctaDV5a3ZrT29fNnY3VzRtTjJOSVdwVVNCRW9LZU5kOWhJZFE1UHlLaGk2VHcyVGZMWGhJUE1KNlR0SkdRN1hpVkhvOG16Y1dSZm5oWEpNYU9oeW11QjEzV3FzbVVDcldGTXJWNng1bHdNbHQtaFlRUGpqWHpUbTVESzVBQnBrT3NoYWVpdS0tYlQzaVRveWhLZG8tN2NQSy00V29SWWdJUEJBTTBHY9IB3AFBVV95cUxQNzFWYUNDdTRJdVR5ZEw4N0RDYXdwaEFTM21GTTZoQ3hLbjNQOGZHTTFjSWk1VXpuY0lmMGZJZlk5ZFdCZkhoX3U2ek5wZU5LbDBnczctRmJxaWFxNVl2TjZWaktwTDBSWjVMTEhBZGh0ZGNoSXN5TEdvYzVqaUtHQ2pCQmZYTXppVmJrdzN0N0hCVTZSRzc2cGdtVTJpREFoUGxQclFpWmdIWUZQVkViaFNwd293dEp3a3BpbW5nZVRCdkZvd2czWXFhLWFlbGlMN3ZYQjJ6b2t3cWlf?oc=5",
-   "src": "Business Standard",
-   "t": "2026-10-30T05:50:51+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
-   "url": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
-   "src": "CoinDesk",
-   "t": "2026-10-30T05:43:07+00:00",
-   "tags": [
-    "btc"
    ],
    "tone": "neutral"
   }
