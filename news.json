@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-31T20:20:56.289670+00:00",
+ "updated": "2026-10-31T20:59:26.766026+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -135,6 +135,16 @@
    "t": "2026-10-31T19:58:39+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "US judge dismisses Trump's lawsuit against Wall Street Journal with prejudice",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-31T19:35:19+00:00",
+   "tags": [
+    "spx"
    ],
    "tone": "neutral"
   },
@@ -611,6 +621,17 @@
    "tone": "neutral"
   },
   {
+   "title": "Gold, silver rates today Bangalore 31 Oct: Latest prices, up-down movement for precious metal investors in Garden City",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSF9JSGNJR3Z4Y1g0UWJJUU1MQXltelVmWHVpdEFCODc0YXdObFRhbWlhRjVmT09mczhmZGNLYUM2YjBIbUZCNENFYUNTY2N5SVdMdjlQbTk4LUVTTWM1LTNQMXhneGFCTkgtTWFIQlp1UTZxelBCVUxVd0IwYkpXLUlUbGRzZFl3akljS2REa2kydzREbU1CQ2dJa2NBVE5GTGNQQTFZMHNZakI4NEp2QUo5MFVHX21jWW1xbzIyeVFCeHh6SHBCN2xXOGNUa0hRUkdOeTFzQmNYQVBROGR3WmRKLXpSZVNuNTM2SHZQX2o4QmVLRk1hTnVHd0hwM1Jr0gGGAkFVX3lxTE9Fd1NtaWt6THotQzJJMG9JNkt1aTVnLTBpVDc5UzVSamFXbU5mWnU4T05oQWZpV01hQlhDUzFpdWhfeUllOHlVdy1QTkJFNEZiWnl6UGJPNVVEc2lkWlVRRkxwZ2pCaGdsZEEyTmZBSVlqTFBnRHNXbFRXTFo5V3RhNjZ5b2xIRzN4ajdsWXBxRVRWT25vbXNFVFBDdUFPUEs4dWtpR00zSVo2MmNaMWpRU0FoTHJ5enp4TUV6aUFKWmlZdTN6bWh4aUQ2ZDZkOUtOQ1NlRVppVnNUNzNDbjBUVWRBX3lGMmFySGVhXzFORUFfM0l6WUplTjR4RDliNmNqT1AwX1E?oc=5",
+   "src": "Livemint",
+   "t": "2026-10-31T05:20:42+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
    "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
    "src": "CoinDesk",
@@ -953,6 +974,16 @@
    "t": "2026-10-30T21:23:00+00:00",
    "tags": [
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "How the Binance hack is rippling through markets from stocks to crypto",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMEVYUXRPNEgzblg1NFFBRXlmNUtPZmlSYmw3LUJFdjk4TkR5OUZzSWJfVlB6bzlMdVBpOENuREtkTEtCYWZiZGdFajhLRlZqbkpFM2U3VTdmVUhMdVZYNXVqSTB0ZldfVTRTQkp1UUpaSzd3N0cza05HYnJibjdDdDNHZmYtcWFa?oc=5",
+   "src": "Business Insider",
+   "t": "2026-10-30T21:23:00+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -2640,36 +2671,6 @@
     "nasdaq"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Big Tech bonds, not stocks, offer more opportunity right now, says Bank of America",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGJ3ZFRYR0UxeWtZTTB5Vm5VMEVHMGZxMlBTd2laMTJuN1BQRGE3ay1MOTYwWWU3V2dIZHlOQVRXbEZCT0VYMDlaRTdPcmRDTEZDalJEam5zZ1V6bHkyR2F1NEgzRW1EdUdUbjg4bHBtTktlVzJWSzlIR1dLT3dSTUtnOEhLZzFhdUtCRzlqbmZXMXFBUEZiZ29JX09KSUNsR1lYbzVELVpBU2RUUVlIOElTLWRXcXo1THVR?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-30T13:32:38+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Price Forecast – Gold Drops Below $4000",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLW5pd2k2TmpFR0loeVBYcGt2Z0RsbnI1cEJIanhLYlo2OFdJNUlmeUlkMGI1aDRZeDZoLVBiczlKSVdoc1JjRnFLQmFuY1dZbWNFSWxpTzdRX1BiMEdoem4xX3NOdTJhREtmSnBGRl9fSzliLV9zMTNoZWdhUDBrMWlRdWJOakZXSEtjZEJOeElvT3BMaU5j?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-30T13:32:02+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "'Bad time to troll': Binance cofounder Changpeng Zhao asks Elon Musk for 'respect' after post about bitcoin hack",
-   "url": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
-   "src": "CNBC",
-   "t": "2026-10-30T13:29:34+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
   }
  ]
 }
