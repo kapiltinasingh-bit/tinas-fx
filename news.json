@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-31T17:44:53.651682+00:00",
+ "updated": "2026-10-31T18:15:33.978275+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
@@ -118,6 +118,27 @@
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+   "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+   "src": "CoinDesk",
+   "t": "2026-10-31T18:00:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold, Silver rates crash: What happened with precious metal rates? What didn't go in favour and brought them down?",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY25NS2xTUEJER0V5UEZrcnFQNEppelBXcHdQSjBmNk83OGtjNVJueGI4TThPZ2RfWGlfNXM2Mk9NUnpTbVEwbXI1UjQxNVM5aUR1R3E5TGsyUkxoMG12VWhRR1VPM1RlWXRQcGp5TGtlbFpHUDZPczBiQ29YeWRQWFNYQUhBQ2ZNNmUxaWdsRkh4SEhvQU9uUjR4OHFtX0EwYy1VOW1tVVlXTkZVQU1OMmFmSWpya2s2RkRUTkNZMF8xTkRvZkdFTVNyMklQTFl6X1FrQ0EzYVJ3S09WNWxPVmlFR2prY0tkbGE4ZmhJRWxWZ9IB9wFBVV95cUxPQzAzc2dCODNJVEdnMmZmSWNNTlFTamVpX0pLYTNVc1dTZkNqUlRndWRoeW5iclE2RllYMHBrb2dQaklYMmgwQXF3TjF1d0JzRTZxZmFFTWt6QXhKNTh3NGRnT1lqUzRYUHN4WXFJX09jYXc0d2xkTHNPUTV4UjdwUGxpOUgtZ1J3UlBZTnBOakQ3eHhGV21jcVRZVW02NXMtRkd5QVdNV1ZMWkU0dUhsVGF3OEdpVVdSV284dXhPNmpiajRIUzJSS1A4Um5PYVZDaWNBUjdVbWdnRS1kSnQ1RTEwWWJRVXRvTWlfQ1c3cTZqZGZxQjdr?oc=5",
+   "src": "Livemint",
+   "t": "2026-10-31T17:37:08+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Gold Price Forecast: XAU/USD 17% Plunge Threatens Multi-Year Uptrend",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUjU4M0xzQ2I0aXpFY1F6YnJIcmRQTlVYOS1Ea0tjTGUtcWQwVjZ4R1g2WlozdV9MZkphUGo0ak8wZVZOVnFnekNZdzRYdFlIQ29MVlpKZlBXUU80WF9kNWFNLUpIQnM0M0E3QzRRMlBaWVRFQ2lRcF9rQlpyRVZ4QUEtQWJpWGZEOXYwM0w3MDlqamRPeGEwVlltdmsycGlJbUYydVRYbnJ4Si1OMC1BWUxkeld6SUMxQmRXbVpOb194cC1MeFHSAdIBQVVfeXFMTWxOWDh2TUMtSDRzNzJpaGtMNUxaTThLMHRIdnppdGszLXA0VW52b21XNjdKQnhRTGJQVThaT20wQS0tUWVtdnRVWE9qU05hUkZmUzQ2WVZvOVZxX1hDMVJHb1JMclA3YmRaOGJkNWMyb0xoN21yX2VKZFAzQzNTdWZjelpLN1lOa1ZTRWJPMDBxTWltb1lvUnViQnQwUTFYamZhQ0JtQ3BBb2d1b28wdkpFMlBURldvRE1IRk9zSDRSZUNpMHpUTC14WllpT0hmS3JR?oc=5",
@@ -567,6 +588,16 @@
     "gold"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Nifty reclaims 23,000 as FIIs turn net buyers; rupee ends unchanged",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMjhjeW5FXzVaM1lkNGdBN3BmMC1DZXN3eHFkQ1Zxc1V1akN2R0haX2lZQUtzYUszN1V3REZGREN1a0lPc0xJdVJqN1ZMOUpGVUtTOHQyaHlPVC1obE9jdnBzUUdOU2FadWZrVVVsZXVMbDVBY1dWYy1Ic1A3QzREbFpOa3gyMGRqWTZLdDFmSTY5RzBZRWhZS2RCY0NfTl9tVmhPZlk5aEk0b05hT3JSRlBBNDdFQlNYd3VTLV82WDNKMmhvU3Bqa0NkdnNfLXdWTHFLMWlxeXFDd9IB2gFBVV95cUxQMjhjeW5FXzVaM1lkNGdBN3BmMC1DZXN3eHFkQ1Zxc1V1akN2R0haX2lZQUtzYUszN1V3REZGREN1a0lPc0xJdVJqN1ZMOUpGVUtTOHQyaHlPVC1obE9jdnBzUUdOU2FadWZrVVVsZXVMbDVBY1dWYy1Ic1A3QzREbFpOa3gyMGRqWTZLdDFmSTY5RzBZRWhZS2RCY0NfTl9tVmhPZlk5aEk0b05hT3JSRlBBNDdFQlNYd3VTLV82WDNKMmhvU3Bqa0NkdnNfLXdWTHFLMWlxeXFDdw?oc=5",
+   "src": "Moneycontrol.com",
+   "t": "2026-10-31T02:51:05+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Wall Street Highlights: S&P Breaches 100-DMA, Nasdaq Posts Worst Month Since 2025 On AI Rout",
@@ -2636,38 +2667,6 @@
    "t": "2026-10-30T12:52:36+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold drops below $4,000, silver tumbles as Hormuz attack lifts oil prices - Kitco AM Report",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSmQ5alhCeHRlYUgzRWhfSmRhX3BUMGktZWtmMUxXaENCd0ZJRUFPdk55THVoWjNfUVByYzdRTHlsYVBQZm1za3dDQ19oMFJSM3o3VFl4Tlh6VS11MXpEdTFSdGZzU1hQMF9MY2pRbkJwQkJBNnpTdU9rZjh4eWh6bGRUX29Yb2l0QmY5Tkh4QnhBYmpQTVZBT01DWUJobFhKdTdVQ0pXSDVSeFFEQlJ5R1ZQc0luWXVpM2Zn?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-30T12:52:14+00:00",
-   "tags": [
-    "gold",
-    "silver",
-    "oil"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "COMMENTARY: Big Oil's spending caution speaks louder than its profits",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNEpvcHduNHFiT3VhT2lnSkhCN2dMTkEyd00tWUw5OXZheGhWRW0zdEFhVmxkcl9tV1JkSDV5MEZxWG5DUEVsQW5MVTB4RFQtUVpoeUlfM09BWGtkWmRjLWlpQml1alR3UjlmZHY0anVwOHJ4UGxHcTF2cmVTRFFqRjAtRnVlcTUxX3hMZVVlYTRlemVPVkxibEdQSGZ5Q1ZWTkp4aDR1NnJ4aUxDRVNDSUxSS1V3eW5HRThnQmphQTA5ZnM?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-30T12:52:09+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Japanese Yen: Weakness against US Dollar to persist despite hawkish BoJ – ING",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0s3d09sVlVIeVRZN2I5NzdXMTVYa3dSaFpTU3BYOHU1OXdDU3Eza2IySUYzdDdtS2hsT0hDdUlWV0tseGtrTjY4bmphSDN4ZVY4SDlEamF2RFhLOXJGMXF5Q1ZiWnFBaENxR0lSbThVa2w1NWp6T05NTDZpSTlfSFNScWs4b1hSVnlIckI3cHluYVBGdFMxbmJFV1RJeTBUeGtJdkd3M0dpRXM0VU4wNXRfSmNicHB1?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T12:48:58+00:00",
-   "tags": [
-    "usdjpy"
    ],
    "tone": "neutral"
   }
