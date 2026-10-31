@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-31T09:08:35.843772+00:00",
+ "updated": "2026-10-31T09:45:56.308169+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -36,19 +36,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Silver loses more than half its value from record high: What went wrong and will it recover?",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-loses-more-than-half-its-value-from-record-high-what-went-wrong-and-will-it-recover/articleshow/135395608.cms",
+   "src": "Economic Times",
+   "t": "2026-10-31T09:03:45+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Vedant Poly Fabs Share Price Today, Vedant Poly Fabs Stock Price Live NSE/BSE Updates",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZnpEdHF4OGFRRFpWLTNQUlpyMzNtNkY0N0toMDNVc1lIc244SzIxdURpRXlHX3laZGFtMWwyWnlCdWx1cHFWRC1FQjhucU41Nnh6RjFJd0pXWTV2S29DQkVQRm9UQzIxYjM4NjJTYTFLc3d5Qngwb0tSVzRzWDI1SFNHOA?oc=5",
@@ -965,6 +975,16 @@
    "tone": "neutral"
   },
   {
+   "title": "The 2% inflation target came from a throwaway remark. It now moves trillions",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMkVOZFNFd1cxRXhwcVV2cG9OazVTMEhHZUZ4M3N0WG9XelRnT0pXTVloM3lPdHBPbnBYUnh6UHBKbjJlcnpvUGs2NHlOTFM5WnQxa3VEVkc3ZXZiTzJGNC1Ic3dmV2hVWE50cGdXQU15QmJYZllVdHNnRktWblA0S3B1Z3EtT2NkcGdjWU9laFk4Q19aQWExbE5zTkhxcmNVS3VoN25tWkdvZVhlZlpGdFM1cHFhQVVuazVXOUh3?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-30T18:37:12+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Former Richmond Fed President Lacker says he is surprised at the Fed’s approach amid persistent inflation",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc2dqLWdQdGpiS1RxT2RRa080NGw5SVJBeFBmWmhsTDBpcXRVU210eXRsbF9sMEdTaExFamwxOENVeUEzdGpQb3pxRHlrVU9RNW5mRnotbm1mX0VNWmU1VHJYemNzYk11dGFzTDdaaWIyV2owQXR6cjRNMi1lekQ5c2haSVMyVi1sX0laUWd2M2QtQlpMNEJxZUVqRjIzZjNiYmpMNi1mQ3VzQ0M1bE93eGNYdTc0R2lody1kd1BYcw?oc=5",
    "src": "Seeking Alpha",
@@ -1594,6 +1614,16 @@
    "t": "2026-10-30T14:56:20+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "EUR/USD Forecast: US mid-term elections and employment data take center stage",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXhpUG9LTUNoS096cHUzSEh6aE1VcTdMSUlBX1NxbjZQUllnWVZPOGpod0cyS1RENHI5V25PM0dFek56LUJqbXc2cGhjQUtKSzZnTTB2SWdxaXV1RGhOdHRBZWRfSWU4Nm5HOHF1OEZQbkVMUzVHbkJjM3E2MGNjVXo2Rmh6ZGpSa1E4OEZOQ2dVbGdTRXI4Z2l1Sm11TW1HdlJ4RFRDcWlPb0tvcm9mbE90VkNPNjAzZWc?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-30T14:51:14+00:00",
+   "tags": [
+    "eurusd"
    ],
    "tone": "neutral"
   },
@@ -2409,6 +2439,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Market Wrap: Sensex Gains 308 Points, Nifty 50 Ends Above 23,000; Trent, IndiGo, Infosys Lead",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZTFyMk9sdFl3QmJnUDd2OGhhdDNIZ3FwcDQwclFmNE1Ba3ZsakV0RzN0RHlKUkRYZnJST19SVDlqZmp5UGV0OGdOYzlLTkNNMTFqaEhNZGQ5cmctT2JzTEtZNzk4N1lfb2lyc2NuVU1ETHNWU0ZBZWpxX29hVWxxNUp4VE5pNndCVFVDeWtmZWNPQkh4U2xFeFp6NEd0am1jV2FBSWZIb215bUxTVnc2LTdhQ0lmM21KSHUtQjVSVlVpajhPdkZYdHQwTEgyc01tMFdxLXZBZkUwSUdGdXNkUjl4NGVMeHNWNzVROXhhSDUxT1BJSXo1enlzR3VVNXpyeWRaeTc4YmLSAZACQVVfeXFMTUltcFpOMzllTWlGSzAweENGY0Nob0tmTk96eV9wOVB1cGlDeTRuN1hRRFI4RS1KTVoyUW5xdWxpU24ySVIzWk9JV2F6bks2bVJ4TlZidVFqQk1LU3pOYlNEV2Qyc1JVSGlhVDhyb19xQlpQbWFmUmdXakhsUDZtSUEzSXlnQVA1SEhXV1BzZURDVnJablhfSk1FUzVCSmEwQmpZczltQVRON3otMzV4MnUzVGxsTlNJMGt3ZU5fWlhrcU53YzdHTE92UGx0QjdBTkdfOUVobGVib3VCcDR2MGZ4Ulk4R1haZkJZdEQxalExRDZqT01DMjlQbEE4RVJ4b0Z0UGh1c05kX1A3bnNOWFQ?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-10-30T11:17:36+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Gold price today, Friday, October 30, 2026: Gold slips below $4,000 as Mid-East concerns mount",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONDZKVXFEUEtkWm8xRm1EWDNURkFBdjdQX212NzZGZk1lbHJwWEFUTkZFVWxnOG53MmstWTBwMmk1eUg3XzRMeXBpNFhKVUVMYmF5QWNwdFo4a3AwaWxkVXg4TmltM0QwSDMwTWJad2JBUnJaRXE1Qk5wTEI0OWNEQi1kZDFJRzRObHhLcVB5U3hXZ2czalI4a3BwLW43LVpDeEFpZ0tBRVNuMEE1Rk82RUtialg5aHc3UTctNzBPbmxTTkFOWFFLU1ByazNjLTBRSkR0Z0IyMjVteEktT1RJQVNQamttTHpPbDJjc0xWYlhodWxSZ3RB?oc=5",
    "src": "Yahoo Finance",
@@ -2632,48 +2672,6 @@
     "macro"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Gold Drops Below $4,000 as US Inflation and Interest Rate Concerns Weigh on Precious Metals",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaFM1eFNJRjBhakpQWnEwY2U1Z1B3UzBFMVVlM0xGZWpaUFZpR2FneTVOR0NXM04taUx3TWFTR3JPcE1CRkM0N0lFTk5nNFkxdWNFTFA2Zjh5aEpIS05YeWFXV1BxalpvaGY0cHVzVHQ0YmVXYzktYXhCcHU1OFJfbk5DUlNaUURKcnBOZGRuOFdYZUk5WHgw?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-30T10:04:43+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Wall Street braces for Democratic gains as 2026 midterm election nears",
-   "url": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
-   "src": "CNBC",
-   "t": "2026-10-30T10:00:01+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Wall Street Banks Raise Oil Price Forecasts as Supply Fears Deepen",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSi14TUJuT1BrWi0tUVJTcnVrSTdPbEY3cjZvRWg2QlZySXRVbDRxRlpHYnphei1GY015WmxENTdZSkQzLWtYbUo4ZnJXM1BFdGFEMjFqMko3OHpEb085RzZOdFphUURPRkR2NE9sQ0NlV3lELTJlYXRTR3cxbS1mTWQ5UXJLNUVmS1RUdzJxZjhwOWdQei1LbW42YkdOeHUzc1ZQclB4bmhxWDBHNnhxUmlud2Rndy1IMWc4bFVpWdIBxAFBVV95cUxPeGwxTUJqN3NEZTJBeF96T0p0U3VTdE1WS3BzMy1Ic2ZOTWhEQjZvZk4xS3RkYUY1R2U5Wlo3Sjdnc01qcm1Fd3dmRFoxWm1rMXFkS0dCV1p1Y0J5Y2hiNlhNUFg2Mnc2TmwyYmdvVVZIdk54NmNXMzRLd1M0UlJYSVJxT2RrV05Nd0Vidl9NV3BCcFdHVVB2YURqNVRvYWwtRHhocDRtdkhpMG5ERWFkRE15YUdzZFBsVnhlVU04a2ZfUy1w?oc=5",
-   "src": "Crude Oil Prices Today | OilPrice.com",
-   "t": "2026-10-30T10:00:00+00:00",
-   "tags": [
-    "oil",
-    "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Crypto markets slide as Binance probes $6.3B security breach, aims to resume withdrawals in 48 hours",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU0pNOGtCalBnNkxmRWZ0ZGo2bGRjOFVsWGcyNm9PMFRyLTQ2enNTWlhJLXROTWVCRklqRVJnTFltRjlSVDB1aXNFaWxyeUJDUW5Rbm1aNWhraGlTWHhLcGZ3bHJLUjl6d3dqcktKX3VIMU00M25IUmtIMjNvalNfeldWNDNlbm1ESEtLaDNNUWlIaEJablZuQ0trem54QzJNU0VmNEFBUGEtcVlneU8zWm03aUhVQXhXZTZCVWVJMVcyWVZLSHdubVM1S0dWay1Z?oc=5",
-   "src": "Seeking Alpha",
-   "t": "2026-10-30T09:55:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
   }
  ]
 }
