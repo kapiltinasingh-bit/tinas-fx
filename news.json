@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T23:15:23.130877+00:00",
+ "updated": "2026-10-31T23:55:57.338172+00:00",
  "count": 250,
  "feeds": [
   {
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -118,6 +118,17 @@
   }
  ],
  "items": [
+  {
+   "title": "A Nasdaq Company Just Cleared the Sale of Its 5,833 Bitcoin, Citing Quantum Risk. Is That a Real Reason to Sell BTC?",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONlY2dnI2M2FxNVFZekJSUEdib0NteHlUaUNsa1JDVk44ODd5Rnh1VmZmOGRZM2xZYldWNVJvaU1MZWpJV203R3N5UHZpM216Y0dOSE5nRThjRFVmNTVUcVd4c0ZPNUcyQU1CbkR0UkhyTDFoWXI2NkZqWmU4U1V0QlNfUTQzd0VGMzdIWERCY2dmOUMxOF9Ra0V6VS02UXdvemRYLW1Td1dRZjQzMGRiU0RvZ2VuUFBIeWJoSEVKMkdGNmtWOU5kdl9RT2xPZG8yVW5Pb0hLUHg1UmRQdXItaU5MXzI4RmcwYmdCVXlqT3NlM0RGcFRnVHk4LXJ5Z1pT?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-31T23:52:13+00:00",
+   "tags": [
+    "nasdaq",
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Bitcoin's Fear and Greed Index Fell From 70 to 36 in October. What Happened the Last 3 Times It Dropped This Fast?",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObTlZcnZWYXJwZHo3N2J6MXVKS2xMbWkySVd1Qy1WbDN0Qk5vOEZLY0RLX2xVX0R3VnViUk0xbWRWQm41c2hlYm94MXNXeVAyaUlaVnpBLVJ5SVAxdGp3N3Z0WmNoRHpvRGpNbXlNcnFvZ3JyZDVjMkRlakVzbkZPd1RzU0NqZlZTSVpHdFlTRFpNUnRPek0weFRDNWdNbEdRQXhWZlVTUnlSRXZQVXVmTXVQamxMWDk5SnpZeTNxUUl0MmR2Mjc0YjBPdklGeDNjZURLd3ctcFBqSHR2ZTlSQ1E0UjBqWGNIQWRvUE5PMUk0WHRCY3RrU1pWR2hFSnM?oc=5",
@@ -422,6 +433,16 @@
     "macro"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Tom Lee Thinks One Investor Might Be Behind Nasdaq’s Stock Crash",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYlBoUUZ2ZXB1d1dNbGptX0YxdjQ1VHVtSGZrTFQxc2Z3cjR3UFN5YndleDczeTAyMVhTVkFiSE1HbVBqLW1XMnhNUUdlNllaM1BOUmZlWkNUUjdORUJBdmRJV2pUXzBRM3FUZC1JWGRVZlJnMjdzbWpaT0pzZEZpOUItSlVVSFFUVjRVRlVDX3JqZ3NYVVVn?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-31T13:31:23+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Trumpflation Is Getting Worse and It Could Trigger a Wall Street Nightmare",
@@ -2649,26 +2670,6 @@
    "t": "2026-10-30T14:06:50+00:00",
    "tags": [
     "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Coinbase Tumbles 11% as Record Binance Hack Hits Crypto and Trading Revenue Slides; Strategy Sinks 12%, Robinhood Plunges 10%, Circle Drops 9%",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUFdfRFpGd1U5RmpmcXpWTGs3cDYyN3pNcWVIWE1lYVZweE9VRmhYNVk3Q1JDLVVydWhaUmNHakFFNHNtcTNHNW1XaTlHeGk3UHluSEFsUnhDZXV2ZGVfOWYtS3Z3ZXV1WGVHZHRQSGZlZ1VyNkhkOGlUb01uY01ZMWktUm1reGE0TnJOTTYtYmpoRHc1NjdyT1IzT2FFTXpwTWRVUWZFSGtKaDNFYVF6cmZIVEJuaHlXSzJrbUhFLURYQTB6eFpYRWNzTGZRZHU1LTdNZGQ2TzZ2cHVTdndWTlpBOXNCU3d5cXhURlF2VGdYdF83czBzRTg5aXdZWUcxY1g4UlpvYVF1aEE?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-30T14:06:49+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Coinbase, MicroStrategy, Robinhood tumble after largest crypto hack ever",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1dzcHZxZ1BDaXdiSzUwX0NWM3BEVDJIQXg0bm9CbkJCcWxvdXVoSEY1ZFVpU1c1dEVfdDItbHpEUjVrMTNBd2RzOFhxbExEQkFlRWtOLUJqLTJqZmYyZkFqRXB5OFMwbktqa1JqcExvaEhzRE1lM1czUk5tV2VpV0hNWWJJQjNYcG1IVUpNRno5eHZzUmM2RExfU05SWGZOeHYwVWNSSmRsQlhNRVFsR2Vn?oc=5",
-   "src": "TheStreet",
-   "t": "2026-10-30T14:06:26+00:00",
-   "tags": [
-    "btc"
    ],
    "tone": "bearish"
   }
