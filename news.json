@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T16:01:58.843110+00:00",
+ "updated": "2026-10-31T16:43:10.355773+00:00",
  "count": 250,
  "feeds": [
   {
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -66,13 +66,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "CNBC",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 10
+   "new": 9
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,27 @@
   }
  ],
  "items": [
+  {
+   "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+   "url": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
+   "src": "CoinDesk",
+   "t": "2026-10-31T16:09:30+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "U.S. Treasury, European Bond Yields Fall After Fed, ECB Hold",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVJzTU8waHdld3FnbVROOGw4ZEtGS2g3UHpKYVFXTXhzdW9DeW8xYmJrY1RmWGFvNUlqWThQR2FWaTRuaklmYWlhbTNQV0lfa3BNNmFjSHBUaTk0NDVNSHRFLUg5MFFhTFZZMWZrTHh5ZHpYVnVzMlpNZ2hqaEM3LVJuOUhrUV9kc3NGRHpfdFNkUEhTX2oyTzVRMUhvS1dyNkF1UVV4eEtFM3VXTXJvUG9Lc3dnRjRDc190d0Vzem5ZNmxfNktGcUl3?oc=5",
+   "src": "WSJ",
+   "t": "2026-10-31T16:04:11+00:00",
+   "tags": [
+    "eurusd",
+    "macro"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
    "url": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
@@ -899,6 +920,16 @@
    "tone": "bearish"
   },
   {
+   "title": "Infosys Share Price Today, Infosys Stock Price Live NSE/BSE Updates",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVjlMN1ZPcF9lSVR3eVJPSjduVHNKbl84UkVRV1c1NnVYSXhsekJ3cTltNHJwVmtIRzlTMEZQajBRUkFEbE13MUw5YkdPaE1iQ2Z5c0NRRG1HWGJkdDcwZjBZTXZ3TnhFbHNQNVJiRVVsb1ZqdkxXUFhZdjRDNGVSOA?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-30T20:22:13+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Bitcoin Drops on Binance Hack as Stock Selloff Also Weighs",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0NVZVAyRjB3SE5wZEVtS0dCaWcwdDJrcGczSElDR2l0QXpMV0N2UkN5MFkyMFUySzFUTTBwekx5UEY1d3V4NnZsZy1vTGwtNjhWUnVhMWxpYTBSVVIyeHp5RExWY3Fick9OZS14RWZYUkxPYkdtSFZkNHM5eWctOHFjOTVfaG1CdVlXX0pNdl9JMHcyRTNOTUdnTmdtd2VJbEZWcWJSSmhGeG5Zemc?oc=5",
    "src": "Bloomberg",
@@ -1677,6 +1708,16 @@
   {
    "title": "crypto liquidity sweep description={PAGE_DESCRIPTION}",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TSWxyaFc1aTc1aXZKbEt1MDBOMVN2enl0ZThWQ04yVXdKcl9HZDJsdXhfMk9DSEJqNkZ6NmZWTUZIWk9vZnhkTUV2QVFwSU5oYWNDRmFXaVVnUEFuUlhFcE5faw?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-30T16:47:40+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "cryptocurrency hack description={PAGE_DESCRIPTION}",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DenZYelVfZUZWYlBJbVBZNDRlN3B5bjQtd1EwY3hvb2JQc0VVWS1ERDZkbi1kQlF2a3R1Sm5QU05weTloS08xc1lnODgzdDVTOFZTeGFZT0FITkNyYTVJ?oc=5",
    "src": "Kitco",
    "t": "2026-10-30T16:47:40+00:00",
    "tags": [
@@ -2628,46 +2669,6 @@
     "eurusd"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Swiss central bank posts bumper $23 billion profit thanks to gold, foreign assets",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTkhEenBXSkttV0hkb1VlT1hGYWxmc2lQY0t2SGFramF6ZUE1b1hlcVpGLXN2VmJFVXkxZEVnNVdoTHpvV0JKcVBjVS12MWNGVkJVTEg3bEEzdWJmc08yakhRZmw2VEtQWkNBUzlGaGpfTldiQzg0eW02czgzVzV4OGdab1hVa1hwS25rY1930gGTAUFVX3lxTE56cVlCUW1fSUtuSU02Yk5ZUXVpYzAweTFwek9IQ20zX0JQRkZoUm1acE5BRkhHQnlRRjF2d0ktbnBPWF9LR2dqSGpPQzF0RktZZmNfSjJsYVhYaS1Mc01fTEZoR2stZmlKZDZmZ1pTZk9KS19KWkZET2dQaUpUelVKYmZQYV9RQURmMmN0N1hyV0lfTQ?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-30T12:31:40+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold price today: One analyst sees a rebound, one sees further weakness",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS3pTYTlUMjhETkN4SlA3QW1PMTVVSXhkbGc3dGFVTGVsWUZIMkZNc1RXbFRFdDBsTTVPOXFVYU1WVG1GZGN5MVBpMGN6QnVSeXVrMjJSNUFiNXRLWHRUNTUyMmdUemxpdncydWg0UG9LMDJqTkFEc0djSlhWMHlvZHE4U3Jub0pKbVRtQW5wOTNQUkpnaFYzVXloVjlxTk03Z1ZLQ2xscVRuMWdvdEJPSFVUOGwtS3M?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T12:30:58+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Yen gains after BOJ; AI selloff weighs on dollar",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmR5UGRCM0VCX1A3ajlSX1VfTXU0NFlRX3d3T2pubElfQnBrdUtVc3UxSll0VkFkc1BmcVkteFZJYjluNlFEM05tU1VrZk9yR0xPSzRhaDA0Znc5dU5VTHlDRVg3NlFNNGdwaFhJWnpueUFxZFBmZUs5cXlUdXhlV1pDbE9OaFZESk0zZ1ZodjFOX2dpampmb1pn?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-30T12:28:23+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "India bonds buckle for fourth straight month on oil's climb",
-   "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-buckle-for-fourth-straight-month-on-oils-climb/articleshow/135361502.cms",
-   "src": "Economic Times",
-   "t": "2026-10-30T12:22:58+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
   }
  ]
 }
