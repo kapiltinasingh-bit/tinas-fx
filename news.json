@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-31T20:59:26.766026+00:00",
+ "updated": "2026-10-31T21:30:07.847729+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -114,10 +114,30 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "CZ Says the Binance Hack Is Smaller Than Mt. Gox in Bitcoin Terms. What Did Bitcoin Do After Mt. Gox?",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQalJQbTdmNUgyTVpIc09xa0x3SzlqSzBVWXM1U09jRE5rQUJQUnQxN1pYeURIeDVNckxyMkFRZzZhaG5vWFp4LXhvOHlQSGNtMUVEX1Z1c0FpRVYtWlMzVmpWdFVRMjZRZjF0a2p1QVBpc1lhSHh0VXpGOWlIUFNBU1JPQnVMUm1aQURraFlFZFB6cmV6eFJrSFo3UENfWVNhQ3RZS21vNXQ5YWZDUGgtRmVNMS1mWW5VaktpLUVzXzdCQTlvZFRUZWltMWRZWkJkOXdFTTBsdzllMUdnMnIyQnZZRHdsWXdaREMzaw?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-31T21:21:49+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "OPEC+ set to hold December oil output steady, Reuters reports",
+   "url": "https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332",
+   "src": "Investing.com",
+   "t": "2026-10-31T20:44:25+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Crypto ETF News: Bitcoin ETFs Lost $643 Million in a Day and Ethereum ETFs Have Bled for 11 Straight Days. How Much of October's Inflows Are Gone?",
    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOM0I0T213LUtuU0prRHJmWkpRbDZ5QURzSHhBUHJWNW1Vc3F5VmtDQ3FtT3FZYTVpSWNSOHR6WnFMSUZha3FCRzEyejVWVHZoZndjMm40LVNWaWZ5bVRJaU02OGtadXFFdHd6RE9tVEVaMDhyeWhNOFpIcjd4WkdYY0ZrXzd4bnlkNlVSRVRqWFhZbktYbjR5SmVJbnhkUktmblpGZ1VONTg4eF9hWm1EM2VneURMZVRybVJsV0gybWpLWE50SWJkVkN3cV95N1RjZEVwVmcyYUFPRzBWbHVlWWMxamNpYjh0R2FBYS1uTm9uRkdjaGJnVW9RaDBsaW1YYjJSZlNkMGpsWkhTeGJZb0F6ZnBTNXlqU01WTWVyMlA1d29CLWRr?oc=5",
@@ -125,6 +145,16 @@
    "t": "2026-10-31T20:13:43+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjA5czFvNHJVY3pfd3I2ZGt0eGlkWDZCa3llcU5VRjUxV3pHc2pOUFI5NGZERThCY0lZNkJQZXFPMUphdmw4OEJOV2V2blZ2NGlDakI4NDRVM3VYR0ViSkhGbS1SR2Q0Sk03TmFRd1FvOW90U1Q4TnJYVFJIbVpUSEhpMTVMUmNrbGxpNldwOUZTbXVjV3hpTVV5d00tRHpPOHVJdmVOaEM1ZWc?oc=5",
+   "src": "Bloomberg.com",
+   "t": "2026-10-31T20:00:00+00:00",
+   "tags": [
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -145,6 +175,16 @@
    "t": "2026-10-31T19:35:19+00:00",
    "tags": [
     "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Reliance Power Ltd. Share Price, Stock Price - NSE/BSE Live",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YUjJDaTFSVm4yUEJwZ2RLUXdrcDVqTXotdWxzUnp0YnQ2UEVmemZyM3VDY3pUSjBDVXEyekNGQ2ZKSmN4UmVoV0NYRnB6UlRnSmJpaFF0Q3VuR1VCOWdYWnF5ZlVoTE96d05IWDRNN2VkVmZfRWc?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-10-31T19:28:56+00:00",
+   "tags": [
+    "nifty"
    ],
    "tone": "neutral"
   },
@@ -621,6 +661,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Mirae Asset BSE Information Technology Index Fund - Direct Plan Portfolio",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNDNnNEM1Sm1hOXRDUHBzM0R0MFVkcVZmSGN5SkxiZml0R2VyZVJBYW1ybTBtcG45TFpJSDd1aG9SUWlFWnMwUkZNb3pLcEhwem5yUTlNbmlzekFqVWpUdVpDV1JVMXN3Y2ctRWVOOVpmUTlCZWoydE9UNjI1VmkxUmlhd1UwdVlsRndsNTh5cVpnV0VuZW4wMGwtTFJBd3ROcUIyZ0ZoVVl4dXZyNmd3VDIwRTE4UmNHRnJBTg?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-31T05:21:43+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Gold, silver rates today Bangalore 31 Oct: Latest prices, up-down movement for precious metal investors in Garden City",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSF9JSGNJR3Z4Y1g0UWJJUU1MQXltelVmWHVpdEFCODc0YXdObFRhbWlhRjVmT09mczhmZGNLYUM2YjBIbUZCNENFYUNTY2N5SVdMdjlQbTk4LUVTTWM1LTNQMXhneGFCTkgtTWFIQlp1UTZxelBCVUxVd0IwYkpXLUlUbGRzZFl3akljS2REa2kydzREbU1CQ2dJa2NBVE5GTGNQQTFZMHNZakI4NEp2QUo5MFVHX21jWW1xbzIyeVFCeHh6SHBCN2xXOGNUa0hRUkdOeTFzQmNYQVBROGR3WmRKLXpSZVNuNTM2SHZQX2o4QmVLRk1hTnVHd0hwM1Jr0gGGAkFVX3lxTE9Fd1NtaWt6THotQzJJMG9JNkt1aTVnLTBpVDc5UzVSamFXbU5mWnU4T05oQWZpV01hQlhDUzFpdWhfeUllOHlVdy1QTkJFNEZiWnl6UGJPNVVEc2lkWlVRRkxwZ2pCaGdsZEEyTmZBSVlqTFBnRHNXbFRXTFo5V3RhNjZ5b2xIRzN4ajdsWXBxRVRWT25vbXNFVFBDdUFPUEs4dWtpR00zSVo2MmNaMWpRU0FoTHJ5enp4TUV6aUFKWmlZdTN6bWh4aUQ2ZDZkOUtOQ1NlRVppVnNUNzNDbjBUVWRBX3lGMmFySGVhXzFORUFfM0l6WUplTjR4RDliNmNqT1AwX1E?oc=5",
    "src": "Livemint",
@@ -760,6 +810,17 @@
    "t": "2026-10-31T02:26:33+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "TSX outpaces S&P 500 as Nasdaq rout puts tech stocks on the back foot",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLVhTTlVjVENjWjI5Yk9rNm00aE9OVDQ1VVhCTzl5ZzNhWU9BVkJ0MDdpU0x2REVNcUszcDRTbEI4M21jWndCcU1VZ2ZhdGI2Vl9TcEctZW9qRW9STU9oLTEzZXpVVGFCeEk5Q25INkIzZVJrUER5TGtfc3pINzdVdmZXeWlRamVhUi16cmh3STItNUZwbzNpVGNkcW1raURoR3hVS1V6ZVNYd1BuQ2J1ZHhvQ09sSjJKVUxwQ0pndG1jaGpaMVY3OA?oc=5",
+   "src": "Investing.com India",
+   "t": "2026-10-31T01:07:46+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
    ],
    "tone": "neutral"
   },
@@ -1153,17 +1214,6 @@
     "btc"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "TSX outpaces S&P 500 as Nasdaq rout puts tech stocks on the back foot",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV180NXBRUlV4LXlBQ3h5QXZGdmNaMUQ3d3JYSjQzXzNPYVljSFppMnJZQVlPdmgtWHhmTEFMdkY1NmFNT0VWN1dNX19YeGt3ajkxUm1UNWM0Skd1ZDQ3R0tLMXVUVzRDLWhudG9qeTFJb3VlOHVDcWhwbGctMTZHWHhuZGtUTTlpU1gxWDM5SlV0c2xiYTUxMmVqbHJZSkNfRFY4WFlvbDdMYWVua0t3cDMtbkhZcHFCZ0JEQkRzdXJFXzdhY0ZfNENR?oc=5",
-   "src": "Investing.com",
-   "t": "2026-10-30T20:28:41+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "neutral"
   },
   {
    "title": "Weekly Wrap: Crypto Plunges After Binance Hack",
@@ -2620,57 +2670,6 @@
     "btc"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Gold hits a one-year low below $4,000. Here's what the chart reveals",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeHNXeDFMcWJsZ2djRmVkLUZJaEFwQUJmZXR3VlRIblNLbmpiMjdya3NJS05sZG5nbzM2T3ZWLWs2U2VabTBCbjVxeTB0YmhqZDd2ZjJZRmZSZ1V4ZEFOdXF4YjM5THlXd3V3ZHdqX1M5eW83ZGNJWVhCUUVvOHhJT0VRN2Y0eEN6NzhPM2tqdlJJbXhHVjg0UWdrbk85STAycU9qdURTRGw2SjRNcWsyQy1n?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T13:49:44+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US Stock Market Today: Nasdaq Tumbles Nearly 3% As Tech Earnings Disappoint; S&P 500, Dow Jones Decline",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNWgxNkJ2amEwaEFTUmpmb1BsaWpwWVZ2RE8zM2hGb2Q3YndVX2I2Q3VRUWVhbE1JMWFvaEpZU25ZLXBneVd3dTYxczZ2SDA2TlVwUmhEV3kzR2dUamdrdGcySURYRzlUakZ0TnRCazc1UHh6X1B6WkNfQUVTU1hYb3pLQUNNLUUyRnNlZWRYMTJQcUZERFR0TEFvaVdvcHFjQVJvdjM2UTIzR0g5WGZycDZocWRxMzRFVVlwQmdQRndGSlY0enNYSlRmV0NSZlk1dEJZa19mbklNLWfSAeMBQVVfeXFMUDlhVDVncTliNkljLUlucUE4Vy1IVE9lbHh1dWtGSTZodk1VMkNEaFlyTWI2bFVHekJOYWZJY1o4M0VNS2hFblpxRzhYVVlkaDRXSTNYYU5XczItT1JxSTRDbXoxcGJ3U1V6RWp3NVZ5T0c2Wjd3eWdJZ1JzMjFsa09GY0NMZWo3bXhrSEphUEx6dFd0dm5JVFdNSnVLdWlHR091QXh6MW5IUlVjNnh3WHpoTlBWbDM0Rk9TYWh1a1RnOXNid00yN2xaTVB1dkNqS1prUGo3c05TS3ZWUWo0UEZ3LWs?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-10-30T13:44:56+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Nasdaq plunges after dismal earnings from Amazon and Intel",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONzk3SWo0SUFZeUo4blMxSHYzTzhXbXVHNEQ2WDg1VmIwOGdZSUZkQnlUd3c1d3p3d1ZzY1NKWkJGeThlVXpEYzVSU2RjMUhtT1RPNGtjS3gxelVIemN5OUVIOVVhMHh6Q3dNaE8wbVhtejRqMkltcEpDbFBnQjBwLTJmQUN5QVl3MDdKbnBWNWFScFFw?oc=5",
-   "src": "Business Insider",
-   "t": "2026-10-30T13:39:07+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "US stocks today: Nasdaq tumbles over 2%, S&P 1% at open as Amazon, Intel add to AI spending woes",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-tumbles-over-2-sp-1-at-open-as-amazon-intel-add-to-ai-spending-woes/articleshow/135364444.cms",
-   "src": "Economic Times",
-   "t": "2026-10-30T13:38:23+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Nasdaq tumbles at open as Amazon, Intel add to AI spending woes",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdm92N0pCd0hrOW5ydFdRZ3pibm5LYkU4NzlsemVnTzdnWjZDZnY4cTV5RjRJMUlVWEdGaHpmV2JJWHh1SjlMZzFUWmxhT0I3TkNmRWhGREpodXJWbWxkTHVnOURpWjl6ckpoV3d6VERQb2sxekZWOUFlQ2k4anA0NkZyejhnZXpTZDJGNG1tNURlMUNXc3ZVZVh3UkZCZw?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-30T13:36:42+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bearish"
   }
  ]
 }
