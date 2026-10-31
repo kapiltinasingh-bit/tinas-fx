@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-31T04:30:29.494911+00:00",
+ "updated": "2026-10-31T05:19:34.078503+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -24,7 +24,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -54,7 +54,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 5
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -114,10 +114,50 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 2
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+   "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+   "src": "CoinDesk",
+   "t": "2026-10-31T05:01:32+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Oil prices soar 14% in October to 6-month high as US weighs fresh Iran strikes after midterms. More pain ahead?",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-soar-14-in-october-to-end-at-6-month-high-as-us-weighs-fresh-attacks-after-midterm-elections-more-upside-ahead/articleshow/135388221.cms",
+   "src": "Economic Times",
+   "t": "2026-10-31T04:41:11+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Bank of Baroda's Q2 profit surges 36% YoY on NSE stake sale",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-barodas-q2-profit-surges-36-yoy-on-nse-stake-sale/articleshow/135387894.cms",
+   "src": "Economic Times",
+   "t": "2026-10-31T04:29:30+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "What Bears Saw Before Galiano Gold Slid",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcFFsNHlLSDQxcTBkZkJNazhjNXE5ci10MWFFRXh1dkxVWFBDQ2R4RjFPSWxqUDJEV0puVU9FVFRuWnl6RGFTQ3ZqYkpVRzdRWkROaDNPVEQtdlUtMHpKWlgzQTVzaGtrVy10T3JvamxLZjBsOGZJWnJ3UVk0OXE5ZUVyTEloLXVwdjMtM3h6S3RMQmFCMURV?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-31T04:22:00+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Indian Oil net profit triples YoY to 21,630 cr in Q2",
    "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/indian-oil-net-profit-triples-yoy-to-21630-cr-in-q2/articleshow/135387471.cms",
@@ -292,6 +332,16 @@
     "btc"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Maxwell Engineering Solutions Share Price Today, Maxwell Engineering Solutions Stock Price Live NSE/BSE Updates",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT2xVWW9rN1FzSFJCRUExaTlKUkFqSm1qX2F3RmkzNEZTRFVnak9YN3RhZE12blUyVXVpM2RNZHo0NEdIaVR3UEt2UEdNcXBOSFIzdjdxRmM2N2xQdWU4QlFtVHRNeFVmMGFoOVM2U0NoMzNWYnNNS0tHQ1RXOTVKd3FwaGdZRnhmWUk4dUNweHVQb3hQ?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-30T21:36:21+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
@@ -2005,6 +2055,16 @@
    "tone": "bearish"
   },
   {
+   "title": "TSX futures slip as AI worries, elevated oil prices weigh",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnBybFZIbDVRQkI2RWRBMjctOHlDNFN3RndQUVltSExsX3hFVVdVY0dqNFRmalRCOFpYRWxQVGxNSUlJZ2VZbFFheDdMdEJCdElwTEd4Z0Z4WTU3NHBSa3I2QzQyVmJhRVBqblV2elhxUEp1enAwb25EcWFaaXMwb01wQWhfS2RDa2FmU2hoNDJ0UGFieVVYRVV4QnF1MHM?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-30T12:05:43+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "New economic data challenges Fed chief's not-too-hot perspective",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa24tOXNVRUdpdkhrQmhHM0xzMUFCR2lVUXBXZ056dmtuemszeGY2eFJoMjJCWElVX0dYUTFDME42YVR4R2t2eXVyajFlMFNoelNYOFpyMHp0dlZIRndOZloyNW9zZU5yc2stMkZkbG1JRnlEZXRRcUpjR0t0cWxLdU82OEthcWh5NDI3bjJSTGRjdUptNzM5aWptMk41ay1BUXgxem9nUkJoTWxKSkFmUU8yM1Q?oc=5",
    "src": "Kitco",
@@ -2612,67 +2672,6 @@
    "t": "2026-10-30T08:19:18+00:00",
    "tags": [
     "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "U.S. Treasury yields fall as investors await more economic data",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NUzdmdnZUZHUxOE1CV0xGYzQwOENIc2xvcmdfSTVhWklWMkRRLUkwQktBdURkcHo1cVZHWmlzc1RBUFV5QlljNFJYajlRMGtlUEUwYTJ5LUtqZ1luS29qSDI0aGI0YUMxMjcxNFhQcG5xcW52Rk5wQmwzNEdYMGPSAYQBQVVfeXFMUEVTdlR1RDZpc1ZDalJPOXdkeWMwbFFnZnNzVVUwdEdCY0d6R21ZbTF4Q21LdE5MQTh3dW5feVg3cWxPVEZyQTlHT1ZpYzBzUm5uYkNFTWVmb0EtNjcxdVZOakFZWjRVZmFkTFRzQ3QwZ1Z2RTJnWnFwc0lMYTNoZWd6aUMw?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-30T08:09:48+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Sensex, Nifty extend recovery; what's driving this upmove?",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVkl5cWJjYkdmemFGWldpRk5BaFl2b1BseENvMUZxSWVlZVY2NVZrdUdNTnBqeTNBX0dMbXBVYTFYb3l3TlZLRTFZVXRiaFRqdW12OUdXemhQWlg2NDFZakFXc3F1TldycFFlSk5HTnowendNQnJHaEEtdnJNcjMyOGRmOC12SEpSVDBJTFJCMWZQRkQtdHdwSWdqWWlHN2l4dTVTVzFRaGkteDZRTmdaRDBFQ3FpTGdGbHJ2REJpc9IBxAFBVV95cUxPVVZJOW55RXZSelhILXFmdEJ1UHBMQ1J5S2pReEljZlc1NVN2LTFuN01NV0dHdllTQ0lHMXFJTERiWDJVdU9BVFlIS3pFVlh1S2F3M0k2Z3Y5OUI5eGMtWkZyR1NlMHpmbHJNWEZXVjRNZGlyYjFybUpDTmlmQ1p6UC1FcTdLZUlwaEsyZUg5SW1LZEZlek9kMUtoWWpwZlh6RmdFZDhMYTVMX3FUT2xMMldFcV9HTURvSjlwMGg2WTk1VUhi?oc=5",
-   "src": "Business Today",
-   "t": "2026-10-30T08:04:15+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Sensex zooms 1,500 pts in 2 days, Nifty tops 23K: Why are bulls in charge?",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTDJ1dFlKVkRQMEhPdHhUbGlyTHk4ams1Y0EySG9zRlhkcWpORm1FUzdwWDdtVmZRT2s1YWJJYUpDU3h6UUt6Y29DaFJsMFpmZkwxMnk1dnNGQ3kzSlNfNlZoOTVURThySncwaUZ1cDJzeGU5NlN2NV9aeWROd3RuWTItcmtlNUE5WkZVbi1wUUtobnJzRGp4SE1PcUtPaTQxbnVDRUdTWFpQTGZjMzh6dTJ0TzJtRVNMbUJMVmlBTlFPTXQxX19QWktWUEhWM3ZkNm51VtIB2gFBVV95cUxQcjQ4VkQzSUZjUnlJeGk3b3ZFQk5QYVM1ejM2X3dZanFHNFhOWTFJME0teEVXZFRQZDgzMzktem9uMWc3ZXphVVJJUGwzUG1KVnpKVi1Xamd4cy1qM0hTYUR6OTVSa2ZUQ1E2S3dwWHV3MTByUGtFQS1seXl0SWNUXzhxeFZ3UEZIQVd2V0w5NlNNeHgzeUVHYTV4ak1iYW5IY0IycU4xYnJ5dGxxMm1QSFdQTGpQYWE3Y2dUekVadEVSeHZYc3c1UDdmMDVJd3hXbjlMRjItUlhBUQ?oc=5",
-   "src": "Business Standard",
-   "t": "2026-10-30T08:02:39+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Vanguard S&P 500 ETF (VOO) stock price, news, quote and history",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAycXl6T3hzWGdUMkpyOXkwTmNQb0Rsci1KODlZQ011UjJlMWxreGpqeUx4ZzN4aGZucWw2WTNJY3E2aXJQWkV6NU5pdlpBTmlk?oc=5",
-   "src": "Yahoo Finance UK",
-   "t": "2026-10-30T07:53:55+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Forex Today: BoJ keeps policy settings unchanged, Gold drops below $4,000",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX0pOZ1hnT0hHcTV0VkZma2R1Rk9MVko0TTVkcnEtb1RlYXlCOXpqY01kYi1iSzJ2QlAxTHM4Yzkta1B3SWhoR0kzZXY1c2M1SHlIc2d1NnA3RlJPZzRFei1qWE9NR2V2NFBGMWE5bjJ1VlhPUVBOWVpnT094X1VWMUV5VEM4T0lNQkZxNk1sRjVpaVRZNmlITmdnM2NHdEg3dEhRak83X01qVHhVTVFna0c1RQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T07:45:14+00:00",
-   "tags": [
-    "gold",
-    "usdjpy"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Global Market: Wall Street's top asset managers bet big on AI infrastructure boom",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-wall-streets-top-asset-managers-bet-big-on-ai-infrastructure-boom/articleshow/135349828.cms",
-   "src": "Economic Times",
-   "t": "2026-10-30T07:37:43+00:00",
-   "tags": [
-    "spx"
    ],
    "tone": "neutral"
   }
