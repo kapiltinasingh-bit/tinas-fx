@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T10:58:49.363456+00:00",
+ "updated": "2026-10-31T11:28:05.776463+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -118,6 +118,26 @@
   }
  ],
  "items": [
+  {
+   "title": "Dalal Street Weak Ahead: Nifty stands on firmer footing, but can it break past 23,450?",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-weak-ahead-nifty-stands-on-firmer-footing-but-can-it-break-past-23450/articleshow/135396431.cms",
+   "src": "Economic Times",
+   "t": "2026-10-31T11:05:04+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
+   "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+   "src": "CNBC",
+   "t": "2026-10-31T11:00:01+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "ET Wealth Expo | Only 6 of 1990's Sensex stocks survive: S Naren's case for smarter asset allocation",
    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWmpKZzVxdFV6WHFoeUtKRkNETU9zSXZySFIzX0ZObUFVV09GbmUyQUxRbjN1MWl6TUNmaVV0VlJfTV9iWE1MNUo3VGhhWnhDWW50NXF1b1VvTUhBcjNKeUpCOE1VblVoaDRDNmFMeVV6d29DVjczV1BST1hiNVZQRXUtckFIM00xeVNITlFxemlwYnpSVzVzMHpnVTBtaDhyM0FpcnJVQ3FGR05tMk5XanVBYjdNMElEanFBMHMzZW1lOElXUnVOMWs4cGdUN1JweXBNMEpKR1g0WnczTXRwdE4za0R6cWNBTVRkVl9tNlNrdGtoMTJPTnFydndvd9IBgwJBVV95cUxNY0JsRzctTXRORmI0WXptUzA5NmpfZnpQbVpUbWs0eEwyam53Qy1HREw5LVVqandONll4WW5OODNTamhIU2Y3LVZ4Q0lPczR5dE53MllPazc2RW9sOHd2VEMzSVVBSHVaVTNUNzRJM1RQNmMxalEtUVlGVzJWWTVWWVBjV1RoUE9KVWZKRHJfOTVoa0IzN2F3bjlZcUdicXNjc0htVjBiMGhOQ1Nfa3hNb280cVpZQm9iRmhIdHpfSk9FTDVhOTFubXpiVG1UUDNrLWxNeEVKUlZ1MG5LTzUyZm91M1piVTVqekdSU3VWZHprV1ZRUlRUS09GN3hPN1ZWUEFR?oc=5",
@@ -2650,27 +2670,6 @@
     "btc"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Sensex rises 308 points, Nifty above 23,000 even as broader markets crash. Will D-Street bulls extend reco",
-   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPTXhsRWN1cm45ckpDbWUxY21qclNKLTVCeDlaUlJweGFFUS1qSG40b09sNVlzTFBKQVNPZzU4R3VSSGZuNF96dHFPVVFDQmFOTy1YZU43YjJaRWpCczlrZkViZ0tTSS1lN1VzSUdrbHFoS01uMW9vRjl3MWRzSnZiSkd2T3REMjBBUTYwY29vOS1xSDNndVhFT0RNdjVtN1lFUkljSlE0cjR3ZjJqRDZodXBuMlpmSGJhYklpRnAxYktzS0hhYWJoRUJUWWUyeWlScXlTVk05VkMtazRESVQ1STE0TU1Cd0Q5Z2NHcXdZWm5XeFpaMHFJUm9CalNmMGdYZEpTS2ttUnFvaDFjVEc1YzhEb3NLSWlMRHYxUXVwaUFWQTZXZ0lR0gGgAkFVX3lxTE55RHpQVXVLRUxDYkNVYmFlZ2FlbU9vdnZVNTBvUXhZSFJBaHpKOXJ6dnE1aVpGSXlZeGdGaUtmMGN5TVdHX21JYkhuVXgyWmE5eW9UcEhMdmg0cGlJaGFRdEttaktQTlphMEs3Vml4cW1MMXY1eTU5S1dtbDRfRXREd2hmM3FRMGdBMVFjUmpqSlJZMUtOVjUzbTdaVTVUT3I1NDE5cWljc0NGaHFnZ1RVM0RWQUxBU0swOE1Ydk1HVDlvRU9GM0htOVdxeWZRRXRNWjVRbF96MVVZQzBsX2JfNlNLTDlaYk5HWm9fS2xQeExiWFNBMmh5UHlBdGUwYlozX0ZCU2ZxUzBjcmNQUG5PSzdkQW91cEppOWNsM1ZIWQ?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-30T10:35:37+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Binance Suspends Withdrawals After $6.3 Billion Cryptocurrency Hack as Bitcoin and Crypto Stocks Fall",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMlVPZmV3MjVIUUtKSTUwdGo3UDhINUI3TWdUQzUwSHJVRFljSDFpZVpzSVN2Ml9jZWpFdHNDNzFGX1BzdnJBTUkxNVJ1U1NWMzkxVXRsbGdXeC1rSGFMQk91eXNrOXFBWlEwRk9XMV9fSW1zWlZ2aG1kSXh1cVR3b2ZnM0l3U21TWlVQUkprOThCb2NtSVMwd2g1RDVxQQ?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-30T10:24:32+00:00",
-   "tags": [
-    "spx",
-    "btc"
-   ],
-   "tone": "bearish"
   }
  ]
 }
