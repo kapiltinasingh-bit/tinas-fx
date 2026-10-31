@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-31T00:32:47.051320+00:00",
+ "updated": "2026-10-31T01:39:52.276408+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -24,13 +24,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,31 +48,31 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 7
+   "new": 6
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 7
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "CNBC",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Moneycontrol",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 10
+   "new": 9
   },
   {
    "feed": "Investing.com",
@@ -119,6 +119,16 @@
  ],
  "items": [
   {
+   "title": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-drops-to-its-worst-day-since-june-after-the-sell-off-for-tech-stocks-deepens/articleshow/135382776.cms",
+   "src": "Economic Times",
+   "t": "2026-10-31T00:50:12+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "S&P 500, Nasdaq End Third Straight Week Lower As Investors Move Away From Tech, AI — AMZN, INTC, LLY, RBLX In Focus",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd1RQc1hqWEp2Wmw4UmFyaVhuOUQ3bTRnWVFTV2stQjdaX3JlVXVUQUw3WmJYX21VSV9GS254UDY4WDk5YXhxazlSbEVOaHkyb055cFNRSVRmTWNiSDFsUzIwZDhmcVBzSjBxUlZ1ZWJ0MnZjYW9wd0tfdE9hRU9wZEs1Sl9ES3NtNHFtU0txcWg?oc=5",
    "src": "Yahoo Finance",
@@ -128,6 +138,16 @@
     "nasdaq"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "India gold reserves description={PAGE_DESCRIPTION}",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ld0x4aElHd3hVR3FGSVprUlJsVmgwR2JzUVFtZ0lwaTJBUmxxaWxiY2xZY0ZTczNqTUg3b2Z5Yk9XOF9RMU5LcHZIX0VYMzVKYjZZT1BWRDRvQjlFVW44?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-30T23:30:49+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "US stock Market today: Wall Street stocks that jump on tough trading day for S&P 500, Nasdaq, Dow Jones, R",
@@ -347,16 +367,6 @@
    "t": "2026-10-30T20:26:00+00:00",
    "tags": [
     "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZGhRNkFoQUxENnhVdlZiSXhOUzhMNnE1R1hVSWlCeGlvSVlxZE5meGZKcWMzaFdGaTk4V20tM0Q1eXFBb2lLdVE2U01yOHp6VUt0UVFsUlNOcXRHaWJLU2hwREZubThsQi1QaUREOWlpZUI1MEQ4TTRlamhXM2ZDb0hxY0l4RXBoSEFWajVjVGEwa041dWJQeGFEbldreE0tTGhXdEhSNlV2VUJIMUhfcWJpdmYyNnh4OGR6eGgyODNMNEwxNzEwVXlmZlJGYTZBSXI2VA?oc=5",
-   "src": "BNN Bloomberg",
-   "t": "2026-10-30T20:24:37+00:00",
-   "tags": [
-    "spx"
    ],
    "tone": "bearish"
   },
@@ -1677,6 +1687,16 @@
    "tone": "neutral"
   },
   {
+   "title": "AI Stock Sell-off: Amazon, Intel shares plunge on earnings misses",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUVdPZUNvS2tQcnB1enM2UnhpdVl4UEtwYjVwb25mQV9lRWlCOEFkdWEyTXpzU2FVRGxzY1ZDaEQ4ZWhoZkw3LUpwV0lyRkRKVzE1VzZwWllYdlFxM0JQd0p3OVR6cVdmOE5pX255eDB5RlRTNjZqNDF0SmZwZW5sQVpfeTZWbUhtd2drcEY0SG84aktSMjE1N3RtVGJrbXB4VlNXTjkyOFBkdw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-30T12:36:01+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Stock Market Today: Nasdaq, S&P 500 Futures Slide as Amazon and Intel Plunge After Earnings",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSE9SSUhpWk5CZkNpbDlGZzBId0ZsMEpzQnNtNmtYNGluNWNSampUUTNjTS0yaGNpVWZmekw5by1VZExvVFVtMEdYM3dNRWZyNlhVd1h3VjBIZXp6dnBrNFk1ZTczOXM4VkFCeV9IWEVDUjU3dTljQ2Y2cTZSRTBRM3RCQzE2MG9NTmlETE1BTWpfTWdBNl9B?oc=5",
    "src": "Yahoo Finance",
@@ -2651,28 +2671,6 @@
    "t": "2026-10-30T06:40:13+00:00",
    "tags": [
     "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Passive funds could buy up to Rs 36,500 crore upon Jio Platforms' entry into Nifty, Sensex",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQml6RHdZS2FTeE1nN05IMHpUTVYwR3BxdXhNRVViWjlzSExMb2ZsRFBGZmc3bXZRbDR0Z2ZZVkNhclFpRS1tYWtfN3RpM18waHFDdkRzR3FWeDllUFhvb2JlaVQ0RkozVWt6b0dwS1VWRk5zcjVaM09RUjE4ME1rNmZ1WkxqVl9FVm40ZmVoeEp0X25uTWN0Vm5PLVV2OGpLaTF6X1VuNW5kNUVwU1FtclNGdU94LXQxdUozUTNwQnVDQzR1OEhCcVhpNWpOakxseUIySzRrdWMycFR2TWRRSUtjQWdCZUxh0gHuAUFVX3lxTFBvVWFETnc5Y1BDWk1YWmhPdFNTbTZESnpWaHNVSTRoTWJHVlBONW1yVldTVThqckJyTURkTXotaVRCX3lOZ3o0QlRINTZJcnY2SmI0R0JuMkdjV21jVVJrcG55Y1lrM0F5N0NUS1pnODZNTmRIbVRLYU5nbXE3UmZyb0hERFNBdTJ1SEdTLUluV3FldFF2VVd1d2lucXpUcUlxNVlnODdqdkN2UjE1WmNfWlU2NWJLelpwSXptX3hKMGpjQ2xaOVFDdW5hd21UMktsODRIaVdmY0ZoZkdhQnZvaC1Ha01SN1JlVV9TR2c?oc=5",
-   "src": "Moneycontrol.com",
-   "t": "2026-10-30T06:40:13+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold and Silver Price Forecast: Silver Lags as Fed Hike Fears Grow",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGZOS0VFblE5RVJPNTBlb3k5Y25fWldYX21abE5pYmJpUmVHdS1NSDExX29ZWnZKSkx1c1Y4WHdoVFpYYnpuR2JxLTM5Q2YwS2NCT2F0bTJGT2pSR2Excng4UXg4ZU1pRkdtR2dZemVMSWtIRkd4ODlTbFpJRFpBM3dwVGxVUUwxR3FrT1JGUHZEVEYwWkJEWXBrSGMxRWNlU3hMVTBidVFRU1dBWVM3NENOS0JtMTg?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-30T06:36:44+00:00",
-   "tags": [
-    "gold",
-    "silver",
-    "macro"
    ],
    "tone": "neutral"
   }
