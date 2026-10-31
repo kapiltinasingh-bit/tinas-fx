@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-31T16:43:10.355773+00:00",
+ "updated": "2026-10-31T17:14:16.457788+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "CNBC",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 9
+   "new": 8
   },
   {
    "feed": "Investing.com",
@@ -114,10 +114,30 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Gold Price Forecast: XAU/USD 17% Plunge Threatens Multi-Year Uptrend",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUjU4M0xzQ2I0aXpFY1F6YnJIcmRQTlVYOS1Ea0tjTGUtcWQwVjZ4R1g2WlozdV9MZkphUGo0ak8wZVZOVnFnekNZdzRYdFlIQ29MVlpKZlBXUU80WF9kNWFNLUpIQnM0M0E3QzRRMlBaWVRFQ2lRcF9rQlpyRVZ4QUEtQWJpWGZEOXYwM0w3MDlqamRPeGEwVlltdmsycGlJbUYydVRYbnJ4Si1OMC1BWUxkeld6SUMxQmRXbVpOb194cC1MeFHSAdIBQVVfeXFMTWxOWDh2TUMtSDRzNzJpaGtMNUxaTThLMHRIdnppdGszLXA0VW52b21XNjdKQnhRTGJQVThaT20wQS0tUWVtdnRVWE9qU05hUkZmUzQ2WVZvOVZxX1hDMVJHb1JMclA3YmRaOGJkNWMyb0xoN21yX2VKZFAzQzNTdWZjelpLN1lOa1ZTRWJPMDBxTWltb1lvUnViQnQwUTFYamZhQ0JtQ3BBb2d1b28wdkpFMlBURldvRE1IRk9zSDRSZUNpMHpUTC14WllpT0hmS3JR?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-31T17:10:46+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "OPEC+ set to keep production targets unchanged in December, source says",
+   "url": "https://www.investing.com/news/commodities-news/opec-set-to-keep-production-targets-unchanged-in-december-source-says-4989301",
+   "src": "Investing.com",
+   "t": "2026-10-31T16:42:19+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
    "url": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
@@ -288,6 +308,17 @@
    "t": "2026-10-31T12:23:57+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold And Silver: A Generational Buying Opportunity Is Emerging (NYSEARCA:GLD)",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEp0anN5TW1nN3E1TU9nbDJtQXhWNHp5NVM5Q29mSmxJV2RfY0llbEFOdy1acU5mM3dVZ3Y5NkR5U2JiX2ZFWDV2cmlraWdyVWZKM1pHUFc4ZW1UZkhVcC05STlKM3MtSWFyNDhIU2xrMTBjY2JYSUgwcWYyWWlUaHl1NnZsQkN1VzFVaHlSanJMYmhMTGNjX3JJQzFxeVkwRlRoMw?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-31T11:05:49+00:00",
+   "tags": [
+    "gold",
+    "silver"
    ],
    "tone": "neutral"
   },
@@ -878,6 +909,16 @@
    "tone": "bullish"
   },
   {
+   "title": "S&P 500 Slips Weekly as Underwhelming Hyperscaler Results Offset Anthropic's IPO Boost",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaFJBaDJITUIyeWFkb2tfYWpINGV2cFJaRnBaQmpNemdZeERXYnpUUVZYVE1IRUhOcHAyb0NpdnZIS0RBbF9MREhJVmxQcElRY3Z1NW11ME5UWWsyRVRtQ2FJZHpoaHBfTzVocjVnSWU0SnFueGJIMUtIaExnVy1YVndWeExQR3ozcE16UEVjMm41eTYxdUJBWlY1a3RMdw?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-30T20:45:30+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "US Dollar Price Action Setups: EUR/USD, GBP/USD, USD/JPY",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWhZM3BxN0xZOF9BaVB4bkJXZVFSZ0RuZTQ1dUdOVktab0tLTkhRUU5NbVhweWdKa1kwNS1KTUxRczJoYkpMSnBoWDdoUF90SVhpdVdfNVhXTG1LcEpZd1FFbDd0VkNubUItOWJVSVZBSHBiOVlCSWtKVVNESkM2RXpWdW9JdF9zZGoyWXVmS0xhMmlTcGxGbHdhM3dJTENFRU5xaHBxbE5aZGlMSlpTaV90VVNfMHViaTMxbtIBvAFBVV95cUxQVWhZM3BxN0xZOF9BaVB4bkJXZVFSZ0RuZTQ1dUdOVktab0tLTkhRUU5NbVhweWdKa1kwNS1KTUxRczJoYkpMSnBoWDdoUF90SVhpdVdfNVhXTG1LcEpZd1FFbDd0VkNubUItOWJVSVZBSHBiOVlCSWtKVVNESkM2RXpWdW9JdF9zZGoyWXVmS0xhMmlTcGxGbHdhM3dJTENFRU5xaHBxbE5aZGlMSlpTaV90VVNfMHViaTMxbg?oc=5",
    "src": "FOREX.com",
@@ -1422,6 +1463,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaF9ya09COUkxYUpqejFnc1JnYThRdVlSMDhJWjJKSU5kU0o1UmlhbmE0Z3F1cXVMT3pSTEtFcDd3VS1kSUY0MTl3NnBvY1dnQ3RQanNnVWItOXZvNTlaZEtET29NR2ppTzlQWWNpcnBZVHJieTFpenpFT0RQTXEwMzRTUjladnYtZm5UZ1g4SHBIZ1lUd2NwbURjZmRSYTU2VzhVeS1FLUVNVUprU05ZQlBhTXBXcXBadzI4WmlHYVVCZzdRVEVEN1hsVQ?oc=5",
+   "src": "WSJ",
+   "t": "2026-10-30T18:13:00+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Gold’s $4,000 Support Could Trigger a Powerful Rally in Mining Stocks",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2dYMVZKT0ZxcENBZmRMeG9nODl0ci1CYUdRSnVIZUQ1QkdDMUhZdkZGV0Jjb29DMFhBbWszU2dMWGNWNFgxSVFnbmZSeld3V1U3T0t0NjY1a1VVTHY0UENPUlZsT1RwZzFQMXAwLU5iTHhqZ3RoeVgyN3JBc19UdWpvME0wcUVoU1VGSzRsM0ZLalVNVExlRlFqSE80Vl9QbDc1YmtTWGJzS3RTV0ZZRA?oc=5",
    "src": "Investing.com",
@@ -1575,6 +1626,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Goldman Sachs Revises China Jewelry Stocks Amid Gold Price Retreat",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWkyeEhuMkxCNUJYVDZ2SC1kMVZNcDEyT2ZMcW5tZWRBdnZ2M29EdEN1SXRGUDV0NU9JZFlqMWdLcEJzeFIxd2t2XzNIbGtYMWRnamJVbm1FejRtSGluRmFuNUluVmNPOHJrQkQ1bk8xajZNZFVVN21KYWlES0dXVUdhNzJoZWdONThzeXVlZDNEbHhHTzUwR3FzdklDS0JqVVE?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-30T17:25:12+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
    "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
    "src": "CNBC",
@@ -1661,16 +1722,6 @@
    "t": "2026-10-30T16:58:47+00:00",
    "tags": [
     "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Goldman Sachs Revises China Jewelry Stocks Amid Gold Price Retreat",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNEswTUNhbjhuTTVLcm12M29FN3JTRk9HR0JLVkFtbU9mcUpybUVXRFcyY1RqQ1lhaHFzeGl5cm8wdGY4bGpxcFBzZExCX0dLa3FpOGRFM0hyRjhtWGxPUnNCUVNabGNFMm5yZ1Ayb0hBZzJtdER4U3JIblJLeFl3RFgxUEdYT2VCeXB2bVBTSDRyNG9jZGNHMEZ3Q0NwNkFQY2VlMnZsUnFMVjZTRzM0Z3NkNVlpYVZnVTNBMG94M3A?oc=5",
-   "src": "Investing.com",
-   "t": "2026-10-30T16:56:05+00:00",
-   "tags": [
-    "gold"
    ],
    "tone": "neutral"
   },
@@ -2617,58 +2668,6 @@
     "macro"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "EUR/USD recouped its losses",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrZ2kzcll0NHczUnlmREU3dC1HdW5BWmdqdFlRRDBYN1NOVVB1OWNZam5KZUJBcFN3c3J4ZHpOYUZaRkhuWmVsQmViTE1ObVFsQk9lQTNKUHhwamJVd1FUNWk0eGRIT2VBQ2w3cFFKUk9LWi1EN2RYajRlVXNhNms?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T12:43:38+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "AI Stock Sell-off: Amazon, Intel shares plunge on earnings misses",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUVdPZUNvS2tQcnB1enM2UnhpdVl4UEtwYjVwb25mQV9lRWlCOEFkdWEyTXpzU2FVRGxzY1ZDaEQ4ZWhoZkw3LUpwV0lyRkRKVzE1VzZwWllYdlFxM0JQd0p3OVR6cVdmOE5pX255eDB5RlRTNjZqNDF0SmZwZW5sQVpfeTZWbUhtd2drcEY0SG84aktSMjE1N3RtVGJrbXB4VlNXTjkyOFBkdw?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T12:36:01+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Stock Market Today: Nasdaq, S&P 500 Futures Slide as Amazon and Intel Plunge After Earnings",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSE9SSUhpWk5CZkNpbDlGZzBId0ZsMEpzQnNtNmtYNGluNWNSampUUTNjTS0yaGNpVWZmekw5by1VZExvVFVtMEdYM3dNRWZyNlhVd1h3VjBIZXp6dnBrNFk1ZTczOXM4VkFCeV9IWEVDUjU3dTljQ2Y2cTZSRTBRM3RCQzE2MG9NTmlETE1BTWpfTWdBNl9B?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-30T12:35:40+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Gold rate, silver price today: Why is gold price down today? When will gold recover from its worst trading",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxORzl1bTZJbHBEcmNrZlhKQ0NTMFFyMGVXUEhFMlg3eUNTNlNhLWJWSFYtNExwN3RqR1ladUpnTXVRWjRXY1ZsR3EwRGZzN3RFaFV4VEFJbzNHaVRBZko1RnlUTTFGcnNSTXhhS0JURzluQTZOaWdKc0JlUjlIWGdZTGY5bktqb1FIc0FqdDRzWG8zV3IzLXJFeDNEdWlZZFM0ZmFVeUpJSmxBcnQ5amREZExyalBlTGxMaHBUUXY5NkpGbk95NFp2ZHd6RUJyd0hwQ0plWnBzaWhqenpjTFN0WHFkelpwcnZVU1NpdFFjM2hZOTFIcDVqeklTUVAyY0VITnc1ZEVNckZRM0hNNTNWMl9SUTRBelVZdXdiU2FSQ3g4aVdX0gGqAkFVX3lxTE9qUmlxOUE1cXEwY2xpN01ablhOTFZNXy1NX1gyTlNrQWY4NFpBcm12WWtOZzM1ZDFQdjFXVkpoRi14TTBRVy1ERjEwZ3dkOEZXQlVjcXZXWnZtRXBvazB4T04zMUpxSmRNT1ZtS240cGlIdW03d2tPNmVCeE5FazB1R1ppMm80S25WeG1NNHVmUlVqZDRuWHd0WERlOVJWSUstSW85aHJheVJDa0JBU2Ytek4tV1BobkhGbzRONHlHSDBBN05LOXFMc3ZhSmtUcUZXYTRUdGF3SGlyT3BvQ3VEeUtSQUpxdFhaaHJZZXA4bzAzVl9kT28tQWc1RXhtV29kcnJtOWNkMDJxb21qc21PNEsxR2lPTjMxQXhEVHVEX1FWNFVQdW84ckE?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-30T12:32:05+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Euro: Supported by limited policy divergence against US Dollar – BBH",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHVPVTJ2eFJWSGxXXy1HR1d3REdKRWwtSzhNcXVFXzlsaWRuMFNjRF93VFE5dDdNaURpU0pTOGpscjliQjRIT2VrNHZWLVYxV0VtamxfQzZJejRRZG5tR1FSSEpZb1BHNFZKZ2JFa25FX1k4R1NkZDF3ZnRzRlRYbHhoLUEtT0hqcjU5LVN1STItei1mWnp6RE9SczR4dE5KSDlVSzdmb2VTeUxs?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T12:31:56+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
   }
  ]
 }
