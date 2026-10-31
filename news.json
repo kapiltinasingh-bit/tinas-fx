@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-31T19:46:34.422671+00:00",
+ "updated": "2026-10-31T20:20:56.289670+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "CNBC",
@@ -119,6 +119,26 @@
  ],
  "items": [
   {
+   "title": "Crypto ETF News: Bitcoin ETFs Lost $643 Million in a Day and Ethereum ETFs Have Bled for 11 Straight Days. How Much of October's Inflows Are Gone?",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOM0I0T213LUtuU0prRHJmWkpRbDZ5QURzSHhBUHJWNW1Vc3F5VmtDQ3FtT3FZYTVpSWNSOHR6WnFMSUZha3FCRzEyejVWVHZoZndjMm40LVNWaWZ5bVRJaU02OGtadXFFdHd6RE9tVEVaMDhyeWhNOFpIcjd4WkdYY0ZrXzd4bnlkNlVSRVRqWFhZbktYbjR5SmVJbnhkUktmblpGZ1VONTg4eF9hWm1EM2VneURMZVRybVJsV0gybWpLWE50SWJkVkN3cV95N1RjZEVwVmcyYUFPRzBWbHVlWWMxamNpYjh0R2FBYS1uTm9uRkdjaGJnVW9RaDBsaW1YYjJSZlNkMGpsWkhTeGJZb0F6ZnBTNXlqU01WTWVyMlA1d29CLWRr?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-31T20:13:43+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Binance Needs to Buy Back Billions in Stolen Coins. Could Its Buying Lift Bitcoin?",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc2M3dzBTaVF6eTVzZHpoNzRRd0ZqSlY4VXJqWlc4SXNTMWNISnpBYkdBWDZ6bzdRNGtSVmN6MFNad0FUWXlmdVRaUnhhNmtvM3pGMTJwV1Mwc0JEeVh1MXc1eTRVS0RoX2FEVUlEOW9HTzVUYXc0OTBGZEoySmtyZzRyT3pyQnl2Y3VhNDlOdkFZUFNicktaQlBNV1BmZ1J1Mkx2RlV4aGlkeW02TG4tT1dhRjk5ZG4zekxjS1MyRVFqZlZhNWtzeDhWQ0NDYzgtZ0V3MjVn?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-31T19:58:39+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Gold Price Drops Below Key Support as GLD ETF Outflows Jump as NFP Loom",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONmlJeHZyaXRzNmFFSW5iX0ZPMHBINFpuU1BtZGIyQlF6djRvUFlBT2F4eThQN3gxcUNSRjJlRjBab2xkV0dleU0zeExjOFFUdFVybC14ajJHYUJvNU94RnY4QkVPUTRldmt6blVOV3hzZGllUG5RUEdQNVIwNE14MGMteGtFaElIM0RQaG4wNjVEU2xuQUUtVVpma1l2OHVyOEE1LWM3cVJqTnhWNVE5czFBaDdwOUJnY0ZGa19IR0hDcmg2eVctdUNuMA?oc=5",
    "src": "Benzinga",
@@ -147,6 +167,16 @@
     "gold"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTk80ZVBzRVczc0hyRHU0RkJiTWx5ZDUwdnBHb0FWSmJyQWJzWHRYR0hZd0MzTW1INnFtSWRISVVRb1RncDltYW16eTYxRU9NcWJzanRqMmp4LWFXUVNTV2tzT3JCM0doS01hWDdGeUhNdHZ3WTdYXy14Q0luZTRmOWdQNlp2ZThtYlQ0cWhNSVk0c0ZkOUFyMExMUWRHMXRKamU2ZHRLa2pPMG9heUhzN2YwTnpCZw?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-31T18:05:10+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
@@ -467,6 +497,16 @@
    "tone": "bullish"
   },
   {
+   "title": "Check out SBI Gold ETF's stock price (SBIGOLD-IN) in real time",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43bTAwVzdIbVFyVjF0b19qd2F5YU5GczllenpJem1SSEpzX3M1aUtRX0ZFQy12Mmh0c2MweXdIRUhuRjNoWGExbFBLRnYzM3M?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-31T08:13:25+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Vedant Poly Fabs Share Price Today, Vedant Poly Fabs Stock Price Live NSE/BSE Updates",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZnpEdHF4OGFRRFpWLTNQUlpyMzNtNkY0N0toMDNVc1lIc244SzIxdURpRXlHX3laZGFtMWwyWnlCdWx1cHFWRC1FQjhucU41Nnh6RjFJd0pXWTV2S29DQkVQRm9UQzIxYjM4NjJTYTFLc3d5Qngwb0tSVzRzWDI1SFNHOA?oc=5",
    "src": "The Economic Times",
@@ -699,6 +739,16 @@
    "t": "2026-10-31T02:26:33+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Sbineqwetf Share Price, Stock Price - NSE/BSE Live",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sRGZCTG5YWVdDNDZSSTJfUk1SdEtmdHowY1QzcFFqZERla1h3RTNiSzF0TnBQQkJpRDFOZ2NQc1p3X3F6dnZFV2wwYjhnVk9zX09qVFV5SVRIb21xalNFbmFwcGdKUU1iTjRWTHZSLVRTVUpua1E?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-10-31T00:59:07+00:00",
+   "tags": [
+    "nifty"
    ],
    "tone": "neutral"
   },
@@ -2620,56 +2670,6 @@
     "btc"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Stock Market Warning: Nasdaq Leads a Sharp Pre-Market Decline",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWElkOUtlQVNFRlJWZG41cktXelQxa3dSc05hX2pvOWV3amJQeXhOVmF2TlpWSy1ZcG82U0xIWlNxOVM1MGk2X0lwUWNBZUxsN2Z5ZWFiazZsQ2hTbnVRSlptNzBsVFlFbWxLd2twTjZQQWZoNVJwLUxTWkV1YmVrZVJ3TEc1VFg4X3lINDJ3bHFHUy1KMHZyMnFpT0xsNXU0Z0kwS0YyNA?oc=5",
-   "src": "Investing.com",
-   "t": "2026-10-30T13:23:15+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "How the Binance hack is rippling through markets from stocks to crypto",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMEVYUXRPNEgzblg1NFFBRXlmNUtPZmlSYmw3LUJFdjk4TkR5OUZzSWJfVlB6bzlMdVBpOENuREtkTEtCYWZiZGdFajhLRlZqbkpFM2U3VTdmVUhMdVZYNXVqSTB0ZldfVTRTQkp1UUpaSzd3N0cza05HYnJibjdDdDNHZmYtcWFa?oc=5",
-   "src": "Business Insider",
-   "t": "2026-10-30T13:22:48+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "How big a deal is the $6.3bn crypto heist, who did it, and are investments safe?",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWDIweFVpeWJwY0FXWnpIaVFvMFAwN21hLWctbkdYMTZ1U2Jpd1lRa1hWQldMbE9iYkpjM3ZoTHhFT2pWeUtsUXZIRWVxblBZc0JIY3pXMThaOWNmQ2FOejZrMm1DbGNUZC0xRFc4a25laENfX3JBNHFNZzY5alNwLS1mZEx5bXFSYTN4U045V2lvWmdQdmhUamlnMEEzckFucHJR?oc=5",
-   "src": "The Guardian",
-   "t": "2026-10-30T13:22:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Trump Claims Inflation Is 'Way Down' Ahead of Midterms, But Fed Chair Kevin Warsh Warns Prices Remain 'To",
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPQTZXRGk3a3gtZENLaGZseks2S192el92Y29YWHc5NEtvbkZmSkVEY21haFpXRUR5OVMwUXJod1ljVmhNV3RvWkZ5ZnVtUFJhZ1kxcllfdk5wdXEtaXctOGFhQkFva2NQU05UN3k3ZkJIVWpyek40Zm54SHNWRmhCazFsMGJ2VlJEQXpSUFUtX29Bd1ItNUxLRi1yVWR0NXhVcmU1VTBPWDd2MWpkSk1KSWpaT1NIM1JlNWxuVXJlUjRKZUN0NXdKZnJGdVlyZHkxcVgxV1N5bDg5eVlOSjR0ejdtVkQxTGdmMTJmUm1jZE8tekVPYTl3MlN1a3ZDVEFfZk1LSTAyZzRycHR0LTBNa1A0QnVPb2JIWncwaS1yU2Rsdw?oc=5",
-   "src": "Benzinga",
-   "t": "2026-10-30T13:16:53+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Swiss Franc trims gains as high Oil prices erode its safe-haven status",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZFBnSjNOeTd0TjQ4Um1sNWo5cGxIWENjRDVGMEJjc3RCR2JaVENCVTZLb3BhM2Z6S1g0Ri1oZG5GalMyLUcxOGlnVzlkTXFSR25NTWxBWktmbnF5UW1BZXd3ejh0dkZlZFMwR1JKUGlwVXRTOThLZTd3UHZuR2JOWV91T29hYksxQjJ4WEN5ak5MWF9mSktvZnVjWDRLWGE1N0ZieEgyajZwMENTSzBXSklqRDJ3X1ViQW5hN0dKQTFHbjg?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T13:15:59+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
   }
  ]
 }
