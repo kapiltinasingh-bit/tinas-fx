@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-31T06:04:09.377581+00:00",
+ "updated": "2026-10-31T06:55:57.536938+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -18,25 +18,25 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -118,6 +118,37 @@
   }
  ],
  "items": [
+  {
+   "title": "ET Wealth Expo: Why market veteran S Naren thinks investors are getting gold, silver and asset allocation all wrong",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-why-market-veteran-s-naren-thinks-investors-are-getting-gold-silver-and-asset-allocation-all-wrong/articleshow/135391370.cms",
+   "src": "Economic Times",
+   "t": "2026-10-31T06:35:25+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "F&O Talk: Big break above 23,200 can open doors for 23,500 for Nifty; Sudeep Shah picks 6 stocks ahead of Diwali",
+   "url": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-big-break-above-23200-can-open-doors-for-23500-for-nifty-sudeep-shah-picks-6-stocks-ahead-of-diwali/articleshow/135390885.cms",
+   "src": "Economic Times",
+   "t": "2026-10-31T06:15:44+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
+   "url": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
+   "src": "CNBC",
+   "t": "2026-10-31T06:00:02+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
    "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
@@ -1225,6 +1256,16 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2liRktQYTV2RzllUDRlR004Y2FaaWVsVTItenFvNmYwcVBPYnlzazFYSklULUtISkMwSVhWMDlmNXJaYkdoSktIbTZ3bEtzZnhGTXZyVU5yWW5WWnRsVW9sRGYxQTlQeDIxZlU5Z3BrbDRxQkRjbVVtTE5FckFwVVc0UFRGU0tpdnptOUttUmdjaU1aaXV6R2Z6NVBKQjdiZGN1OXVzUWdWSlJW?oc=5",
    "src": "FXStreet",
    "t": "2026-10-30T16:05:05+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Pound Sterling Price News and Forecast: GBP/USD hovers around 1.34 as BoE hike bets outshine Fed doubts",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT3h6UTgzYTlCRDlyWmFseXBGYTZwbnB0azFITlNUZzQ2a21yY1k5SnJjaTJDUFpCRW5DZGk5cmFicE1SRjN0NVA3SEJGdm1sbWZibjRBaU9oTU1vWnllRnlyZ1hFY1o3TUQxZWU2YTJ3bUlXUzBlWmxKX2NGaC1rNkRxWHhKN0Q5M2plajVSa0o5dnAtZzA4R3o0bU4yc0NaSndPejllN3NrTmFrdk5RWWZ5RllJSjFzNjJTUFZady11RS12Y3p2MnJzdUdXcjlTRUFkdmY0bjhvblo0?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-30T16:04:22+00:00",
    "tags": [
     "macro"
    ],
@@ -2432,6 +2473,17 @@
    "tone": "bullish"
   },
   {
+   "title": "Wall Street Banks Raise Oil Price Forecasts as Supply Fears Deepen",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSi14TUJuT1BrWi0tUVJTcnVrSTdPbEY3cjZvRWg2QlZySXRVbDRxRlpHYnphei1GY015WmxENTdZSkQzLWtYbUo4ZnJXM1BFdGFEMjFqMko3OHpEb085RzZOdFphUURPRkR2NE9sQ0NlV3lELTJlYXRTR3cxbS1mTWQ5UXJLNUVmS1RUdzJxZjhwOWdQei1LbW42YkdOeHUzc1ZQclB4bmhxWDBHNnhxUmlud2Rndy1IMWc4bFVpWdIBxAFBVV95cUxPeGwxTUJqN3NEZTJBeF96T0p0U3VTdE1WS3BzMy1Ic2ZOTWhEQjZvZk4xS3RkYUY1R2U5Wlo3Sjdnc01qcm1Fd3dmRFoxWm1rMXFkS0dCV1p1Y0J5Y2hiNlhNUFg2Mnc2TmwyYmdvVVZIdk54NmNXMzRLd1M0UlJYSVJxT2RrV05Nd0Vidl9NV3BCcFdHVVB2YURqNVRvYWwtRHhocDRtdkhpMG5ERWFkRE15YUdzZFBsVnhlVU04a2ZfUy1w?oc=5",
+   "src": "Crude Oil Prices Today | OilPrice.com",
+   "t": "2026-10-30T10:00:00+00:00",
+   "tags": [
+    "oil",
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Crypto markets slide as Binance probes $6.3B security breach, aims to resume withdrawals in 48 hours",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU0pNOGtCalBnNkxmRWZ0ZGo2bGRjOFVsWGcyNm9PMFRyLTQ2enNTWlhJLXROTWVCRklqRVJnTFltRjlSVDB1aXNFaWxyeUJDUW5Rbm1aNWhraGlTWHhLcGZ3bHJLUjl6d3dqcktKX3VIMU00M25IUmtIMjNvalNfeldWNDNlbm1ESEtLaDNNUWlIaEJablZuQ0trem54QzJNU0VmNEFBUGEtcVlneU8zWm03aUhVQXhXZTZCVWVJMVcyWVZLSHdubVM1S0dWay1Z?oc=5",
    "src": "Seeking Alpha",
@@ -2593,6 +2645,16 @@
    "tone": "bullish"
   },
   {
+   "title": "Nasdaq futures fall over 2% as global tech stocks slide",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkg4MzNsS3Y4OTgwNXJQRDZTQlk1eU1yTWJfTVgtcGhmSlhGWWtKNGNJZzJadVdJSHlrcGg4b1YtVUJCV1lEVjJyVUJPYnkxbGN1dzMwUmUzVFZXYk5UMmFtLVhqTmxDRnlBZTdaTHUyeUhjU1UyM0o0UTY2eXpfcGFpMkQ?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-30T08:50:16+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Live News: Binance hack rattles crypto as Intel plunges and AI spending fears hit tech",
    "url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
    "src": "CoinDesk",
@@ -2610,68 +2672,6 @@
    "tags": [
     "gold",
     "dfm"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Global Market: Binance breach rekindles fears over cryptocurrency security",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-binance-breach-rekindles-fears-over-cryptocurrency-security/articleshow/135351569.cms",
-   "src": "Economic Times",
-   "t": "2026-10-30T08:30:16+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold, Silver Lose Shine: Yellow Metal Falls Below Rs 1,42,000, Silver Price Crashes By Rs 5,400",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYlRNSTI0TEN1UUxXdlVnR1NIc253bzN3RERHVGVDSXdhNkRfdW0tQUtZb2dwbDZYc29CZEtMb2RUaVlvTjhYRTQya0tTQzNqY3hxWUI5Znp2Mm5EMnptQV9UMWJULVllWms2dkt1YlhpRFQyakVpNG4yMkViaXhSVFRFa2ZrcUJ6UG00dmN2UHZYbENrZUVzd0NxZU52ZHJ3S01BZ2xfVUZLTzNlcTF3b3BxZGF6bHoxUTVJUHNuVjVkR3ZxMGlfcDlQcE42dDlJZFHSAdoBQVVfeXFMT2lDQnRFelZqNXAyejNNU255YzBHMmZ3SkYzUVN4T3ZvVzJLMENJWHNkUVBqUG9UMWQ0UkltbkREVVQ2WmVVM0xIOXEwVDZUeWtEbjdXSUJ4MlJlaHB2eW1KYnZFZlBvLWMwalBFX1JCdlNiUWhnVFlIUFRQWXJnTFJoZFlYbDc3MUU0bDdLVGF4TmtiaWxZMGhxZjNtdG5VVTQ0akFCYm0zckF2bEp5dHI4WGpndEhVbHotUjFjX2Uxa3p3ZjlSYl9fM2lNbFg3clRnVE5TanpJZGc?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-10-30T08:27:22+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Sensex down 300 pts from day's high, Nifty below 23,050: Weak global cues among key factors behind market...",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNbWNRWjQ2WjdDTjZ1RWJPazRfbld2NDFzaEJlSFI1MGZ2ZXpwOV90UEtBM3psbUVodGl0OWs5UXotZVZZRi1wRUxlejAxWkJjVEhNR1g3SlNCcXVtbEVRQm9uWE5NZ1VfT2dEMGJjWDNncWVGcjBvRmtTS3psWHdZTWltMzJab0did1RnU1Q5dm56MXp5WmpqNzJJYl9sRURzNXRqMVhIOGNwV2xsc0tuQmhXZVVzNWM3aTlwQ1BDQTRGZGZjTGc1ZmxGNXBrakVVT0xmc2FpaDBTRHpObGl4a0pXYUhiOVpORV9fLWZXTm5HWU5NOVl6cGVSZTIwXzNzcVFQRDJZb0g5OVlLSVHSAZMCQVVfeXFMTkNZbktjUWFTSHVoTnNWQzFRVFlYZ2hGa09LckpfNGJERmk0ZjdfbmRZUXJEekNBSU9MOUhVdDdKUFJ5MTUyRTltY0RkMV9mejJSRFJWQkktTFlJSjc5QWRQMW1PLThKWVktWm5HTEdDTXphbHkxMnowdW1GTU1IQ1Y0SkNsWUNaYzl4TzNJQ3lraXVIdEdCcmVmTlJuM2oxTXowTzQ5N0ZXc0JGdVNLMTY2eTJjY28zOGtoWnlQTW9KSHVBQXpid3NHV083elBmQ0V3elJHZlhlYkxsTS1rOE43SkljM1JuTllJRTc4MnNod2lNSHBGZnlGSFpPOE91QnFoZFdOOHVhbnNXVUNSaDZ5ajg?oc=5",
-   "src": "Moneycontrol.com",
-   "t": "2026-10-30T08:26:51+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Stock futures fall as Amazon and Intel results weigh on Nasdaq (SPX:)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYm5IanJ0aVBWdi03RjkzWk8yRkpvdGxsMjhuMlBlUlhyM0FEd1IyM05xUXN1NTd1eWZ0OUdXQzYtS0VoVC1MbEN6cmFYcDZZMmdUMXQ5S2FMdXdjTWNUQVFaSzAwVWdlV2U3d2RWbnlLd0hBdGMwUXNOakZFUVkwWG1hX2NoWWFN?oc=5",
-   "src": "Seeking Alpha",
-   "t": "2026-10-30T08:19:36+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Euro edges higher against the Japanese Yen following BoJ monetary policy decision",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaXhJdlBIZXVGWnpjLUpxQUI2dEtKcG1aYm1vNkJwcHhhM25PNlZaVGZzd25jQjExdVdjRXlhSGRMdERKU2VKYjRLdDZ4MXBOTWZ0c3M3ZGhZMWM3SGhXc3pYOFZlb1pfTGFNb3RpZG5sVmQ1THdCWmY5ZUUzV1NHWTlmdVNzVlVpTnhUckM5N3pmSjVBOWI0VFZTeHV1X3k5UTB5X3JlXzQ5Y0xpN1dQUWJFMFZqM2pMaFpwdDE2Y1lNdw?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T08:19:35+00:00",
-   "tags": [
-    "eurusd",
-    "usdjpy"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "GBP/JPY Price Forecast: Advances above 211.00, over one-week as JPY softens after BoJ",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGZFc0hfUW5yVVNYSU9SQzFZd1R5YTExQzdQQ0ZzS3FFamxLMVZOcGhmc3Q2ZEJTQlVieDJ3U1BPajlkbTJwU1ZHRkZaVzhfUVVzNG9LbHppWHZGMXZJaXFNNUhPSWdTQVR2cnpGVXlpTE1XbmJJMHF3dXdsWnNrNkZjRVcwY2tPcDdCREZJbDFCU3o0cHo0ZFdicHUxUldEZEhGcnlXVVhkaU51eFBsM2w0REItXy1LbTZWUGlSZGFqSlE?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T08:19:18+00:00",
-   "tags": [
-    "usdjpy"
    ],
    "tone": "neutral"
   }
