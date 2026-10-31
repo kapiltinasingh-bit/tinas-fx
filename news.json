@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T15:28:49.758113+00:00",
+ "updated": "2026-10-31T16:01:58.843110+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,7 +12,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 5
   },
   {
    "feed": "CNBC",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 11
+   "new": 10
   },
   {
    "feed": "Investing.com",
@@ -114,10 +114,20 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 2
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
+   "url": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
+   "src": "CoinDesk",
+   "t": "2026-10-31T16:00:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
    "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
@@ -1035,6 +1045,16 @@
    "tone": "bullish"
   },
   {
+   "title": "United States CFTC Oil NC Net Positions dipped from previous 89.3K to 74.3K",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRkhoUzBEMll6Q0o4TTZsc2hlcFJmNGJZbmlmWEVRQ2VpY1N4V1huNEcxZ2pjVUhLaE5QZkNjLTNlZkY5ZklOZndYWWM4Q2lMY1lOU0xGZnh3cjQxeTAxSEFXdm4xeUdBOVRmemo0MDRDM0FILU5fYU1WVzRXZG1nTUs4WkhZNzVjaEFuRmNUWVYzWWpZVnNqSm1TYnhsb0MtNnVjOTh6QXNld3Q2MEFyT1N5Q1JmcWs?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-30T19:40:58+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "United States CFTC Gold NC Net Positions declined to $186.5K from previous $199.9K",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdU9OX0NjclZNMmllZ2ZTRVB1WHZXZ2F1bk05WTJhRTM2cDFVTm56bXlBSHNBa2hWN0V3dEtxLWV5ay1GdDMyQ1FJRkpGczZTcVRuN2J4RGJEYWQ0R2MwR0RNTUdMOG5RVFUyUjVBUHVWNEZEMTlIRF9qLXgwNFc0X1lBbDJlYnNBeE80Qjc4UHBNbFNtaGwtRko5OUpuV0FTUklkYzhjWDFJUU91NlA4a21WTkFUcmJvYS1jN0Jn?oc=5",
    "src": "FXStreet",
@@ -1504,6 +1524,16 @@
    "tone": "neutral"
   },
   {
+   "title": "5 oz Silver Grand Maple Leaf Coin (2026)",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa1Q1Zjc0dmFUcFo2MEZzMmVndXN5T0w2eUVTb3NWZUthX2VqNmRJd2NKcmVLa1daN1hyWFgxd3NlUFdzZHdhMk00Z055dkF1MndJNl9TamEtQUdsMGFVa3NjX0tYVm85ajVEQXg5bkFvY040MVpzdFYxWUR0N181dmVndDZQOHo4?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-30T17:32:22+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Fed's Barkin says US central bank's direction 'straightforward,' the question is pace, SiriusXM reports",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQWdBOFJUQU5HOHZiZGZ1TTZDTUJaM1NBS1o5Vk1TbzZSV21USWV3ckk5WkpMYmVuekREYkxfR0FZVUZSWkdBSUUwSW14TmhBV0JuMEhicWtyNU9WZFFITzU5M3IwbC1uZVF3RGJZV3RwLUxURy1PTzFqbm1PeFNScnoyY3dFNllFWE4yUl9ySFBvQWtPUHRCRTNNOVF6MVlpX29iVy1GZVBjd2gxWmxrTnJnQmdyTUxiUV9Z?oc=5",
    "src": "Kitco",
@@ -1641,6 +1671,16 @@
    "t": "2026-10-30T16:54:37+00:00",
    "tags": [
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "crypto liquidity sweep description={PAGE_DESCRIPTION}",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TSWxyaFc1aTc1aXZKbEt1MDBOMVN2enl0ZThWQ04yVXdKcl9HZDJsdXhfMk9DSEJqNkZ6NmZWTUZIWk9vZnhkTUV2QVFwSU5oYWNDRmFXaVVnUEFuUlhFcE5faw?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-30T16:47:40+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -2628,49 +2668,6 @@
     "oil"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "WTI Oil holds above $103.00, near five-month highs amid new attacks in the Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbHBYY3RyYWR4SEt6Rk5zRktJenpYT19ZdDdMdWRaMXM3SjdIVThoSlNSYVR0aVBNVk9BSUJqS3k5VUFnMl9sel9TYUZrVEhFblFndF9wdzY0aGQzUGhtcnhNTHZSc1F1R3VJdUd2WEtlNHpHb3hVN1NJT0lOZmZVZ1BSdTlMd3JRaTk5N0lMTVRPWFlBaElUNGVVc3NBai1mRW90TUkwbjVxeW5IMlVKWHFoODdhOW05VERKaFZrdk9VQ25kZkZwUjFLMA?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T12:19:57+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold hits 3-1/2-month low on Fed hike fears, set for monthly loss",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFpGbkZMNi1YLW9ZejM4SWZiYlFmcFJFM09RMHpWWHU3ZXZLSmJXemd1aFhxcTNZODBvbTR3VjczMlVWOWRUbENvTjA3d3g5aWxmdEtqeEdDbC1ZdjBJRVZnYjh1ZENWSUhFU2F2aEtsTjVfalkwSmdlZlhZbExXTUNUTWhOQUJ2al96blBsREFrU1RtdDFyTmZCZkVnM1JPWFJjZGstOXJrSkk?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-30T12:18:19+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "ECB policymakers bring rate hike debate into the open",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaXBaNVFtei1NSWFTR2VVOHkwRXBVSmpTbHlyREpqbTFZdExYTlY1SFktQ1lmckNKZjVMaTZzWUhvS051WmhJQlBBOXRXZ0pZbHNzRU5fQTdLeGh6eU1HbTdFNkxBY2dzcTUycm1EMnpBZTFuelRnaldGOFc3VU1ZOGxMUU1wXzE4UmY1c1BMZ2FDRjdlOXVlaWZqcl83Ny1KbnRWSA?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-30T12:17:43+00:00",
-   "tags": [
-    "eurusd",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "USD/JPY Fed-Fueled Pullback Ahead of BoJ",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPajJxUE9iVmYteVlxZGMzMXZQTlBncFhpdFNnaXUtcmJ1QXhaMmtsN0JRRlhKeDdpNGhlck9RSVNQbWJIX3AwRmdxd1A1U1FjVzhMX3M1NEJOaU9JckpaUkQ0LUxKYldxOVJidDdxUW5hU1BxZFNCaDUxMlF3bkwtV0NHX0k5U2JjZ1FFQw?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-30T12:15:09+00:00",
-   "tags": [
-    "usdjpy",
-    "macro"
-   ],
-   "tone": "neutral"
   }
  ]
 }
