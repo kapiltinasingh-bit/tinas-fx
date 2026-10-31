@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T03:54:07.891067+00:00",
+ "updated": "2026-10-31T04:30:29.494911+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,25 +18,25 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -54,7 +54,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 2
+   "new": 5
   },
   {
    "feed": "Moneycontrol",
@@ -114,10 +114,40 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 2
   }
  ],
  "items": [
+  {
+   "title": "Indian Oil net profit triples YoY to 21,630 cr in Q2",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/indian-oil-net-profit-triples-yoy-to-21630-cr-in-q2/articleshow/135387471.cms",
+   "src": "Economic Times",
+   "t": "2026-10-31T04:11:43+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Wall Street Week Ahead: Midterm US elections, earnings, jobs data loom for AI-wary stock market",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-midterm-us-elections-earnings-jobs-data-loom-for-ai-wary-stock-market/articleshow/135386687.cms",
+   "src": "Economic Times",
+   "t": "2026-10-31T03:47:08+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/tech-rout-drives-gold-to-one-year-low-white-metals-sink-deep-into-oversold-zone/articleshow/135386768.cms",
+   "src": "Economic Times",
+   "t": "2026-10-31T03:46:29+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Wall Street Highlights: S&P Breaches 100-DMA, Nasdaq Posts Worst Month Since 2025 On AI Rout",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSWs3ekVRM28yREQ2N1l6N1VuWjhUYXcwVE4ycVZkS0RLLWUtU2JWazhEcnN6d1k0M2F1a0FQSFFhUG9MZU9selVrMk1pNjZZV2tsdTcyeFdXQXV5MVkzX0U1MzgtNk5JRVlXaFdFSUh4WF8zaGlpQlB0VTg1X09JN0R6aERPR0RlZkNaREhNZVItV1paQmdVY01zMUJ5eWUxQi02ZEx5dVRfQzlOTGhQNlg4YzhWaVZOcUh3TWxkdHJBZ1VlVHNyQkVFYThpRlnSAdcBQVVfeXFMT19waXJhQlluTV9MQkJlSHBINFpEMTBpTzFYYXg2aThWOS1veENGeThCNlFRUUlaY3Y3dXFacmFtY2VDRG96RGNLR3hqWW5QQnBWWDZnUWdJRVVkYkFqVllfdVYtYmJrMV9qcnFPYTJVaXV0R0pKbDBMdEVoRWZac3lXRVpEZjZyVExCb3NISmZHQ1dZcFk4eExmcUlMXzM2dE4xVXQ0TUVzdE1JS25lWTlNSW1ERlRGZGpkNFRCQnZWbGlDeS1NQi1EMERIMXoxdDdKMmU3S2c?oc=5",
@@ -149,6 +179,16 @@
     "nasdaq"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Oil-to-chemicals business powers Reliance Industries' record quarterly net profit, up 34% to ₹29,550 crore",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/oil-to-chemicals-business-powers-reliance-industries-record-quarterly-net-profit-up-34-to-29550-crore/articleshow/135387613.cms",
+   "src": "Economic Times",
+   "t": "2026-10-31T00:00:00+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Gold price prediction: Gold rate closes October on 1-year low, what to expect in November, December?",
@@ -579,10 +619,30 @@
    "tone": "bullish"
   },
   {
+   "title": "Gold breaks all supports in bearish impulse: Live levels",
+   "url": "https://www.investing.com/news/commodities-news/gold-breaks-below-4000-in-descending-channel-live-levels-93CH-4971505",
+   "src": "Investing.com",
+   "t": "2026-10-30T19:19:11+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Brent Oil compresses below SuperTrend resistance: Live levels",
    "url": "https://www.investing.com/news/commodities-news/brent-oil-tests-cloud-support-after-parabolic-top-live-levels-93CH-4971503",
    "src": "Investing.com",
    "t": "2026-10-30T19:18:57+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "London Gas Oil consolidates in 1416-1524 range: Live levels",
+   "url": "https://www.investing.com/news/commodities-news/london-gas-oil-consolidates-in-triangle-at-key-support-live-levels-93CH-4971507",
+   "src": "Investing.com",
+   "t": "2026-10-30T19:18:54+00:00",
    "tags": [
     "oil"
    ],
@@ -984,6 +1044,16 @@
    "tags": [
     "eurusd",
     "usdjpy"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Current price of oil as of October 30, 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sQlNTbGZfT1dXT2JUUDZ6UGRIU3Y4WWVvRFdaSVp0OFp4TlR1NkhNaHJYd1cyUHRud3BQWDR0ZXBKSmFJU3NyeUJNUHA2SlpPTmgtVnM4dXBmQU0zbVdtaFVB?oc=5",
+   "src": "Fortune",
+   "t": "2026-10-30T16:54:47+00:00",
+   "tags": [
+    "oil"
    ],
    "tone": "neutral"
   },
@@ -2603,77 +2673,6 @@
    "t": "2026-10-30T07:37:43+00:00",
    "tags": [
     "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Why Stock Market Is Rallying? Nifty Reclaims 23,100, Sensex Surges 500 Points; Three Reasons Why",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT3ppT2hyUUlUTExXYmkwSWM5TTRRSGd3d1ZzTk5rU1kxU2pRQkZQX2RybGhkWE80aUFRc2gwZ3MyczV4Mzh1emRfd0h5QjlOOWN3S21ZbFkwODVqOUs0b0tnbzNNd2Y2ZENQXzM0WFNxUTZLS3VMUFFidXR1SjdFb19hLVZIY2JxVHZPVW9CMVc1S0cyb0FCOW5ydENoQ1ZSYUVuaGJBY1l6U1RjQXF0c3FYU0VXbGpnLVhkTEtyc01yM1hZTjRvbnpPMEpVNE9JMkRqaVRn0gHeAUFVX3lxTE1JUmRUNjZycl9ZN1RHazZuU2VHLUxzRzMtZWF6Mzg0X2dvOHNhMXYzeUpzc212SU5wdEN6SGhLd1g5ZTNER3pCalNkWnp1NnN4MnNYNi00cVdwZUdyUFRrZnFDdHllaUxYVGFnZy12WEJtMHNGSUxrbkJ2YTZ4djlYWFZ5czdKUW80aFV0YXVjTThZc0tFNmJ1MENSRzZkV1FyMTZQMTc4LXZSWHYyNC1UeFhHWTJaUFM3U2RuZ29HUWVLa3JudW9rb1EyQU9iS3dKN0dxSnNTR1ZHNVRqdw?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-10-30T07:31:58+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Bitcoin hits 6-week low, drops below $78,000 as Binance’s $6 billion hack rattles crypto markets. What should investors do?",
-   "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hits-6-week-low-drops-below-78000-as-binances-6-billion-hack-rattles-crypto-markets-what-should-investors-do/articleshow/135349699.cms",
-   "src": "Economic Times",
-   "t": "2026-10-30T07:29:59+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "USD/JPY falls for third straight day: Yen supported by BoJ decision",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRnhVYXlVQVdWZ0JZNTlBZ0ZyZWF6R1F3R1NiWGdXVlZ0a2FUUkI1eFZETHRNdHJSeVVobW9HQk44RVlvNHR3U3haazJlTmx4ZlUwcExDLXc5ckJDMmNzcGU0UDNrSGpwZVUzczJ6V204akVFV3c5Y0JPMWtvMzA5V0hWV0pKVUFyc2FiWXIwajlERS01SURLeGJUcEFyaXM1UTFCTktsNUVTaGZPUFkyVU1OVQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T07:27:56+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Asian currencies mixed as yen steadies after BOJ hold, dollar weakens",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQW1pOGxOYmVvTEswbFdLc3hCbVc4X2pFT25iRmk4bUx6ZzZZelZpRENYVFFzUDktOGtfTThYTW5RV1hzMG5EdzZ3Tlh2YW4wM1d0ZDVZallBd0ZOVFBHbnczTzJaS2pRRWM5MS1uZy1vV2pYR09ha3JWVGRPdGtJbXl6WjduRWNleUtCOFNlXzBhakRwY0lDQWM1aFJCMzZrUUNSOTdOQ3R0eHZzdUlraDBBeXZ1S1NSdFk4WG5manljTkU?oc=5",
-   "src": "Investing.com Canada",
-   "t": "2026-10-30T07:26:14+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Japanese Yen trims gains as Ueda remains vague about the next rate hike",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTHRKRVRrbzBiQmlKY2ViWHE5WWV2bjBab2hobkZNVUtDNXdPS3hDVm8xLTM0c3hON3hiTzZubWQwQkJyU09mZWtnRThOMzI3b2Nvd3E3S2VZVWhGY0ppMm9uTVRnaFU2cTNjem0tTzFCcVdabzlKTjJ5ZnppckZXMUpoMXFHQ2NlX3RnV2o0LWtPRThRR184UlVmMkhZQkU0Nnc0R0NfTDQ5VHVOMW9XSEo1djE?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T07:23:16+00:00",
-   "tags": [
-    "usdjpy",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Vedanta Oil and Gas shares zoom 18% as Q2 profit rises manifold to ₹746 cr",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZXEtMGNlM19Jcm5FYm1HcklrcWZoOTVLa2QzeFVHOXlPY0M3TWhHZVItWkpsX3FFeFBzTDZWLTdCWWZZR3loMlBfNEpYT3RVendVQUJpdkxPeWVJa3hoNHpsT2lCUzI2NDAtc291N2V2UXNid2duMGNMUlhEMjJ5OURyTHVQXzhDTUhESmc1dnZpb29QUjl4SEplRVlBWnlWLTJjSE82OXUwWlZmNUVyeFhZaUdhekxOQ054bnpkQzRETWYxRnlNMDEtZkt0RmwtSHk2ZG530gHbAUFVX3lxTFB1aVVyX1k3Q0k4WnVJek5DbXZIOE5nUnBFQmtYenNSY1EwamJHMzhlYnUxRFJ1VmpQZ2d2WVhNX0tfNGt3QmRtTk82cEVTeUxQcEFhbkU0TTJPbVRFZndmQ2FFTjFHMVNMcXNERldjOXFSUmxjVTJCektsNXNEeW5QUDQxbklhX2gzZ2pBNnJpTEpIZVFrNUUxbUQzM29na2VlNFBGSVl1V1U1VXA2VktiYTJWS3I5ZXVxRnAtTkI3NmQxZTdGUGxWRjk4c0hsc2pGbk5LdEh1ZUN0UQ?oc=5",
-   "src": "Business Standard",
-   "t": "2026-10-30T07:17:00+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Euro softens against British Pound, traders await Germany and Eurozone GDP data",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMngwbTdqWW9oRnh4TXNseWF6NFktRGxPNV9pSFZETEUyMklBR1V2ai1sNEJ4YlNQZ2lhOFJDOUdSdXJlOG9KWFc1aGFQYjFmLVlIaG1xZTVfYnRXUnFlNndoWlBVcDNYY1ZlNl9CeWtUUTVkVEdCZjNsNjdiRU5UZVlITXdqc1ZaTUg0V2M5WTFENjJUUVdYY0U0N0xwVGk4V2tYSjgzai1VVEVJTUJ3Vms2dEhmdWVpSVlld1Zn?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T07:11:10+00:00",
-   "tags": [
-    "eurusd"
    ],
    "tone": "neutral"
   }
