@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T22:13:03.772447+00:00",
+ "updated": "2026-10-31T22:44:54.483314+00:00",
  "count": 250,
  "feeds": [
   {
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "CNBC",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin's Fear and Greed Index Fell From 70 to 36 in October. What Happened the Last 3 Times It Dropped This Fast?",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObTlZcnZWYXJwZHo3N2J6MXVKS2xMbWkySVd1Qy1WbDN0Qk5vOEZLY0RLX2xVX0R3VnViUk0xbWRWQm41c2hlYm94MXNXeVAyaUlaVnpBLVJ5SVAxdGp3N3Z0WmNoRHpvRGpNbXlNcnFvZ3JyZDVjMkRlakVzbkZPd1RzU0NqZlZTSVpHdFlTRFpNUnRPek0weFRDNWdNbEdRQXhWZlVTUnlSRXZQVXVmTXVQamxMWDk5SnpZeTNxUUl0MmR2Mjc0YjBPdklGeDNjZURLd3ctcFBqSHR2ZTlSQ1E0UjBqWGNIQWRvUE5PMUk0WHRCY3RrU1pWR2hFSnM?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-31T22:43:40+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "CZ Says the Binance Hack Is Smaller Than Mt. Gox in Bitcoin Terms. What Did Bitcoin Do After Mt. Gox?",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQalJQbTdmNUgyTVpIc09xa0x3SzlqSzBVWXM1U09jRE5rQUJQUnQxN1pYeURIeDVNckxyMkFRZzZhaG5vWFp4LXhvOHlQSGNtMUVEX1Z1c0FpRVYtWlMzVmpWdFVRMjZRZjF0a2p1QVBpc1lhSHh0VXpGOWlIUFNBU1JPQnVMUm1aQURraFlFZFB6cmV6eFJrSFo3UENfWVNhQ3RZS21vNXQ5YWZDUGgtRmVNMS1mWW5VaktpLUVzXzdCQTlvZFRUZWltMWRZWkJkOXdFTTBsdzllMUdnMnIyQnZZRHdsWXdaREMzaw?oc=5",
@@ -169,6 +179,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Gold Price Forecast: XAU/USD 17% Plunge Threatens Multi-Year Uptrend",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVnc5cXAzUlp4YXFoWWdfdTdENVJibnpKMU5sV3BOWXkydVJhaS1RZTgzNW9WLWV5UlBlUHFlVkpxU3VGN2tWVGVuM0p1WWZ2S1k2YWItcmdXZUlkYlhWWW12NjhvVVhTWUJ5bTEyZWsxRWxyNkE0X1dwZXdYb05uWE9VemtpYVRDNXhIMlZsNlBURU50anZOdzRZbm43V3lsRDNvSDA5VEd1bDI2OWNIbV94MG8ydGhSVWI5T0ZSdkdvUQ?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-31T19:55:29+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "US judge dismisses Trump's lawsuit against Wall Street Journal with prejudice",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5",
    "src": "Reuters",
@@ -207,16 +227,6 @@
     "btc"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Gold Price Forecast: XAU/USD 17% Plunge Threatens Multi-Year Uptrend",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaXZSODk0azFJVE1OQm5ha1RNVnNFaWgwV0dUVHo4NW8tR2piVHBRWk16YlpSVEhfLWFWaGdONXZlLUZoQk4zbWs5WmMyOXd5WDMtT2xheWpkYjYwRTVidTV0cVBYaWZvSWc2V2JYVmZwdDU2Nm5qN2oyaW8zSlhNN29jV0VOMkJHS0xiTXpJV21DTnhoMUp3M29hUzM2NnRaV1V6TkxLdG1zUVFwUTBiMXhsdWVLY0xtVk9MelRPNGg3RG82V0HSAdIBQVVfeXFMTnc4QmFoQ2Y1dUU1aWlxU2FncmxSM0lYZ2tPS0xaQVppVTJTemdXY2wxTWxWaDhtUXhiYktPVTJudmRnX1paOF94MG1qUTVQXy1wc2tMNTRRTnhaYVQ0UjU2QVNfamhFNXFfM1dHRF9kaXBFVnRGWG52SlBqSU9kWjBvV0FtakN3ZzhpYzd3a3JGeVNuRzRkVm9JeEQtcmhwNjhMRG5fazlIQ1Z1aGxHMHUyZXdHdW4yUG5RM2tidE5MSUNsbnRuYXVEM2JkM1JtU1dn?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-31T18:11:44+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
   },
   {
    "title": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
@@ -391,6 +401,17 @@
     "btc"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Sensex, Nifty Surge After Fed Keeps Rates Steady; Rupee Rallies",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc3dhMzJPYXVvVzlWUWtGaFhsSnp0Q3FXMHg3VFN4SVJUZmNiZzJ2d28wYUZlbGU2OF9mMGZVNFJxUkZzZkpPbVcyX185eERFWWNwNTBEYTR5U3RPTVdtclV2U2NiYjJOLUNYYmsyRlkxMFAyaUx6ZTVuZU5EdUlqMjl2bjZjbEU0R3ZQcUVxYnEwWHl1WlNlWFViWGxVUUdOUUlSWmdMRFNoRXpwcGU4QjZHVUE?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-10-31T13:50:53+00:00",
+   "tags": [
+    "nifty",
+    "macro"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Trumpflation Is Getting Worse and It Could Trigger a Wall Street Nightmare",
@@ -2646,26 +2667,6 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZXpwTnl2c1JkVmpfY2RzemY3Z2ZQSnZpbXZNdXNieDRQbnlFVlFwdFlQRGU0MTNFbVYzcGtvcFVzRjZwdE1wbWhhbE8xVVNqY0huNkwxOTF5NDNoMkVTSFM0czljV0JsQV92YnNka0tkY09LWFlPX2FILU5UNS1Sb0RXMlZKUWhGQ3VMSU5mNHFCTkoyMDN1WDYxSkpxUVhxQkE?oc=5",
    "src": "Yahoo Finance",
    "t": "2026-10-30T14:04:25+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "BC-Gold Futures",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuWlE3T19xQkxjQXdqZmJna2FkQWpRLUxqZUktbGM2Zk5VZk1yTmFNXzFnVTVkU002YU5PaGI3REdEeThvMjc4VHgxeGtISEZadWlpbWRIWEFJbWs2U19FSXVyUHl5a0xfN2hCUEZkYTlmZw?oc=5",
-   "src": "Yahoo Finance UK",
-   "t": "2026-10-30T14:00:30+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Intel, Amazon lead tech lower, crypto markets rattled amid $6.3 billion Binance hack: AlphaCheck",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV2U3LXcxZ1JXeURUOWlqTF9jY21tZmE3cGtUeHl1RUdrQzk3LU5yMVcwQjFLR25CLWN6bFdYczRjcXJTTTVlaUJkaG4wejFIaFBxY0RCTnpXbUE5WnlrS2xtR0g3VVZWcVU1MHlVV01sV1hCSkg0YnFNQnF5YS12OFc4dHR0dHhwUDZ3NzVaMU9rTzBBblQxVlVDTER4VlFiLXJIZURXNW1kUUtNQk1RMTJleXVock53NER6UUNLeFBEVk5yMHBzRUdBdmpPMDZNUURhcTh6M1FubTlvMG9uSnByeURNbkxIc2c?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-30T13:56:24+00:00",
    "tags": [
     "btc"
    ],
