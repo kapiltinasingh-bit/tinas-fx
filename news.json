@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-31T07:42:10.737250+00:00",
+ "updated": "2026-10-31T08:26:40.533488+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,43 +30,43 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -102,13 +102,13 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 8
+   "new": 9
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Investing.com",
@@ -280,6 +280,16 @@
     "spx"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Crypto exchanges call for quick moves to bolster defenses after Binance heist",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3JLSjZvamdLbG1LSWxKR0czYXlpN281cDZLZ0J6ZE1OdmYxNFdIUzVKQnMzQVdWMVlQRTVzdVh2OHFybGkwVy15STRoOGV3N3E3RXppU0pJS2poMTRlRWFaZVEtVUhjTkFMTjAyOFpLc19RWjEwS1BkTEdXWGtOel9qd1VuNXlzWDBUS1IzSHAtUUVHREFBWDVDNGQ4Vm9zMGRKRHB1VE5LbmN5QmZJZ2NZZ2Q1Y2h1c19ONV9HLXU?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-31T00:26:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "S&P 500, Nasdaq End Third Straight Week Lower As Investors Move Away From Tech, AI — AMZN, INTC, LLY, RBLX In Focus",
@@ -1909,6 +1919,16 @@
    "tone": "neutral"
   },
   {
+   "title": "United States: Demand keeps inflation sticky – TD Securities",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDFzaFlId1RFUW5ob2M2Tm5fN0lOaldacjVIbmxsLXpBZEk2aTYyajZYcXNKM1BValh6bllqeUN1dmlrUjkzS3BWRGg4UVhILU43SURBc0NXdWt2RGtfOWU2MERUZEhxeXlQNzRpZVhWUWtqOGhtN2V0MFZzREUyUjVzbURPdlgxTVA4dmZqQWM3bmVFVlFaUEpndVgxTGlaUEE?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-30T13:04:58+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Binance says $6.3bn stolen in biggest crypto heist in history: What we know",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnJ4SFBuOW12Z3RPRkxVWUJBa3VQN1lsV1NQbVhRRHQ5MnVJZUhHQjhJeDNOaThMQ2tCM3hrcnR5VzM5N05Jam9tdW9LWmh0UnpfSXVGNGJDbGxvZE9jUnYtcXhvdzd1RmxCekZzdmcta21EUXVMSEt1Y01KQ0ZuTlQ2T09rU05rd1BKbWQtV3o0aU1RS0Mzdjc2djA0NVZkMXRQa3RSYk84TDFfRHNCcktpZ2xGZ9IBuwFBVV95cUxNcUR4QktscFhVSlZHaEdoVlhSUzNBcWlocW5oY3lHWUY1bjZhS0xNZElsc2pCeER1SGI1WVVnbUZESXIyY3lrVnN4RXlBXzd1RHpJSmVJWFBQdTRfTHZsSnJFMWJoSjdzWUhPWHJ3SmNnRzFxM3hta25CMUY4VmYtRzBKbWtBVFBCLTRXTEJqcUs4aTB0cXhpakxjaEFWV3hxdUZuTlM1RXZMWGozN1V6QmZXRUhMcGNtNGhn?oc=5",
    "src": "Al Jazeera",
@@ -2653,26 +2673,6 @@
     "silver"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Nasdaq futures tumble as Amazon, Intel results deepen AI spending woes",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblVtZktXRjdPbHJBWDM4WWJsV2RyMlhnOVFYRTZPc01udjZNZTVjeHdIN1dVY0w1M1NHbHpxNjV6Vm9jQ3FOUjBIaElyZEdSWWxycmNZdnJwNnBfdTJDc1FBMWVJZ19vR0s3Y1h2Uml2LThWc2NzQ2sxN3NnVzFEeGhvNnpPSElHSFRIQnJreHpCR2c3dnRQbEVYTDlJVjhzVVk3b1gxaFczMFhkb2NDSw?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-30T09:33:16+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Yen gains after BOJ; AI jitters dent dollar By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPek9CRlFOWFh2eG5jazJnZC1BZVB4MGdjWmdkeC1hRWt0RjhmQ0VpTFRDaHVhbWkzZ3hubEpJSk55TlhyMFhSOTZSRGo3RHh3Yk4xMlZZX245LXM0d0Q5OEh5aGtBY0ROeUh5d19kUUROQi1Jam1EZW1DMVpKZVlrb0RMelJoOFFSU21CTUlQdTcxcDVLWUoycGV4MHFHUXRsY0NkcjhJekdqN3ByLWtuTnpBRUtnbXNVb2c?oc=5",
-   "src": "Investing.com Australia",
-   "t": "2026-10-30T09:27:30+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "bullish"
   }
  ]
 }
