@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T12:02:18.137544+00:00",
+ "updated": "2026-10-31T12:53:31.391102+00:00",
  "count": 250,
  "feeds": [
   {
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -60,13 +60,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Economic Times",
@@ -118,6 +118,38 @@
   }
  ],
  "items": [
+  {
+   "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+   "url": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
+   "src": "CoinDesk",
+   "t": "2026-10-31T12:49:47+00:00",
+   "tags": [
+    "nasdaq",
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Okta to replace Kenvue in S&P 500 (OKTA:NASDAQ)",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd2pEeXMtXzMxdkRRbmlVXzVMNVdYWXNYbV91ZjJnNDlmS0xKSS1GUnJOb2ZLSWU3YllGRENneDFkX01lV0RGSkhfUnpBcHFzaWtzSnlTZjd3SnFxM2VFQld3enVRTUk0X0VRZ1Bkcjg5RkJucUxJOXJ1WGFxN2VQYQ?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-10-31T12:34:35+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Nvidia’s Megaspeed ties show potential blind spots in the U.S. effort to block China from accessing advanced chips",
+   "url": "https://www.marketwatch.com/story/nvidias-megaspeed-ties-show-potential-blind-spots-in-the-u-s-effort-to-block-china-from-accessing-advanced-chips-e75d541a?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-10-31T12:30:00+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Dalal Street Weak Ahead: Nifty stands on firmer footing, but can it break past 23,450?",
    "url": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-weak-ahead-nifty-stands-on-firmer-footing-but-can-it-break-past-23450/articleshow/135396431.cms",
@@ -165,6 +197,16 @@
    "t": "2026-10-31T07:18:15+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "GC P ECB EXT OV EUR (2DYR.DE) interactive stock chart",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mWXRxMXhUQnZ6LXRHSHhKX1dEQzVCeG8yYV9aQXFmdmlCZzFwV3dRQVVNWEZ6N3JwdGZSZEQwTFI3aC1TOHZEY3lzdGd1S2hLRjR1SXl5blhHUFowekE?oc=5",
+   "src": "Yahoo Finance UK",
+   "t": "2026-10-31T07:07:03+00:00",
+   "tags": [
+    "eurusd"
    ],
    "tone": "neutral"
   },
@@ -1810,6 +1852,16 @@
    "tone": "bearish"
   },
   {
+   "title": "Stock Market Today (Oct. 30, 2026): Intel, Reddit are latest tech earnings casualties as Nasdaq sinks nearly 3%",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc19pRDlYLTZqdUxaMWcwRTZrQkRYenk0Q2JZYmUtaFZlUWhVZ29mSS1yaUY5U3h6VXRuVmZCNlItNS1kLUtOTnlncXpSUjdSOGlZSUloUzJfcjhxWU5RM3B4V1A4N0pkMWpFdUZRWFlfN0wtOEotenNwNlNpUW11a1gtQkJSN09jSnpZSGEyYTl2NkRN?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-30T14:11:42+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Pulse of the Street: Foreign buying fuels rebound, oil risks linger",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaXRuTjFJWlBhY1gteWVic2NUMVR5UTlTdVU0RXN5ZGdBWnNjRkNwdXF4dDZzOWtwTU5BYTN0bGxnWkpaNGdreHNaWVhmWjlMUzJ4bnNXX0ZLdWQ0SU9uQnFlQnJjMDFwZWc0OGdCdEdiZjA0VEM4NXphZnNrOFdtRXZjSXZWMUp4R2o2bXdMa2NISHhaZEU0Q1ktdWJOdmxvb3M5WHNVWjZrajlrbzktc2lDZmVHLTJOUlJfd3hYYXJKWmdNNDBrc1hqWU9HNUp5V2dSNllReFFRVVJIZkV1ejFaZU9rOE8yWXl6TXpONEtiN1p10gH6AUFVX3lxTFB3d3VoMTZRUExOZmFXdUt4U195ZlpLdTZKemxLYzFTVUloT2dZOG9kVTJJUkVBUWxrb2l0WVJsSWZOaV9oVmRqYjNFaFFmZmI5N1lTOXlJTnNEanE2QzYxM3F6WWRvU3lPNE8wdUZtMnViSzlYaGtFWUIwZkVYMFo0dW5FMzR1Z3AzeGV6MlNWRTVXZ1I0MHVybmVDaEpjTGtWNW11a2I5aXRvbHltMGVHbGFVQ3RjRkpCT0FrU0VhVk01Q1dQVmlzRUYxTF9NS1RaNEVfd2czQ1hLRU5ISXNBU1pCTExIVXkybTg2VFZ4aWxnYk1rb1FWbHc?oc=5",
    "src": "Livemint",
@@ -2618,56 +2670,6 @@
    "t": "2026-10-30T10:57:12+00:00",
    "tags": [
     "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Market wrap: Shriram Finance, Nestle India, Trent, InterGlobe top gainers and losers on Nifty and Sensex",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPOWtiUzAzVWw5Mk40VlV4WkZoSUJoOW5NNmZndTFSOEVMdHFkaGk3WHNRTFFlSzl1OHJ0VmVyalI5YkxsTGRWRVNoc0JPSXZ6RnpSMGxWcFhFNHFPdG9RWUJYYk1ULWlTV282cE5ES0YxWmVqNmUyaXE0d3RjQVA4UVFySzNreEZ3WWNmS0Nldi1RUDFSNDBMNWhYWE8zbW9uUEFaYTZlZTVUTHpwSVBWeTRpQjRBUmRmdjVSMXFCbE9kVy1tU3FtazFJaE0wUVJYVlNVYVJHSDEzTGpqU2FxZFdOQjY5ZFlxOHNEUnFKNnd5SC03ZDE2ZmR3YjdkS2U2cEFMSEw0dVkteHo2N29PMHZB0gGXAkFVX3lxTE96bkJGNFNzdEVsbWxGQzJDYjkwbkRtNjVjZnR5MV9TQlB5cHR4a2o2eVBhVW83T09YTUZ3dkdYTnVRVmlPaG9aNXVCbE9tZ0hFalhVamZoN2VGc3VNU01FZGVxSWtELWZhaXEwYTRjdUlhQzR5OGw5WW9ZWjhzNXVRYzViYV9oZ3NuUVlGbFNfQ3lHQkE1ci10OTBjRkNqR1hhZXk0WVAxZUVYSGhwUFpIcDhiQmZxYWZuODM2eEhFUXQ3ZEFsME8wdVZ0OVB3NVJoWU1iV25tVWdJT1FINklXT2JhTXM2NDFsT1JFVXphUUZLOTZ2OHVLejdOTzRsdkc0TkxVeGctbkwtVVlxUDRhb1pJVDJWMA?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-10-30T10:56:50+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gone in 20 minutes: How the biggest heist in crypto history unfolded",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM1Rmb2RtNmFkU05Yc3pUTlkwdmEyMllIY01kTTVPQ1A5SFRBRmt6NTR1MUl2b0tMZDRsR1dVMTFWZjRIOTNnYWV3TFYzdDQyQThELW95bUlkaFJlSkwtTmpqdElyaWVHSWt2U0paQ0xPZkdiTnlEZE5WbXhlRzdVeG1hV2NiVkFUM1pwdGNUcnBManBNRUhPRVBKa2EwQXlXUlhPR2o2d0lCSkxDYmY4?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-30T10:52:08+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Higher yields now hurting AI stock bull as bond markets police capex: BofA",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkRTOHVCTklSZEd2elBXTENLUUQtNU5ndWgzOVBSUVlmWWt6TmVtLUdiOU5ZbjBHbXVvR1Z5S1RHMmpkdXhFeHZMUjZ2Wk5aQzB6RkxuNkx1MkhJTzlLU2U2SEs1dWg0Q3UwVzRUbGFiVzVBQXViODFnYmVUVk5fVTJJWGxONHoxUU1XSTdfR1JMSlVKaE8wSjBQZ0hzbUl3bGJDZDJMOURYbEpoQzVtTVZrWXFVV1Q2VC1pUDk5elg1RWtEWm5fRQ?oc=5",
-   "src": "Investing.com Canada",
-   "t": "2026-10-30T10:51:25+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Pound stands tall as dollar, euro wilt",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdjkwT0Q2STZxeU5kb3pvNWpQdTFuMVowY0ptVzR4ODhJOWlEdWZKYUxrbU5sSHlOaTFRSEpZbTE0cmJGT3pub21UaE50NWdVOXFSd2g3Rlloem41bFJEY1p1dDJybENzRzRyVm55a1BBa0tDbi1Mdm5pRVY2TURqblJTYkpSZw?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-30T10:39:44+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Trump touted a record Venezuela oil deal. Now reality is setting in",
-   "url": "https://www.investing.com/news/commodities-news/trump-touted-a-record-venezuela-oil-deal-now-reality-is-setting-in-4986582",
-   "src": "Investing.com",
-   "t": "2026-10-30T10:38:17+00:00",
-   "tags": [
-    "oil"
    ],
    "tone": "neutral"
   }
