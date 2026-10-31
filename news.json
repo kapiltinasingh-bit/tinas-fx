@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-31T18:15:33.978275+00:00",
+ "updated": "2026-10-31T19:12:39.003185+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 8
+   "new": 7
   },
   {
    "feed": "Investing.com",
@@ -129,6 +129,26 @@
    "tone": "neutral"
   },
   {
+   "title": "Gold Price Forecast: XAU/USD 17% Plunge Threatens Multi-Year Uptrend",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSm1qUVJUQ2Yzb1MyQWpuSVhEU3dIUmVSYVd5YmtGMlZScnN0QVVHVURkaGZacTNSeGpRLURXYi1LcW1ST1c3emhzYTBVM2hXZjZfY05selk2TXNISHhXNE5GZm5qMTdwRGJjWThCSmNKWk05azNETjJCU3E3eURMbTA0cXlqMm5oOWNKclQ5cFVTd2o5NWNtSHNwUzlRYXphOU5OaXJVdFlYNWlWbFBSMFFGTExMLUw1RnVxZlJhTU5TY3FPd2tIMzd1aGlhZ29jOVHSAdIBQVVfeXFMT0ptalFSVENmM29TMkFqbklYRFN3SFJlUmFXeWJrRjJWUnJzdEFVR1VEZGhmWnEzUnhqUS1EV2ItS3FtUk9XN3poc2EwVTNoV2Y2X2NObHpZNk1zSEh4VzRORmZuajE3cERiY1k4QkpjSlpNOWszRE4yQlNxN3lETG0wNHF5ajJuaDljSnJUOXBVU3dqOTVjbUhzcFM5UWF6YTlOTmlyVXRZWDVpVmxQUjBRRkxMTC1MNUZ1cWZSYU1OU2NxT3drSDM3dWhpYWdvYzlR?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-10-31T17:56:01+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Coinbase, Robinhood and Other Crypto Exchange Stocks Tumble as Binance Hack Exposes Vulnerabilities",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTzhOci03aFZvQVNhUzhNaVltdGlXQVZCZkdnT2tqWXdRSXExOHdoQWFDZFJlSlhxUTR6TDBzczJ2NHR4R2NxNnFQOVpqLVRJaERoQW1MSDlFTmZCVzdsWnZUR1FrUzItRUR5TlZrQXRYUGJzVjdMNHg3X3pfYk12M2tNQXk2czZWOTRWRFJRN2F6eGtoUGVQbFhZZlEwVVZNNmRwaVUwOUh0SDNieUpDWDduRVFLcnI5aTdxVHM1a1R6bThxRWVwMWxUZ3ZKN3QwNzZxUlJqTWZHVmR2TU5HVDFITi1GbHRQcXZJ?oc=5",
+   "src": "Benzinga",
+   "t": "2026-10-31T17:45:06+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Gold, Silver rates crash: What happened with precious metal rates? What didn't go in favour and brought them down?",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY25NS2xTUEJER0V5UEZrcnFQNEppelBXcHdQSjBmNk83OGtjNVJueGI4TThPZ2RfWGlfNXM2Mk9NUnpTbVEwbXI1UjQxNVM5aUR1R3E5TGsyUkxoMG12VWhRR1VPM1RlWXRQcGp5TGtlbFpHUDZPczBiQ29YeWRQWFNYQUhBQ2ZNNmUxaWdsRkh4SEhvQU9uUjR4OHFtX0EwYy1VOW1tVVlXTkZVQU1OMmFmSWpya2s2RkRUTkNZMF8xTkRvZkdFTVNyMklQTFl6X1FrQ0EzYVJ3S09WNWxPVmlFR2prY0tkbGE4ZmhJRWxWZ9IB9wFBVV95cUxPQzAzc2dCODNJVEdnMmZmSWNNTlFTamVpX0pLYTNVc1dTZkNqUlRndWRoeW5iclE2RllYMHBrb2dQaklYMmgwQXF3TjF1d0JzRTZxZmFFTWt6QXhKNTh3NGRnT1lqUzRYUHN4WXFJX09jYXc0d2xkTHNPUTV4UjdwUGxpOUgtZ1J3UlBZTnBOakQ3eHhGV21jcVRZVW02NXMtRkd5QVdNV1ZMWkU0dUhsVGF3OEdpVVdSV284dXhPNmpiajRIUzJSS1A4Um5PYVZDaWNBUjdVbWdnRS1kSnQ1RTEwWWJRVXRvTWlfQ1c3cTZqZGZxQjdr?oc=5",
    "src": "Livemint",
@@ -138,16 +158,6 @@
     "silver"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Gold Price Forecast: XAU/USD 17% Plunge Threatens Multi-Year Uptrend",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUjU4M0xzQ2I0aXpFY1F6YnJIcmRQTlVYOS1Ea0tjTGUtcWQwVjZ4R1g2WlozdV9MZkphUGo0ak8wZVZOVnFnekNZdzRYdFlIQ29MVlpKZlBXUU80WF9kNWFNLUpIQnM0M0E3QzRRMlBaWVRFQ2lRcF9rQlpyRVZ4QUEtQWJpWGZEOXYwM0w3MDlqamRPeGEwVlltdmsycGlJbUYydVRYbnJ4Si1OMC1BWUxkeld6SUMxQmRXbVpOb194cC1MeFHSAdIBQVVfeXFMTWxOWDh2TUMtSDRzNzJpaGtMNUxaTThLMHRIdnppdGszLXA0VW52b21XNjdKQnhRTGJQVThaT20wQS0tUWVtdnRVWE9qU05hUkZmUzQ2WVZvOVZxX1hDMVJHb1JMclA3YmRaOGJkNWMyb0xoN21yX2VKZFAzQzNTdWZjelpLN1lOa1ZTRWJPMDBxTWltb1lvUnViQnQwUTFYamZhQ0JtQ3BBb2d1b28wdkpFMlBURldvRE1IRk9zSDRSZUNpMHpUTC14WllpT0hmS3JR?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-10-31T17:10:46+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
   },
   {
    "title": "OPEC+ set to keep production targets unchanged in December, source says",
@@ -423,6 +433,17 @@
    "t": "2026-10-31T07:07:03+00:00",
    "tags": [
     "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold, silver rates today Hyderabad 31 Oct for investors: What are latest prices per kg and per 10 gms in Charminar City?",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFdpejh6cUpTS2lFbUF3QWRLckRSQWNQSG90ZVlQYVNMbkxyOVNoQzZTaFB0RkZxUWRWUC1tRVNtNlhPUTJjUmMxRVRPb3dpczdmQTFtXzEyMkVXVWt4Mi1CWlZrLUdnTHZERTVRY0hsNEdFT29ZNnBjWmZxVXY2Sm01bnBzV2w4SUxfMDlNMURaVDR1bUgxcVVSTzQwc1lVZjdfRlFCcWxidkRsYUItdFFPMmVjSFZ3d2tKNWhkRjRTS1p0T1RPYkFzV1dzaE5HTDFuX0tFMzZnQTltS0RKVTFRMzZXbS12YVpsOVN4OEtzNjRjWjNZLUNZdXfSAYICQVVfeXFMTS0ta29Xd1pwTnFKZXJONWZNZEQtTFBxX1hyV2xoYmJLRXZlaVdpSk15WG9QODM0Q0ZZQjBnbHo4MkRIa1I5dFU4dWJCSlNFUndMMjdUZmVwMjd4SlIwbDZmMGhxc3gydXF6dlc5T1M1MEpkM2pKQktZUHFqNU9SUXpBQjltQVJ6OWtkZUE1dlJ5SEFMMDB0a3pwMmsyM2RhOXlja2ZBcUJVLVRaamR3V2hfM3VGam9wS0tFUDVlN2JEZlhKUnpMQ0J0YUxDYkRpSlRpYW5KbDVtd01kd0RrZjhVbzB6RlBJRkQ4ODk5MGZqRXhKQWs4YWJyWnZHZUFBYjF3?oc=5",
+   "src": "Livemint",
+   "t": "2026-10-31T06:49:10+00:00",
+   "tags": [
+    "gold",
+    "silver"
    ],
    "tone": "neutral"
   },
@@ -842,6 +863,16 @@
    "t": "2026-10-30T21:20:39+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Bitcoin, Ethereum, XRP, Dogecoin Drop 5% After Liquidations Top $1.5 Billion",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUjdRNFJibjhOR0ZTZmhNT0VxMVNMb3ZXNWVfYXRUaG92RFIzeWRwX3E5dU5VVE5UTVNIc3p6N0w3WVNHdDBKR3g3Q3hIUnByYy0tOVNabk9vZHFydks1QmljWUNlajRWWHF4Q1RSSGZFWkhvV1VFSHI1Vk9XV0g3OWREYVgwQ3RPYVQ4SW9PM2VCcVZpZFRrdS1vQ3MyVENNcVlRUlNvNFMzbEQ1Slp0UEJFSHUyR2hNZEdBbjJRejFlS2Y5Y20wdDlpOWNfQQ?oc=5",
+   "src": "Benzinga",
+   "t": "2026-10-30T21:16:38+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "bearish"
   },
@@ -2637,36 +2668,6 @@
    "t": "2026-10-30T13:05:04+00:00",
    "tags": [
     "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "United States: Demand keeps inflation sticky – TD Securities",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDFzaFlId1RFUW5ob2M2Tm5fN0lOaldacjVIbmxsLXpBZEk2aTYyajZYcXNKM1BValh6bllqeUN1dmlrUjkzS3BWRGg4UVhILU43SURBc0NXdWt2RGtfOWU2MERUZEhxeXlQNzRpZVhWUWtqOGhtN2V0MFZzREUyUjVzbURPdlgxTVA4dmZqQWM3bmVFVlFaUEpndVgxTGlaUEE?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T13:04:58+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Binance says $6.3bn stolen in biggest crypto heist in history: What we know",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnJ4SFBuOW12Z3RPRkxVWUJBa3VQN1lsV1NQbVhRRHQ5MnVJZUhHQjhJeDNOaThMQ2tCM3hrcnR5VzM5N05Jam9tdW9LWmh0UnpfSXVGNGJDbGxvZE9jUnYtcXhvdzd1RmxCekZzdmcta21EUXVMSEt1Y01KQ0ZuTlQ2T09rU05rd1BKbWQtV3o0aU1RS0Mzdjc2djA0NVZkMXRQa3RSYk84TDFfRHNCcktpZ2xGZ9IBuwFBVV95cUxNcUR4QktscFhVSlZHaEdoVlhSUzNBcWlocW5oY3lHWUY1bjZhS0xNZElsc2pCeER1SGI1WVVnbUZESXIyY3lrVnN4RXlBXzd1RHpJSmVJWFBQdTRfTHZsSnJFMWJoSjdzWUhPWHJ3SmNnRzFxM3hta25CMUY4VmYtRzBKbWtBVFBCLTRXTEJqcUs4aTB0cXhpakxjaEFWV3hxdUZuTlM1RXZMWGozN1V6QmZXRUhMcGNtNGhn?oc=5",
-   "src": "Al Jazeera",
-   "t": "2026-10-30T12:54:20+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Swiss central bank posts bumper $23bn profit thanks to gold, foreign assets",
-   "url": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
-   "src": "CNBC",
-   "t": "2026-10-30T12:52:36+00:00",
-   "tags": [
-    "gold"
    ],
    "tone": "neutral"
   }
