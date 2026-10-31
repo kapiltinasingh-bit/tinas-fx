@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T12:53:31.391102+00:00",
+ "updated": "2026-10-31T13:37:00.174056+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -54,19 +54,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -78,13 +78,13 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Economic Times",
@@ -114,10 +114,40 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Trumpflation Is Getting Worse and It Could Trigger a Wall Street Nightmare",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdHJjZkVCUzFrbmxpUDhZV2RNQ0pUemE3Zm9Tdkd3T3pLY3NYS2hKQlFxSmw3LU5sZWZrNmlXaDB5T0pmUjJ6R3lnTk85bldsR0lrZWJQcVhWU3FTb0tCR1JuUGlxTTh4Q3Uxc3d4MG8tdUtVRm56b256TV9yZjByNmNkNEl5UU9nY3BFNzlSNnVKcXY4bk1DeFU1ZnhUcTBHclVHbGRrdE1SdDRSS0FpSzAyYXJQQVRxOUE?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-10-31T13:13:30+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Crypto industry pours more than $200 million into 2026 midterms to pressure Congress on favorable rules",
+   "url": "https://www.cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html",
+   "src": "CNBC",
+   "t": "2026-10-31T13:04:29+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "18 years in, what has Bitcoin truly done?",
+   "url": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
+   "src": "CoinDesk",
+   "t": "2026-10-31T13:00:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
    "url": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
@@ -125,6 +155,16 @@
    "t": "2026-10-31T12:49:47+00:00",
    "tags": [
     "nasdaq",
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Z21qd19KRzhCMzVTUjhFRE11LVg0bFM1UVBrWndlREE1VWtpYzVFdG9aRko3eWxiaXZyNERvWXNsdDkzSzFES1pob19ZZlhLRFl3WWU4Q2ZCczVHcnhjNzQtLXVxYllLclpuTEFicDU5N29QMDRGM2JB0gF_QVVfeXFMT0FOSnpHaXhQSEJUekRROEF2Rk9ROGpkaVBUaGk5bVpsOFFFRFcxVHhSbERReVZ6ZVNtNVF3QTkxWG9rSkdnLXJpdTVkbkF2d2tuQVdRUG1sbERaYTdVeFZPR2VveExpUDI5d0ZfeTlnNVZHRmtBakx3bmdvNW1GRQ?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-31T12:47:08+00:00",
+   "tags": [
     "btc"
    ],
    "tone": "neutral"
@@ -225,6 +265,17 @@
    "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-why-market-veteran-s-naren-thinks-investors-are-getting-gold-silver-and-asset-allocation-all-wrong/articleshow/135391370.cms",
    "src": "Economic Times",
    "t": "2026-10-31T06:35:25+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold, Silver, Platinum News, Opinion & Analysis",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9WMTNDQnp5YzRzREV0OVpGN3dTcGh3Wi1CVXNlYW5LUzlVMU1vOWV3Tm1vNE8tRXR6UEFvNW5fQVBFRjA?oc=5",
+   "src": "Kitco",
+   "t": "2026-10-31T06:28:01+00:00",
    "tags": [
     "gold",
     "silver"
@@ -487,6 +538,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Trump touted a record Venezuela oil deal. Now reality is setting in",
+   "url": "https://www.investing.com/news/commodities-news/trump-touted-a-record-venezuela-oil-deal-now-reality-is-setting-in-4986582",
+   "src": "Investing.com",
+   "t": "2026-10-30T22:13:05+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Bitcoin Fell With Tech Stocks on the Binance Hack. Is BTC Still a Safe-Haven Asset?",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMC1DQjdibDlhRWRNT2Z3U21kVUk0dTQ0ZTlZbUNPYkhMRE9SSWUyWnl1eVQ4UmdTMXlqMEhTNF9XQTNTbENUMmlZQmlPVVNhLUZfVzd0bTMtcHhua3B4dlN2WEdteUdGQTRHRVZ2ZktxMURjODBWZTF4Y2ZhU0lXaXdpbVpOanZTYWhGSGNWa3VYRGlkTE50TV9kcWRVTEFXaXkzS1daWS1UcjJfVU1pSlNKMjZienkxdGR4bGRGRjl6bzl5cUk3djMyZ3YyZjFUX2VmQVpQaw?oc=5",
    "src": "24/7 Wall St.",
@@ -565,6 +626,16 @@
    "t": "2026-10-30T21:20:39+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Nasdaq sheds more than 700 points as tech stocks slump",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1NVQVZFc3JHT1RITkd3c1hOTHdkTWJMSHNsV0ZUeFhXMmhOb2IxV0x2UmRqYjBSWjY2LWhQR2g5TjhFZXduaHpUWmNvRDlVNzlMX1drdURhSENNNng1NGR6STR0UVRfTTA2OVl6UTdDajd2eTYyaDBubGZia2F2dzVlRG9KN0hUUlRVYVVZWm9ueTBVT0tGZ3VIbFpiSi1T?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-30T21:15:00+00:00",
+   "tags": [
+    "nasdaq"
    ],
    "tone": "bearish"
   },
@@ -1252,6 +1323,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Warsh is cutting the Fed's rate meetings. Fewer decisions, bigger moves",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdjNNdkw2ZU5oS0lBSnFFNmpCOGZtbXh4cWVIT3J2Wl9sZzJ2LV9LWC1pSnBsN2E3bEZ0aDk4N3BUVXF3Y09PbzhKci1scTBIMHVJQUdoejdGd2xHNWdSQmpTenl5NEdpTW1udDVSdGd3S1ZNelJiTXJMZ0JLZzBta2FfbEM4UGZKLW9sbC1JOHJ1X0lRTENkaWpWOHA3Q3QtdVcwSWN6Nk9QNDhGV1NhakdvR1ZvZw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-30T17:41:18+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Rates need to be higher, 3 Fed members say. The question is how much.",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDZEZjlNVkVmT3QydUZXYTlkOEs5dGxCSHBqb3VKVWJwVFA3dVB2MTh3NDk5ZWxVdTdaOUlrZUQycnp6OEw2MXNwSnVTaGZmdjNJYWJHdl90YjBNem5SSWFJSFNsRmQ5bC1kdnVXSWFDUmt3S3BPSzhGTkZYZVJMdUQ4dzZicFhEOHZKRnFfWGxWR2xERzJXX1FSOU5pQVhpSjRLY0lEZWxnZXc0a1hSSmpJX1VqMFY3NHk4X1FBdm5hQkJHbUNaOW1n?oc=5",
    "src": "Yahoo Finance",
@@ -1932,6 +2013,16 @@
    "tone": "bearish"
   },
   {
+   "title": "Gone in 20 minutes: How the biggest heist in crypto history unfolded",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM1Rmb2RtNmFkU05Yc3pUTlkwdmEyMllIY01kTTVPQ1A5SFRBRmt6NTR1MUl2b0tMZDRsR1dVMTFWZjRIOTNnYWV3TFYzdDQyQThELW95bUlkaFJlSkwtTmpqdElyaWVHSWt2U0paQ0xPZkdiTnlEZE5WbXhlRzdVeG1hV2NiVkFUM1pwdGNUcnBManBNRUhPRVBKa2EwQXlXUlhPR2o2d0lCSkxDYmY4?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-30T14:05:49+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Crypto Stocks Slide After Reported Record $6.36 Billion Binance Hack",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZXpwTnl2c1JkVmpfY2RzemY3Z2ZQSnZpbXZNdXNieDRQbnlFVlFwdFlQRGU0MTNFbVYzcGtvcFVzRjZwdE1wbWhhbE8xVVNqY0huNkwxOTF5NDNoMkVTSFM0czljV0JsQV92YnNka0tkY09LWFlPX2FILU5UNS1Sb0RXMlZKUWhGQ3VMSU5mNHFCTkoyMDN1WDYxSkpxUVhxQkE?oc=5",
    "src": "Yahoo Finance",
@@ -2576,98 +2667,6 @@
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1VT0hYcGRYZkc5c0w4aWNLX05Ha1V5R0pNNVF3eV94V0ZvTDN1REdhS0lyd25JU0szZUpGMUN2YXEtQ0gyQ0E?oc=5",
    "src": "CoinDesk",
    "t": "2026-10-30T11:25:55+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Market Wrap: Sensex Gains 308 Points, Nifty 50 Ends Above 23,000; Trent, IndiGo, Infosys Lead",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZTFyMk9sdFl3QmJnUDd2OGhhdDNIZ3FwcDQwclFmNE1Ba3ZsakV0RzN0RHlKUkRYZnJST19SVDlqZmp5UGV0OGdOYzlLTkNNMTFqaEhNZGQ5cmctT2JzTEtZNzk4N1lfb2lyc2NuVU1ETHNWU0ZBZWpxX29hVWxxNUp4VE5pNndCVFVDeWtmZWNPQkh4U2xFeFp6NEd0am1jV2FBSWZIb215bUxTVnc2LTdhQ0lmM21KSHUtQjVSVlVpajhPdkZYdHQwTEgyc01tMFdxLXZBZkUwSUdGdXNkUjl4NGVMeHNWNzVROXhhSDUxT1BJSXo1enlzR3VVNXpyeWRaeTc4YmLSAZACQVVfeXFMTUltcFpOMzllTWlGSzAweENGY0Nob0tmTk96eV9wOVB1cGlDeTRuN1hRRFI4RS1KTVoyUW5xdWxpU24ySVIzWk9JV2F6bks2bVJ4TlZidVFqQk1LU3pOYlNEV2Qyc1JVSGlhVDhyb19xQlpQbWFmUmdXakhsUDZtSUEzSXlnQVA1SEhXV1BzZURDVnJablhfSk1FUzVCSmEwQmpZczltQVRON3otMzV4MnUzVGxsTlNJMGt3ZU5fWlhrcU53YzdHTE92UGx0QjdBTkdfOUVobGVib3VCcDR2MGZ4Ulk4R1haZkJZdEQxalExRDZqT01DMjlQbEE4RVJ4b0Z0UGh1c05kX1A3bnNOWFQ?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-10-30T11:17:36+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold price today, Friday, October 30, 2026: Gold slips below $4,000 as Mid-East concerns mount",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONDZKVXFEUEtkWm8xRm1EWDNURkFBdjdQX212NzZGZk1lbHJwWEFUTkZFVWxnOG53MmstWTBwMmk1eUg3XzRMeXBpNFhKVUVMYmF5QWNwdFo4a3AwaWxkVXg4TmltM0QwSDMwTWJad2JBUnJaRXE1Qk5wTEI0OWNEQi1kZDFJRzRObHhLcVB5U3hXZ2czalI4a3BwLW43LVpDeEFpZ0tBRVNuMEE1Rk82RUtialg5aHc3UTctNzBPbmxTTkFOWFFLU1ByazNjLTBRSkR0Z0IyMjVteEktT1RJQVNQamttTHpPbDJjc0xWYlhodWxSZ3RB?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-30T11:14:51+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Dollar softens as tech selloff spurs bond bids; euro and yen steady",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGllZVJ3Yy1rLUtlWUpodTFMSVREbzFMcTBOb2pnTzNmdUZTZHRSbTlVSy00S1RMUXdpZ2RkWjFzWmM3THVONUU5UU1kUDYxWjgzZ0xqc2NUTEJWdUhlc2x3VEJ5NTltSXJ0LTNCV184blh4YTFmZGNpWlpWV01aQTU1NWtVMVZISTd4SGk0aTg3OXdjRGhvTVhRdW1lejkzTUxHa19aYkhTYUxiMjg3X0VPSUpOSmlnN0lraDFpN2ZZdWc?oc=5",
-   "src": "Investing.com Nigeria",
-   "t": "2026-10-30T11:14:48+00:00",
-   "tags": [
-    "eurusd",
-    "usdjpy"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Gold slips below $4,000 despite risk-off mood as hawkish Fed expectations weigh",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2ViYTVYRnltbDRIRHpqb0xTSUlYZU4wenVyVEhtR2Rjc093dm9FSXZxTG5fRHpSZjU0d3ZvXzVadFlQdWdOLW5BTjVHak1oS2I0SHhBdWFqNDlPM00xNXQ3X3psM0JtbkhkYnI3LVFlMkxld25FUXlQOERXVEVUR1lSbEdrWjlKMHp3VFJ3ck4wZlhoVmRIQlZ4RFo3Nmp3ZGJzYlE5RGJxcnRlUXhkMG9hUEZhUHBWWTF3NjF3?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T11:10:02+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-   "url": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-   "src": "CoinDesk",
-   "t": "2026-10-30T11:09:24+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "BTC price falls to $76,400 Binance hack triggers $1.57 billion in liquidations: Crypto Markets Today",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbEN1NWhVMklUbC1VSVgxclhhS1AzS2JnOERtMldpODVlRmZRdGktN19ucnF2YTNlNm1HY0hoVUpiejBYNEtBT0xuZlV0U0FISDZ1YXVUWXlaMElaR3MtdWMwYXpKdS0yLVBFdTMtQnRpak55WmhVMjdJa1dnZXcxRHFWeWVnVUxDTXhadllTZ3h4b28zTlIzOVZiZUhEdWJPSE1RQnc3OVNPOUJKYV91emxqVHY2bUk1TUxrckJwVEx4aTJMQ25vVA?oc=5",
-   "src": "CoinDesk",
-   "t": "2026-10-30T11:09:24+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Euro zone growth beats projections but headwinds mount",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0VVWXZnOW1zb3FvZGREcFJZNnlqZVVTTHpleHhyZEVyNkhCSmtnRTV4bEh6WWZ2eHdyN0ZKNkMwTEpsVERSOFBzNnVLaWNhMTJUQ2QzMzBGUTNhN2l3Uk9mUXRteXY5Y1dFclAtR2QyYWtTV3lPTERQVDlLVlFwY0tZV1ZtTDVOX05HU1QtRnUzTWM?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-30T11:08:31+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Record hack sees $6 billion stolen from Binance, rattles crypto market",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNWZnUkVHZjhnZ1ZkUXFpVVpEVUZOMXhFNWJ1V05UaVdJWFkwZ3lGN2Fod01ISUNueTYzR3RHekx0OWNpWG1Dc3NrMm1lSHUxTmpiUHhDdm1aZXZDOTFkT0x4M3ZRTVpfNlhFTTdyNGdvTmYybDFEZDBZUUxxVkFoeEZuLW5SWFhVNlM0alJUcm9iOXlRd1E?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-30T11:03:40+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Are Bitcoin, Ethereum and XRP near market bottom?",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNndsd3VkUDBNNnE4bUhkODBkRHh1SFRWWkFNRC1hNi01b3ZLTGRuelZDdFI4dWpaTEQ4NkF5eFRkQ1l5d21mSzlQQmJXbFRWUGE3eWdKbEhWQVJqdTRjQW5IU2NCLTJVMWhQMDZNWTZJYVlHSkdIYmtneUx6MnVPNUttVUZuMUJDQ2J2a1NiZFRZSV9kMW1DRHdRcVRoTFRWNHUyNElQR0NuLTRfQUlBQUdrY2JfZ0hPOEtRcnR0THEyUXVjcGpYeUxGWTZBVmtZTWRIRg?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T10:57:12+00:00",
    "tags": [
     "btc"
    ],
