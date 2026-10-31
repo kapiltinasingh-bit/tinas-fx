@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-31T03:12:54.732842+00:00",
+ "updated": "2026-10-31T03:54:07.891067+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,19 +30,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -54,13 +54,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -118,6 +118,17 @@
   }
  ],
  "items": [
+  {
+   "title": "Wall Street Highlights: S&P Breaches 100-DMA, Nasdaq Posts Worst Month Since 2025 On AI Rout",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSWs3ekVRM28yREQ2N1l6N1VuWjhUYXcwVE4ycVZkS0RLLWUtU2JWazhEcnN6d1k0M2F1a0FQSFFhUG9MZU9selVrMk1pNjZZV2tsdTcyeFdXQXV5MVkzX0U1MzgtNk5JRVlXaFdFSUh4WF8zaGlpQlB0VTg1X09JN0R6aERPR0RlZkNaREhNZVItV1paQmdVY01zMUJ5eWUxQi02ZEx5dVRfQzlOTGhQNlg4YzhWaVZOcUh3TWxkdHJBZ1VlVHNyQkVFYThpRlnSAdcBQVVfeXFMT19waXJhQlluTV9MQkJlSHBINFpEMTBpTzFYYXg2aThWOS1veENGeThCNlFRUUlaY3Y3dXFacmFtY2VDRG96RGNLR3hqWW5QQnBWWDZnUWdJRVVkYkFqVllfdVYtYmJrMV9qcnFPYTJVaXV0R0pKbDBMdEVoRWZac3lXRVpEZjZyVExCb3NISmZHQ1dZcFk4eExmcUlMXzM2dE4xVXQ0TUVzdE1JS25lWTlNSW1ERlRGZGpkNFRCQnZWbGlDeS1NQi1EMERIMXoxdDdKMmU3S2c?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-10-31T02:42:59+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-drops-to-its-worst-day-since-june-after-the-sell-off-for-tech-stocks-deepens/articleshow/135382776.cms",
@@ -1831,6 +1842,17 @@
    "tone": "neutral"
   },
   {
+   "title": "ECB policymakers bring rate hike debate into the open",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaXBaNVFtei1NSWFTR2VVOHkwRXBVSmpTbHlyREpqbTFZdExYTlY1SFktQ1lmckNKZjVMaTZzWUhvS051WmhJQlBBOXRXZ0pZbHNzRU5fQTdLeGh6eU1HbTdFNkxBY2dzcTUycm1EMnpBZTFuelRnaldGOFc3VU1ZOGxMUU1wXzE4UmY1c1BMZ2FDRjdlOXVlaWZqcl83Ny1KbnRWSA?oc=5",
+   "src": "Reuters",
+   "t": "2026-10-30T12:17:43+00:00",
+   "tags": [
+    "eurusd",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "USD/JPY Fed-Fueled Pullback Ahead of BoJ",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPajJxUE9iVmYteVlxZGMzMXZQTlBncFhpdFNnaXUtcmJ1QXhaMmtsN0JRRlhKeDdpNGhlck9RSVNQbWJIX3AwRmdxd1A1U1FjVzhMX3M1NEJOaU9JckpaUkQ0LUxKYldxOVJidDdxUW5hU1BxZFNCaDUxMlF3bkwtV0NHX0k5U2JjZ1FFQw?oc=5",
    "src": "FOREX.com",
@@ -2652,26 +2674,6 @@
    "t": "2026-10-30T07:11:10+00:00",
    "tags": [
     "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "London Gas Oil consolidates in range below cloud: Live levels",
-   "url": "https://www.investing.com/news/commodities-news/london-gas-oil-consolidates-in-triangle-at-key-support-live-levels-93CH-4971507",
-   "src": "Investing.com",
-   "t": "2026-10-30T07:10:42+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold tests critical $3,989 support in strong downtrend: Live levels",
-   "url": "https://www.investing.com/news/commodities-news/gold-breaks-below-4000-in-descending-channel-live-levels-93CH-4971505",
-   "src": "Investing.com",
-   "t": "2026-10-30T07:10:25+00:00",
-   "tags": [
-    "gold"
    ],
    "tone": "neutral"
   }
