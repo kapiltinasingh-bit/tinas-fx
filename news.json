@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-31T02:27:15.863707+00:00",
+ "updated": "2026-10-31T03:12:54.732842+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -24,7 +24,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -54,13 +54,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "CNBC",
@@ -1166,6 +1166,16 @@
    "t": "2026-10-30T15:52:38+00:00",
    "tags": [
     "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Binance Estimates $6.3 Billion Hacked in Crypto's Biggest Heist",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNW1MdGRoUFFwNW96WUJ5SHUzUUdhT1NVeXVZN2dBc0hQeGxzNkNvSTNiMG4xQTFHTTVCdVEwaTdJSmNDaUtXaU5KRWI2VmdSRUNybkNzeHdvbXVaZWZnZ01EbEdzdTZpemNiY0E0dDdTLTNGa3dCNXpqU1JEVXZFOHJGekRMY3hOMUFwRVBGckNZdTd2WUREakdBY1EtRV90SXM5aC1sRFdvMzJGT29wOQ?oc=5",
+   "src": "Bloomberg.com",
+   "t": "2026-10-30T15:49:35+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -2636,6 +2646,16 @@
    "tone": "bullish"
   },
   {
+   "title": "Euro softens against British Pound, traders await Germany and Eurozone GDP data",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMngwbTdqWW9oRnh4TXNseWF6NFktRGxPNV9pSFZETEUyMklBR1V2ai1sNEJ4YlNQZ2lhOFJDOUdSdXJlOG9KWFc1aGFQYjFmLVlIaG1xZTVfYnRXUnFlNndoWlBVcDNYY1ZlNl9CeWtUUTVkVEdCZjNsNjdiRU5UZVlITXdqc1ZaTUg0V2M5WTFENjJUUVdYY0U0N0xwVGk4V2tYSjgzai1VVEVJTUJ3Vms2dEhmdWVpSVlld1Zn?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-30T07:11:10+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "London Gas Oil consolidates in range below cloud: Live levels",
    "url": "https://www.investing.com/news/commodities-news/london-gas-oil-consolidates-in-triangle-at-key-support-live-levels-93CH-4971507",
    "src": "Investing.com",
@@ -2652,26 +2672,6 @@
    "t": "2026-10-30T07:10:25+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "UAE's crypto playbook gains global attention",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNEtCLU1LT3pacUk2SkF6SWpUU05PVjlqTllZYTlMUHBpVHVYdGVsZG1CeXd4bzZheXctOWZGbUhVR2JaaWY4REVua2ZSby1qaURRLWtETjRkV0I3ZFZYRW5fOERudU5GaVhtanpOLUxqaTFlWGtRcnZQUFVMZV9zcDBOcHJDdGMyZUR3bUY0bkk5MGFBUUZmV3Y2RC1KWG9C0gGoAUFVX3lxTE42QnpJU2xnQkJNT0I3djdKQ1AxMkE1SHRJSzNZbWRqT3o5VzRKS01YVkkxNWR5SDZCT3B6WGUxTlZ1S2VSQkJQd19RWDBFNUQ2eEhzUnBtZ3V3WERSSV9NU3I5N0ZhWDRtbG9Hbm5sT0dXNzVhTnFHcDgwbHlRM3FXb2c0SDdOR2VnakN5ZURPZ2xMNWJTQUthdnhiRzFjSHdDdjJpMjdkcQ?oc=5",
-   "src": "Khaleej Times",
-   "t": "2026-10-30T07:00:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Ueda Speech: BoJ Governor discusses policy outlook after the expected interest rate hold",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQlkxSmd5dEdEclpiQ3YwRHRUazVzdkZYTlRjelZINGR4V2o5Z0RuWW1FQmlNcU9kMHItSC1qclJJSXlOSGtTZWZNV0JGWlJvT1I5dll1SDdQaV9jY1JyV2NmZ05SYVJ3UWxPT09LTkxtRG5WOW83dFVneVJnZmFTakFKUzNxbDA0VGxIaUtzVG1ycklNZnFKcDd3?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T06:58:35+00:00",
-   "tags": [
-    "usdjpy"
    ],
    "tone": "neutral"
   }
