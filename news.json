@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T09:45:56.308169+00:00",
+ "updated": "2026-10-31T10:24:40.110727+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Moneycontrol",
@@ -401,6 +401,16 @@
    "t": "2026-10-30T22:20:00+00:00",
    "tags": [
     "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitwise's Matt Hougan: $6.3 billion Binance hack won't hurt Bitcoin long-term",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPajFCREZZWjlidFVPY29BUU4zcm10UmhxdUgxeVZfbERKYVYxVnlRQjFNOVUyeURZUnRVdFdYa3pnUFF2TnBsc2tCb0dZNjVXTjRvLUF4ckxTY0dlNkxBNU9XWTc4Q1VlRHlGUXVkQ3ZEMjVfSzh5TXNaRXFtdVlfdl9ReXZuRVhNcE9PaldfQ05xRklSTllIV1J1WTJEMmtsekJYQzZqR3dLc21reGtieDZhLVE?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-30T22:18:00+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -731,6 +741,16 @@
    "tone": "neutral"
   },
   {
+   "title": "United States CFTC Gold NC Net Positions declined to $186.5K from previous $199.9K",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdU9OX0NjclZNMmllZ2ZTRVB1WHZXZ2F1bk05WTJhRTM2cDFVTm56bXlBSHNBa2hWN0V3dEtxLWV5ay1GdDMyQ1FJRkpGczZTcVRuN2J4RGJEYWQ0R2MwR0RNTUdMOG5RVFUyUjVBUHVWNEZEMTlIRF9qLXgwNFc0X1lBbDJlYnNBeE80Qjc4UHBNbFNtaGwtRko5OUpuV0FTUklkYzhjWDFJUU91NlA4a21WTkFUcmJvYS1jN0Jn?oc=5",
+   "src": "FXStreet",
+   "t": "2026-10-30T19:40:50+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
    "url": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
    "src": "CNBC",
@@ -870,6 +890,16 @@
     "btc"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Wall Street braces for Democratic gains as 2026 midterm election nears",
+   "url": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
+   "src": "CNBC",
+   "t": "2026-10-30T19:11:32+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "'Sentiment will take a hit': Binance $6.3 billion hack rattles bitcoin, crypto market",
@@ -1108,6 +1138,16 @@
     "gold"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Update: Nasdaq Plunges 810 Points as Mega-Cap Chipmakers Sink Following Intel's Results",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORktlMjY3U3F3RUtpTnMzRGlORU55X1BvUXNFVHRVVU0xLTBMUmE3TXE1bFA3T1RXS0FYeUt4ZGpVOUpGTUhWY0hjUU9yYm9meXRlR0w5MGNDX1FRcC10YlRyeW42NmoyMXlCSlFQVnd3NzZaNGw0c0VWNTV1ekxsV0hrdTFmNGFVel9Ta1BSWWZLLXZEc3QydEJocw?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-30T17:46:23+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Fed’s Logan calls for two more rate hikes; pause won’t alter path",
@@ -2631,47 +2671,6 @@
     "nifty"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "The Stock Market Is Doing Something for Only the 3rd Time in 156 Years -- and if Historical Precedent Is Accurate, the S&P 500 May Be Headed for Disaster",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMVZBRkZzZldLMnI5LW5rYWVLZkdLUzdVSjNSLVJjaklkNWpXZHFzS1lVQmpaa0NCdGpWbng3MHlvcEZxSzRoUl9uclBZSzRxRlhBZldUdmZMdWktZ09TS2VER0w0M2ZKbk85QlI3RUVWZ2hrckFseGFJZWcxTkpnN3gxclh6anFRTk02OXd6aGY0MTJ3WDJKTnQyLWZjOU0?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-30T10:20:00+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Nasdaq futures tumble over 2% as Amazon, Intel stoke AI spending concerns",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-futures-tumble-over-2-as-amazon-intel-stoke-ai-spending-concerns/articleshow/135356130.cms",
-   "src": "Economic Times",
-   "t": "2026-10-30T10:19:18+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Sensex, Nifty extend gains for 2nd day: IT stocks lead rally, broader market underperforms",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaTl0bnVQb0lUSE1iYUNYWHFjOGZveUNKNkF4cE9lZW1BT0tFekZIdEU0blAzbHZVbnVENmJZTUxTUHZEcFZYa1F6c002Ynk1UTFSWElBNXh5VzRRTnROY0I5WkNpZHY1SDVrY2pPeTZXYk1QT25WUk9aemE3MWwwTDlhOUFROGE2N0Q4X0ttWDU0Zi02NThnOVN5cE94ek1JYUVlMnVXX2JyNjdlZUsxWGlpd0FBaDYta1lncjJSeU4yOW0zcTlPaFQyRVTSAdIBQVVfeXFMT1NNOGo2aDJlbEk4YVoyeDJLYnF2U3VKcTBtLUdxSGJuZnktTk91UWhWLVdOT0VGQ29Cb2diU3ktOENyQkFJSkZhQ2xPVFQ0Yl9jZ3FfV0lRUjROV0Jjd0NKVkZvWmFnNnk4b2lNSUI0dlBsLVphNzBVajgwRGdGdVB1TmZCNmktTnRrSFd6c3BmUjNfZXlxdGFRWEo3VEJ3SF9sQzJpMUl4WE42QnBET2RaUXptb1dUWlA5bWVSQ01rMnpKWk9JUjR0LVdUZm1uYUJn?oc=5",
-   "src": "CNBC TV18",
-   "t": "2026-10-30T10:11:32+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold Slips Below $4,000 as US Inflation Data Strengthens Fed Rate Hike Expectations",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sUWJNTWdJWVZLMklEamZpRm5WYkdBRjlYOWlzMjlpTHdpQzUwbWhfLU8wSjcyU2YzazhTV0VJNUVYMzlkMTlaa3c1b3V6Z3dDN184MTk4Rm1hZVV4djQ5VllqYWNvOTFWWktmcVFuY25abnNTMWRtT0o0SQ?oc=5",
-   "src": "Yahoo Finance UK",
-   "t": "2026-10-30T10:07:00+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
   }
  ]
 }
