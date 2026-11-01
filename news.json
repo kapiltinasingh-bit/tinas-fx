@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T19:49:48.917310+00:00",
+ "updated": "2026-11-01T20:21:14.994315+00:00",
  "count": 250,
  "feeds": [
   {
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,17 @@
   }
  ],
  "items": [
+  {
+   "title": "Tether gold holdings backing USDT fell by 3.4 tons in the third quarter",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOTQzSl9qZHZsVXRCb3RsWUM0V2dlYWZIeFg0VUhOczhTLUJDRVdNVlNsZHdmLXNKR1AtUVNOQ0JWQXhYbWpBdjU2UVZiVjdjRXZFanpzWGFUQmZzTFBmMDFCZTVXOTRQM3BlVVZWYUNYemlISFBKbkxMWGdGUkgwc3RLbHNxUjVVOU9zcmtRSFluemJxSTRpRkdrMW9TOWl6?oc=5",
+   "src": "Mining.com",
+   "t": "2026-11-01T19:49:15+00:00",
+   "tags": [
+    "gold",
+    "btc"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
    "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
@@ -298,6 +309,17 @@
    "t": "2026-11-01T15:00:00+00:00",
    "tags": [
     "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold, silver may extend losses as US vote, jobs data test sentiment",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU3hPVURlajlZRFV0ZmtFSXlwdkJleFVqU09USkF3YVp5czVsbk1ic1p4b3hCMzQ3YkNVWVdaQ2dCemJESDQxdXRMbUpMdWdyY0QyN2xNXzNGZXdzWXpEdnhQUE5MbTdaSmEybzI5NkR3R2xuYmxZMTU0QmRydlZNczh6UndGNDRBd3BKY3ZlQ0FVZ2lEalhGM2pjWkhPQVgxUVdGYXN2TV9WNE1PMHFJYTYyclYwQjg2cmNRc0ZiZXh4Ti1NQXlnSUpLSmXSAdIBQVVfeXFMTkNzOC0wdTVZSG5QRkxQLTZSSV9RMFFLcWYwc3RvbXV0ZXNvdU1qcXdZN2NIMmxtREI5VjhQaGZsOHpJbEhOeTJxc0RiTzItWXFyRXU4OXRyUzNtN3U5VEpyQk9sZjg1dE9IangxRmZOTlM1aFQ4MklrQTdBa1AyX0xpRWdOb0Jod2VjSmxnd01uaElrdTFLYk8yWWh5TXVwbUVwcC01TG5QeW5GdlFxRHhJR1hjcXhqRU54akMyT202RzhUTzBKVmpwT01mWU4xbjlB?oc=5",
+   "src": "Business Standard",
+   "t": "2026-11-01T14:54:49+00:00",
+   "tags": [
+    "gold",
+    "silver"
    ],
    "tone": "neutral"
   },
@@ -2651,26 +2673,6 @@
    "tags": [
     "spx",
     "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Japanese Yen holds firm after BoJ’s hawkish hold",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOFlfZkNTR2lWdDg4UmMyQWttYXRjRTVTbGtZWjdkQlZ6MlJLdjFvTVJPYUVoNjFwVXNEcUUtYnhOTVM5eDFQMm9BRlZHVVFGemY1X2lILUt1Z0tsTkVMMWdDZWxuWm05LTVReldRT2tZdXlud0N1TVF3UEUxbmU3TFB0X2tkWTF6MVB3ZEctWnBYNFFa?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T18:08:07+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Why bitcoin held up better after the record Binance hack",
-   "url": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
-   "src": "CNBC",
-   "t": "2026-10-30T18:07:00+00:00",
-   "tags": [
-    "btc"
    ],
    "tone": "neutral"
   }
