@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T15:01:13.877092+00:00",
+ "updated": "2026-11-01T15:40:32.439851+00:00",
  "count": 250,
  "feeds": [
   {
@@ -78,13 +78,13 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 7
+   "new": 6
   },
   {
    "feed": "Investing.com",
@@ -125,6 +125,16 @@
    "t": "2026-11-01T15:00:00+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Apple’s new earnings era begins at a critical time for Big Tech",
+   "url": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-11-01T15:00:00+00:00",
+   "tags": [
+    "nasdaq"
    ],
    "tone": "neutral"
   },
@@ -403,22 +413,22 @@
    "tone": "bullish"
   },
   {
+   "title": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdXlZMDlUajB5eXpEenktMTB5ZzRtdkxqSVZWRHhoR29jQlVYcnVTYzhEbTZQekVpcUR4RktFYUVfUHh2WUJvTUpHSEo2MW5ESUR3dUxNUkNoWml6TXJlTUxTa1oxUEozbXRVOGU0S2hVQTF6YWFhbDhybHl5aDc1aVA2Z3pmRHBySlhOSkJR?oc=5",
+   "src": "Yahoo Finance UK",
+   "t": "2026-11-01T06:02:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Nifty IT’s 18% rally may mark a durable leadership cycle; 35,000 next: LKP's Vatsal Bhuva",
    "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-its-18-rally-may-mark-a-durable-leadership-cycle-35000-next-lkps-vatsal-bhuva/articleshow/135419140.cms",
    "src": "Economic Times",
    "t": "2026-11-01T05:55:57+00:00",
    "tags": [
     "nifty"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTjdKY3laaTdSNDdJR2JaOXVrN0p3eExMOXMtVjBua0s3YmFPSENrQVJ4cm05MmljTjNmaVRjdzlpMXF1SUp1S3dLbVV4ZEZQSGxDRl8wY3czeDZmRlNoM2xyQnY3RFhJSDlUZF9fZjljVS0xSzlJMHI2N2VhYXp6UWFWZEVEbEY4bFZ5X1FYc1J2UmZDdFZUUDZnQ1FmR3Y1TEpCczdaRjV6MHJLbVJBS1NITEVhcllpQzF5VkhoUVBKSUlUaEtEWFhSSUxlTTJYMzFWWmRB?oc=5",
-   "src": "Investing.com",
-   "t": "2026-11-01T05:28:50+00:00",
-   "tags": [
-    "btc"
    ],
    "tone": "bullish"
   },
@@ -2660,16 +2670,6 @@
    "tags": [
     "eurusd",
     "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Current price of oil as of October 30, 2026",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sQlNTbGZfT1dXT2JUUDZ6UGRIU3Y4WWVvRFdaSVp0OFp4TlR1NkhNaHJYd1cyUHRud3BQWDR0ZXBKSmFJU3NyeUJNUHA2SlpPTmgtVnM4dXBmQU0zbVdtaFVB?oc=5",
-   "src": "Fortune",
-   "t": "2026-10-30T16:54:47+00:00",
-   "tags": [
-    "oil"
    ],
    "tone": "neutral"
   }
