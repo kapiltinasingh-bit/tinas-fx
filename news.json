@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T16:15:01.900621+00:00",
+ "updated": "2026-11-01T16:50:29.533070+00:00",
  "count": 250,
  "feeds": [
   {
@@ -24,7 +24,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -119,12 +119,52 @@
  ],
  "items": [
   {
+   "title": "Trade Setup For Nov. 2: Nifty Eyes Resistance At 23,200; Can Bulls Push Index Above 24,000?",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHE0TVJGZURIYkh0UXhBdHRPcktZYTNOeGxyU09OZll2RnFSeVdvWERZcXRXNGVDZ2NzSFBKbmhLbjFMU1B3TnA5WmtUazRqblJCdVVQa2N2SlU4UzNZSDJ0b2tQLVBrNFR0eVd1OUJ5NXlKeHZTZUpOZS02S3B6WXNQVlNBUndMU0FHVEIzQk10WUZEZk42OTcyMlZ5QTRUY1B2a2FDWTU0UkliQVlwbWZZaUJzRVRMdFhHUVhPemR3TFo0LTBYdml1Y9IB0wFBVV95cUxOUXdsMENaTllhLXpFOUNHczBIMEJNemxZRGJiTDFkRmRIeFF0TDBNNWJCRFpyUG1OTjhiN1FsejNOX19WZmk5c0tpdG9BNjI2VmxYemVGTmRmQTN6amNNYzdqbVdDYy1xN3hISzJLSmFZc0o5MFI3T18zRTJySmpRNTE3bW5ZaUVlU0VFcF9qOVlCRzI1QkFfZWU3cmVpNmpiRXAzOGZYTXNHTU9JOGNiX2JzUDJrZkJmdGJ1dEdCQUU5QXVPRnJ4c0NWZWxYUFhyQUhR?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-11-01T16:33:07+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Oil Futures Post Weekly Gains on Middle East Escalation Fears",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUprNnpxZE5idzlOR3htMEsyS0FmSHFfUi1EZ2dpZEVzNGd5ckRsQnVob0daYXdVMzZBbm9YdFBHQk5fV0NIeU5oZjZZdDdCY0FGbXRoUXNtblo4UmF2OUR6VG54LW95ekJ0eFNPbjBRUGp6R1F0S0xsdEc3MmZReXpCT0lIUmxyR1Npd2pYMlRFb3RndXBjU05OTXM0bFBmazFkY09lcnVJUG1LU3ItNlJpYnl5X01x?oc=5",
+   "src": "WSJ",
+   "t": "2026-11-01T16:11:57+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONThkRlVnR2tMNElaYmluT1g4TDM0dTBNZVV0UlJLXzV5Y1dfVlBVaXhORGVlM0h3SjZZVXdLMlFfaGJta1VFNFpQZXQ4RjZ2WWZTTDE4b2pMY0dWbEpicGlUSGpsZHdudUFVVlFKNC1aa2JFYzAwMm5yZkotb04wUUV6OWJCWWZ3RFkzeXdVWklZb0w4SzJPSUM5cXdYZw?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-11-01T16:01:02+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Everything changed for the oil, AI and bond trades over the past month",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55dmNrd1FhM2Y4WF9rSFZ5Tm91U1p6T0lkcDFtMjdSTC1HeW1nckRObm80bGNoMkIxVGMtenhNZERydEk0Y1Y0ZGNsZnhCVmR1UjQwcnE2cHloLVZDT3VXT3E3dzNnR2k0NFZtLTg0TdIBdEFVX3lxTFBvYzVYUk8tSlRXcDhuMVh4bU56TVJaRjNfc0pjcmctU1JPaUtmWmhFZzMtWXhkdGxRTlRYQ2xHblVGRVRUbXZleVh0UHJQUWdpazlKMjBxa1RRaGtPMl95a1hwUjMteUp2NzJIV1dPMTZOeW1z?oc=5",
    "src": "CNBC",
    "t": "2026-11-01T15:58:24+00:00",
    "tags": [
     "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Trump's 24K gold coin releases soon. Is it a good investment?",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa1YwNnNpTFE5WTlPaVVDSjdldFo1NkRadXJKN1JZRzJTQ3Ayd1V0N3cyX1dIMFVBUDlQbGM1U3JFaUptR0h0NmdveXY4cUltSzVuN2Z5Y2Z4NkkyMHVwTnZsNXAyVGJZX2Zza3FGV1JvbUJRU2hiTlNtem9QSUpXYjJQalU?oc=5",
+   "src": "Yahoo Finance Singapore",
+   "t": "2026-11-01T15:58:19+00:00",
+   "tags": [
+    "gold"
    ],
    "tone": "neutral"
   },
@@ -2629,46 +2669,6 @@
    "t": "2026-10-30T17:09:00+00:00",
    "tags": [
     "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Hyperliquid (HYPE) Rose 4% While Crypto Fell 7% After the Binance Hack. Is Money Moving From Binance to Hyperliquid?",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUE0zZ3BhUzJqUmxoWjZBYjVLQWI5b1ZINXlDZ1Vwb3lrVnJwa3NvbU94M0d5UGxGS1RyNzBvUWpzVTZMUnlQU2ZqUHNSUEF5QUNScmxNZ2xPcldfRGlacjh5TU9qVk00TkJHekl0cWhyR2VJN1dtVm5VWTZONzFiak1kR29kcWhndmlTQ3pSR0UxZ1lxQWt0aUlTaEFUcEczVC1KOGNDOUtKak1odEtSWDRPazBZaVY2S0VMdTJPR2VZX0ltNmt3YU1kbFdNMDNKUkw4Q3lvblRDNlhGR3JCM3JibEQxZmtEZkdrTzV2aUlvVzYxa0lVQ050ZjZpUQ?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-30T17:03:34+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Rates need to be higher, 2 Fed members say. The question is how much.",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV3lZWWZyLW5NNVVORGwwTzhYVUlYZjhIa3V0b1R4ZEk3N01Fa1ZIRzBibWhfaTFCdzAxX1RZN2N3ZHpnaVp5d1BRRWxYWjUzaWxXWVRIRFlJa1l5RzB5S1NucVh4MEFadHJoU1FjeUFEVlh4b0g4XzBYMXljLUxyRlAtVF9OYUIwMjl5UEtQbkxSMEpJdlNra0V6UmltVW02MDF6YXk3T01vazhpWDVacnQ2WDVld29zbDg1T3ZYYzhhN0lJSWxYdHNn?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-30T17:01:45+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Australian Dollar nudges higher as RBA hike bets grow after hot CPI",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRjg3bVF2V3JDZHBkdGl1RmMyblhmUndaUWNDdHF1VzY5bl9URkxJZGMzN2I3amVUcnFKdjEySFpFcmNFMEVFN1psUmxJS0x6Umc1Q21kYnd3V0N1N19Ta28wQ29HWjdfd0N6VVdJeFNWcHd1cXUwZDJJS0F4MWI5WmhVdUNvMlpiSjFvZTBFTHFTY2xwcU02MS1zRmVVdHA2bExrTU1iZEtPN0d6eGVtb096T3FYd0prdDZvVkFkVmdEcGFtcWxv?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T17:01:04+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Fed’s Musalem calls for rate hike soon as policy remains too loose",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzNfYXJRTDktMU9BaEJ3U1lFLWR5VmtTTTUyM2Z0YXNoTTRJVG5GRzhEaEE2NVM5S0JmWmhpclhwbFZaMlEwNUpwcDB2aVJhZDhmeGVEa1Y1Umk1azhpemZ1NVlZQXp5TExkY1pST3cwWnhNTTB6eE1aMkhfX2V1Q2RRanlzYWNIUWlUejQzdTNQbmN2aHJ3ZzZRbnE0TUFiYlQ5NG5MY2ZoZXdS?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T16:58:47+00:00",
-   "tags": [
-    "macro"
    ],
    "tone": "neutral"
   }
