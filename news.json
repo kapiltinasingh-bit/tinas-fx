@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T08:26:00.576986+00:00",
+ "updated": "2026-11-01T09:12:02.088386+00:00",
  "count": 250,
  "feeds": [
   {
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -118,6 +118,18 @@
   }
  ],
  "items": [
+  {
+   "title": "Gold, silver rates approaching Dec 2025 levels; energy prices, inflation, Fed weighing on investor sentiments - Details",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaFhqSWVXZ0JZODI3Q19IZFdqM3N1M0tYY01mUXBXVUdqTmZtY2hQVEppdE1fREtyR2dQdTFEU2d5SGJyaDRoWlQ3QkZxNjY3WGlVajMyQUNLcWh0TjRKRTRYNU1qTVlyYmlibHhtTzdnTm16VWs4RnF3ck5Zc2piMlVGbTlCYlV3N2VRcGJ5TWwtdmJLN0NmaE1MY0RaQWdnYUFtdzNkNjZBUEszMnRGcVJxSGpzb3RVMG1oNDg5SXFjVV9ORDFuUU9lNEVPYnI3dFJzbWlzU0ZIcENMRDZjWV90bmpuLW11Skc5aG1GbHZjSk42eDdwS2dkWUZPSllqczYzR0N0VVrSAY4CQVVfeXFMTURfVEYwRjdXalNpNERrNkpQcTJBNTRmRjY1Ynk2UU1PSGZoQWlQLTd2LXBmYVIwcEhMT2diQUpIU1IwQUhRZVoyY04zczB4Yll2NGc1UlhGRktCQmV4Q2VoSUxCMldvWl9pcVRJLU16Y2U4MmZTdkkzbnBpSFpKbXFHVXRPT0RsX0Fjb2R1M2NLUmk4YTMxczUxbFBfRG1xcnM3dnA3SUkwWjdFejIxWFd6WEJzTC16RlhqdGMzYVZuOGFqc25LWUlxbi1XNEpzUDdOT1hvU29mMjVKMTVvMTFzZGlTdjdUUS1RWm16dFNMZF9kVVpHQ21IMFJnQ0pKc2oxQ1JFblpqcWNjVE5B?oc=5",
+   "src": "Livemint",
+   "t": "2026-11-01T08:27:11+00:00",
+   "tags": [
+    "gold",
+    "silver",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Traders bet big on a December Fed rate cut despite a data blackout",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeURKZTIxaV9rSVNtVkhSTDVlOG9iMXpmRWpkUDhZck5sM3RHUjYyS2FhVGVCTXQwZEtnY25uaV9COGY1MXVTaWQ3OFNaTEl5NGdvLVlJNnpGN3pVcUdCZk4tcXB6YmxSeTNaR1JVdGtKcUprelVGWFd6aVhObXNpd2VjYzFERGxQZkhxbE81QVNXWmVSSVhla0VB?oc=5",
@@ -830,6 +842,16 @@
    "t": "2026-10-31T11:00:01+00:00",
    "tags": [
     "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Will U.S. Midterms Impact Crypto? Grayscale Says Election Outcome Matters Only 'At The Margins'",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQODhEeU5iUlZrOUg0MW4zSHU0VGN4QnBsMnNZN0lzeS1IblpMd1BKanU1OWRtMTBQNmtncjJENkhKWWZkejNWeWtuNUthQkEzY001aVBsWEhwU25ZeXktVnZ5QVB0dUwteFVQcXVXRGZXLVA3YU1iMHVDTlVRN0JZNjcwUHFTa0NzUVlDX0lxOHNQejVBWVpjTGFweDhzUjNR?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-31T10:45:06+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -2649,26 +2671,6 @@
    "t": "2026-10-30T15:45:43+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Binance hack explained: Bitcoin slumps to $76,400 after the $6.3 billion heist. Are user funds safe?",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ3ZySWxrekJWOXhRdUdzb3AwdmxXbDkyWDEwTDZuRVNlWEpEcmNTbkRNZHRuQnpmRkVFeE9IRE9vNXJEcnZlT0lJRjlvNmpqVTFpSFI2YWtpOHNVUFlTREEwWVprbndrZEY2azYzLXN3MEs3QWVCcmF0eklCcGxobmRoMkFLRjlvQVpoQ3N2Y3BRSHVtQmVjQlRhQjBjd0FsTFFUdm1WTlp5RDJWTFFfZXgzb1UwdUk?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-30T15:44:54+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Intel heads for worst day on Wall Street in more than 50 years on weak guidance",
-   "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-   "src": "CNBC",
-   "t": "2026-10-30T15:43:48+00:00",
-   "tags": [
-    "spx"
    ],
    "tone": "neutral"
   }
