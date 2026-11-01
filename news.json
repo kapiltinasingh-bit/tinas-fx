@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-01T05:55:22.592321+00:00",
+ "updated": "2026-11-01T06:37:40.325164+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Nifty IT’s 18% rally may mark a durable leadership cycle; 35,000 next: LKP's Vatsal Bhuva",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-its-18-rally-may-mark-a-durable-leadership-cycle-35000-next-lkps-vatsal-bhuva/articleshow/135419140.cms",
+   "src": "Economic Times",
+   "t": "2026-11-01T05:55:57+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTjdKY3laaTdSNDdJR2JaOXVrN0p3eExMOXMtVjBua0s3YmFPSENrQVJ4cm05MmljTjNmaVRjdzlpMXF1SUp1S3dLbVV4ZEZQSGxDRl8wY3czeDZmRlNoM2xyQnY3RFhJSDlUZF9fZjljVS0xSzlJMHI2N2VhYXp6UWFWZEVEbEY4bFZ5X1FYc1J2UmZDdFZUUDZnQ1FmR3Y1TEpCczdaRjV6MHJLbVJBS1NITEVhcllpQzF5VkhoUVBKSUlUaEtEWFhSSUxlTTJYMzFWWmRB?oc=5",
@@ -760,6 +770,16 @@
    "t": "2026-10-31T11:00:01+00:00",
    "tags": [
     "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Tempsens Instruments Share Price Today, Tempsens Instruments Stock Price Live NSE/BSE Updates",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYi1XUGRxQ0czbFJSZjUteGprMnVUdmRWWmlfZDFSY1VzaXpKN1FHdzNGdWhWS2I3RFpvZ3FpTDQ0aU1mcS0yM2dDamJsN3ByZTdINmEwcDNyV0hRUF9VSVRnNFNtQ3MyaXdrUGZfMTJnOWVibjJRemxTV01kajdiZjBWUjYxbVZ0Y3hQYWtDVGhXNnJHSXBHY2RB?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-10-31T10:11:16+00:00",
+   "tags": [
+    "nifty"
    ],
    "tone": "neutral"
   },
@@ -2655,26 +2675,6 @@
     "nasdaq"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "NASDAQ 100 not yet in correction, but it's getting close",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0NZb1BSTWkxV05aWjV5VFdrQlE4cVBPUzI0Vm85LVNST0VvV2kwWnEtNnB5d2kwOWV4aTFzbFhDWGZLUXoyU0cyVG9xUFk4eW01RjJDbUMycFphcGRvTnhtS2NzVHB5TGR1Tk5rUG04UFFZbU9oVVBGamgzaTBDMzhNN25ibHR4M01DV0Z4UVgwZUJJZjQ2cWItQ3B3UQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T15:25:51+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Cryptocurrencies price prediction: XRP, Ether & Bitcoin – American Wrap 30 October",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM29LYWk0bDJHWXdyMWhJYjJxeHBqdEIyMzlLdU0tZW9Ha2U4dEEyWXlwb3dCQ3pGZkdUalRub0Nmc0ZMdmQzcGhrUDVxUU04eHh2NDNsaE9VRFB0MDVFeGRpNlgwT1MyZ0tMMHhud0l1Q29PRUcyazZsbmR5UFZBSktmVU9XXzRoSkJ1X2MyWHpXUjE3bUNadGVCMVNsNTNjVy1GRkdUSjUxR29HNGtHQThHNUlFX0ZjbDlpS25pMHhCdHZERnFBb3VGTmxMY20zc1E?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T15:25:43+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
   }
  ]
 }
