@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-01T19:14:23.736609+00:00",
+ "updated": "2026-11-01T19:49:48.917310+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -118,6 +118,47 @@
   }
  ],
  "items": [
+  {
+   "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+   "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+   "src": "CoinDesk",
+   "t": "2026-11-01T19:30:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Weekly column: Crude Oil surges past one hundred dollars while crypto digests record heist",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbFlET1h1WnRoTDU2bDVZTElaNm5UOEdpdjExQV9zVWN3dkNpVDVBVkcxWEpQVW1mOU9ySm84cVRMTk4wLXhxNjJZWC1fb1BEdTlrZjl3eXRMSDFic3hjTUZjaERJZG9RdVFZekVoSklqZHJQTVFGWjZyYVd0aVZlOGw5WWlSNGpycGJaNDVZeGdoZ3RzeDlVUUcwekhDM21hY0ZSa0piMUtZMFd5UVYyY0p3eFN5UWxFNlFyRFJDTUZyM3IyWWdkRWlVemtMRlBwM1E?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-01T19:16:04+00:00",
+   "tags": [
+    "oil",
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Gold price outlook: Gold sliding along the 0.786 arc. Eyes on 3,720",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN1FUbGhvLUpObU1XQXZ2VTh0S191dDdNRlRZZ0JlTkVDWjBaODJuQ2FrRzlfakx2MXJwTGZSX0tCRS1wWWtNbmF3MFBnUTE2Nk85QVhFcWxRQ1ZDQWNQQ01zMVE5YWFBMndEMU5OWU1Cb0doVW9VM2ViRTI4RUJFYllCcnlsem5EMW1NOERLT3hldzVkZklPR2xpUUppYVdNajZoTWJPa2pSZ1QxNGlWUw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-01T19:08:37+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "First light news: Payrolls, Midterms and the AI wobble",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMlNVZ1NleFRzRmY3WWdJekUyekRhM0dndnlrNXRUWTZselZMTU5wejN0SV9YaTJaNHNaOURZQzVTcEdBQlF5LTVGLS0yWkRqUnZ3QUU2S29ZRGo4a3lZbWIzQ3Uyd0tiQ3NwVjlEY09xVDJ1TXZzWFJ0WnlJZHllc1F6QVN2d09ac2dRWDJxRUVRU1hQdG01LVFoWU9KZ3Ni?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-01T19:02:28+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "When support gives way: Gold and Silver's Friday showdown",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3NBMi1leTdtdXh1bDFnLUVzNnFGMmNmRVJ6Z2JMcVFtSHJ4dWlwbDFsOEduS01ReVh1V0pPX1p4bW9acHVyYi05RWhVam10bEcyOXBmRUNCc1FXM2d6RUZ4RWxYcmVXR2UzbXN2dUJJZDVGbkdGbU16MnQtUmpGZDJYdjRURnNrZWtOSkxacFEySHprVDV4UjlDVmxiX2pua3NSZg?oc=5",
@@ -311,6 +352,16 @@
    "tone": "neutral"
   },
   {
+   "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5",
+   "src": "Reuters",
+   "t": "2026-11-01T13:36:05+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Gold sinks to its 1-year low; can a gap-up opening on November 2 signal a recovery?",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM19qX0hVbXhhZHBSWE5mak80SlduQTJlUGh3eGdQQTFtNHdQOUJucEtoNzlWU3ZpOHF4anJOVjNhOHk4dTYwVHEtTlZQMVgyQXJiQWxZcFNFMVRpUWZqNzdCNExYajFnSjdleUtjZkJuX0g2Nlo3UXQxTlpHbGxsQmk2MmM4Vnlnby1VcVJySEcwZGhydWdtZUpVUnJfeDBmREdUXzJBb0pfRmRJQkxPZVZERm5FanNHTms0NVBjUWpENVZZcG5wdUNORVdLRmNyUnhLNzZGOUd2RW1DZmNWNUNfSEk0TE1xYnhV0gHwAUFVX3lxTE1hRlBKM01yek1od01sU0p6ZjBFb1BnSjg0SnRsUjZ1RU9VYjJCbEVWSV9mVFY2aXdBdHFSeXN0MlMzdWRETHk5YWZzcnppekd0SEQ1ajlxOERRbUFCOF9WVGUzNWtURmZWQk9TTnZrU3VvX19RTUh0ZDhoaXQtajN2OUh5N2xoQ1FQNVRkNUp4WWtmeW5GYUJ2dC11dXA2d2diTm10X1JtZUw2enZYZDZvdWpHeDBNaWFLZEp3Q2poaWtSeFNMNlR6RzFzX0xEbWo0bVBnUWVCU1ZLa2VVWDlSRHcxUzd3dlVXYzAxSnJ1NA?oc=5",
    "src": "Moneycontrol.com",
@@ -377,6 +428,16 @@
    "t": "2026-11-01T12:12:36+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Tax twist for OMC stocks: Indian Oil, BPCL, HPCL shares in 2 Nov focus after this decision by Govt on petrol, diesel",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNeFB1VGh5WGwza1V6MXdxSW5VcmtNcmloa3BBQTVsY29Pb0w4b2VTalh4SUZXY182QUFHbXlfbXJhQ21WOFlxYlB5amdSVHNpVUFEMWNoOVNJSTFxcnM2N3BrRFFUVXg3dDBoRjU4MXJZWWNXTmlXazlzc0s4NmJoQ1hFRVFUZ1NGa1FnVVBDQWx0QjBUTnVJVzdZd0pneTgzZkQyWjNzRVBzb0dKWlE1UGpCcHQzeXpsbHREbUVHMGpER09RZVB1ejlScUx6bWhYdU9JRTBCNFhRb01IeHZfMXd4UE16SU5iWWZnUUJzM3phUXU2X2pUMlRjUURudWhtSU5KSXRSVXBVaThLRXZORXhpZmjSAZQCQVVfeXFMTXhQdVRoeVhsM2tVejF3cUluVXJrTXJpaGtwQUE1bGNvT29MOG9lU2pYeElGV2NfNkFBR215X21yYUNtVjhZcWJQeWpnUlRzaVVBRDFjaDlTSUkxcXJzNjdwa0RRVFV4N3QwaEY1ODFyWVljV05pV2s5c3NLODZiaENYRUVRVGdTRmtRZ1VQQ0FsdEIwVE51SVc3WXdKZ3k4M2ZEMlozc0VQc29HSlpRNVBqQnB0M3l6bGx0RG1FRzBqREdPUWVQdXo5UnFMem1oWHVPSUUwQjRYUW9NSHh2XzF3eFBNeklOYllmZ1FCczN6YVF1Nl9qVDJUY1FEbnVobUlOSkl0UlVwVWk4S0V2TkV4aWZo?oc=5",
+   "src": "Livemint",
+   "t": "2026-11-01T12:11:32+00:00",
+   "tags": [
+    "oil"
    ],
    "tone": "neutral"
   },
@@ -2610,67 +2671,6 @@
    "t": "2026-10-30T18:07:00+00:00",
    "tags": [
     "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold and silver ALERT: The rebound could happen fast",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRE4wRVdVYWdXbnJsWFhYT0dONlk2ZnZzdlZod3pxSDBzdnkzWjh5eHMySVotTFh1XzU5NzBxcEpZQy0tVmhOa19jdC1aM2FValdpcDU0cDZQb2FuZVB3azdQcVFoNklhSTVBTFpMYTF4bWNnMGM1VE1xUGExYnZWY3FfVmc1RXBuTTE5QWxLZWg0Zw?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-30T18:02:34+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold price forecast: Buy below $4,000 or risk missing the next rally? [Video]",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU3lVRUZVZWRBRTA2SXFra1hVQ1RPR0dlVkdzX1I3aTdCX0RqVEZmTXlrVnBOeThkWVFZY0FUX240VHZVM3JLVkhfNk9jMmYyX1BUYm5tV0xIQTF1aThRTnFZUl8ydUJRd1UtOWhjUGNTcERaRlRSeWtuLXNTa3psQkFDZFp1Qk1FZG5pNHdSSGl4ZVVKeFlnWmQwUUEyYzZKVlRQQlRFZVJvQTB5eVpod3puNHRkbTE4dXRN?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T17:46:27+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Update: Nasdaq Plunges 810 Points as Mega-Cap Chipmakers Sink Following Intel's Results",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORktlMjY3U3F3RUtpTnMzRGlORU55X1BvUXNFVHRVVU0xLTBMUmE3TXE1bFA3T1RXS0FYeUt4ZGpVOUpGTUhWY0hjUU9yYm9meXRlR0w5MGNDX1FRcC10YlRyeW42NmoyMXlCSlFQVnd3NzZaNGw0c0VWNTV1ekxsV0hrdTFmNGFVel9Ta1BSWWZLLXZEc3QydEJocw?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-30T17:46:23+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Fed’s Logan calls for two more rate hikes; pause won’t alter path",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSE5RWlV4ZFlvU1RQOG9JdkN4TTBLbTNCZm03NEp4QngtenVNVzBuQkJKQXlOVXNmZVk2anhpOHVEcHdpSzVWYVluYm5zZ3RyTjVkS2dOY3U5THktVFdxR1FhWk9SWFo2YWJqXy1UY3FLS0luNWxCeU1sMm96NHIwdUNTWWJ5QzNxNFJ1dC1RM1NJekRhV0JtcXBQcGt0d1RFNG00RFdVOWI?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T17:45:54+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "American workers are finding their take-home pay isn’t keeping up with inflation, with their wallets ‘stretched thinner and thinner’",
-   "url": "https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-10-30T17:44:00+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Warsh is cutting the Fed's rate meetings. Fewer decisions, bigger moves",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdjNNdkw2ZU5oS0lBSnFFNmpCOGZtbXh4cWVIT3J2Wl9sZzJ2LV9LWC1pSnBsN2E3bEZ0aDk4N3BUVXF3Y09PbzhKci1scTBIMHVJQUdoejdGd2xHNWdSQmpTenl5NEdpTW1udDVSdGd3S1ZNelJiTXJMZ0JLZzBta2FfbEM4UGZKLW9sbC1JOHJ1X0lRTENkaWpWOHA3Q3QtdVcwSWN6Nk9QNDhGV1NhakdvR1ZvZw?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T17:41:18+00:00",
-   "tags": [
-    "macro"
    ],
    "tone": "neutral"
   }
