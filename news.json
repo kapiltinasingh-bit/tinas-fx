@@ -1,84 +1,84 @@
 {
- "updated": "2026-11-01T12:15:02.445821+00:00",
+ "updated": "2026-11-01T13:05:36.991775+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -119,10 +119,60 @@
  ],
  "items": [
   {
+   "title": "Binance Hack, Bitcoin’s $1.6 Million Forecast, Elon Musk’s Emoji Clash and More: This Week in Crypto",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc3BUd0NpUFRreXZLNVA3TEJIZnFNMjZjRjFrcUFwb1JlMUJNcXhwUFBWMjh3U2wyQy15b0JZdzlUX0h0cmNSTm5IczFfWWd3b0RXLUNTMEQwNk8xNmdGSUFnQmFTbmY4dU9lT3dfU2I5ZWF6ODNNXzFrNXM4bFpYN1p3a1JxNTNTV2gwQTFXS0QtRVE?oc=5",
+   "src": "Benzinga",
+   "t": "2026-11-01T13:00:06+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
+   "url": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year",
+   "src": "CoinDesk",
+   "t": "2026-11-01T13:00:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Q2 Results This Week: ITC, Bharti Airtel, NSE, BSE, LIC, among 350 companies report numbers",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNW5FcWNUYmtSVWFuaEx1cVBHOWVEcEJiY3EtVlJUcVpmQXhRbVgwOWJiS2NBNUppc054UDJ0NEk1VmV4WEJtMTFrUzlOdUdrWk5zX21DRWRkUExrODdUajY2ZFpuR19xTXRpdkpYV3JMS0tRUFk2VGlYamFuUHdXcHVRc2liS3NmQVRERC1GT0I0WHVIZ0ZZZHVidDBjRFJhanJJcjJ0blp5MmdfcjFwSmZWQXBBeHBQN2N3T3BnaTBGbEhpNmFRQk1pNHgwNUNlckwxUm9xQnZmb3A2OWdYU21R0gHnAUFVX3lxTE9XXzVhekpEbVZuMTg1aFlWbEZRRXJ2NzF0RE13Z2VWbWNlT2trbVhPeU5iMEpob0pqbmt5b2pZeTU3SnVBV3h4djNUNEV6NFZZNzRMdFBOSlZxQ01WcEpSaWxYZ1pLUmJkVEhIcFI5VmF2bEZPc29nTGdDZ0dlN0o3RUphejA2aG5TLUtPZHp2Slh0VXlicnR5cllxRmxpVEszakdEQVR5SHo0blNoWlppVUMtNUZyd0x2QjFuWjBfRzJSSnhNMVNTSDBmMkdDazd1M3Uwb2d5VGY5WV9nbGRUQWcyOTZyNA?oc=5",
+   "src": "CNBC TV18",
+   "t": "2026-11-01T12:56:51+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYWYzVGJZSm1oS1Bfb1ZEcGZNaWx2YWkzSEZfcFI4T05ZRE1kVFpLSUJuMTA3TDQwVjVpSElqRFdQNlNiM0pPS1JyaVppSzAxVlNQRFZOR0RIN2Q4VFNlelkwU1BWZjhXa19YdDI1OUhsYVUyVF9NUWNJTTNmMDZIZ1l3SFVKT3JOa2NFNEs2U08wVnFvTTQ3d1MwVGFZZ9IBowFBVV95cUxNVHpCcm1rZ25Sb2x3YUZzZmxpZno1YWZGMnk2dE5EeHNVZFRFZ0NmQjJGZHVsR1pVVWZWa3YzcERzeU91QmdlSkhNSGxJR3ROckZaeUUzZEVOR1UyMWNmMHhUYWljMEEtTVhBdEp6a2JQMDhfQS1tZUliaEdBYjRtWXdMQm1oSDU2d2Mza0RDbkd5bEJjRUh2UlpKNVM4d2VyUGww?oc=5",
+   "src": "CNBC",
+   "t": "2026-11-01T12:33:53+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Earnings call transcript: TDK posts record H1 2026 results but stock falls 7.2% By Investing.com",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZV9KTF9wSFBINUNVYm9JeXFfYkFfMU02QW5XRmxOUWR2eUV6TWpwdlNJZ3JLVXJjRnIwRnNWUGZPQ21ybTJhNTZJRXhHbEl3TkhGcWRfU3dmOENaN1NzVGxqMktwbDlTRnRRbG5icWQ3N050aVlSRTNSNF91SjVCNF9uN08taHRZZjFCbDlSRUV6TENFdnR6eEhZV3hjczZaZDJCVXl5VnZNZkZXTHlYdjdsZEFPNl80UXdXcU53ZzVqbFplcHE0YVoyVHphSDdYTFlV?oc=5",
    "src": "Investing.com India",
    "t": "2026-11-01T11:37:25+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Earnings call transcript: TDK posts record H1 2026 results but stock falls 7.2%",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZTZibUJNdUJGRWJDUDFlRGxLeWxYcU15LTVxZHI0bGRtZkRkOFNwUkRCaHh6YVZOc2VYa1FWNHhvaEFReEMzTmh6OGxmY2k5WE85Yk9SS3hFTVNmU0xFaWhaRjdFeUVJSVMwWFFXVW1teDZtZzlXc2ROdmJqNGFRZkxib3dhanJRLUpYSkloR0JKUUZUSTVfbXpTMXU0VnhuVGFmWDEzb0hvNjFGTGROb2xIR053TXdWYlNGdFJtNE8yWm00amlXbnBMZ1llUW9pMTVn?oc=5",
+   "src": "Investing.com UK",
+   "t": "2026-11-01T11:30:00+00:00",
    "tags": [
     "spx"
    ],
@@ -2619,57 +2669,6 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ0hqSXZpT1VZTUNGSkRVSkVaa092QjVSaGt3ZHlpM0F6RENCYlA4U3A4V285MTE0eXp3aFNKNXVjSVVjTEMwbXE1aV95NFJHOFdxMElwWTBsZ05oYjdtWVlmZkFQNzlqMzV2cldpekQxZGVqSTJ6ZXpSc205THRQYdIBhgFBVV95cUxQSU5zQlBqM3NxZWNyWnU3a3NHOEMyNUFZdnh3WW9KOWVDNUh0Q3pIRUdkYzZoZ1lONi00cUF6NmNxM3FGN0ZYYzVoamo1ZHJ1LXBkLUFBVUFBREgtVWVEWFh0NTJnOGQ2T09TUmNpX3dFYjZRS29SSjlFMlk0T25DamNmVWtndw?oc=5",
    "src": "CNBC",
    "t": "2026-10-30T16:30:16+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Fed’s Musalem Says More Rate Hikes Needed Soon to Tame Inflation",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdldJX2pTRXJVUGVnT25uX2NIbzUzWnF4V1R0alZxTjNGa0t1d1ZmZko3dW5xcjhoQ3hCUUFOVURGcnNlZHNFc0dZNTVQSjZBQlVlb1NJeDF5VTlNT3BnZFBqTnhWdDVvN1hXQU15aVUwSVh5Uzd4OTR0dnA2RURLN3FSYVBoRThTREZuNlRYMlVnelZKMnpKbGZtcVNuZVZGTk5qdWtKazR0QzAzczl1RFVER05YUQ?oc=5",
-   "src": "Bloomberg.com",
-   "t": "2026-10-30T16:30:00+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin Dips Below $80,000. Here Are the 5 Factors That Are Impacting the Price of Bitcoin Right Now.",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdHpkYXNxMGlTeTdJQU5fSUNfYVZwbjdMWm9heS1NTmJoRkxmRTdpT2pmQW9KY0RfbU5wak01RkpjWU1RTG10Skd1ZUNxa2ZsNWRzSUl3ZnZBdnZ4U0JqTWdNb242bHNzNEVQZWdFWVAtakdmNHU4c2ZOX2d4UDhUa0NWQXpzRU5KZ0t4WEpPTEJuYTFa?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-30T16:15:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold tumbles nearly 3% to yearly lows as risk-off mood offers little support",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2ViYTVYRnltbDRIRHpqb0xTSUlYZU4wenVyVEhtR2Rjc093dm9FSXZxTG5fRHpSZjU0d3ZvXzVadFlQdWdOLW5BTjVHak1oS2I0SHhBdWFqNDlPM00xNXQ3X3psM0JtbkhkYnI3LVFlMkxld25FUXlQOERXVEVUR1lSbEdrWjlKMHp3VFJ3ck4wZlhoVmRIQlZ4RFo3Nmp3ZGJzYlE5RGJxcnRlUXhkMG9hUEZhUHBWWTF3NjF3?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T16:11:10+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "S&P 500 Drops 1.6% at Midday While Nasdaq Leads the Selloff",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHJuNk9NNTdJX25yOVVuc2kwdzhGX1dQdUZCVE9ZdnBJb1F2QlJGMGQyS0IyZkVnMjUwNVBXR3EzMWZEaHV4dzdpVXJIem8tX205NTQ3QWUtZ0MydnVBczk4aXIyLVlpQWhHTGVRU0RWSW1fUFZhU0h4WVhuUmhQQ2tOQ3F1MVNtYV84SFJwOXJEc2psTlprRURkcHNPVWhlQ0tsRmEwMHdNQXctZzZKVDhhcmlfUDZtV2FCajY3eEhHMzNWTVZSTnpn?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-10-30T16:07:35+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Fed’s Barkin favors gradual approach as inflation pressure spreads",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2liRktQYTV2RzllUDRlR004Y2FaaWVsVTItenFvNmYwcVBPYnlzazFYSklULUtISkMwSVhWMDlmNXJaYkdoSktIbTZ3bEtzZnhGTXZyVU5yWW5WWnRsVW9sRGYxQTlQeDIxZlU5Z3BrbDRxQkRjbVVtTE5FckFwVVc0UFRGU0tpdnptOUttUmdjaU1aaXV6R2Z6NVBKQjdiZGN1OXVzUWdWSlJW?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T16:05:05+00:00",
    "tags": [
     "macro"
    ],
