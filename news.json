@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T15:40:32.439851+00:00",
+ "updated": "2026-11-01T16:15:01.900621+00:00",
  "count": 250,
  "feeds": [
   {
@@ -78,13 +78,13 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Economic Times",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Everything changed for the oil, AI and bond trades over the past month",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55dmNrd1FhM2Y4WF9rSFZ5Tm91U1p6T0lkcDFtMjdSTC1HeW1nckRObm80bGNoMkIxVGMtenhNZERydEk0Y1Y0ZGNsZnhCVmR1UjQwcnE2cHloLVZDT3VXT3E3dzNnR2k0NFZtLTg0TdIBdEFVX3lxTFBvYzVYUk8tSlRXcDhuMVh4bU56TVJaRjNfc0pjcmctU1JPaUtmWmhFZzMtWXhkdGxRTlRYQ2xHblVGRVRUbXZleVh0UHJQUWdpazlKMjBxa1RRaGtPMl95a1hwUjMteUp2NzJIV1dPMTZOeW1z?oc=5",
+   "src": "CNBC",
+   "t": "2026-11-01T15:58:24+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
    "url": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
@@ -2659,17 +2669,6 @@
    "t": "2026-10-30T16:58:47+00:00",
    "tags": [
     "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "U.S. Dollar Gains Ground Amid Sell-Off In U.S. Equity Markets: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWFhpLXpSbDc1UmZ4TVhWbTJ5cUpiMTh1Tk5zdDFxM3ZBT1lMOGZPWlo0enhRbm1NNDdlTDJXNk5wc2FZTWdJdVJNWUZSd0pVSG90NGh2ckZ2WG90WF9xMm8tcVFpQXpUOHg2OG96TTNyMkVtRy1mODFMSFBiWjlJOGJxUXJNY2Zya2gwMTZPU1dfUzl0eDVxbFpmQy1iUHhXV2dmU1ZjNXBnalVzeFBtTVItc1g2SlloODFrZGNiOFBKazFBX2sycmlXTGRjSC1OaWoyaHRWdS1iVUp2UWktOHkySHJqRkVDYTNN?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-10-30T16:55:33+00:00",
-   "tags": [
-    "eurusd",
-    "usdjpy"
    ],
    "tone": "neutral"
   }
