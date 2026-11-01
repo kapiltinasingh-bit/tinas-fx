@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T10:27:22.915313+00:00",
+ "updated": "2026-11-01T11:05:53.495622+00:00",
  "count": 250,
  "feeds": [
   {
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 7
+   "new": 8
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,26 @@
   }
  ],
  "items": [
+  {
+   "title": "https://www.fxstreet.com/sitemap-cryptocurrencies-202610.xml",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oU0tWOGVrQ3RETmN0QUZ3OHFYcnZDT0NETmxKN0FoYVlmbWp5NmRQeTVPWjJQQVdESVZqVkRRdXdYM2xTN3VkdEZ6bXpnTkVUR2tuMzk1T0VNcUw4TlpXSVhEZ2E0MnEydnZBXw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-01T10:44:44+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdEo1eUpLMnZzX1NCOXkwN3daN3VkNmMwdG5QU29WTTc3Nk1wVWN5X3M0M2xRSE1iNVJUVUc4UlJtVm9MUTNIbTlPcVRrRXVITWs4VnFIYUozN0ZMY3RMd21Kc2Y1dmRpVUF4RlFUdVAxTGlseTIzTzRMbm96WlZRRlhudmdITTE0MDdwUDg3TmNpc2dwcEdKekNCQktubWprS3NDSTNhMmZrY0tfY2RVOE1tZ09LWXBuMVBDVWJSX3FkRzlkRU1UaEwyNmd0c1cwQkVIdA?oc=5",
+   "src": "CoinDesk",
+   "t": "2026-11-01T10:35:42+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Why your idle cash is quietly losing its value: Here's how to beat Inflation and get out of stagnant, low-interest traps",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRXc1M2ZORXV1WlhLNVpYSzJZVzlQeU1iQjZULVNYLW1KZ25jWElfZjVoWEpuaEs0R1IwWWxmeUs5Y09UQV9pdUtZR1VYYzMxcjFCdUptNTQ2WjcxWmZnR0l0cDZvRmpMWVRKT1dMTzFLUHRWbVJlaDU3ZlNmX0N1b0J1Y0VlcFQtcWxhM2hrUDBIcmtHMEVNWFlpX050YkpQX3VzUmJjazNaa1dRaXd4QUJhUDJ4VHBsZm5MRzlONXZ0aG5QSERWdzFsWnpUMC1SZFFnbzBObVZjZERXRHktei11VEMzLXVvWGJ1UnhFcDlPYU56Qk5nN2JBNGU1aEktMGfSAYICQVVfeXFMUEV3NTNmTkV1dVpYSzVaWEsyWVc5UHlNYkI2VC1TWC1tSmduY1hJX2Y1aFhKbmhLNEdSMFlsZnlLOWNPVEFfaXVLWUdVWGMzMXIxQnVKbTU0Nlo3MVpmZ0dJdHA2b0ZqTFlUSk9XTE8xS1B0Vm1SZWg1N2ZTZl9DdW9CdWNFZXBULXFsYTNoa1AwSHJrRzBFTVhZaV9OdGJKUF91c1JiY2szWmtXUWl3eEFCYVAyeFRwbGZuTEc5TjV2dGhuUEhEVncxbFp6VDAtUmRRZ28wTm1WY2REV0R5LXotdVRDMy11b1hidVJ4RXA5T2FOekJOZzdiQTRlNWhJLTBn?oc=5",
@@ -841,6 +861,16 @@
    "tags": [
     "spx",
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "The Binance hack knocked about $100 billion off crypto — and the timing has a familiar ring: Chart of the Day",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQzdNZjNvcnNNblFFeklnT3UtRVZMYU01UF9rQjRheUlkTkYwWkNZVUU3WHgzb0RLbDhVSFBVNmlvZ082V2MwRzc1REZmN3hWaDFXRHlRUnJoYzZCMFMyS3JUMjB3NUY3c2xMN1lBS3BRSkl2NUpHQ1ZyV2tkS0t5N0JLUU5tVThxckJoTm1ZeGdLNXJoYVdwemRySDFlcW1td2doSm9aeUx0US1JdlhLYkZaRGk3U0RCdDN3X05vOThPYlBiWm96dG9QcExZYzVTc0d2UGZRcXNhN05kQi1RZkZWZ0lPTVpqNWxNMTZNejlXWWJ5MW9lSlJwRDlMSTA?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-10-31T12:04:12+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -2643,36 +2673,6 @@
     "nifty"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "$6.3 billion Binance hack is largest crypto theft on record",
-   "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-   "src": "CNBC",
-   "t": "2026-10-30T16:01:51+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5",
-   "src": "Reuters",
-   "t": "2026-10-30T15:58:14+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Silver Price Forecast: XAG/USD slumps nearly 60% from January peak as downturn deepens",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWG9WcjlrUWswdlZSSlotQ0JWa0xQM3lubVkwVTdjTGFWRUxsUFZHQ3lOb3BCcS01U08zUC1TQmhWWjR6cmREakRhM0xWUTltdENnOGcxalhGTnptUU5lWHpSNWNIamt2eDcwN2RjN25YejZEaXRLWC1aMUFyU2xWTUZORXdLVllyaW9vS3lXQ3ZTNzg2Nk1TUzk4aWRWaGVXVnZ3TkUwQjQtRDg3WEZVdUVIaTF3SUQ1emt6dFJncEhCN240b2ltOWRn?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T15:56:36+00:00",
-   "tags": [
-    "silver"
-   ],
-   "tone": "bearish"
   }
  ]
 }
