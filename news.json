@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-01T13:05:36.991775+00:00",
+ "updated": "2026-11-01T13:51:10.371117+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 8
+   "new": 7
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Gold sinks to its 1-year low; can a gap-up opening on November 2 signal a recovery?",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM19qX0hVbXhhZHBSWE5mak80SlduQTJlUGh3eGdQQTFtNHdQOUJucEtoNzlWU3ZpOHF4anJOVjNhOHk4dTYwVHEtTlZQMVgyQXJiQWxZcFNFMVRpUWZqNzdCNExYajFnSjdleUtjZkJuX0g2Nlo3UXQxTlpHbGxsQmk2MmM4Vnlnby1VcVJySEcwZGhydWdtZUpVUnJfeDBmREdUXzJBb0pfRmRJQkxPZVZERm5FanNHTms0NVBjUWpENVZZcG5wdUNORVdLRmNyUnhLNzZGOUd2RW1DZmNWNUNfSEk0TE1xYnhV0gHwAUFVX3lxTE1hRlBKM01yek1od01sU0p6ZjBFb1BnSjg0SnRsUjZ1RU9VYjJCbEVWSV9mVFY2aXdBdHFSeXN0MlMzdWRETHk5YWZzcnppekd0SEQ1ajlxOERRbUFCOF9WVGUzNWtURmZWQk9TTnZrU3VvX19RTUh0ZDhoaXQtajN2OUh5N2xoQ1FQNVRkNUp4WWtmeW5GYUJ2dC11dXA2d2diTm10X1JtZUw2enZYZDZvdWpHeDBNaWFLZEp3Q2poaWtSeFNMNlR6RzFzX0xEbWo0bVBnUWVCU1ZLa2VVWDlSRHcxUzd3dlVXYzAxSnJ1NA?oc=5",
+   "src": "Moneycontrol.com",
+   "t": "2026-11-01T13:01:05+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Binance Hack, Bitcoin’s $1.6 Million Forecast, Elon Musk’s Emoji Clash and More: This Week in Crypto",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc3BUd0NpUFRreXZLNVA3TEJIZnFNMjZjRjFrcUFwb1JlMUJNcXhwUFBWMjh3U2wyQy15b0JZdzlUX0h0cmNSTm5IczFfWWd3b0RXLUNTMEQwNk8xNmdGSUFnQmFTbmY4dU9lT3dfU2I5ZWF6ODNNXzFrNXM4bFpYN1p3a1JxNTNTV2gwQTFXS0QtRVE?oc=5",
@@ -196,6 +206,17 @@
    "tags": [
     "spx",
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "BOJ Interest Rate Forecast: Inflation Keeps Another Hike in Play",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU25YOUZ1U192TlJqVExLak84V1NoUWlPVDEwUUJ4YWptRWN5djNhb0xLbHhZSE5CeUllOC1TbGFySHBRTV9hMDdVbjNzMlZnNjBOd3hBY25zYkM0UGJBVWNUV0dUUXpwVGJPSkI1SUlIM0VKb1B5ZjIzTDF4STV4Z05tQUJIRE9mQUVxTUZRc1pSQk1ueTNWOW9iV0xCVWhYa1kwT3BiM1lvSXRUUHpBS1BRbUo?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-11-01T10:57:43+00:00",
+   "tags": [
+    "usdjpy",
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -2652,27 +2673,6 @@
     "btc"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWJnbS1JeHBpOHJBSFRHSk5wZ2stdmFPblE5YTdvUmVsbUpna0JQdm5NNTdDVEVVLWp3ZUJVb0RxUGhKc2V1MU1xOG5vRnZMMHktZElrSGJwbnJ5U2tBZTlmenlkMGp6OTdaRTBsZkZCX0hmWHdLSGZ3TUZnOVNWdkFZU2pDSzdUMDVxODJ1Mkd1UEx5S1czS2xMWnRTUzRnM1RKaQ?oc=5",
-   "src": "Mining.com",
-   "t": "2026-10-30T16:30:49+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Fed officials are already saying they’ll need to get back to hiking rates",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ0hqSXZpT1VZTUNGSkRVSkVaa092QjVSaGt3ZHlpM0F6RENCYlA4U3A4V285MTE0eXp3aFNKNXVjSVVjTEMwbXE1aV95NFJHOFdxMElwWTBsZ05oYjdtWVlmZkFQNzlqMzV2cldpekQxZGVqSTJ6ZXpSc205THRQYdIBhgFBVV95cUxQSU5zQlBqM3NxZWNyWnU3a3NHOEMyNUFZdnh3WW9KOWVDNUh0Q3pIRUdkYzZoZ1lONi00cUF6NmNxM3FGN0ZYYzVoamo1ZHJ1LXBkLUFBVUFBREgtVWVEWFh0NTJnOGQ2T09TUmNpX3dFYjZRS29SSjlFMlk0T25DamNmVWtndw?oc=5",
-   "src": "CNBC",
-   "t": "2026-10-30T16:30:16+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
   }
  ]
 }
