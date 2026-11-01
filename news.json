@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-01T17:22:13.365045+00:00",
+ "updated": "2026-11-01T17:56:16.768236+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 6
+   "new": 5
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,17 @@
   }
  ],
  "items": [
+  {
+   "title": "S&P 500, Dow Jones, and Nasdaq 100 Outlook: Top Drivers for US Stocks This Week",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOclNxelBMcDBBRW54cnBIM2FpS2sycnNiYzJEaEQxcko5YnZKa0lQbTJ1b1FxdGNoR3k3U0JSb3FnSGJBYXN5VEpYZ2o5WVAxa28tc2l0ZEp0b0NaNjU3QzRMcENhUXh4eHZJZkhPMnFtNEQ5MkN0REtBdHNjYkJNX0NVQmJWN3pOd1lOMFRacEMyVEFIa1pVU0ZlVHh4U0ZibEt6VXpFUGlWRG1seVRqU0pRTnd1RUE0LUcwdGpiZTdDNTJuR2wtUDdvaUw?oc=5",
+   "src": "Benzinga",
+   "t": "2026-11-01T17:45:07+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
    "url": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
@@ -305,6 +316,16 @@
    "t": "2026-11-01T12:13:17+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "M. K. Sons Fine Jewels Share Price Today, M. K. Sons Fine Jewels Stock Price Live NSE/BSE Updates",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanYtc1dIaGtfM0syZkJRbXltZDBUak1sVnlvSGQ3Wm42YjNfSGxjcUE4cnc5UWJDbC16OWNHWFBsQmFUbnFTWGNiano0YWVuY1VpQXRIX1VRLTcxLVNvMVR3TjVUV2VPblRMdEpvaWxkS1EwZzlkaW1VMGdsWmRiQktHb2lwZ0FJ?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-11-01T12:12:36+00:00",
+   "tags": [
+    "nifty"
    ],
    "tone": "neutral"
   },
@@ -2649,26 +2670,6 @@
    "t": "2026-10-30T17:21:17+00:00",
    "tags": [
     "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold plunges, but UBS isn't budging on its price target",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdnBna3V3OWN3V2tsb0k4aWpTV0JUbk5SMUhBajNRQll5bkE0LWY2N3g2VGFuYUh1T3E2eWxBYWt6bHNfWlQ4VWFmLVduNWw4WDVmbVFPMkRYNnZhMGptMllhYWNOTHVLUUllZUR1c1hHVW9Jd3FwMDYweEpwbXFLc012RnE?oc=5",
-   "src": "Yahoo Finance Australia",
-   "t": "2026-10-30T17:17:00+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Serbia’s NIS oil company gets US sanctions waiver until Dec. 11 - Local TV",
-   "url": "https://www.investing.com/news/commodities-news/serbias-nis-oil-company-gets-us-sanctions-waiver-until-dec-11--local-tv-93CH-4988442",
-   "src": "Investing.com",
-   "t": "2026-10-30T17:16:23+00:00",
-   "tags": [
-    "oil"
    ],
    "tone": "neutral"
   }
