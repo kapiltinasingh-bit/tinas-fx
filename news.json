@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T07:38:45.887140+00:00",
+ "updated": "2026-11-01T08:26:00.576986+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Traders bet big on a December Fed rate cut despite a data blackout",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeURKZTIxaV9rSVNtVkhSTDVlOG9iMXpmRWpkUDhZck5sM3RHUjYyS2FhVGVCTXQwZEtnY25uaV9COGY1MXVTaWQ3OFNaTEl5NGdvLVlJNnpGN3pVcUdCZk4tcXB6YmxSeTNaR1JVdGtKcUprelVGWFd6aVhObXNpd2VjYzFERGxQZkhxbE81QVNXWmVSSVhla0VB?oc=5",
+   "src": "Startup Fortune",
+   "t": "2026-11-01T07:57:31+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Your Rs 1 Lakh Buys 25% More Gold This Dhanteras Than In January. Should You Invest?",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN0Fzc19SUXdsSHpScTJCSFlTYXhzbkV6enNyOHVRbXdiWWpnSjhQU3BfMVhEQTVDSWN2WHU1cHNxQl9tLUMyOVF5M212ZkJFQ2xhMjZLTEJMLTNaYXdqeWpPdmhtZ2FWQVFmNmFoNHl1WFlES1Y0VUVIUk0wZW5ZRDJhZ00zTnZWX2Q3SzY2eGpBMDF6N1M1dWgzQXBVdHFUZ0ltbC00VURldlpfVGF3R1JCMVB6YmtWMkhDOXFOTXBILTA?oc=5",
@@ -311,6 +321,16 @@
     "btc"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Bombay Burmah Trading Corporation Ltd. Share Price, Stock Price - NSE/BSE Live",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RZ0h3NS16Njl6bXFRVXM5QmM0cFJVWldYaDJyb2YxVk8zdUQ5UDZpVG8zTUFidEpKRmZyc1c0VUFWd1RHVmFrMHZXMFBmanh1cTBYTFUxU3VDNTJxTmtKVDVQLW91d0tNczMyWUJkbjRQZnNGTlZn?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-10-31T22:36:31+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "IFCI Ltd. Share Price, Stock Price - NSE/BSE Live",
@@ -684,6 +704,16 @@
    "url": "https://www.cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html",
    "src": "CNBC",
    "t": "2026-10-31T13:04:29+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Why crypto PACs are pouring millions of dollars into the 2026 midterms",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZk9pQ3dsVVI0a2dJQXBGNnhLeHJzZC1kblRxeFNQUHhaTlhPMV9lSnp6TFVMY2xXc1Q5czJnUmFFbUszblk4QTM2NXJHYkNTT25FWHU2dE5sNGtwMmhZYUhrX292aWJkaWlXY2ZiS0U1NHRQVnZKeGxNTW1Uc3FiQjRCQ01OTFAyZkQwaEZUZjUxUVJiM2FielZKdFZsQTBwOFBrb2o5MmpzX2lkUjd0TGIzNA?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-31T13:03:58+00:00",
    "tags": [
     "btc"
    ],
@@ -2641,38 +2671,6 @@
     "spx"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "European Central Bank faces 3-year-high inflation at 3.8%",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1AtYUR1emNsaXBZZjlQUEJwd1RQSFVMQWJtRVc0bnM1eVctaDRpS2szOXlDOV9odUVqV3pfY05KMlhxd0NCa216R1AwM212RXhwUWpLeDJwaURfamRtcmo2VVNFd1BKZlRBanJrZW1YblJpcjVzWVJpdVpUYjZWXzZ5WmtiR3gweW4zTmR6ZUxzTHF0YUJQRWlNaG04RC1XaXJwcw?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T15:39:01+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin and Gold Outlook: BTC plunges to six-week low as XAU hits one-year low below $3,950",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNk5fcHJUMTNTaGstZDBNN1FkbjJpTGtHcy1vMTVaTXpnWWZLYXJXUXR2Y1NMUjk2UERZcktwN0RZclZONVA1ZHBIQTJCWVJvamRMeHJGZTl4cnVLTXJtRzJ1d3JPMS0tV2p0S2J0YU1LRFFNRGhRUEFfcnFwbFRLTk42VFV4R1pZaFo3WUpSRVJJNGhsb2YxMm55QWpmVnJaM0VLS2FiTzRzVzFsVHFhNXJBR2Ywa3RqbWN4WjI0VGRWOU1jTFdOOXdOTzd4alV6c2YycnZWcHRubEVrS0EzWlp6VQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T15:38:45+00:00",
-   "tags": [
-    "gold",
-    "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Gold on a free fall to $3,900 — Bitcoin slides to $76,500 after the largest hack in crypto history",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVmxCY3FfVXkzQkMxV3d3WDhCbXA0dTZPX2d3OXRrQXhOX1c1eHoybWRpblRqRjJ3STVpQkpSd2ZOYXJjNWxjVkV0c01ldHctLU9GcDY4YUJhVGVQeUxwRkJpZmIzd1ZkVE5Qa2hKZS1zSTdjYmxLNUowNnpqY3pEVi11MWFGcVBqV1pGRU9NTnc0V2lCYVBBLXBqZk1Zb0tOVVNib2s2M2ZyWHZwMEdzT3lWZ3JjWU9OVC1CdEQxaXBpaUsxaFFtOTdiQ1o5cW0wWTJISWdoOUk?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-30T15:36:50+00:00",
-   "tags": [
-    "gold",
-    "btc"
-   ],
-   "tone": "bearish"
   }
  ]
 }
