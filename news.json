@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-01T18:28:21.194723+00:00",
+ "updated": "2026-11-01T19:14:23.736609+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -54,7 +54,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -108,7 +108,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,37 @@
   }
  ],
  "items": [
+  {
+   "title": "When support gives way: Gold and Silver's Friday showdown",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3NBMi1leTdtdXh1bDFnLUVzNnFGMmNmRVJ6Z2JMcVFtSHJ4dWlwbDFsOEduS01ReVh1V0pPX1p4bW9acHVyYi05RWhVam10bEcyOXBmRUNCc1FXM2d6RUZ4RWxYcmVXR2UzbXN2dUJJZDVGbkdGbU16MnQtUmpGZDJYdjRURnNrZWtOSkxacFEySHprVDV4UjlDVmxiX2pua3NSZg?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-01T18:53:22+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Silver fell with yields, not against them",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMXRNbHVUY3BTZVdaOXlwWG1EMkU2MFl0UG43MzdrWmREYW44WFdTWGNvNXBqbUoyU2hJYWtIZW5WNkY4M0JpTVFzc0t1TUVKSm9jODY0WWFrVnlrb2FpUlBQMkJVUlN3ZDdsR1otMVhsUVlyaFMzWDFoUlVHUmtwUFl0Vm1BdHRhTzZzc3hlSXQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-01T18:49:21+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "What Would Have to Happen for Ethereum to Reach $10,000 by 2030?",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMGZZcnprVGpVS3FLdGVxQmU5LVdZMUJKSEhrcnhhcUhKNkVIa0pyZ0pTRjdkWDlBZW5ZNUtBMFlJbXJ4cWZkeEsybEVsX3kwQnRBZDhDdUlhRkt6M3g4YmV5SzlJNnctZGFmVUtqM2JlZllkLVBOU01yREpydFltemNrYUVScFhtaVMtMFhSZzBZbkhNNDZfYXlRN0lNcWR6d1RKd2VkZGw0NnlJdTRnbnAyQ1ZXVS03SVFUTQ?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-01T18:27:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "S&P 500, Dow Jones, and Nasdaq 100 Outlook: Top Drivers for US Stocks This Week",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOclNxelBMcDBBRW54cnBIM2FpS2sycnNiYzJEaEQxcko5YnZKa0lQbTJ1b1FxdGNoR3k3U0JSb3FnSGJBYXN5VEpYZ2o5WVAxa28tc2l0ZEp0b0NaNjU3QzRMcENhUXh4eHZJZkhPMnFtNEQ5MkN0REtBdHNjYkJNX0NVQmJWN3pOd1lOMFRacEMyVEFIa1pVU0ZlVHh4U0ZibEt6VXpFUGlWRG1seVRqU0pRTnd1RUE0LUcwdGpiZTdDNTJuR2wtUDdvaUw?oc=5",
@@ -724,6 +755,16 @@
    "t": "2026-10-31T21:21:49+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Check out Amundi Core S&P 500 UCITS ETF USD Acc's stock price (SNP6-GB) in real time",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94LXhod19VNU5pTU5CejBXbGxLb2l2V0RmUlVjTFE3eks1NTg0QUd0bTlPMnBMdVNxaF9ybW0tOWU1Q2Q5WkJEV1JBbw?oc=5",
+   "src": "CNBC",
+   "t": "2026-10-31T21:08:18+00:00",
+   "tags": [
+    "spx"
    ],
    "tone": "neutral"
   },
@@ -2628,46 +2669,6 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdjNNdkw2ZU5oS0lBSnFFNmpCOGZtbXh4cWVIT3J2Wl9sZzJ2LV9LWC1pSnBsN2E3bEZ0aDk4N3BUVXF3Y09PbzhKci1scTBIMHVJQUdoejdGd2xHNWdSQmpTenl5NEdpTW1udDVSdGd3S1ZNelJiTXJMZ0JLZzBta2FfbEM4UGZKLW9sbC1JOHJ1X0lRTENkaWpWOHA3Q3QtdVcwSWN6Nk9QNDhGV1NhakdvR1ZvZw?oc=5",
    "src": "FXStreet",
    "t": "2026-10-30T17:41:18+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Rates need to be higher, 3 Fed members say. The question is how much.",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDZEZjlNVkVmT3QydUZXYTlkOEs5dGxCSHBqb3VKVWJwVFA3dVB2MTh3NDk5ZWxVdTdaOUlrZUQycnp6OEw2MXNwSnVTaGZmdjNJYWJHdl90YjBNem5SSWFJSFNsRmQ5bC1kdnVXSWFDUmt3S3BPSzhGTkZYZVJMdUQ4dzZicFhEOHZKRnFfWGxWR2xERzJXX1FSOU5pQVhpSjRLY0lEZWxnZXc0a1hSSmpJX1VqMFY3NHk4X1FBdm5hQkJHbUNaOW1n?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-30T17:37:55+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Why Bitcoin Is Down Today",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMVcyNmRaYTVGcDd4LTcyTFJtOUNVZGpRRC1paS1peEVCMmFvbUVNTjJPNlJJa05BdWdjS21oVGZTaFgxLTBJc3RkWXcwTW1ZdEhJeXRGZnhtMFRJZWJEMXVuVzJRLUI1YWlyUVRiZTVaUWdQQkEwb0tZaGhsblJSWS05dzU4azQxQk9uZzQ1UTE?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-10-30T17:37:04+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "5 oz Silver Grand Maple Leaf Coin (2026)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa1Q1Zjc0dmFUcFo2MEZzMmVndXN5T0w2eUVTb3NWZUthX2VqNmRJd2NKcmVLa1daN1hyWFgxd3NlUFdzZHdhMk00Z055dkF1MndJNl9TamEtQUdsMGFVa3NjX0tYVm85ajVEQXg5bkFvY040MVpzdFYxWUR0N181dmVndDZQOHo4?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-30T17:32:22+00:00",
-   "tags": [
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Fed's Barkin says US central bank's direction 'straightforward,' the question is pace, SiriusXM reports",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQWdBOFJUQU5HOHZiZGZ1TTZDTUJaM1NBS1o5Vk1TbzZSV21USWV3ckk5WkpMYmVuekREYkxfR0FZVUZSWkdBSUUwSW14TmhBV0JuMEhicWtyNU9WZFFITzU5M3IwbC1uZVF3RGJZV3RwLUxURy1PTzFqbm1PeFNScnoyY3dFNllFWE4yUl9ySFBvQWtPUHRCRTNNOVF6MVlpX29iVy1GZVBjd2gxWmxrTnJnQmdyTUxiUV9Z?oc=5",
-   "src": "Kitco",
-   "t": "2026-10-30T17:30:02+00:00",
    "tags": [
     "macro"
    ],
