@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T21:31:04.138826+00:00",
+ "updated": "2026-11-01T22:14:01.193433+00:00",
  "count": 250,
  "feeds": [
   {
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -208,6 +208,17 @@
    "t": "2026-11-01T18:27:00+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "It’s No Coincidence That PEY Has Doubled (2x) The S&P 500 YoY (NASDAQ:PEY)",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWm83T2ZaQjQ5MTJTZGVETXhfVFByN1RVVWpIU0ZnU3IyVXA5MkI5bzVTNC1DQXgyZHVXRTFLcGxFRUNKS05OenN5STVoakJ0T3BBYWxXNlFPaXZLc05kMVFtSjgyQ1FJbW41VDJBa3RHXzRkVnVGTzIxc1pYUUFtUkZxUjN0OEItcUZucER4Z3pUYy11YVNNTC10dDVlT2FWRjhER2l3?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-11-01T17:46:49+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
    ],
    "tone": "neutral"
   },
@@ -2663,16 +2674,6 @@
    "t": "2026-10-30T18:13:07+00:00",
    "tags": [
     "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaF9ya09COUkxYUpqejFnc1JnYThRdVlSMDhJWjJKSU5kU0o1UmlhbmE0Z3F1cXVMT3pSTEtFcDd3VS1kSUY0MTl3NnBvY1dnQ3RQanNnVWItOXZvNTlaZEtET29NR2ppTzlQWWNpcnBZVHJieTFpenpFT0RQTXEwMzRTUjladnYtZm5UZ1g4SHBIZ1lUd2NwbURjZmRSYTU2VzhVeS1FLUVNVUprU05ZQlBhTXBXcXBadzI4WmlHYVVCZzdRVEVEN1hsVQ?oc=5",
-   "src": "WSJ",
-   "t": "2026-10-30T18:13:00+00:00",
-   "tags": [
-    "macro"
    ],
    "tone": "neutral"
   }
