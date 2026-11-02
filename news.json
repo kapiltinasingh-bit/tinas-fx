@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-02T17:47:06.735273+00:00",
+ "updated": "2026-11-02T18:42:35.716563+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 7
+   "new": 6
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 6
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 7
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "CNBC",
@@ -119,12 +119,84 @@
  ],
  "items": [
   {
+   "title": "Apple reports after the bell. Options traders expect a big move",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVlpFbzQwU0htUVNpYUcxWWhsbjFiOXdtNzRGUmlOUkJUVWlJV3ZEd0pZaDFFeUMxcmM0T0VXaHFPa0FZZ2t1Snh4dm4xalpVZmpqa29JaTZRaVNYVG5ud0pfb3pub0FzcVR3X2dhejhxNk93OHgyekEzM3pvN3BYMlhMN3BkX0ZINUF4RFdKa2o0UWhPNE5BZGRVQVpBR21f0gGmAUFVX3lxTE41TjU0OG5oM05palprcnhiUHpVSnhYaFgxWmNlQjFHTmpGc1prN0wxWVIxeDdZc0J2dEZrZUF3NC1fWm1pYWM2REdZdEJvck1VZWFhaEdHRGVuSHk3eHlRT0FpUVlWeDJPLXRqMmdJSzdDMHpKNnE2VDk5dDF6WklIRi03YW50b1hHelliYkJxWGVaTU5QNnd6ZnRyaFRrOEdva3FJM1E?oc=5",
+   "src": "CNBC",
+   "t": "2026-11-02T18:19:03+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Options traders are getting anxious on Palantir and Apple ahead of earnings",
+   "url": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
+   "src": "CNBC",
+   "t": "2026-11-02T18:16:02+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "It may take weeks to tally the midterm election results. Here’s why Wall Street isn’t worried.",
+   "url": "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-11-02T18:16:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
+   "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
+   "src": "CoinDesk",
+   "t": "2026-11-02T18:13:57+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Rebounds As Oil Tumbles",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWE56dlU0X1ctNkFUYWNtMmotQ2g4b3lxUUlTbDRmOW5YZ2lGZk83OVlwZHBqdzdOaUw5aVpWcHlKUXJZazBUOTZpWlVvbk0wRlZyeWM5ZHlmRlc0cmZwT19Bb1hVM0x6dTNiNlBORkZzYjNrR0Z5WnNUSnpCOVVDLWFjZ3V2MFRjbm5yb1BWclAxemg2MEd3R0VtWGNlVGFTdTU2SHVMMWpDMVJwVEhOMm12N2x4MzNn?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-11-02T17:54:56+00:00",
+   "tags": [
+    "gold",
+    "silver",
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Macro Insights: The AI Selloff, Hyperscaler Earnings, And The Fed Pause",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeFFVbjhZNjB5ZVNaODVjUXQ3cXRUZDB2TU1ZNWktZzlIYkctRzZFNlJHUWhmT3g4ZnJCRkVJSzBLM1F5OHVwMnhxMUQ4dTlfYkk1ZzVrNktLc0laZmxBNTFuanZ2UkZaMXdJMkVzcGlXYjFrTEluRlVYbXk1QXVhdjJkNndVWlYyT3hBUUhkNnl4WktfdVpUYnU1dV9ITUNucGJON1UxcGtaRGhPMXc?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-11-02T17:30:00+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
    "url": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
    "src": "CoinDesk",
    "t": "2026-11-02T17:21:04+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "The midterm races Wall Street and other financial firms are watching",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVkpxUklFUTdCSkhiYTVScExzTDk2NGdyN1JtaXh1bjZTb21RZTd2eEs5eGdlSkI2R3VMdzZITk55NUg0VEkzM0MxQ2lFajFSVXdob052ZG5JWU51eUlRV3dTMEZYNjUyNEtCRG1GMjFHQ1pRSEVQX2lsalJIUHM2R05wTHBvbTZqUU9GU1QzU3RMclU3dlpQODViTzhDTXB4Slc5SGdheHVmZkNMOVFMYkhGQzg?oc=5",
+   "src": "Reuters",
+   "t": "2026-11-02T17:19:38+00:00",
+   "tags": [
+    "spx"
    ],
    "tone": "neutral"
   },
@@ -694,16 +766,6 @@
    "t": "2026-11-02T13:13:35+00:00",
    "tags": [
     "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "The midterm races Wall Street and other financial firms are watching",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd1dxakdKcEVKVnpvQjh2U1JBRHJHWnFrNnN3alhOcHdvMWJhM2tqLWNOYU96ZEZmQVpiYUd6MjZnVDlhT2VQdmRzbk50M2htbU1FYy1henp0S1lJRnBUa0ZzUUlKdGNRYWw2UGdwMVltRDd1OWV0RGJhYUFOVk5tY3RyMjROaVhjd29MOThoTDVoYnB0Wm00eGhXY3I2RFFBQXhWMmVRX2p0VnJhaTVIOXJxRkNmUQ?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-02T13:12:40+00:00",
-   "tags": [
-    "spx"
    ],
    "tone": "neutral"
   },
@@ -2560,6 +2622,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Binance clients pull $4.7 billion after hack as crypto world studies fallout",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXY4a011WkVOZHRKb3FKU2lMRzNwbGlwOUFPWFdMWVcycnhkeVd2aDZpc0tfclNqYTFsS1lkR1JGT1dqYXJkU1pIeDhITThrWm43QldpMFEwNnItS0k2a1hSckF4TU5rdlkxMnBjUnRfTThHY1AyVDlkaFFrRElKOUppaDU1NXg3a0dEUmY1VWtCNDVKM3pHLUlyOHV1TjZHdElqRUUzR1g5VThQcDYyV3NQSTNkYkFZMEVzM0ZHV2dYRGFsV1NLWWpWeGxyQQ?oc=5",
+   "src": "Reuters",
+   "t": "2026-11-02T01:53:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade lower",
    "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hcl-tech-adani-green-share-price-02-november-2026/liveblog/135442032.cms",
    "src": "Economic Times",
@@ -2606,81 +2678,6 @@
    "t": "2026-11-02T01:35:00+00:00",
    "tags": [
     "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "FUNDVIEW Indian stocks may recover on steady growth and earnings, Axis AMC says",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjliWTZBa2JoY2lIVm5QYVVjUmVWVXcyRS1JV3htNFprNHFmS3ZYUmdYTlczQktVUGgtOFo2d1p5NGFfajRIeGxHZ19DZXhSWmgtSG1RVzhfRWJ2Z0RQZkFhVmhxd2cyNHczMnVEUFY5NWpGdHZmbjlmTUZtN3c4WThkSEp2T1EtZFZHX3M1SklnVjdMWEpxeGRoZXg4VG1qb1YtcjRqMlBiM2dvQ19OeXdTSGs0OG9YdVRF?oc=5",
-   "src": "Reuters",
-   "t": "2026-11-02T01:34:00+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Stock Market Today: Gift Nifty, Tech Stocks Selloff To Oil Prices; Five Key Factors For Sensex, Nifty 50 On Nov 2",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZ1ZLTF9TSHA1V19ZM1E4YlZEU3VUek5xaVNZcFg0MTljUTYzTzZxOS1ma2xYZjExV1g4NEtxZlBlU1hPaWhsMmh6WUZzMER3eGZqWUlla3VkdkJlQWR5MDlhNTJJSHNYaHVRMy1aMUduU2FmOVlUazNWY21BdXlrXzBlQ1lCaEdlUk1GcFd6ektBbm9CeFEyenNBaGpBMWxCcVdtQ1NETnVvOGg5T3IteUdPSlEwX3ZTZm5VS3gyR3o4SWFEbHFUblpJc25SLW9ySnJxRVM2Y3l0bDA5T3N1Z3hjemtFS2ZSVDNDblVSU1EzNnpyd3ZNQjFKdmZSZ9IBhgJBVV95cUxNN3hEdE5ZaDVDdlFsZVhOYldBR2FiVzZfc0FISTd3TVNwTEJONGkxVlpuWGtJQTRwckRETlBGbkJsTnd0N0xnTGZUem1pcmx6V0xoRi0wLVB2alIzVkNRSHlHbTFyZGNLNUtRd3pHNzNhVkMtSU50dkZ3ZnR5NXpNNHZaWGxGRzkxbXlSa0pILXpoVjMxZXU3RlJsdTBvVzVQdEI1by1NLV8wRTA4RjhVQ1JNWDJYYlU4MTg4aGVLejBLM2ZhTjFtRGlKVmsxc3N1VnU3OG1OeGVrWV9uWGtLN3p1eFlZYklqN2VuSlMzU2M5WVBuS190eVNKWDhnQkpib01BcHVB?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-11-02T01:29:17+00:00",
-   "tags": [
-    "oil",
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Oil falls as Trump favours Iran diplomacy before midterm elections",
-   "url": "https://www.investing.com/news/commodities-news/oil-falls-as-trump-favours-iran-diplomacy-before-midterm-elections-4989799",
-   "src": "Investing.com",
-   "t": "2026-11-02T01:27:37+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Stock market outlook today, 2 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTlFfOXJmNXYteGRXMGlYQkU2QWtCMlFRbWF4X0FNa05FYlFSbldpcU1xWUlEOEFBN2ZnQVgzU1BUUHRYYm5BZ0tNREpnY0d0Rk50WlktMUxIOEVVUXl0czc2UVJZcG0yeUc1U0JBZ29GS01JeW1rNkpjWk42RDFNRXNLc2x2YnVjcU5rUkpXZmdTS19pY21QdXdKb0V2X3ZraTQxT3lWT0pRSUlJWG5VRVRyc202eDJMZWhaSGw5SjBWUExkZFkwX2F5N252YUcxeWxsUTVQSVhxQndVemRBWm1MYnEtQ0xWcGVSRld6M09tY1UzQzZlUU5nR2htOUM1LWdv0gGIAkFVX3lxTE1UaV9xRDAxeW9XVEtUWW82NWRuVFpVN3gxaXktLVBtNVVoalBkX0hRMzI3OFA3RGNRMkVDT3MzdWxZX1N4Q24tWVJQMnpsRmo4ZU5OemVyNVFPeVNNbTkxdktPZFhwYU1icmtmWTlma0dzWlhjREZBeGY0djVGYWFDVHVoTFhsY1VkRXJiS01BUGRkSlFhV1N4Y2h2ZlRPRG1ZTGZZZGJRalJEVUxmc1F3NXlqaHM0N3BJRFVzLXhaQjkwa001YUxiQUZxY1VzVVp2bE5zNGQ0aERLdVJjWjdxdm5aUmVvcXdjV3pRaEl5VExpOV82d3BsNzdnY3A1c0dhd0lpWURoUQ?oc=5",
-   "src": "Livemint",
-   "t": "2026-11-02T01:22:54+00:00",
-   "tags": [
-    "nasdaq",
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Euro edges higher as Iran diplomacy hopes weigh on USD, PMIs in focus",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR25HWmpQa1lyNEw2QlZTSzlSck5mMGl5LWMzc2JjZHFnWXZhR29SMUZQNHhleFF2dm9xX0lKd2UtandlS2VoWDdELTA0MmFoQWZZZkExRGMwaHBYUmFPdTJLeHVjamlLd0RsMDdpR1dJUHY5XzF4cV85RDhGcDltY1VKSl9iczNzQVpHTEs2V1Bla1cyRVllSkxuYVdKdnhhR1l6X2ZMV0NTUmp0ZkZqX2NSdXpuSGJ4REowVjlCRHdnQVJQQ05oUFlUaw?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-02T01:17:44+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold rebounds 0.7% as oil price decline eases inflation fears, dip buyers step in",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV0Ewa0FnbDd2dnZIVlhVRkxUUXdVMTcyWnVSSWFHUV9RQ2FFd3pqekNGN2FYX2tNUnNRSVp2aWNQQmhLaTFUZ0xabHdQZnRtbXM2RXliaEprTGxkdWd3YVA1V3dTRmNuX0JEenBRdUR1eHVmU25pUE56R3Bnb0RnN1JpRFl0TTJ1WlJvdXhrSDNtRXB3TFVoR1gtc2d5QWF3ejF2eXRHNDZqcHNiRHd4R296RFVNZlhGaUdOV0hhQU5lZHN1aU1jbjlGZEJBeXFtdGxGRjFKdk0xTEV4OFJkRGNn0gHiAUFVX3lxTE9XQTBrQWdsN3Z2dkhWWFVGTFRRd1UxNzJadVJJYUdRX1FDYUV3emp6Q0Y3YVhfa01Sc1FJWnZpY1BCaEtpMVRnTFpsd1BmdG1tczZFeWJoSmtMbGR1Z3dhUDVXd1NGY25fQkR6cFF1RHV4dWZTbmlQTnpHcGdvRGc3UmlEWXRNMnVaUm91eGtIM21FcHdMVWhHWC1zZ3lBYXd6MXZ5dEc0Nmpwc2JEd3hHb3pEVU1mWEZpR05XSGFBTmVkc3VpTWNuOUZkQkF5cW10bEZGMUp2TTFMRXg4UmREY2c?oc=5",
-   "src": "Moneycontrol.com",
-   "t": "2026-11-02T01:17:23+00:00",
-   "tags": [
-    "gold",
-    "oil",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Asian Markets Today: Nikkei, ASX 200 Slip After Wall Street Losses; Brent Crude Near $111",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcjdkNnBuV3NhVlpDX2lGZmNVdDc2bklic0gzOHNZUTZhWllZOGtndnlQQnlJeVJJX2M0RUoxZjBwS2lDcmZJN0NHWXp1enYxZnpzbk5nYXZ4MFZZclBDOW4yNC0xMXN3S1Q1RjhtYThncUZXT0hwWnI0cjlqV19uc1VHd2ZzZDZ3QzFwbXRneFB4WGphdHlhNGswZW1QelhFQWp4bXFmVlRneWoxbW9WaGhDa3lrNHBkNmhqVnZDdWZKQWNsSjZ4Z3BMQk5KNElFLTJGeGNtSFlZODV4NURhY09vc0l6UWlvMXdkYXJhRFpuZDREckZfRnN0ZEJrc0J0dWM2NUtELXNEcGpiUWfSAZYCQVVfeXFMTlZvZTdycVozajVPb0h4MjRKM0NrVnpmdUI3MzZZc3JEcHRmVFBPUmFfcGwyY25xRXZIaDdkNldHQ1FRZ2N3c1J5dW5Tc2VDNHRSczNKUExqQzJmaTlOdnZQdXZpOXBMZWVFZ202c3d5OWd3UTJpbXNhTHNxZ2h4dy1wS2p2cDAtaThxeW9TUFVyWS11TXZOdzhJUWItbUZ0MjlKaTlHR0FxdXZqRkZRV2JzU0dtXzlpVmF1M2xzbE1ldF8zeU8yeEJXOGl3SmVFUFE3WjctdHhjY3JMSVFWZ3VrczFYNXBKTWZ6bW9QdXp0UHI1QmNqQlg3dXR0bzRZWDJQamhzSGM2YjFBLW02Q3JsQkpEamc?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-11-02T01:17:00+00:00",
-   "tags": [
-    "oil",
-    "spx"
    ],
    "tone": "neutral"
   }
