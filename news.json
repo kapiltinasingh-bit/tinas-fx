@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T20:24:25.826563+00:00",
+ "updated": "2026-11-02T21:06:38.617918+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,13 +12,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 7
   },
   {
    "feed": "Google News",
@@ -108,16 +108,57 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "ICE canola futures rise despite drop in soyoil and crude oil",
+   "url": "https://www.investing.com/news/commodities-news/ice-canola-futures-rise-despite-drop-in-soyoil-and-crude-oil-93CH-4992655",
+   "src": "Investing.com",
+   "t": "2026-11-02T20:22:14+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold and silver selloff is the buying opportunity of a lifetime - Bawden Capital",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFJrVGlmaVNZVmZJdHlMQ0twaVM2N0VUT3A1OEE1clNzbzd6eGFySzRZUjdHcWx0YXpCSVBveVlrYzVxbUpDYXRWdXZNT3A0a2NjSGsyb3IxMEthZ0ZQclZUUzB6OW1mbC1heXIxRkFWVmcxM1JFdTNUVVh6UlRXSnRSTDJCQ2NNUUNrRk82YUNjLWZRRnE2Q1RoYnlKUjZwX0FPTnV0dDRIWVhpdk9BTk5R?oc=5",
+   "src": "Kitco",
+   "t": "2026-11-02T20:20:05+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Gold bounces to $3,950 as US-Iran agreement looms, eyes on US election",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTBkTWpZSWEweUs4MnhTOExHSzVYcWhvR05LM2U4d3dQRnotZTlnMnpsc2VudEJ5RWRpb0hSYlp1Ni1mSVdPcjljUkJoN2NtODZHQzV5ZUh5cWVzWDJtODRWX0RZdHZvWUtrMDhtUldjOXB5NUxfTUZzUGVKZ3FIV0RxNjNPeDRXRXh3OFRmbkdHZDZVd0tvU0w2NnVqcnBocXZkNTdxY2c5UHFZ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-02T20:13:41+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold’s Close Below $3,900: Why Some Breakdowns Don’t Pause",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS1FSQ1BmWHItNlM3S1BiZ3RzZHkyQVh5MHhiaEl4U3NvV0N3cHB3U1VsRm5WTVB0UVlWOVdheTc4aEJMRWFKanNvV1hPUFJibXUwN0xjV3NONTBHQlRJeWZrMGFBQjhiTG80TzNscmF6TkNBRG11ZGh1T1htQnU5TkRwSnlPaWtjNm92aHJNazNjbEhjbFZrUFY4aHZmcW1xREZZUUREdw?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-11-02T20:02:40+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "El Nino could add to US inflation pressures in 2027, San Francisco Fed paper warns",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdVlCdE9yN19Gby01MHdxSDNoUkg2SmhvMkN2ZjJZUW5NMDlPMmhtWG5ERDlIcmF4ek1fNklmYjhLaVpEbE9GNXBkUV83T1dXZ0VxbUkxNE12NE83VlZVbERQdGtlbGd6c3RUdGY2Q1NlRmN3dnIybjY4OWRnM2FpZHFuYll6aEZpakNJWXdOSjJrR0JJM1Q1dlpqM0dhSGU3cF9Xd2NwUTNvN0dKRWlWMVFPbGtuLUlKTDIxb3ctbHBwcTVfNW1lRWJDcHY4Ti1CSXpQTFQxclpBT05IdERYbkM2YVNDWHAxcnoweUZTUEk2ZnhhUlMyVUx2TnlfN2lB0gGGAkFVX3lxTE5zNjdGTjJPQmZHNHJGcjhMWkZXUmdtU1dPYWpDNUctRmVCWTVaTVlhdHotOTFXVGFlR3cyZEI4SHFhb0pQNUJ3SDFFSDIzbUhSSGxkYlQ2dW9jQ0xyVFdfXzlWdHliREFUcXRwcHk1VnMzMU1wdG05QzZnV0RSbnVkdC15c3djMnYwR0M0a3J0bFRJSWkzSVlJUTlxbjV2LUQwdVA0X0JTQnY2RElyc1JaU3VpWnExaHBkbzJDUmJMRWFkVndMbGkxbkxWeWVmQVhldExLd0trMEJJOXc5LV9TVnRUdjFHZ2JReTJsQVpFZXBBTlozRlhXZkM2UWNLRGNKVzRIcGc?oc=5",
@@ -159,6 +200,18 @@
     "btc"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "SoFi Stock Rises as Oil Prices Calm Inflation Fears",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWE9tMmYwYkFPOFpJVm80a0pNenhkeS1SUXFBRENJclR0Rk9UT2lNSi1oM0IwSlE1ZjF0aW5jbUI2Y3R2R2RrVGpqN1ZTNllGak9tbHNoT0hBSzdiOWNNOW5Qc09OTXhVSndCY3BIdml5NDNuT0I3Qks1YXhuWTZEWG9kdHh0clJyanZucUN1OHNZcnhOY0I4OXRwUWFHd2pWWm9TZmlEUmY4V29tMFU1VnZR?oc=5",
+   "src": "Benzinga",
+   "t": "2026-11-02T19:03:33+00:00",
+   "tags": [
+    "oil",
+    "spx",
+    "macro"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Apple reports after the bell. Options traders expect a big move",
@@ -219,16 +272,6 @@
     "btc"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Gold’s Close Below $3,900: Why Some Breakdowns Don’t Pause",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVk9oVmlaZmdXb2IwUnRSY29sMXpkYWItaDhuclBqYXlDek9VV0lPbF9nRGpCRUY4d19NalF3dTFua1FPSm56Q25sZGhQbktfSmZmalpZdElvSENHVm42MnpiY3g2Rmh6UTUwbWxGWnNtM1psUDQ4UHJpNXRjWW12S1R0N2FUZm1qTzNmaTY3dDNVOGw1T2dFYmFQTWlYTlU?oc=5",
-   "src": "Investing.com",
-   "t": "2026-11-02T18:05:58+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
   },
   {
    "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Rebounds As Oil Tumbles",
@@ -518,6 +561,16 @@
     "nasdaq"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Apple stock price down: Why is AAPL share price falling ahead of earnings call, iPhone sales report?",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUU5jd3VSQldENHBxS3RiVHp6YVZCLTlUTWdPeHQ1TWNmbjdkNDAybF9uRWpidHZuNGx4Ry0yb3ZoRy1nZmE0SVNKRDlaZDVpbTk1TUp3ZE5kOEhqMENvYkdRSzloTmlIcHRGQzhxYUlLVFVRSG5zclk2Rlh2R01STzVYekxpcVo4OGp0NW9IaEpQWEhNNGYxaWRKUGEtUENzbktpX29rWDlVMHpZSkJOZXdzaExTNGZyVmFHUU43ckw1Ri1ObEZ3djRTQk5CVVFTU1YwYkJjbU1rSlI4eUpXWmoyNUhES2dMQWFERElNQ2IyVWgteVVhT0M3S08wWkwyN2REYVY0ONIBjAJBVV95cUxNdVpzUDZZR3Nid2ZBZUdsZElXMEp0RXVPQlJZM0dQRklaOURjdHh1LVduRWIzN2FqS2ZZQkNHYXpNWWhxMTlmaEsxUnF3ZVJTVDZBUUhkcHZySm5mNlUwWDNWN19RaVJBdkZPdzRFdkZoeFpDTEUySFRfT21keWsxblBsN1l3dHoycURjbUZBUTQ3dUgydVZWcWJWSWZPZ2dQZEZyMWdzV09KYXpaRS1ZVnJyQ3lVX2p1OFEtTWR3b0ZvQ2MycEdjbEplejU5UGRLeGprVW9BbFVwb0RLb0RUNmRIMVhURTNrMzV3MGJ3dHAyQVhNdzRVTXRNWThqS3NuQTdvNmFWZFl5ZmRG?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-11-02T15:23:13+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Kinross Earnings: Stronger Gold Price More Than Compensates for Lower Volumes and Higher Unit Costs",
@@ -2631,58 +2684,6 @@
     "gold"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Gold, silver prices rebound after weekly rout: Is the worst over for bullion",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQzhBLW8tVzJ3ejV5TzloR096cUJGRG5TVUNHOEFBVVZoSDRmMXJac0RhSl9oY20zTG5KU085QUpuQkFYNUZZME5MZGN4S2gwazBfQUd3dUtDSmI2eW45eUpqclpjNlh6aXAtZHZGVUtubzRBWnpTTWtBbUFXS0RwLXc2NUVhNVRtWlZCRnF1MC1KX3RwZWJIM2RQbFgxX0lrc1JoTDkza0x2UC1nTzJkRTd6V3JFanlXcWxSN2loU0TSAcYBQVVfeXFMT29SRmJtWUU2S09LUnM2b0pQQ3ZiOWI4VGdjdVRmUWhwamRObEhCZGNOalEzRUpIV2xiTWNCaUNEelptMWZTeXpLSEVYa2EtWjlMeGVvMy1vZDd6RnJQWHVHMGxmdXBTdWpJbEJwYXRuWGJjT0JxSENIUlY1TWNMUlVIa3RZMkpiQzdYejNEQmNtR2lIeDRPaVQ2V3ZOSFk1SGFZYXVrZ1BjRkplOFpxTmJhT191VE42Nk01WG44bUh2aGE4N2RR?oc=5",
-   "src": "CNBC TV18",
-   "t": "2026-11-02T02:11:23+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Indian stocks may recover on steady growth and earnings, Axis AMC says",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-stocks-may-recover-on-steady-growth-and-earnings-axis-amc-says/articleshow/135442150.cms",
-   "src": "Economic Times",
-   "t": "2026-11-02T02:09:23+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold lingers near one-year low as Fed hike expectations firm",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc0stQmRaZjlXeEZEQVUzNG0yU3NOY3NvVVZkSjlYc3NMM0t2MGhHY0VZR1YyR1dJN1ZxRVdsUEczZGVuMXJuUE1xRjlfa203djY1NWp4dWgyd0xKbGwtODlJbmU5WGtBWDhTUVF4a3J4TTZIQkNzb3ZCOHYyUHNxY1JDeFJ5QS1xOXNpVFBHeTZXcGNIaVk5RC1iRlB3S2RyZkxnMkVFdl9pY2ZLdzE5NTJjeEV1UkxpdFB0LUswbzM5T0pNdTlnR3lINUlaak53a2loejJR0gHbAUFVX3lxTE1wX1V1VVc4LU8ta182b3h2RWdHSC1FamZvaF9kQThGRU4yQUtpR0VIRTI5aFBjV3I0cng4X3BiRkl5Q3RGRERQOHQ4ek1ONWhvVm9uZDFCNHg3c09ERjZtc3JMYVZ0ei0zaTdISlNidTl2a1lJRnltUkw4a1RxMnE0TFFaX1hzWEVTOVgyc1d0RmNKaUhHdXA1OEdPT0REeTBOSEEwRGN1MEstN25zdUpfNE5IRTROczdiMXFVQjByNzRaMUU0NzdHaEhuVDhrSDltY01UX1U4R1VNQQ?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-11-02T02:06:12+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Japanese Yen weakens amid less hawkish BoJ as bears shrug off fresh intervention warning",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT0dsZ2JkT3M2MkpYUGluakZKY3RXTVI2aHFwa3BkVi14cTlnWVJ4N0k4SDh1ZkNmaUVVQldDcWZPV0NBQWdjbExkaVpOczhDLTVTUkZ2UzBxSkhFQkFtdDB6NzZtcGM4aVdKMFZlVjJMcVMzbTU1VHJjdHdScmZfY0FJTGl5T2kxTGZkdVNkdXNUMktiR21MNXpTMEh2OWpuR3htQjBLZE5hYkVFS0FneTZ2RmE4SWlKWHBqalUzMEl3dC1TV0lmQVVVWQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-02T02:04:33+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Check out Franklin US Equity Bitcoin Drip Index ETF's stock price (FBEQ) in real time",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB4eWpnN1c3SlVWd1NSOExCSG9qRkxMbXFFQWcySFVxU0xqUVJ5aU1oOThkMy0yLXBqbEt0NThqVHJmcGF1VVNB?oc=5",
-   "src": "CNBC",
-   "t": "2026-11-02T02:03:40+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
   }
  ]
 }
