@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-02T16:50:49.881250+00:00",
+ "updated": "2026-11-02T17:47:06.735273+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 7
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "MarketWatch",
@@ -102,22 +102,94 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 8
+   "new": 7
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
+   "url": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
+   "src": "CoinDesk",
+   "t": "2026-11-02T17:21:04+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "What Sparked Gold's Off Selloff? (NYSEARCA:GLD)",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hOFdzd2tzRzc5dDhwU19ST1NRQmJULW9mUlExdDJWdjV1WGIxTDR5OE1mMldwbG1Ma3hFZG5LLVNTRlpXbmFQOGxMVW5tMzczWUo2SGlPeDVESDJKMEVEbHF1eVlWZ3psbnNsbHQ5MF8zS0t2a2ZpUHJn?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-11-02T17:17:00+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "CrowdStrike lands an upgrade, and Jim Cramer's advice on Apple ahead of earnings",
+   "url": "https://www.cnbc.com/investingclub/2026/11/02/crowdstrike-lands-an-upgrade-and-jim-cramers-advice-on-apple-ahead-of-earnings.html",
+   "src": "CNBC",
+   "t": "2026-11-02T17:04:34+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Fed will vote on rates less often. What that could mean for borrowers",
+   "url": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html",
+   "src": "CNBC",
+   "t": "2026-11-02T17:03:07+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "S&P 500 at Midday: Broad Gains as Dow Leads the Charge",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaDhMNnY2NVFGNWxuOVNzNDZDZ0J5OEFENG9vTlpsd0QtR29lUEZ6Sm5GZjA1ZERwb2cyWk5qR3VnVXRmRnJnNDVGQVZOSkx3dTRISEVNNUMwc2lFNHVzTHRiLTlkX0RyVmp3cWI2LTVTYU9WU05ud1pORngyaDhtQUM3WlNMN0dZSFVpVlBoc1llWEhMR09Sc3lITjJEdVlRenduV0pnbElaZGV0SjRFeURwUjRtZDFFUXQyS1dYUHg5a19qc194Rw?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-02T17:00:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "6 dividend stocks for investors who want to cut their exposure to the S&P 500",
+   "url": "https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-11-02T16:56:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "U.S. Dollar Pulls Back As Oil Prices Dive 6%: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWlBLVRYVWdMVFlMRkZ5M3h1OHlXZ0ZPTmJLSFhmdWZRXy1wYnFTdWZ4S2dPRFpWTUJ1TnV5WWVJUTBiSzVYLURBYkRLd09GbXo0WVN4R1VZSnFmUERtd3ZDTmVfZUlrcktXN2VBQ0wyWGhzOEpyREp5OHg3eEZsczRaYTFHWE5mQ3gwdTgzZmNMN2pTSDRVN0djcDRGZzZYMXdoTmxrYlRJLUo0QU0yUnVpR0QxZmVjb2s3eGhBdDhzN0NFT3FmRnByS19sLVlhN3hHUw?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-11-02T16:54:36+00:00",
+   "tags": [
+    "oil",
+    "eurusd",
+    "usdjpy"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Stock market after midterm elections: What S&P 500 history shows",
    "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
@@ -125,6 +197,16 @@
    "t": "2026-11-02T16:48:28+00:00",
    "tags": [
     "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin Analysis: Holders Are Selling at a Loss for the Longest Stretch Since August. What Happened Last Time?",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcWhCSkdCc3VyZ3ozWUdHaXlIZXhZa05PZVk0eS12QzJfWGlBTWZtdFVZc1lkcWxkMEppZmQwc1hicXdfVVVQV01tMmd2VUk1NkNQeTZrU3JHV3AzSUIwSFlkYkE2VmVXTGJfNjMzd1FHYTdFY1NGajZQalVRcGR4NTdaZ3hBUEdPbk1TS1RRcmxDNUNrZWRsZ0tJaVpXUmVjUTlIcFMyM2Rsd2xHM3lMa0hFSzFLTkJVVjlNX2tpd1FwQ2VUUHJVMDNPcG1lNFI5SEhVXzdUYXlLMHozZjNsRHVXNkNvVkpfUEJBcWdxbWZUanBRWTJuSktn?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-02T16:47:00+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -177,6 +259,17 @@
    "t": "2026-11-02T16:18:09+00:00",
    "tags": [
     "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold and silver prices surge after sharp selloff, India set to ramp up silver imports into 2027 – Heraeus",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSW8yekFiaVlpY0t1QllHd3hxZW5YNk0weU9CU0dqZ01YWHVXV01RWlluZUtFR080TzhLd3AyMFdpSlI0bzBQVFhmMVJuUE1ycUd4X0d1Wk5oaEJVU29kT2dVMUpUNlhNSlA4eHdKNnRSODM3Z3Z3aVAtTmNhUlBXSTBCNHFiR3Eya2dzYnQxM3ZsN3RaenZyb2s2Z18wUUphSWJOSEUwZU1DSEZQejhEZG5PMjFhYXM?oc=5",
+   "src": "Kitco",
+   "t": "2026-11-02T16:12:03+00:00",
+   "tags": [
+    "gold",
+    "silver"
    ],
    "tone": "neutral"
   },
@@ -288,6 +381,16 @@
    "t": "2026-11-02T15:22:00+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Nasdaq-listed Canton Strategic Holdings description={PAGE_DESCRIPTION}",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HQnEyVk9CcFhqSF9Ba0piMWwxdHJMbDdQOHktMnpjLXRLajR1Ty1HUjliU0pESU96WUN1dkRybjRqb2g2Z2dERlhENzF2NVkyM0lPZF96cVVMZVZJdnBkTHdCUURpdGhpOFdRZ0dzODk0UmNKSVhWdU93?oc=5",
+   "src": "Kitco",
+   "t": "2026-11-02T15:11:17+00:00",
+   "tags": [
+    "nasdaq"
    ],
    "tone": "neutral"
   },
@@ -1127,6 +1230,17 @@
    "t": "2026-11-02T10:17:41+00:00",
    "tags": [
     "usdjpy"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold breaks below $3,900 Bitcoin struggles below $77k as markets brace for a deeper downside",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLVczMmxXYzJIampmS19CUjExY2JtUi1YeHdmWXN3bjlXV1RSYTRuVkIyaVJqaGhLXzVnX01CUUpMWU5seTFjUVU0VjFsbE1JTUt4Qk0yc2QwTjZLMHRlU2l1cHZRNWJEZTJGWVNpSUp2V05tUHRoVnFDdlV0Y3NGNnQ2RlF6SWp2Tk9jOFFmR2JaMGxHd004RnRmeUFuVGh0cWpfczRGdFhoamVmelVqVWprV2tKOThjUTZ0R1I1bHdSWlphUFBUVVhkTkxvWjJfczdz?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-02T10:17:13+00:00",
+   "tags": [
+    "gold",
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -2567,118 +2681,6 @@
    "tags": [
     "oil",
     "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Should you buy gold now? Experts see prices rising, but watch these risks",
-   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOWFFuWWc0ZlR0OHowWWloakpUMVR0UW05U2xVRXJlc0ZqOFdTb0VZYWJUZWJld0JKZmdST3FEU3QwaU43T2Q5ZmhhY1hXMjJ2TE1iczFmZXgxallucHFWbkYxeWlLNXdlanhxSF9VRHE0RkpfaGxsc1Q5NXNPd3Njd1F5YUROWVB2c2JTWFBCWXhmZTJNTnduRi1qZFBfTFZlM3B0bzVDR1Jxb0FSRWxJcVBnaEFYQWpfSW1HMlE4Q3htU2NqaFNFZFZrZXR6TzZJaUI3Wno3MFF3NkZncDVhZlI1MUpoZlB2Y1lHQW9BMmpSOUhZNnRfVm5MZXM4XzJUTDZJbV8zVHpUSi1ORXdVa1ItZGtfTF81c1h1NmVpSGlTRmlwY1RxUWdQa0tTMWRXaGQ0?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-11-02T01:00:00+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Bitcoin steadies near US$78,000 as crypto market rebuilds after Binance hack",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWkZERHhvazlsb0p3d1RNb0ZrSXRHYlRGaHRDdWdQUFNfRDJoa0paMFA1LVc5X0txN3BXUTF3QVFHUWxtNFk0VVBYMkRCQlZFVnRRVUVQb01ybkhUTXJwaXlxNUpla1FMRlJYZDZjX1RjREtnVmxqVkgxUHJSMXFaYVd3?oc=5",
-   "src": "Yahoo Finance Australia",
-   "t": "2026-11-02T00:58:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Dollar dithers ahead of US midterms; bitcoin under pressure from crypto heist",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2NfWVhRd1dsZXVELVl6emxWenVBSzdWTFVpcjlPaUtVNmgwbklnaHctbWF2VjdTTTJxQ3c4NzZZSGpSTG1QaThQQUZHY1RmeENqcTZNend0eDBla0dFNThjejRfM2dTdm1JYW9vd0duUnZFVUNWQUhETi1RVmZxNWxBZ2gzZEdBWTdGNnVqMmxVeUlKVUZPX0ttc3pnLUUxOGpoa1hpdVZNWWZrVkx6c3FoTkluMDRB?oc=5",
-   "src": "Reuters",
-   "t": "2026-11-02T00:57:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Global Market Today: Asian shares bend under AI stress; Apple earnings loom",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-shares-bend-under-ai-stress-apple-earnings-loom/articleshow/135441259.cms",
-   "src": "Economic Times",
-   "t": "2026-11-02T00:48:51+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "European stocks flat, oil drops as midterm caution prevails By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSjBacG9ycmlPX2pBREgwdlNIZl9yT0xZbHhCdWtlX09WRHp0U2xtcmlkeDc5UEVsRGgwN0NOVklGZzQzWWN0VTJLcEV3VjItdGw5SnhmLW52dmJpZDYwLTYxMEhHcnV3eUdXcUt2UXlNclNhcTZ4bndKb3pSaWhMSEtaT2lXeGtVaWxLX0t4MkZmVENHdWx4Q2Nwd1JEM0p5UVAxR3BpSnpPN0Yz?oc=5",
-   "src": "Investing.com Canada",
-   "t": "2026-11-02T00:47:30+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "European stocks edge down, oil drops as midterm caution prevails By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa3FVTW5ZOElHM3IxNWJQR25uaUlTQ050MG1NT1dITjh1VlVIbktUVVBMRFJxcG9zZ2Z0LTh5UmVhYThrQTd5VThEY3Uxa291cXFFZC12MkVvV0h3QmlGLVc4UHBqSGtvVUVsV3kzUDdYQS1QeHlnTWVncndxeWE5czNGSlY5YzB3NXVyNmlCU2NRVVVXbHBPdnU4RjRJa0JMX3lob29FbUVGUVlZaFE?oc=5",
-   "src": "Investing.com",
-   "t": "2026-11-02T00:47:10+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Gold rebounds to near $3,900 despite inflation worries",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSHBFTXFaaDRMZWt5VEVYeC1PZU9zQ0E3OU1TV3lhZDJZelBJSUswZkxTblFSMHVRaVl3WnZtSmJvR3djRkttaVd1S3NBRk9VT1J6OVVEQTVqWDhKVDRxNkF0akxXOVYwcWhLNDhVRUhmRWtYcG1KWEQxcnJxM0M0NXFNd2k4QTh0NUdqZzFIcENOUlpiQTJqLWUyVTQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-02T00:45:01+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Asia shares bend under AI stress; Apple earnings loom",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbXpaWVRrQUkzYThuc1E5TnFCUXBTSTV2bHNaR1FhUmdEYnhjSHVneFdpbGhjeENwWlE2WVE1c3FCUV9qeGZzRGNoNFEzdERMblBDb005a2NBV3B2YzdfNF95dGtrVmxiNlJrNFU3UC1BTnZHcVh4a3hna25vdEFkSEtMUQ?oc=5",
-   "src": "Reuters",
-   "t": "2026-11-02T00:41:00+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "D-Street poised for a positive start as GIFT Nifty trades firmly higher",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135431803.cms",
-   "src": "Economic Times",
-   "t": "2026-11-02T00:30:00+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Dow Jones, Nasdaq futures rebound after brutal sell-off; Here's why this week is important",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWmx3V1R5bUs2dmU4azlGVmpzQ3hPaV9tTjgzUzZWY0p6ZVhVRzBKOGF6VThtYlVwRE5sUUk0bExjWWEzVWUycGEza2FZdUhiaHY5djhQR3NCaHRib2YzRnhKbHRFMWkwNFRCRi05Q3ZicGpxcld3OUJjSThVOE9tQzlGN3lXVVREVHYwR2lkbm5FS0daZ1AyelpWMWpzRFd4NEMwZkhyVXNocHJNb2dCZG15a0RNbFRYT0tTZEFFcFlUVHRtR3BGM3pQZlNkZ0RDd1Z3RUdRRDRpNjd4aU5Xc0JRTUZ5ZDI3MFRNSFdqZ9IB9AFBVV95cUxQLVJSZkN4TDRQQ0JRUHZEYi1ZM3dVc2RtTUN6VDFGWmdKcExIVzdDT05wTEY5SkN0dUpvaW5WQUxON1NScGNJeDE0MXFFcWg3RFJXeUxHQ1B0eEJSVlZXR0hHTXBUeXBSVFVxM2xxZy1oTWI3eHRYaGVGcGQxaEp2R2w3WUM0dERUR0pkeFZHUlpuS2czT0lZdWs5dklfX2Rwc19odG1yczZsYWVLdVltS2RrRHExbnQ4M3c4Qm1PZ2NHc2RWTUMtMGxxZU85U2VDYVAwR0dBT0VEX2ZKR3luaEFDcUQzb0RJdmtIVHZQSEk2UVFu?oc=5",
-   "src": "CNBC TV18",
-   "t": "2026-11-02T00:29:34+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "FPI buying returns to Dalal Street as global investors rethink AI bets",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-net-buyers-as-ai-trade-worries-trigger-allocation-shift/articleshow/135441107.cms",
-   "src": "Economic Times",
-   "t": "2026-11-02T00:23:30+00:00",
-   "tags": [
-    "nifty"
    ],
    "tone": "neutral"
   }
