@@ -1,78 +1,78 @@
 {
- "updated": "2026-11-02T05:38:45.911577+00:00",
+ "updated": "2026-11-02T06:39:51.598468+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 4
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 3
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 3
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 5
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "CNBC",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Moneycontrol",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 4
+   "new": 1
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,37 @@
   }
  ],
  "items": [
+  {
+   "title": "India bonds surge as oil cools on US-Iran deal hopes",
+   "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-surge-as-oil-cools-on-us-iran-deal-hopes/articleshow/135448296.cms",
+   "src": "Economic Times",
+   "t": "2026-11-02T06:22:04+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "BOJ signals December rate hike, but path beyond 1.5% remains uncertain",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/boj-signals-december-rate-hike-but-path-beyond-1-5-remains-uncertain/articleshow/135447724.cms",
+   "src": "Economic Times",
+   "t": "2026-11-02T06:07:55+00:00",
+   "tags": [
+    "usdjpy",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "US midterm elections begin tomorrow: Can Trump’s likely defeat sparkle Sensex, Nifty? Here’s what analysts say",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/us-midterm-elections-begin-tomorrow-can-trumps-likely-defeat-sparkle-sensex-nifty-heres-what-analysts-say/articleshow/135446891.cms",
+   "src": "Economic Times",
+   "t": "2026-11-02T05:38:41+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Indian Rupee gains further as oil prices correct sharply",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcUNmSjZoUGV3QmdqMk5pQlhXUE1IWDJYQllXdXJsUEJEUDFrMlc2V0xVbDdNUU5tRUY2RUNfX0dDT2czMndScVZ6M2hpSU10d1owSXE3cko0TXhHVV9TOFpMc0hfV1g4WF92V2sxUEJMY3pNcUt1MlloY2JFaUxuUzNWUWUxWU1TaUstTnZsQlg5bERBdlVfV0VwMmszTmcz?oc=5",
@@ -2648,38 +2679,6 @@
    "t": "2026-10-31T02:51:05+00:00",
    "tags": [
     "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Wall Street Highlights: S&P Breaches 100-DMA, Nasdaq Posts Worst Month Since 2025 On AI Rout",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSWs3ekVRM28yREQ2N1l6N1VuWjhUYXcwVE4ycVZkS0RLLWUtU2JWazhEcnN6d1k0M2F1a0FQSFFhUG9MZU9selVrMk1pNjZZV2tsdTcyeFdXQXV5MVkzX0U1MzgtNk5JRVlXaFdFSUh4WF8zaGlpQlB0VTg1X09JN0R6aERPR0RlZkNaREhNZVItV1paQmdVY01zMUJ5eWUxQi02ZEx5dVRfQzlOTGhQNlg4YzhWaVZOcUh3TWxkdHJBZ1VlVHNyQkVFYThpRlnSAdcBQVVfeXFMT19waXJhQlluTV9MQkJlSHBINFpEMTBpTzFYYXg2aThWOS1veENGeThCNlFRUUlaY3Y3dXFacmFtY2VDRG96RGNLR3hqWW5QQnBWWDZnUWdJRVVkYkFqVllfdVYtYmJrMV9qcnFPYTJVaXV0R0pKbDBMdEVoRWZac3lXRVpEZjZyVExCb3NISmZHQ1dZcFk4eExmcUlMXzM2dE4xVXQ0TUVzdE1JS25lWTlNSW1ERlRGZGpkNFRCQnZWbGlDeS1NQi1EMERIMXoxdDdKMmU3S2c?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-10-31T02:42:59+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Wall Street spooked: Nasdaq sinks nearly 3% as AI spending concerns rattle tech stocks",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ1QyMVJEQkdvNkE0NXNMYTZ1VGNDa3F5NHZYSWRnNlFld3h1VG1TUTgtQjJrVDJTeEtMdmhDam9aeUVhQzBWNUhEWlNkbkhmV0p2cWZzbHRwaGxqZnRmQTZJVmJzZXpjT3Y0RmVzVVJjeklmUzVEQ1FEei16OXpLSEZ2OHcwcWh0ME9BSkFDd2xLckFtYklYUGdGT092OVNKaDhXOTdBYzdkZUZSSElCZi1vOW14Q2JVVk9DdnZSYnl4UGdQaEJsQ2lPd3A1QmI1ZEpVYdIB2gFBVV95cUxONlRzanVqdW1uTVU1M3BuRmpSczFnY0tGLXVPeUltalQzaUlOajEzeWtVWVBIaXpYT3BVZjY1clJURVc0MmRmZDZUSXNYNmdhX3l3anllcXZ4ZE1QS1V1WjZnZWZNakpId2QyT2ROM0FpNlMyXzE5SEdKZlJkR2drSjBxT1d1TUFIUHR3cTFYZk9BdGtueHU4TjNwTk4ybVVuTzN2YVY5QXROaDg3d1NxZHVZYzM2bk9ObDdLc0lnU3VTSzBHSmx0WTg2aHQwZ2g5RUdYVHc0X3pKZw?oc=5",
-   "src": "Moneycontrol.com",
-   "t": "2026-10-31T02:30:10+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Tether Q3 profit hits $1.5B as reserve buffer nears $8B",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmt6ZmhpZ2FVS2lmNWpMQmJxeWUxQ2FXNHNueWdVTEFQX0J6RDRkLU1WU2lhUFpQSnVUQ2pJaUFmanJCbkdUUDVKQ2ZwTHFGTWJBT1FrYVR6eWpWYU5rXzdWUEpyeDZudXkzZ0RZNngzWTVkMjlPVElzRGlFY1g2WEg5RG5LY3B4Y3RFY1N3cFV2T2E4dmhpc1NGa2dJZllqUnQwVURIS2JxUWZDZm9Vc2dB?oc=5",
-   "src": "FXStreet",
-   "t": "2026-10-31T02:26:33+00:00",
-   "tags": [
-    "btc"
    ],
    "tone": "neutral"
   }
