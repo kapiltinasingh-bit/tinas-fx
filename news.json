@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-02T23:46:26.962968+00:00",
+ "updated": "2026-11-03T00:34:26.663198+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -54,13 +54,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 7
+   "new": 6
   },
   {
    "feed": "Google News",
@@ -78,13 +78,13 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
@@ -102,22 +102,52 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 5
+   "new": 6
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
+   "url": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-11-03T00:03:00+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "British Columbia First Nation files court challenge over Pacific Link oil pipeline consultations",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdzRpSllsN3pmMmtiRmh5UDd4eXFtZ0dmNVFWSWxGd1ZnV3BsdFhqWmVKbzNpeGJLRmVmMjRUdldlUkI3blIyaS1RWWdVZ3dlZVFMWmRZakNTY0VENjkzN1FiUHhraHJ6RjRoeW1oMzh5eHV0X0Q1T0dFSkVfVWd0UTY2V1ljRVpNbUJmbnB4UjRFWjlWT1I1QnNHUmJnQ1pfVWdZNkxocE51RW5yTmp1NFl4UzdVY19hbE1aRA?oc=5",
+   "src": "Kitco",
+   "t": "2026-11-02T23:49:49+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Jim Cramer says lower oil prices are giving stocks a boost. Can it last?",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nUGpvOWR2TXg1V3hBZGg3NVlXYW56a2pCeDJLam9vY1h1LVVNRkp6VWl3NEgyaTVreXNZNF9kT3FUOFU0MC1IektvLVJtUlZQVVRmU1RtYVhjRlJVdm9ROVlWdWtYQmJTckVqWTlLeXo0SzhLb1d3THQwalZ2V0XSAYQBQVVfeXFMT2xKU3JDcERNeGdhbGNqanY5UmluTGdOMTVCLXlyQURvZmdpSW93ekNSTERMeTJQaTJvckU0bVI0TG5PRV9ibDY3V1lPM3dWRHlJQnZEX21yMjhKNTlNaUs1UkxJcE43bGd3YkItTy1iSDMzU3RpVVktLVJxalNSOXhOZ2t0?oc=5",
+   "src": "CNBC",
+   "t": "2026-11-02T23:36:53+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Could XRP Hit $5 Before Bitcoin Reaches $200,000? ChatGPT Weighs In",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTGwxYlNsM1hKWFNUU0JWMFAyajkyNHhfWW5UbXVFZWVFSVF2ODFqMGFjVmVrZU5sNkgtQjc0dmh1NW1iTzZmd2N3MC03TkVGemk4OTN2ZTVHbjBubTY0Y2s3RF85N0V5bE15MGNrY1VjQUxiUTdSQjROZzdDLXVJbUVYQ0dUdlc1dWI5dUw1Uk5xOExKZHFaMFdLdGMweXp3cUpnZUVJVUtURndZOXZzVFpSV0k0LXlRZllwUEpoOA?oc=5",
@@ -408,6 +438,16 @@
    "tone": "bullish"
   },
   {
+   "title": "Buy Gold below $4,000 or wait for $3,500? [Video]",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVElnNTl0b1c4ZFFjNkc0aEE1dmJocTdzVDhlcy1tbkVaZ2trRFVrRDFOMTVpUzZJZHUtR1Z2X3Z1UGZKaUc5VDE3Mk5NOFBlS3lPMDBQOXFPSF9tT3BieEZFc0RMSDlWTzN0LVdNV0s2eTFDUjFvLVc4Zm9MdFdZQ2ljUE5BMy1jNzRaS3Q4Q2JhOW1KYkE?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-02T21:29:24+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "US stocks today: Nasdaq ends over 1% lower as AI worries persist",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-ends-over-1-lower-as-ai-worries-persist/articleshow/135474287.cms",
    "src": "Economic Times",
@@ -428,6 +468,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Gold Rallies Towards a $4k Test – but Can Bulls Break the Trend?",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQckJGZHdzaWhFaEVZYVBCWUlOX2pmRTN2bmZWMkxSR3RHSTNpVkt6Sm5QUDlwOTZyelAzeWU0MGNjVVRQTHYzRXUwSkNvdTFxUXBkR0Nia1g0Q1JIX0Zoek5RTHhMMGFuVFFuTXdfOFp1cWJSanBvd2tBbmJ6Z0x3aDk1VEUteGhHOXVfekxPYjV1UWpvOHZfMDR1SnJEMVI1MEVNeUNBVFM5RDg?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-11-02T21:06:06+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "NEAR Fell 18% in Two Weeks, About 3 Times Bitcoin’s Drop. How Low Could It Go?",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM1NWTUhKTDJWblhYQkE5c2tmMDhkdU1CNXY1TUFUUnNOd3FPbUIydW9VLVh4R2NhdVNEZDB1VHlqa0hYeTcydHdaMC1yblAtejZZVHlSU2hrVkhIMjVmcUE3Sk84T29ibnR0U0huOExnSnZlZDZPQk1CSHNoanhSSkV5MHBzT2lKcUVNSFI1S3pTSDJIY3NhTjNJY0dUTjhKLXBuZUIyMG81OEg4WnJ3WTRtdU5GUnBGRDZ1di1qRUhsUEE5RE9TdVgtekI?oc=5",
    "src": "24/7 Wall St.",
@@ -446,16 +496,6 @@
     "nifty"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Gold Rallies Towards a $4k Test – but Can Bulls Break the Trend?",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbTBOdVEwTFRqbk01VUVreC1wTVZTRDN2VVZJS1o4QzVCdU5iRkVOamNDM0txM1NFOVRPdTJzTmYxSDhrRFRoQWxMeVc0YUp6WXBDUVU2SEJGU0FxcmVfZFUzOURRZXRId2R1Ny01MU02YXo0WjM0aTF0Y29VUk1JVkNqNEhXOHVyUE1YbFJ2ZXhrMGVTRnhXc2RLeDQyS0lES2tzVlNyZUlNS3Z5VVNLdWI4RHQ1R2vSAbcBQVVfeXFMUG0wTnVRMExUam5NNVVFa3gtcE1WU0QzdlVWSUtaOEM1QnVOYkZFTmpjQzNLcTNTRTlUT3Uyc05mMUg4a0RUaEFsTHlXNGFKellwQ1FVNkhCRlNBcXJlX2RVMzlEUWV0SHdkdTctNTFNNmF6NFozNGkxdGNvVVJNSVZDajRIVzh1clBNWGxSdmV4azBlU0Z4V3NkS3g0MktJREtrc1ZTcmVJTUt2eVVTS3ViOER0NUdr?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-11-02T20:23:28+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bullish"
   },
   {
    "title": "ICE canola futures rise despite drop in soyoil and crude oil",
@@ -2638,48 +2678,6 @@
    "t": "2026-11-02T05:10:43+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Yen Bulls Loaded Up into BOJ as Euro Shorts Hit 11-Year Extreme| COT report",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3l2NEZMQ0ZNSHJoaTZ1ZllBZkhUdVc4bUlfRHY0REZYYkxfT20tVXFNV0ZzVkxuLU1mbDZyV1pYQ294U3ZWRkhlQzFXeVRsOWEtamoxNms3Yzc1dkk0U3dFWHFCZ21UaHpEVEVveVctcjN4aUQxWGlQOThBTFgtczgxMlF5TWZYaVFNSmM4djEyS0FhVVZXZlpqYS1KOVJGaFk1Wm9XLVFSaVp5bzJBemU5dTFMRDN4bi0zZnd3?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-11-02T05:06:00+00:00",
-   "tags": [
-    "eurusd",
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Apple's new CEO Ternus to face first earnings test as memory costs surge",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTUl3TDYxM3pONVd4QUM2TVlWdnRRY28tSnNuN1YwT3JibW1hX1hsYTByY3dJcURaLW56QXc3dVU3WlFaOXlLOXJjd09MTVZtNWxKam1WRlh2THFxSHJobUdnc1hQNVJTaDNULTNGcGhMTVg0b2piUDRNdnUwOXhpQ0U1cTI2Zzg1VV94MXhxYmhHdlBJcW04OU9mVHJGVXAxdFpPQVZVUGJNa3h1UmhGM2xTajV3bkJfQnRBeFk5bjZwNGxJ?oc=5",
-   "src": "Reuters",
-   "t": "2026-11-02T05:05:00+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Oil prices fall amid reports that the U.S. and Iran are both seeking diplomacy",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXd1a2c2UEtTYmUxbDlrUGdYYmxXdWJJd19lbVVpa1NCZFNIT1ZpV2xBOEFmY195WVZSLXNIdktTTldXRHVlWHBYN0ZIRmhMb21lRWY0X1U2NERwSzNLSTFaVjNFTmVXWDBrM1BrNE8yTjBjVUdFWG9ET05OdGhPMUstRzljYTjSAYwBQVVfeXFMTVhDTDhNM0RuaF9EMUI4clJLbjhRWVNITUd3Z3BUX2dPaXgzOFVEYlFQajBfbTFpdGtoVzhsUm0tYkdST2VKYjZPbWZCZTNvVnJra1oyU3RWRUNkYmE2dElpVUVGRDBxLWVXYVZlOVBoUy1QNVJ6dHdnOVVJUjdSdm85QWRxWTFDUmMwTHY?oc=5",
-   "src": "CNBC",
-   "t": "2026-11-02T05:04:26+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Gold rebounds from one-year low as oil slides ahead of US midterms",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXFkdElkaE5fVGZ6eUVZUFZnZjNuaUFoM2pPZ1ZJeEY4bmN0Wm9zSTRwLWpHcjNjLWRLRklsOV95a21mWjZWckhUam5qTVZVUzVDdWEwQXVOVWlpaHpCMktPLU41TGNkZjI3MFM1azNvSEtUai1pUGFpNi1mZFhISlB3TXFUSWtseGlhYmRISUpuWXdlVU5mLTJPRQ?oc=5",
-   "src": "Reuters",
-   "t": "2026-11-02T05:04:00+00:00",
-   "tags": [
-    "gold",
-    "oil"
    ],
    "tone": "neutral"
   }
