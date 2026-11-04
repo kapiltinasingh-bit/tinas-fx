@@ -1,84 +1,84 @@
 {
- "updated": "2026-11-04T00:05:56.213827+00:00",
+ "updated": "2026-11-04T01:08:05.019150+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 4
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 4
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 3
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
-   "ok": true,
-   "new": 0
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 2
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 4
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 3
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "new": 1
+   "ok": false,
+   "err": "HTTP Error 503: Service Unavailable"
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Moneycontrol",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Stocks in news: NSE, BSE, SBI, Happiest Minds, MCX, IEX and Minda Corp",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-nse-bse-sbi-happiest-minds-mcx-iex-and-minda-corp/articleshow/135508071.cms",
+   "src": "Economic Times",
+   "t": "2026-11-04T00:30:00+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Gold declines below $3,950 on stronger US Dollar, US midterm elections in focus",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaE5NX2Q4QzNJNHlPdHNWOWNnT0VxdFE4dTdQLUg5UGQ5elNCbHVkb2ZpQXZjNGlDYnVUMHRsVFRkYk1fQW1hVWYwWlAtTmpHQUVsdVFmNGZuUHRtbTRmZUV1dDdDUE04OVlMMGFkdl82QzFrLXNKV3U5eGxwZEozMjBwZFJWVkdQamcyNXVwNGVPLUoyZEdvV05KVC1ySXRFS2gwTExHcEdxZkF5Qk1EbGJ0aDgyZXMwN1Z0Rw?oc=5",
@@ -406,6 +416,16 @@
    "tone": "neutral"
   },
   {
+   "title": "RBI eases forex rules for services exports and imports",
+   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-eases-forex-rules-for-services-exports-and-imports/articleshow/135511997.cms",
+   "src": "Economic Times",
+   "t": "2026-11-03T19:23:04+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Wanguo Gold Group (SEHK:3939) Stock Looks Pricey Against Its Current Earnings",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNlhvZzQ0T0dtU0pTSjhsWnRrcF9MRnQ1NDY3RkhnUWNfcHVibzZEeTlPYk8wYWlSdXlNdE1SZjZRc0kxOE9wbXhLRlFUWEE1bVVZMGh1WGd5TTdYMXFHakxWbjRyS3I2MXRWdDRScVlyYTExQ0U0MHRKa2NmMDhmTUdn?oc=5",
    "src": "Yahoo Finance Singapore",
@@ -506,6 +526,16 @@
     "btc"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Stock market after midterm elections: What S&P 500 history shows",
+   "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+   "src": "CNBC",
+   "t": "2026-11-03T18:21:05+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "US midterms put Trump-era crypto boom and prediction markets at risk",
@@ -2646,36 +2676,6 @@
    "t": "2026-11-03T03:55:59+00:00",
    "tags": [
     "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Tokenised gold bar to advance Hong Kong’s digital, metal hub aims",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVHJ4QUNxTHhzMl9LVVIzemVYZHpWYUlxMFRVc1Z3dDVJNGV2ZFhnbVJWbFNhMmZlc1RPVTF1WkRJbkJvY1RaeHZnRnJYbEdWSkNOeVNnTndJRFNqWGI3aFdxMnU0d3g0Vm1EenB0ZzNkaTZNOHhELXVnYzlEZjc3Z1NMTGRKVzN1OTFuQmszdWZwSnVGTEhPRWRoZHNPcFN2dGJIbWNYVnRqbmNmaENkRUd6TEFhc0pESDdabDc0RU56anhNX3ZFa081SDd0VTJR?oc=5",
-   "src": "South China Morning Post",
-   "t": "2026-11-03T03:54:43+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Silver crashes below $60 from $122 and enters oversold zone. What should you do?",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-crashes-below-60-from-122-and-enters-oversold-zone-what-should-you-do/articleshow/135481085.cms",
-   "src": "Economic Times",
-   "t": "2026-11-03T03:53:07+00:00",
-   "tags": [
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Australia hikes rates to 18-year high to fight inflation",
-   "url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
-   "src": "CNBC",
-   "t": "2026-11-03T03:46:20+00:00",
-   "tags": [
-    "macro"
    ],
    "tone": "neutral"
   }
