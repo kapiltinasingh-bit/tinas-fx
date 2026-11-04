@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-04T22:54:44.485586+00:00",
+ "updated": "2026-11-04T23:32:43.735022+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -72,19 +72,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Economic Times",
@@ -118,6 +118,58 @@
   }
  ],
  "items": [
+  {
+   "title": "Gold surges above $4,050 as Democrats take control of Congress",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVFPV2hZNmItMV9qeVNmdkRhMWxPZXNCeWc3TG1fc3hWc25ZLVlqN2hyXzNoMThRUTNfZjlMZHJmSXlBbUFlRlpSNXJQd1RiRk5vNE44V3A4b3pmRDZwOV9CRTE2QVZzTXFPVFNCVXZPdEFuOWNocS0zbnBYUFRTSjNjb3hlbGJRM090Znc2eXV4SXItemo1Q1FzSjQ0RUY0ZVlDZXZjRQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-04T23:21:20+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
+   "url": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
+   "src": "CNBC",
+   "t": "2026-11-04T23:17:56+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "U.S. Dollar Retreats As Democrats Win The U.S. House And Senate: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdWxkd2hYTmNTcFh4UkNtT0M0LS00UGxYYjNVNGZ1cDBqMFhNQm5ZZElNYjNJR2xQRklBMEhuTDAwN3VYNU9PNktoU1JXNjc0RDhXTVY0dkZRN1pkc0VMTktCR1ROX283NHF6YmoxcjliXzNobzBkcllBSGtwYnhMd1pTN0ZOeS1odVQ3M000OG5yR0toQVY2WXpKa2VrNGM1QWRobVhnaEY5THAwYzVpclpZNDFyY0hMNllzSURMQ1pUZ0IyMzczd29PUGtOd2I4b2Q1QXFkVXFGcDV2UU5WenhuX0c0ZmQxUzZXVzln?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-11-04T23:17:52+00:00",
+   "tags": [
+    "eurusd",
+    "usdjpy"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Pan American Silver Q3 2026: EPS Beat, Revenue Miss, and Rising Gold Costs",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWkIwVVkzZS1fVFRYWnpCNXVnQS13VC1yaUwzOFZoNlliWDE0X3Nac1NZQW9jWjdHUVlkMFJoZm1hLWV4NE4yUHowMXlocUZSa2dzUWViTC10OEFMUTJRakctQ0ttaVQ0Y3lEemlZYk1LLU9ONW9vNDRMWWI3b1RiZWtPbU1DaDF2d2lVQmdUTDl3T1U1WUpWMzZNZ1g?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-04T23:04:41+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+   "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
+   "src": "CoinDesk",
+   "t": "2026-11-04T22:55:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
    "url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
@@ -484,6 +536,16 @@
     "gold"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Hackers Who Allegedly Took $133 Million From a French Bank Swapped Into Ethereum and Monero. Is That Behind Monero's 17% Monthly Gain?",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNTllyUkMtVklNQjZPcnphU3hTaEV4VkktQUNWUFlya2diTzMtYlBheU9oa2tDWEJ4dDA2ck9MQjRURGRJVU54eVZVdEtwbXRPV3hVcUxsWllOR1hvVGdYeVV6d0Jfa1FvRks3SGdpZ09qU3R5cEhWRS1tbDY5U2hraHg5QTQ5TU9BT183dlBPT2xGY2tFdWdGRmVHRXFqWEtkejNaejlFQVh5UTV2amxWUzhIclNIOHJuWUQwYktsYkY0LV83UmRpVF9qQW1jZTZiZmFxMDVqckF0VEFyam9KZFVRdE00X0FIUjJUUC1LUDZnQnlucWZMbnhicnRJYWpldllDZHVoX2RzVGcwZmZJNXNGR29RaTA?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-04T17:17:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Democrats' midterm sweep fuels $750 billion Big Tech rally",
@@ -2601,68 +2663,6 @@
    "t": "2026-11-03T23:27:09+00:00",
    "tags": [
     "oil"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Oil slides again: How Iran peace hopes outweigh supply fears, affect oil markets",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTZUYTBVZkdlejVMSDZGbXdqSmVTQ2ptY2dTMDA2Q215dDBRa1lmZTd4MmpNWlBhN0xRSmNJYmV6MWxfM01qbkpzMjRUanpwOTZyT2xncFJNWDJfaWNYbEpqb2NJOVFMNVpyZkdvbEZhNDAzcWRqS0c4N3VmUERFcjF0UFhaWWVJT1l5VzM1M3BaUXNwUDJZSGRCWE8wOVEyWGJobmlHNk5RdmcwQ2RSTE9YSzdzM3hMdk9LNG8tWEQ4aWkzMEHSAdgBQVVfeXFMTnFYMEdSbG4xYnFrVk5JUEU3ZENHMGNobjlzWjhLT0FPSnlseHRZdExxNzhuTExlSFFsNVhSYWE1TkJ6SkFsNzJSUWlhalc0eTBWMDU3ajR2Ml8tcmVobHRwal8yaHhzMUhOeUdqVS1kS1llZFcyNWZWRUt0Vng3US1vWWJQWWxXdlhLTXI3LXpDd0otMnJBUUNpMW1SUjFtWmE5bWxVMm41VEQtN01ieXJySUUxS0toVEVCdWh0bG5ocUx5Mk9lTW51T3FfaWVDWU9qSGtwenMt?oc=5",
-   "src": "Gulf News",
-   "t": "2026-11-03T23:27:09+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "What voters said about their views on crypto",
-   "url": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
-   "src": "CoinDesk",
-   "t": "2026-11-03T23:19:44+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold and silver selloff is the buying opportunity of the decade - Bawden Capital",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRXFKdjcxbE5HRk95QzZvRUVhZmVRaWhCMVV2bG5GNWhWMzZWNFZROENmTnhlOG1IdXNKSE1GNVdPSllLZDFzY1lkblVFTUpsNlVGYVpBb09JQ3BPcDZVY09vempTaW84Zms0b1RpdG9yOXhMeGs2M1pqMV9pV1FhaVU2NEdSUmlWUThYaXkxZW1oNjQ5c0lqdDVVNUNGY19WcGtpOXdXcDR1Zi1EUU5z?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-03T23:13:59+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "What happens if North Korea steals Wall Street's tokenized assets next",
-   "url": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
-   "src": "CoinDesk",
-   "t": "2026-11-03T23:00:07+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Oil prices subdued amid U.S.-Iran diplomacy hopes, Trump’s halting of Israel aid",
-   "url": "https://www.investing.com/news/commodities-news/oil-rises-after-reported-us-strike-on-irans-qeshm-island-4993349",
-   "src": "Investing.com",
-   "t": "2026-11-03T22:54:44+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "What analysts are telling us while Apple’s stock falls after earnings report",
-   "url": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-11-03T22:48:00+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
    ],
    "tone": "bearish"
   }
