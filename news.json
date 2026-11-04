@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:39:42.465829+00:00",
+ "updated": "2026-11-04T20:28:53.119040+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,25 +48,25 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -78,19 +78,19 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -114,10 +114,30 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 2
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Gold Prices Are Above $4,000 After Democrats Win Big in Midterm Elections",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZzRvQUY2bjZ0RUJ0ZFBYeVlOMENhblZBWWNxRThLbnE2UG84aFNpcGdfMTYwaDJ0aTl3Z053UWxvVURod0ZHdzVQSE0wX0E3LXVnWUpQR1hIYUF5WFpoS2doUzVCcFFzN2ZuY1gwRGxidWwyR2MwVks0RkpsdUQwUFZqdjhUTzEwUkgyY3NEVmZQTTA?oc=5",
+   "src": "Barron's",
+   "t": "2026-11-04T20:23:00+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Microsoft and Amazon combine for a $400 billion market-cap boost — and these factors show why",
+   "url": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-11-04T20:04:00+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
    "url": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
@@ -127,6 +147,26 @@
     "nasdaq"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Bitcoin Dipped Toward $76,000 and Bounced Back Above $78,000 Within Hours. Is the Bottom In?",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeERnTWhDTkk0Unp6WXhEb1ZETnpiNTN5emR1dDhsODBFemhzZjhXWHd3Q3M1Y0h2WDZVMkhkV2YzcnJTNm1CbHp6V3Z6NGFwV2RJTExtWEhPOVRCLW10bnNuUm9JYzJNYW1RUXpWdlh0czIzUGV0dFdtSTU1RXFxVmJHdDlfYUZPc3MzRGV5LU9jZ1REV3A3SldsTVFEUzlYVFR6ZTFKamo3V3ZlRVFSbE9Va2VsV3JSbHVPSVhYMm9tLVJxamRDNDN4TmU2dDVGSkVDQ2NDdmJyY0x4VlE?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-04T19:37:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Northwest European diesel margins fall over 4% on oil price drop",
+   "url": "https://www.investing.com/news/commodities-news/northwest-european-diesel-margins-fall-over-4-on-oil-price-drop-93CH-5001084",
+   "src": "Investing.com",
+   "t": "2026-11-04T19:36:39+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Bitcoin rebounds with stocks despite threat to crypto agenda",
@@ -344,6 +384,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Democratic sweep of Congress could be final blow to Clarity Act after $170.5M crypto push",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVTFLQ0owdktZaUpZbk5BWENvUkVRamotdmdOSUhlaDkteUpQTGtOUjlTdkRiNG8yb0lGT1VreHhPVFhyOU9mTWsyazExenl1bG5PVnFvOURzQW94NTZqREFYZ1U4c2QxYXIwSGttczFPLXAtVnFsRDY5Y1F2Uzd1VnhfbnF3TEIybloxTlhFVk5CRmxhLUxmb0dNYm5tdy1pZGJkZXBOaXVjSUNZVnJVZTlIOS1HUQ?oc=5",
+   "src": "CoinDesk",
+   "t": "2026-11-04T16:25:47+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Bitcoin Pumps to $80,000, Ethereum, XRP, Solana Surge up to 6%",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnJJOGFjcWpLNm53dXRhZlVPMWVWb3dQa1daVW53RnRsV3lZNzA5YURYZXJIYzkzYXRXZ1BjQXg3YkRCcGJLVE5xSWhBakpxMlVDSkpKcUtHQ19RczZydE4tNDZpUnBDTjBsMTdhWjlxUEhBY0dPZkt5a2pwVWE5MG9pVEdDcllldmpPWnFVUkZkbEVCNHoyeVR1UDcyUWx6ZUxTajF5V3VEdlBodGQzQk9McjBiZ2h4blE?oc=5",
    "src": "Benzinga",
@@ -543,6 +593,16 @@
    "t": "2026-11-04T15:05:00+00:00",
    "tags": [
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeVkwY1dKeWxrcExZc0dzcnlWSUZ4czQtZHIyX1JYUnp5cWE5WFcwNjl3clkxY3dyUjFtbG1FOU43Ny1leHhSaVpCMzFQREhacmFmaTRR?oc=5",
+   "src": "Yahoo Finance UK",
+   "t": "2026-11-04T14:57:09+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -748,6 +808,16 @@
     "btc"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
+   "src": "Forbes",
+   "t": "2026-11-04T12:28:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Gold price today, Wednesday, November 4, 2026: Gold prices rise in early trading, but limited gains expected",
@@ -2594,76 +2664,6 @@
    "url": "https://www.cnbc.com/2026/11/03/binance-breach-puts-custody-at-center-of-crypto-infrastructure-trade.html",
    "src": "CNBC",
    "t": "2026-11-03T20:13:37+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Oil prices ease to settle near 4-week low on hopes peace talks will end wars",
-   "url": "https://www.investing.com/news/commodities-news/oil-rises-after-report-of-us-strike-on-irans-qeshm-island-4993342",
-   "src": "Investing.com",
-   "t": "2026-11-03T20:12:38+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways",
-   "url": "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html",
-   "src": "CNBC",
-   "t": "2026-11-03T20:10:41+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "If Bitcoin Falls Below $75,000, Which Drops Harder: Dogecoin, Cardano or Litecoin?",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdnUxM0RreGswdWZTZ3dIWHd5QzF2cXViUE9UQjFETzlGZmZPLWlLRnE5TTJjZ1NWY0VTTFpUUXdVMXJJTkRLOHo5S1ltLU9KaXBLNVJyalRXLTZfUzFWSk5lVVlhTTBnYURVUTJNVk5Sb0RsLUZ1SlVZbnU1bk5yZ29SUUNaOXBXbTBZZ0djblBnR3NaZ1dmNm5aY0R2RV9kd3BjdGNYTmNRZVVLY1FNdWkzaFpOQ1ctUmpGZDFtYXRyUjluLXp4UnBvMEZVc0ZQ?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-11-03T20:09:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "BMO Gold Bullion ETF Fund A (0P0001VBUT.TO) Seasonal returns chart",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QQmpQMUF5cWlwQUFHU0xIOWY2ZnF2WDdKN3UxdnZpYzNYc3lCSWR2MnAtMTRnZl9CcHlHQjZUZGpvUmhyMjFBa2FBLW5GS01VSUJiTEtjVHF6THJKb2l6U1ZtVFhyRlFhcTA3d1pn?oc=5",
-   "src": "Yahoo Finance Australia",
-   "t": "2026-11-03T20:07:12+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
-   "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-   "src": "CNBC",
-   "t": "2026-11-03T20:02:10+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Gold edges lower again as dollar, yields strengthen; US midterms in focus",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFBGa1V2dm05Wm1OUE5pYUtvek4wUEx2OUNlTzRWTmExekk3eFQ2aTRoQVZsdDBXaGJBRE5mNGNIVVVjQjNaMHpEVVNnem9qMnc3X3FkelNoVXdtZUxrdzZTRHJaNlNkbi1taWltSnVhek81WFJyeDdtUEdGQzRHc1VZSUhLU2lUNlJXSnJ5c3lGVFZuQU43ZWZUeWJGdGEtRHpHXzFGcVQyWFR0QnVRaVF0dTBvcW8?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-03T19:49:53+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Bitcoin, Ethereum, XRP, Dogecoin Steady Ahead of Midterm Results",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOUhLRjRpZ2lGOHZQa3J6TExyaUVCdmZKdDN0Qk8tLVdQWFNoWktRZmdtUFk0LUdaMzlndU81bFpSR0loWFVQU1VQXy1JX2IyUkE5YTdsRXpJRDQ5ajBtak5YTy1Yd0dsQ3pNc0MyN3J4QU1BcjE3eGZIOEdhWDRDWVdxeWRwRm1CZDdwSGdjYm55X1BaMTJRV0xyQlgwSXl3SmJlWkhCWFRuaVMxQ05La29FV2xiR0FtQUZRS1o3TmY?oc=5",
-   "src": "Benzinga",
-   "t": "2026-11-03T19:45:13+00:00",
    "tags": [
     "btc"
    ],
