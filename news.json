@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-04T08:47:08.351263+00:00",
+ "updated": "2026-11-04T09:48:22.168981+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -30,31 +30,31 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 6
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 7
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -78,13 +78,13 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
@@ -102,13 +102,13 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,36 @@
   }
  ],
  "items": [
+  {
+   "title": "Gold Demand Trends: Q3 2026",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjdjVubXRBdWJQanJGTkhUaEVGMHByeFNhWHQ2U1VxTGQxb0dRdjliT20ydHkzaUs5YmJES183Snd2RnhOXzBGZzg0VUN6RHVKbW10dFR0QTRFQl9scXBWeHMyYlY5LVkybkVaSVIzNUJ5NmNvX2c?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-11-04T09:20:00+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "12 BSE 500 stocks defy market trend, rally up to 65% in 3 months",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/12-bse-500-stocks-defy-market-trend-rally-up-to-65-in-3-months/slideshow/135533709.cms",
+   "src": "Economic Times",
+   "t": "2026-11-04T09:18:07+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "German yields steady as U.S. midterm shifts and eurozone CPI loom",
+   "url": "https://www.investing.com/news/forex-news/german-yields-steady-as-us-midterm-shifts-and-eurozone-cpi-loom-4997605",
+   "src": "Investing.com",
+   "t": "2026-11-04T09:01:59+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
    "url": "https://www.cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html",
@@ -136,6 +166,16 @@
    "t": "2026-11-04T08:39:18+00:00",
    "tags": [
     "silver"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Bitcoin (BTC) surges to $78,300. What next?",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUnlSaG55Rkxpb2V4U2UyXzhYNXNTMjlTcVNWUHhkR1F5d1U0bGNJYUFwdnU5RWFFZ0VTSmQyV21fRG5zc2FLcUFQck1sRmswSlctWGdPM3RrekJpdV9jWnlmSHNvcjE0ZnpwT0xsamk5MHIwLTNYNjJTY1RzWm1mRl9QZ3hHRlUxR0NqLTJ6WTVNYjJOTWJvNlpPZkpIU0N4LWJkQmFKQzFONXRzam5uby1xOHhRNVJQT3BOWjhB?oc=5",
+   "src": "CoinDesk",
+   "t": "2026-11-04T08:37:54+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "bullish"
   },
@@ -167,6 +207,16 @@
    "t": "2026-11-04T08:25:43+00:00",
    "tags": [
     "dfm"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin Price Wobbles as Democrats Take Congress: Crypto Market Structure Bill Faces Uncertain Future",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOHg5aUVQOVh2U1VyX3l4QWtoVHpnc2NKc2Qwd0RpWUl4NGZValRZTzc1aEZXdVl3Umk2WGwxbEtnWVRpVWcwMVNiWDFrcm9CNXdSRE8xWHZhdE9SOE9Odks3UVk5aHdPWWZSVENld3haMG50RkNnTHRpNHItYVhxSHlRUUhWb0ZyUTg3RnhJUVRBbnQ3ZmhrTG9fbjU4YmtpYnhtRE8tVGw?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-11-04T08:24:15+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -215,6 +265,16 @@
    "url": "https://www.investing.com/news/forex-news/crypto-dips-on-democrat-midterm-wins-binance-hack-dent-optimism-4997586",
    "src": "Investing.com",
    "t": "2026-11-04T07:43:46+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Crypto dips on Democrat midterm wins, Binance hack dents optimism",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMUFUdUF2M1VTUGNuNjdfek4xeXZfV0ZOd2lzTEZWQ0p4ZW1xRHlpYTYxamhrTF81Qm5fdVQyZGlEVjFLck5YU01kMkZwTEFXZlVpSk9RRHVVVEN2Y05ja29QVHA4Z2tBRXhLS1g2X1lmb1NFclZWZnFueC0tNURqamN0TUxyWExHV1BuN3lmc2hVOUhaNG5Ga3g5MGxUWDBuMEFaZ0ZXV1lGRTMwdWVnM3EwSQ?oc=5",
+   "src": "Reuters",
+   "t": "2026-11-04T07:35:00+00:00",
    "tags": [
     "btc"
    ],
@@ -636,6 +696,16 @@
    "tags": [
     "gold",
     "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "US midterm elections set to begin: Can Trump’s likely defeat sparkle Sensex, Nifty? Here’s what analysts s",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQRlhNZE5VcENpa0RjWUMyU3U4ZDVyX2tMZ1ZxdVZmcGJWTHYyUkV6U3RjN0ZLSU1IbjhNc0d5V1IzS3cyMDNTTUJSVzRnTkVsWS1FTUM0OGhjLW5mSWp0VGZGaF9MSEd1SmJYX2ZIREhQRjd6SFJGTUZGeTRBTHpVN3poYmQ3SW4zakZ6cVRCeENNUnd4WGVRQ3BySXNsNHV4eS01NzZma095dksxdFFmOUFEWUZpWDFVMjRfRmxTNC1RTnZwUkNaNmJIcHpWeDVENWFPb25oRUxITmlXaU5ackFDMTdMdnVCbzZCbVJMQzFWTFVzNEdPT2xPRlZ5MzRjMl9wV2xJY3llYVXSAZACQVVfeXFMTXkzOWRJOTRQSGR5QmRMSUh0ejgxWlNYQjhkOGdPUThpSVdwcjJRTU4xdmxEQXI2aElWQU5CNFVDalRSTTdwZnFEbVBBUmVEbHNlOEV3RFIzUURhWG01azVZZWVFSVVLM2NaYnlQTnA2R19Odi1KNVZKOXRMdUZONlVzS0Y2R09TR0I0ZFFvQ1VIMjZJem0xSjFkZFYzdm9teUVybF9IMGVWdjF6anVsYXVoZXlaNjVyT0Y0M2czOHNiVDIwc241SjFGWjg3bHI3MU1LYXhwN3ZiZ0xTTUhZVWZLZS1FX3g4cUJMUE5ILXFKUHByb0ltcFA2VXFxRG1WcGV4YllRdW5IdmJkcmpiT0Q?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-11-04T04:04:14+00:00",
+   "tags": [
+    "nifty"
    ],
    "tone": "neutral"
   },
@@ -1168,6 +1238,17 @@
     "oil"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "What analysts are telling us while Apple’s stock falls after earnings report",
+   "url": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-11-03T22:48:00+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Bitcoin vs Nvidia: $10,000 Invested 5 Years Ago, Which Is Worth More Now?",
@@ -2049,6 +2130,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Brent: Pullback on US-Iran talks – ING",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFV4MnBMS0gwR2Zzb3BhT1laVzV3VE90RlQ1WkRnRjZjS2VpbEhTRDA1UGNHeWpUay1NS3Y2YlRTWEJRbGw0b0VxcTBmOFU2YU5YekNheGR4QlNvSERfS2JZRzhrQjVFTDFRMHZTUUdUR0JPQmdpbUVEZTkxblR4RUdmLWU?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-03T14:41:53+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "U.S. stocks drift in mixed early trading on Wall Street as Apple falls",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdkdjX25VLWhEbVRzM09zM0l5R01kaFZmSUs0akZkWlJjLWZPT0lWWXBhVGRUVHFnWVRpMi05OXFvNGs3a2xZQXJwQkNpdkc0eTJRSVlGVUFGekdNRXZjTFdIeTJlZWVVUDFndWF2WElmMmZNRGVRdmc0ak5tdmRITkFvVEo1U0l1Qzg3c1dtUzdyN0xmOGVveTF1QVc2R2piMTluQnRVNjRJSGowbkJuQWljUHd6dW9LRUZYcDFRRWhEVDRpYTdWbi1mN2tQbzJXQ0wyZWt3ZkUtVl90VFpob204Y3o1dVBHdm9sNnBPTQ?oc=5",
    "src": "BNN Bloomberg",
@@ -2349,6 +2440,17 @@
    "tone": "neutral"
   },
   {
+   "title": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Mixed as Trump Touts Iran Settlement Hopes — A",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOS1VSksxcV80OVktM2o3cHZuQ2RpYUNiRzkxMG4yWEhJbUhjOVRyWTdSdEZhUks5OHB3Xy1QOGhfb2xza2wxdEFyQjlPeURlYm5PdE90XzEtallPZExzeFJqSGdEblRHLTBlZGFuSXFISzJzM1BWV2ViMl9ucDdfM2diVFVwRmxIOTZOd3l5Y1ctMzItR0trWmE3TDhUTEF0aE05MzdiZl9KaGptTFJMUmFwbnJic0h2S0FSOWpTMHF2NFJJNG43d0d3NWlTdHFLSXRldk1Wb1hIRXNVYUlXM1pxOXQ4Y1gzV3dacHZxXy11Zw?oc=5",
+   "src": "Benzinga",
+   "t": "2026-11-03T13:23:00+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "India bonds end tad higher on softer oil",
    "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-tad-higher-on-softer-oil/articleshow/135501245.cms",
    "src": "Economic Times",
@@ -2575,16 +2677,6 @@
    "tone": "neutral"
   },
   {
-   "title": "Gold Demand Trends: Q3 2026",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ1dpTkVIeDJNeExyczdrWG5IVjFYZUtTdmNoNWdvVkIzcnVJT0V4RDZfOFc4YXc4bGs1N0hSWUNOTENBTmdFRVM1WWYxX0h5d2NrX3pEUkxBN0NKNmNLYmVrdjc0Wl93V2NCTG1jeGN2SWM1eWYyU0szUXBQYkQtdzNYZEhhMmI3MjBn?oc=5",
-   "src": "World Gold Council",
-   "t": "2026-11-03T12:00:00+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
    "title": "FPIs pour Rs 21,715 crore into Indian stocks in 10 days; is record sell-off finally reversing?",
    "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-pour-rs-21715-crore-into-indian-stocks-in-10-days-is-record-sell-off-finally-reversing/articleshow/135495383.cms",
    "src": "Economic Times",
@@ -2593,97 +2685,6 @@
     "nifty"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Japanese Yen weakens against US Dollar, US Midterm Elections in focus",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdpWV8xeFItX29CWDU0MllkUmFXRDIxTU5aa2hOek1pWVItOEd3c0FWT2dWdThRMnBRMjA3SFpnSzZ5TzlQYUJLZzBLd1AzSEhBZ2FfNnB5N1J2RXAwVGlyelBKQjFlTUNKMnNZSHgxdUdkMnVrSUdTY3BPR2tnNi0tbEdUWXlzUDlsNzRnMmR3eWJyWUZBdVBmSGhqT3NGcW1JNXNmX05WTlY3TGxPVQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-03T11:44:54+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Apple margin outlook pressures tech as reported U.S. strike lifts oil",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BaUExRVJtdGlQV0paOGwwYzJWbUJLNWhjMVVoU1FZWnVoclNwZUZsWFZJTXNDdk5nYk4tVUpnQ1g0emFGa0RGenVRel9YMlY5MTIzUjJvMk85eU9CQmhSQ3JadDNkNDNmOXfSAW9BVV95cUxOalc3a1BfVzREOS05TUd6Z2x3ZUNjRURqVFg0dkt5UEVvWFltbWhiekNIWlk2YUNxc3hzdmZIaG5DZG0wRzdOVUl4NDJFWHU4Zko4czM4SkhBZUNUSVZ0cmdZcGV6NGJsdHRpSzJFZ3c?oc=5",
-   "src": "CNBC",
-   "t": "2026-11-03T11:30:03+00:00",
-   "tags": [
-    "oil",
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin steadies at $76,900 as ETFs lose $399 million and Binance outflows hit $4.7 billion",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLXI5UGNpbURfSFpPbDYtTDN4UGU2R3BkbU00V2huUEJPdjhwWTY4Y3FOaW5HMmpMa1ZnakR2N05WcUR2YjVobi0tVkdwZU9qVHNZaTlFTXdZVWVHamYyblkxdjZtRDVxZElZcGhBWVBDSkNhTm4yOEhsSTY5T2dlV0hOT1REYkhrV0pKMzVWaGVacHVsRkt5eUhnbnVBRzdWbmkyTEFLZmJfbDg2aGZreHB2OWExZkpycmwyWVBKNjI2V2FFQU5GLVNNc1M1ZUIwQzBB?oc=5",
-   "src": "CoinDesk",
-   "t": "2026-11-03T11:28:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
-   "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
-   "src": "CoinDesk",
-   "t": "2026-11-03T11:28:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold struggles near $3,900 as traders assess Middle East developments,US election risks",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcy1hX2IwSlYtRkVIdDMtTDJPLXdHckRBYklaR0piRjI2eWhfd3pNaWpKNFFzLTZsckRzdjRRYmc4elFVVVJXZ3ZUYk9KbzFGTjROU2l3NFlZbFNjRVNkaEdocmVXOUVYX0F6WXQtNjVWWENHRnJNQlF3bmVtX0oyT0FlUEZTUVU4NzRWVG8tbjVMY1IyR2NKdzhCbGNSU1QwdFFoNDcwd1FQRFFjbzRZa0o4VzBWWXJDYURVTktUUjNXdVRFSFZrcQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-03T11:12:38+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUXVXWWdRV29JdEdUS1hHVjMxcDFLMkhrU1BzMXYtdmoxWHA0emhUNW5CdDJzejV1ZWY2NXhoRlViV2Rlb0RMa053UXc4aTN4U1ctTUtTbVRiSXhNQ1lucWhYbWhpSFdpWWFDUFFIclR5MUVqN2FnOXo2RHJHc051bGZMVXVNSEZNUjQySzR5T052aUJOXzNmb0lVTW90RTlKdXQ5Q1ZFMG15aUNrTDVvTjg2dWhnSk9TZGZN?oc=5",
-   "src": "CoinDesk",
-   "t": "2026-11-03T11:12:12+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "R&D-focused stocks deliver over 23% annualised returns in five years, outperform NSE 500: Monarch AIF",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rd-focused-stocks-deliver-over-23-annualised-returns-in-five-years-outperform-nse-500-monarch-aif/articleshow/135494023.cms",
-   "src": "Economic Times",
-   "t": "2026-11-03T11:12:00+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin and Crypto Market Slide as Sentiment Hits Three-Month Low",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQWwtdGd0cEtOdWpLSTJ3SHJYZl9hMEpYV01qLXBnbzUxeHJSVEJIcU5rNFBWQTc2OVQzQXQ1bTU4MHNraG9WWlg4T1cwTmRyNXRkejN5UmtaSVNHdFZnZEtwYmpxT0FicWtTN1JhcTBIZ0VXa2s0eGdyYzBEYUlBaHdXVkdmSlFPWHR0Qy15VjRsRTdhMk9URE9SYk9LVFJfV2tkZTR1c1dwZmpRUm9JcFNkQ1RScFU?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-11-03T11:10:10+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "ETFs Are Net Sellers of Royal Gold (RGLD) on Oct. 30",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSkhMSzA1cDc5ckIwdTNLYU5hU2VUdWhpX2hiaVhyZndPRERXcGtadXhjYWZvemJxeDJUUGJ5Wml1V1U3bmd4dDZxblpVVlBoX2lDRDVNSm1FQXFGbkg3d3dMUXRKUTlHaDRVY3Jyb2JSWkVNdXNEZE5TQnN1eGw0MDRsMjQ1NnlDMm1tSWp6OXZmWUFnNXBB?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-03T11:03:35+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
   }
  ]
 }
