@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-04T16:37:39.620692+00:00",
+ "updated": "2026-11-04T17:32:04.509772+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -18,19 +18,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -60,19 +60,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "CNBC",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Investing.com",
@@ -114,10 +114,30 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXY5a3dBOGRVWTg0YzRRdlllRGZOTXVFRVJlX1pnNlpob1Bfb0xiZl9wQXB0SjZYLVZmM1E0MmRDakhxazZYZWZpdXFpRUJqSHAtMk50UnU1V25RMXhLS3QzYUNtSzd3c3Fuc2o2N01kNGh6OUdLdnFzZXN6QnZxbGlUSmcyODltY1FpT2RR?oc=5",
+   "src": "Decrypt",
+   "t": "2026-11-04T16:49:31+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUY1eDVzNHZ6MmNpdWJ1aVE4MEk5azk5QlpXV3dHTDdTYzJUeGtnc0lUdWFRNHZaY0hiOEt0Z1hGTVBjVkgycGU4ZE90OEdRUlN4czVBcXV0S2Z0RXctRlNicG5UOTFEeGNkZTZtNlBlUjJSbWVrVl9qLUJST0x5cGt4T0t5SG9E0gGOAUFVX3lxTE9ZT2lFbGJEQWs5RkRuNG9xQTBJTVM3M0hqVHJfSkpiYVBIMl9oa2JmbWNtaFZfRnVQMC1RbU9NeHFqOG5icHZyYUlBa0FSMUg0dmJqcDlBdG04czRiVVlaZlFoNnFEWEJGNjBOX01UWFI0VUtJQXdSZzdzVS0xR2JOaHl3LW1YemRhdF82WHc?oc=5",
+   "src": "CNBC",
+   "t": "2026-11-04T16:43:16+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Bitcoin Pumps to $80,000, Ethereum, XRP, Solana Surge up to 6%",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnJJOGFjcWpLNm53dXRhZlVPMWVWb3dQa1daVW53RnRsV3lZNzA5YURYZXJIYzkzYXRXZ1BjQXg3YkRCcGJLVE5xSWhBakpxMlVDSkpKcUtHQ19RczZydE4tNDZpUnBDTjBsMTdhWjlxUEhBY0dPZkt5a2pwVWE5MG9pVEdDcllldmpPWnFVUkZkbEVCNHoyeVR1UDcyUWx6ZUxTajF5V3VEdlBodGQzQk9McjBiZ2h4blE?oc=5",
@@ -302,6 +322,16 @@
    "tone": "bullish"
   },
   {
+   "title": "A Stronger Economy May Complicate The Inflation Fight",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU0V3RzdnOVFFWjFRZUVhNzItaHhNem43V2FUSk82MkV0QmJPTXAtbXJBTTNkN25XUDVMZG43WVJTXzY3d1Z3Zi1rZVRWZGFmNXVOY3BmZFE3eTAxUnMzTGJ6UC1jdW11Z1ljNHhJX0NTVURocDFvU1Fib2p1Tms5M01Ld0RsdzJNakRqdDBFNE1idw?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-11-04T15:05:00+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Stock Market Today (Nov. 4, 2026): Nasdaq climbs as Democrats take House and Senate",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYkd5VHpCNU1mOXp5T0wybnpvcTVVdEIxa0hUcHRWWDF6OHlrUDh5Y2pPVjcwSHprQjJuOEhQNFdBT2Z4OGY5Y19Zdk9IN2doN19nMllhVXFBMkEwVmZ1eFlxbzAxYTNpYmZXamkzeGhsb1JYd1lEMDlSVVFSdnpMeFJoU0Q3UkI5U0NHbnhQMW9GT2s?oc=5",
    "src": "Yahoo Finance",
@@ -393,10 +423,31 @@
    "tone": "neutral"
   },
   {
+   "title": "Gold and silver surge as Democratic midterm sweep drives dollar, yields lower - Kitco AM Report",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTIzc1F2ZWpzTG5Va1ZsY0RIMEVabFJBSlY0ZFBDb2RDYW5mNW5iTXZRb0owR2xINi1uNTUxakhDeHdvYjBLSWc2U281RlE4eXlTZVVGLUtTWHAyX2NXMUVEVXhzUzdMdXppUTF4dkRCZzBhREx6YVhtcUd5M1d0Z3M3VzZTRkFOWTRGU0RxWUZpZ3EzaUpwcXZ3UG82NmN4bk5lRzZObDZta2dMS1hfMDRxWUZXWGFFUl9F?oc=5",
+   "src": "Kitco",
+   "t": "2026-11-04T13:55:41+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Current price of gold as of November 4, 2026",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42RGx3NTQyam9zcHNVQXliQjFsMnY5Q3l6SFMzXzVvYWxMNDN6TnVTbk5EaV8wdXZ2SFl4TE80VFFLQTNBOWVMQ0RaaEtLZExWNXRfRHo3Rm9RRmNra0hyTU5UcHhQN1FfT1FFMDZn?oc=5",
    "src": "Fortune",
    "t": "2026-11-04T13:51:00+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold is back at $4,000. Don't celebrate yet",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObHdYOVZ2TktiQzRkMEpkakRLcTU2QjliR2RScEp3WFVGdkFwUjQ4UGZ0Q19KV0JmcXU3UTg4cXE2U0dGLThoZ0x2VGNZMVozbmc0Y29NZ0F1RlhpN2FfX1JyNk0tYnBZWW4yeUtZbHlBMzF5N0VEbGdXVHdNdTlSWnhDaGdRYXVqWTZGd2lHRWs?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-04T13:39:06+00:00",
    "tags": [
     "gold"
    ],
@@ -1071,6 +1122,16 @@
    "t": "2026-11-04T07:27:46+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "What drives Silver price almost 4% on Wednesday?",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ01BNlJxWVZNdE1QQktCbmRwSWRyZ2VKYXRjV0FySHNfbjJ6d0xobFBBaDJMWElTOVdqbngtamFTX25jb21MQkphNkNkMkRmcmNPenpuYWZ1QWhrVVZrRDdWcmlTM3A3MHhnMk5iazlxcG1ab1V0R0V5dG41bkZ5UWxvU2VQQ1FieURZNzJsUEowenFLOWw3OF9hVTEwQ0g4RnhHZXptbG9ZLTI2QmV1TWtTcU9PQ3RHX1JwWEFPczJtX2ZzNWc?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-04T07:22:51+00:00",
+   "tags": [
+    "silver"
    ],
    "tone": "neutral"
   },
@@ -2604,68 +2665,6 @@
    "t": "2026-11-03T17:54:00+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Mark Skousen told investors to sell gold in 1980, here’s why he’s cautious again",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMFFzTXp0YWtDR2xOdUhoMl8yemxqTkZVX3h0QVVzV3hvRHdic1BZQkRMdDM1a2huTkpubGdrcEV0REhId1hoLU1zTG5sN2tmU3llcmpOQy1ZcW9DQ2pXQkdVVm1fQUE4T3pqQkVVaXctSmpZckFTMEVRRDIzcFotem9DNnJGaHA2dVRtTk9EeVJ2ZURQNHVHNnR3WFh6MWt6dXd5ODhCdGN1NUtjNXVFMW04dmV6M3l1?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-03T17:38:09+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage",
-   "url": "https://www.investing.com/news/commodities-news/russia-bombards-ukraine-power-grid-before-abu-dhabi-talks-merz-urges-moscow-to-engage-4996122",
-   "src": "Investing.com",
-   "t": "2026-11-03T17:32:02+00:00",
-   "tags": [
-    "dfm"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin ETFs Lose $1B As Midterms Test Trump's Crypto Agenda - iShares Bitcoin Trust (NASDAQ:IBIT)",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWmp5amp1MFNlcjFKZTRsM2NhSHJlQkZKMUhpbFMyYkdkYUh5NlAyYWdMV1Z0ZXBGa0R3N0luMk16SlNHQ2tiSHIxNkx3MWtNTEpWXzlHM0trVFdoUHQ4ai1SOFpsdzFNX2FrWE5BM040bUxJc29vQTlZMnVVM3pSUjl4Y1d3RkxvTWkycFl1LWtJVDZ6S0Iwa01nTXdIMFFoSEFmbHMwUWJNbDNGck5yb0FJNGlGa3ZPUFpvRlBranNkMEJGT0hUN3RnWlJDR2ZXenJkOVpwcnViVmV6cUFzRVhuU2Q?oc=5",
-   "src": "Benzinga",
-   "t": "2026-11-03T17:31:37+00:00",
-   "tags": [
-    "nasdaq",
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Jim Cramer sends cryptic four-word message on crypto",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHRjbmpnZURwQjNMMm1tTFJ6c1pIdEExQ1JzbHI5MmZ4ZnpQazRDLXlfZkt1cG4tdUhFSllkRlNfM0pNdVRoV0R1YURSX2d3Z0NLbjc5UWdWY0lZWVp0YWdSUnVfOV9JanE4WVdkUlV5cl9fajI0X1E0MG51cFN2eXJrdXdaZy16RlJKcW1QQjFFRjNCbEFwaw?oc=5",
-   "src": "TheStreet",
-   "t": "2026-11-03T17:30:02+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Yen Bulls Loaded Up into BOJ as Euro Shorts Hit 11-Year Extreme | COT report",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3l2NEZMQ0ZNSHJoaTZ1ZllBZkhUdVc4bUlfRHY0REZYYkxfT20tVXFNV0ZzVkxuLU1mbDZyV1pYQ294U3ZWRkhlQzFXeVRsOWEtamoxNms3Yzc1dkk0U3dFWHFCZ21UaHpEVEVveVctcjN4aUQxWGlQOThBTFgtczgxMlF5TWZYaVFNSmM4djEyS0FhVVZXZlpqYS1KOVJGaFk1Wm9XLVFSaVp5bzJBemU5dTFMRDN4bi0zZnd3?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-11-03T17:24:11+00:00",
-   "tags": [
-    "eurusd",
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "inflation pressure description={PAGE_DESCRIPTION}",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lbWpWQ3pUVnpuNllXWGpCZ2FIaVJpbzV0SC1iX2l0TmpfUjVkbDdQQzVDU2VxZXFOdS1hSXZXM2ZleGpFeE1NZlJ0b0plalY1dy1CQVY4bFVheHRqQXc?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-03T17:03:44+00:00",
-   "tags": [
-    "macro"
    ],
    "tone": "neutral"
   }
