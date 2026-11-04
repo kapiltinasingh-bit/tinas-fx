@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-04T21:19:08.263658+00:00",
+ "updated": "2026-11-04T22:11:09.549874+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,43 +48,43 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "Economic Times",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,46 @@
   }
  ],
  "items": [
+  {
+   "title": "Qualcomm’s stock falls as twin forces pressure sales",
+   "url": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-11-04T22:03:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Figma’s stock falls as investors worry that AI momentum is coming at a high price",
+   "url": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-11-04T21:48:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Dow scores its best day in 18 months in a broad relief rally after Democrats sweep to power in Congress",
+   "url": "https://www.marketwatch.com/story/dow-scores-its-best-day-in-18-months-in-a-broad-relief-rally-after-democrats-sweep-to-power-in-congress-d7348fc0?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-11-04T21:29:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Apple cements its status as tech’s biggest heavyweight with the stock’s best day in over a year",
+   "url": "https://www.marketwatch.com/story/apple-cements-its-status-as-techs-biggest-heavyweight-with-the-stocks-best-day-in-over-a-year-c7fd9e6f?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-11-04T21:17:00+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Wall Street veteran says setup in these stock charts among the most unbelievable he’s seen, as Big Tech sways market",
    "url": "https://www.marketwatch.com/story/wall-street-veteran-says-these-are-some-of-the-most-unbelievable-charts-he-has-ever-seen-2c78e677?mod=mw_rss_topstories",
@@ -168,6 +208,16 @@
     "btc"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
+   "url": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html",
+   "src": "CNBC",
+   "t": "2026-11-04T20:14:52+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
@@ -413,16 +463,6 @@
     "btc"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUY1eDVzNHZ6MmNpdWJ1aVE4MEk5azk5QlpXV3dHTDdTYzJUeGtnc0lUdWFRNHZaY0hiOEt0Z1hGTVBjVkgycGU4ZE90OEdRUlN4czVBcXV0S2Z0RXctRlNicG5UOTFEeGNkZTZtNlBlUjJSbWVrVl9qLUJST0x5cGt4T0t5SG9E0gGOAUFVX3lxTE9ZT2lFbGJEQWs5RkRuNG9xQTBJTVM3M0hqVHJfSkpiYVBIMl9oa2JmbWNtaFZfRnVQMC1RbU9NeHFqOG5icHZyYUlBa0FSMUg0dmJqcDlBdG04czRiVVlaZlFoNnFEWEJGNjBOX01UWFI0VUtJQXdSZzdzVS0xR2JOaHl3LW1YemRhdF82WHc?oc=5",
-   "src": "CNBC",
-   "t": "2026-11-04T16:43:16+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bearish"
   },
   {
    "title": "Why is Bitcoin rallying while Gold recovers?",
@@ -738,6 +778,16 @@
     "nasdaq"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Fed Wins Protection With Democrats Taking Control of the Senate",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDcxTEtxUkRBRDdnOHA4d09seWthb0dBYzNuYjctTmRWZ2ZhRHd6dTdrdmREbS1BV1NuWXU5LTNLcklFUEdQMTRBeHpEU3J5U29tODFPbXVsY0laT0VxUTZJS2s4bC1WcS1odDlyYXBvYTF5TGNvWExlVXJ5enFmbzF0NUlVNXdUdlRKbkVHczYxcF9ZVVpyNllRZXhGYkxEQ291dzl3ZmNzeENqdHNnSVZVblY?oc=5",
+   "src": "Bloomberg",
+   "t": "2026-11-04T14:11:24+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Market wrap: BEL, Adani Ent, TCS, HCL Tech top gainers and losers on Nifty and Sensex on Wednesday",
@@ -1680,6 +1730,16 @@
    "tone": "bearish"
   },
   {
+   "title": "Gold surges, platinum hits our target. Can the bulls keep going?",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanYwWW5kUWdxQkN2VDduRm43NlFtWDU5X0VKY1ZsR1pCTFprSG9obzYwVUlxTDE5WHJXeWlKN2FJN1IxdldCZWRXVFdsQjlTdmppbGxNS195bXJhTUhqcjBjdURCZFYxejRXREZNYm5GdWg3ZmI0OVZpaXI0MFFHcDZoMVhxamotLWYzc2phR1ZqZzdWV0MydjZoWW1WazQ?oc=5",
+   "src": "Kitco",
+   "t": "2026-11-04T06:21:40+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ0FsZE5JTFRZYXlpLTd2QmplclRHZzd4c2tHOUt3QXBXRi1WZkFQVmF3VHVSTVBJcmJvS1Nka3pieGFwUWxnRkZaNWppY0pQcXVyM3NXQVk3WUZ2Y25Ga0hNLVZ2OHlRWWpzenFJbWJXaDNxZ3J2blhrWDZLZnBIWHhJMGlDNFhhMU9tTE10bDBYZw?oc=5",
    "src": "Yahoo Finance",
@@ -2606,68 +2666,6 @@
     "btc"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Gold, silver decline as strong U.S. jobs data lifts yields on election day - Kitco PM Report",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR19GNG5scmJ3NVFKWjN6MkhNU0xvUU45SDFzdUs4X2wzRE5YMk13cHNsODh5NkprUy1GdDd2UllrdzVtSm5ERHNiX0hNejVLdkNrQjhGWk9rUHlwN0Utd283WExhVUxoOTdoTTNSaWtyZTZfNl94QXlpSzdhby11NDBPaklDSTdKQzBPRk0wVDFoTDJnaU50ckRQalVBc0NpTFRJbklUOE5KVV9RTHAtTGF3MVAxZDE5SVFiYg?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-03T22:22:58+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
-   "url": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
-   "src": "CoinDesk",
-   "t": "2026-11-03T22:14:44+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "India’s 2026 gold demand seen falling to six-year low on price rise",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOExNX2thTnQ0dGtENG1YTmIwZFRyS2V1eURWVDQ3a01qYkEtYTh5VDBWTjR5cWRIVU9CamlnWjhFdTVIVnVWLXJ3dURvQmM1Um5JMjZiQTVQYW82VU9iR0FTU2VtY1JkUnNDUDdzUWVnYXhFdzN5NGlWY21uV3MwSks2UkhwS0t5a0lLWFJCeGFTRjlGbFQ4eV9ha1c3cUFHYnNfeE9Gd0dqOVdxbGZXbw?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-03T22:04:06+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "permanent inflation description={PAGE_DESCRIPTION}",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93RVZ4OG1MUHNXUjkwM1VvLTZMZzZfYnU4UjNiMHZud0NuNlVaNkxfRjB0NHZTalZabXp3WGlWSWFzYy1UWHUxYVZmOW9oN1B6YUJxMG9xcmhQaDdnWUZz?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-03T22:01:44+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold and silver ALERT: Buyers are waiting for one thing",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa05OSWN1OWE1anVlODZDRHNzMnBYckQ4VlBublZzX1llSkpwNFA0M3BZNmxycHhuZktfbnVwTV9MQU8tbmU4LUE1SV9DSlF2NHdkUG1SaF92c0VzWGh3OTQyMV9ORzNxaG9PdW5mLWh5LW02ZTNDT0NiY3dhTloyS3B6WHJ6LU83NWU3UFFNYlNwdU5sT0E?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-03T21:52:30+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?",
-   "url": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-11-03T21:30:00+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bearish"
   }
  ]
 }
