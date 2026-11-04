@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-04T22:11:09.549874+00:00",
+ "updated": "2026-11-04T22:54:44.485586+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -78,13 +78,13 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 4
+   "new": 1
   },
   {
    "feed": "Economic Times",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,57 @@
   }
  ],
  "items": [
+  {
+   "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+   "url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
+   "src": "CoinDesk",
+   "t": "2026-11-04T22:51:42+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
+   "url": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-11-04T22:46:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold (XAU/USD) Price Forecast: Post-Election Rally Tests Critical Resistance",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU3A1ZmVmS0FoNWo2cFFEX3Y4TzgwSGdkV3lRUnNsM3BTaDM3ZDZHbFhoNDFCLThFVjdxVV9NdGFfaUktdG9CdmstSUtqcDdlcXl6WEgtbm5tLThrZ0RPZzBWZ1RCcFgzbXlFcUM2NjN5WVZSY0lWV1lOOVdERHEwa2NwaFphYlRKVVpMdUFzdkY4NWdhQk5NYk1waWU2SlBuV0stRzBGSHNBME5Xc0hSSnZTN0lZZnhucE9qLV96bE42QQ?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-11-04T22:21:45+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Stock Market Today, Nov. 4: Dow Surges 3% in Biggest Post-Midterm Rally in 44 Years",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmpTTnRER1ZfU01zcWNFU2xFVjVMRjNUWHpmQ1FhbU5mc1JRc01JbnRBbW1uYmc2WmVNRDFMUTVmaHFES3VVMmpqcEVYYUd4Xzh0VEJ4UXRxMmZsZ3hCZFpOdnlBSXdaMVVqMTc0RWd6TUg1RUJVNGNVeWZBdTRDZzd3aHEtUzJxdkRVcVZfbVNPeE0?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-11-04T22:10:01+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Gold climbs above $4,000, Wall Street rallies as Dems take Congress - Kitco PM Report",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ3Y3dnlROTNsbFpsWFFWSGhtLWdkeGJtUE5ueTk5cUJvdndMS2F0VDRTTmozdV83OFJNblM3bUVXRy1DSGZrMVFJQlNlUVhuVDNSTThwckJEazdTR3VfU1pvc3ZVNWtLb2xnN1B0XzRRQ2JsUmZQTXk4NmNQYl85bFVlSTU4OFdkd3Rwdk41c0tvMjBoNzdWd1JYX2xSeGduNXFmTlNMdTR1RHl4RzRWcHd5S1hPNmc?oc=5",
+   "src": "Kitco",
+   "t": "2026-11-04T22:09:24+00:00",
+   "tags": [
+    "gold",
+    "spx"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Qualcomm’s stock falls as twin forces pressure sales",
    "url": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
@@ -2614,58 +2665,6 @@
     "nasdaq"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Bitcoin vs Nvidia: $10,000 Invested 5 Years Ago, Which Is Worth More Now?",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVmJSWTRJTWdOdl9TRFlKcy04VENxUTJoLUl0dzdkVk9TakdGZ1ctVnlVSUdhY0JocFA3UnNsdjdFdG1GN0hMbkdjRzZWMmU0TVFSaFZQLWUyZnh5dW1Canc2cWRnSml4UURFY1RZeXlCVGdqUXgzcnBPcS1UXzMxdU1fbmM5X0I5OUhMcWJ4Tlg3bzhkQlpwNUJpRl95VUNvYlUxbzN4UE56bUlrS3VuV041c1phNmFfQ0JfeTBIQjRodzZkWEE?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-11-03T22:47:00+00:00",
-   "tags": [
-    "nasdaq",
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Current price of gold as of November 3, 2026",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TSllURHVXdVZuc0tKQVRUaDRteExUQktUUkpXdjltSzZTWFpKMDBNR1V6RklTTnAzQXVjcUQ4MjFOcjRvTUdNZV94MkNFTjFxLWJFY29EM0lyaUV4WEVIb20zaW03TGJHcUlPdHRB?oc=5",
-   "src": "Fortune",
-   "t": "2026-11-03T22:46:56+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US Stock Market today: S&P 500, Nasdaq, Russell 2000 rise but Dow Jones fall as investors eye midterm elec",
-   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNWkh4a0V6WGwtLW1pS0hhRjFwaWtrTGxiNFhibHpZUk5OWXBwRXgtWEpjRWRlRXN2M20xNHdseXZZcThwZ1k0VUlNdFlxYXhSRVQxaEllZERzcWt4aXYteng5Y3lJUTBadkJqSFpDMnpJNjdDMXZLS2N0Yk1JWHAwd0NfbDZ0T245SUFIWG5DX3RSZWluSjRURzVMSFUwcHRoNXVxUXN3TExMUGN5MWludm9waEk3V194MUxBY1FoQUEzZHFuczJzNVlfRmdlZXBfTk4zdDl2Mm1kOF84TnFuWjk1OWdUbW96V1BiZ0xpcnpWdk5tdlRBREtqLU9RZHI2UXNiUy1QQ1BMVEZjT1ExWk1oVWxoVDdGekluWUJ5UzNieWdUa0dJamdJMHhaSDVRTjl5VTZ6bUjSAb4CQVVfeXFMTjMxNC1zRUUtUlVseUdyQkNINlFoTXMtRmthNHFnaXlHUEZfVFNzRm42TDRjYXFDc1dKTFowZks4WU13ZXItcE82VFlqYkdZQUU5ejlydGdjLUk0TkdlR2hVZ1AwMjFOd0I1WWRTNjdqR2pMaEZqOVo2ZEdxd3JtcHFyMncydVFWN0JVb3huSmphUFFMVVZQVGhxMG9xa0QzVGRkVWZjZFdoSkJaY0k4ZUhFLWItak1qWXBDWGxETVV4U0R6enhQeXg4NWRYb0ZuS0NWdnNHTGJOZXRJTE5HSk1QbVZEYnBXcnpDZHUxQlN1MmhpNVhJM0dlZzhDU1M3am1HOVc4V3R0NEN3TV9IcnFOSHBpYXVXamN4YmE1OGJZcE1zczNVY3JXa2hjMjRZeFBRai03OHZBaDJDZzdB?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-11-03T22:43:32+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold (XAU/USD) Price Forecast: Critical Support Holds Amid Growing Downside Risk",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc1h4eWZvaXpzM0hRRXJnRTVwczNIQ1NMSjZmVzk1dEJndlA5bmJYZXpHdWVIUHVzRVJkb05KN2VRMkgwakhsMlVFdlZXenZwbW1IYWtGb3ZadmVtQ1pXQVFqZ1RMX09ucTNiQzFzTWU1WEZyQ05qRjNtdHF0UFZWZjVyNS13NTNHa3pPbzNKak9Xdmluc283dUQxVUhfcXVBd3lsN2o1ekNnWDlMU2xvZXBxY1l6UXItbndtWHRhOW9kSjBabi1j?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-11-03T22:39:20+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Crypto Market Today, Nov. 3: XRP and Zcash Defy Recent Weakness as Midterm Elections Take Center Stage",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXQ4MFBnRXQzSldXVk1kS3N4LUo2OHV4N09KdFZYbkgzZGV6TmNvNTI1aTdsQkVndG9VN1l2djdRLWgzUWhWTjhrYkNCeV9Eb0RKbnNJMnF5amRudjdjalFhc25qd0trSTlCb3dhR2VPXzB0anJHZmpSRGM3OGlxb2FhMWJUQUdWMHFfSFpQQlNBU2U0?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-03T22:30:02+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
   }
  ]
 }
