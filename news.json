@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T20:28:53.119040+00:00",
+ "updated": "2026-11-04T21:19:08.263658+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -66,13 +66,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "CNBC",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Economic Times",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Investing.com",
@@ -114,10 +114,41 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "Wall Street veteran says setup in these stock charts among the most unbelievable he’s seen, as Big Tech sways market",
+   "url": "https://www.marketwatch.com/story/wall-street-veteran-says-these-are-some-of-the-most-unbelievable-charts-he-has-ever-seen-2c78e677?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-11-04T20:41:00+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Crypto's powerhouse super PAC, Fairshake, found its kryptonite",
+   "url": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
+   "src": "CoinDesk",
+   "t": "2026-11-04T20:29:12+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Oil prices are in freefall now that the Democratic sweep is ‘rewriting the Iran playbook’",
+   "url": "https://www.marketwatch.com/story/oil-prices-are-in-freefall-now-that-the-democratic-sweep-is-rewriting-the-iran-playbook-aa437b85?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-11-04T20:28:00+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Gold Prices Are Above $4,000 After Democrats Win Big in Midterm Elections",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZzRvQUY2bjZ0RUJ0ZFBYeVlOMENhblZBWWNxRThLbnE2UG84aFNpcGdfMTYwaDJ0aTl3Z053UWxvVURod0ZHdzVQSE0wX0E3LXVnWUpQR1hIYUF5WFpoS2doUzVCcFFzN2ZuY1gwRGxidWwyR2MwVks0RkpsdUQwUFZqdjhUTzEwUkgyY3NEVmZQTTA?oc=5",
@@ -127,6 +158,26 @@
     "gold"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "What Democrats' midterm victory means for your crypto investments, according to experts",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGV5cWJNWTZhR25sblhkZlBwTklKc3hYMHNtaGtFSG9ndHZCYjFEbXNTQzI4OWVIRHFzWEhqN3Z4MXNpUlN4ekgtT3lEVXc0X2JFeFJFUUZsbzJsbHppaVB0T1JyX0hPaG1SVUZsbmZ4UzJYNXNLOXZPeEpKTUs4VEV0VkUxakJFVEJWVWlGelN3RlJLRkNhUg?oc=5",
+   "src": "CNBC",
+   "t": "2026-11-04T20:18:21+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQXdzd1lXRlo5RWNKLXQ4azRLNkZtVlNQaWJaSThncGdHZUN1aE9Jbm5tN0lTUzFteFhWOE45amNjV0pnZHB6SUtZbVBXYnd6M09aMXJka185TWYxbzFUUG5yTk52RGU4M3ZhLUtHZ3RfczNPLUJSRWZDN3VlQTdYVmNmNWFrTEZjQlpPYWZnRUVabTh6T0hxWVJHOW9WRmY5dW90YUVaMng1cmZU?oc=5",
+   "src": "The Block",
+   "t": "2026-11-04T20:09:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Microsoft and Amazon combine for a $400 billion market-cap boost — and these factors show why",
@@ -374,6 +425,17 @@
    "tone": "bearish"
   },
   {
+   "title": "Why is Bitcoin rallying while Gold recovers?",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcF9GVWRnSEloTDl4cmVVc1JQb283NmVDWHppd1RTdE9TSHRBeUdlYjczazM0QV81N3RkVmNFdnNTc1ppWXV0OXpESzRXQVJIUDUySFV0TzVKWldUZGI5elZFVmY4OUctRFc2X1NFbUJUQXpwT1F4ZExCQjI1NE1xYWpXRHFsWlR1OG85Y3I2cFd3TG9SUEFEVHh0Y2JoNVNRVUY3NzdLMFAyM002c29UVUpuV2lxQjFUZ0p2dDdlMFpZZllHZzB4RjVFWnB3WnQ4QVBkaWZpZXNBNzYxcGk2Wk5JSmJ6eFlUMlE?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-04T16:34:51+00:00",
+   "tags": [
+    "gold",
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Riot Platforms Sold 79% of Its Bitcoin Last Quarter. Does Mining Bitcoin Still Pay?",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWFVFaEVBMEhjN2JGazZUOUxyZGtkc21jem5XaHdTczNZaVZLVGdhb3VFM3RYNHNIZTBoeGJGYldsOElQYUl6TnhnbGxJaGZQdnR6MzNUMXpQMW5aWnJXd0JFOEduc1JEQ3dodzBJdDc4akRsYUZlVFVxQzhvYk93b1FuNkRfTW9QZG9pVW5vV3ZTaWJOQUlSZWJGeVc4QVQ0a0QyRmVDNWxNMzg0Nl9LazRzTVlUUnlsSE1YX3BvTURkYkxBX0lrZFBkVFhXT1FiUnZuOXl3?oc=5",
    "src": "24/7 Wall St.",
@@ -613,6 +675,16 @@
    "t": "2026-11-04T14:54:45+00:00",
    "tags": [
     "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Bitcoin’s Rebound From $75,700 Faces a Crucial Test Near $82,000",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPXzVVd28wdlZ3cGloVFdGZWpSQnBKVThrdXlMUVh3Vi1yUUZPenEtOEo3NEZvY0xaZ3o5bmYxRzlkUFFSZURXMDN4aUNKeGpNZ0RfbEkwYTAyWmM5SVRkbjZaNDVQYm85WTlwYmlyYXBBZ2lvajdvemhpeXJpNUtQYXVmbjJlaGJvRGE4ajAza21MODhscnNydmtyMlpiY0lER182T1g5aw?oc=5",
+   "src": "Investing.com",
+   "t": "2026-11-04T14:47:30+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "bullish"
   },
@@ -1379,6 +1451,17 @@
     "btc"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Gold and silver prices jump, dollar dips as Democrats take control of Congress",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vZWlTQ2F2aWtGb012RVY2UHM5WlgtMDhpWU5FVFRtQTQ0Yld1NURka05Zd054LWFveWFJV3JwSThqNzg5NTR5Z0RhTUVDWkhQOXFNNVNJb29vSHFLMmZNUnB4TF9rVldRRG9VQ2MzTEJNRUdrcHZyN014aFNaZ9IBgwFBVV95cUxNUExBejVyMG8zamR1cjA4VXpSbkc1UE41dXMwd1JKLTVpSTRVNDJFUDRFWWc3U1FuT2tPV05qMUlMMDRUNnJwRlBxYXRHLVBLTW44RTc2Vzcta1BHZ19BWnNPY0kzcEp2LW5iMzN3ZUJKM19vRE8wZjVlUEgtb3ZaSENiNA?oc=5",
+   "src": "CNBC",
+   "t": "2026-11-04T07:43:43+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Bitcoin recovers to near $78k as Democrats sweep midterm elections",
@@ -2585,89 +2668,6 @@
     "spx"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "US stocks today: Nasdaq rebounds as chipmakers rally, Apple slides ahead of US midterm results",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-rebounds-as-chipmakers-rally-apple-slides-ahead-of-us-midterm-results/articleshow/135513181.cms",
-   "src": "Economic Times",
-   "t": "2026-11-03T21:20:14+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold & silver: A battlefield for warriors",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QYjY2Q0l0dVl3X2txTTJoMmhhQURWd3BHN185NnpLMF92UkNwcTQwdUFkdkZSR19idzEtZFczbVI0QXRfa2NJY3pBd3RXelZIUmJ3cGhuUmNmZlJtY0hMdnpTOGF3Wnc3TnNSNHZvd09hRDI3UW05N0xFUXJuQQ?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-03T21:19:35+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Nasdaq ends higher as AI heavyweights rebound ahead of midterm results",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWE5VTWlqMWhWQjhVTU1PYTc2M2w3ZWJlUWl1UUMzbThRNGVvQkc1YXBxOUdyVDIwYzVHRG9WR3J0VkhxSnhGdlAzNk9WZXduZHBXdkRackxJVmZPLTZZLTFuQnFQMzZWTVF4U28xV3VrNERlV3hwOGFiYWR2SUVmcUtjOXZNeE0yeHRBTkZkZjI2bDdraXdDYg?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-03T21:14:35+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "S&P 500, Nasdaq end higher as markets weigh on U.S. midterms",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWTNnOUZmak01NFptRlZ1WDlXT1g1VEFBbXp5WVNVVnNBS25nX01pdGJYRGdHSW5zcGh6YnRZY0JqOW80SFhCWDl4TTRKdmN6Uk5feHVtdWU2bkNvc21CS25Cc3g3ME5HdlhMUWRQTHFuWGhGb3JaLUZ5aC1WQUtVbkUybzJVeHhuYV8wcjY2bE5RM0lPUTRyNzFB?oc=5",
-   "src": "Seeking Alpha",
-   "t": "2026-11-03T21:09:12+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Anthropic’s IPO is a high-stakes referendum on Big Tech — and this chart proves it",
-   "url": "https://www.marketwatch.com/story/anthropics-ipo-is-a-high-stakes-referendum-on-big-tech-and-this-chart-proves-it-d1c54d33?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-11-03T21:04:00+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Analysis: Resilient U.S. Labor Market Continues to Pressure XAU/USD",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX1lZQ29OMS1Qem82LXp2aF95MDRMc0NBT3NtMTZMUktzVENzMjZHV01SSFV1SHROR1I5SEc4VEk3Zl9INVd4OUFlaHQ4aEtDYW9SQUFULU5IbVpuN1JCeno4ZWl6MDFDQklmYzd2djFFTXZRNmY3SWFKZEFsdGRGblV1XzBfOWVFVU91Qk45SEFZeXpBWXI0aDVqQ2hrYjBkV20wMThkTmcxZ2w1RHpGVHAycVZoM1Z1?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-11-03T20:57:51+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Yen Bulls Loaded Up into BOJ as Euro Shorts Hit 11-Year Extreme | COT report",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3l2NEZMQ0ZNSHJoaTZ1ZllBZkhUdVc4bUlfRHY0REZYYkxfT20tVXFNV0ZzVkxuLU1mbDZyV1pYQ294U3ZWRkhlQzFXeVRsOWEtamoxNms3Yzc1dkk0U3dFWHFCZ21UaHpEVEVveVctcjN4aUQxWGlQOThBTFgtczgxMlF5TWZYaVFNSmM4djEyS0FhVVZXZlpqYS1KOVJGaFk1Wm9XLVFSaVp5bzJBemU5dTFMRDN4bi0zZnd3?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-11-03T20:14:44+00:00",
-   "tags": [
-    "eurusd",
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Binance breach puts custody at center of crypto infrastructure trade",
-   "url": "https://www.cnbc.com/2026/11/03/binance-breach-puts-custody-at-center-of-crypto-infrastructure-trade.html",
-   "src": "CNBC",
-   "t": "2026-11-03T20:13:37+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
   }
  ]
 }
