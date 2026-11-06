@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-06T06:24:51.119887+00:00",
+ "updated": "2026-11-06T07:43:25.731157+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -24,19 +24,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -108,7 +108,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,39 @@
   }
  ],
  "items": [
+  {
+   "title": "India bonds emerge as top Asian performers as oil, Treasury yields decline",
+   "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-emerge-as-top-asian-performers-as-oil-treasury-yields-decline/articleshow/135597789.cms",
+   "src": "Economic Times",
+   "t": "2026-11-06T07:03:11+00:00",
+   "tags": [
+    "oil",
+    "macro"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Gold (XAUUSD) & Silver Price Forecast: US Jobs in Focus, Can Gold Hold $4,022?",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObFZpSU5mbVoxWGh5ZTktNllCNEJYU2MwTVhnNmllVmU2UlVnRldGUjFpR1c1NkVwZmZmR3VJMk5EQTdkcDlsZV9SM3U3LVRZY2c5SzFUVEgwbUVSRXBOSExJYmZaY0dEeXBWNDBsd1JTNllUOXkzZWRjNFBaUkMtNFhRMGc4WmxrNHhVZlhuT2l1RkE3S1dlYUZiSFlMMlJ6dmw3MXBscWRLTzBlMkt2cm1sUnl3dEpwWUlBNA?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-11-06T06:31:35+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Beyond gold: What $340 billion in crypto flows says about India's investment preferences this Dhanteras",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/beyond-gold-what-340-billion-in-crypto-flows-says-about-indias-investment-preferences-this-dhanteras/articleshow/135596165.cms",
+   "src": "Economic Times",
+   "t": "2026-11-06T06:07:20+00:00",
+   "tags": [
+    "gold",
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Cryptocurrencies Price Prediction: Hyperliquid, Bitcoin & Zcash – Asian Wrap 06 November",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNm1Ha0NqQjlDZU00VmJlSlR6dXR6U0QyTGpGaFA3c3VPNHBSNnlGZGlNeXJOdHBPQUhQT014ek1mN2ZZU1ZwQXFBeVB4YkFPQjZMaGs0RXBkUWt4MHRmUWdkMm5OMGhBR2xiTTVjaDhOd055UUVpOEZ0b0o3UHdPSVJYRnFmXzhnc3pTLU1KUGtOMElFNU9RT0JDODJmX1FCTVJjM1hwZVRheUhHb2g2NWJVSERVbUVQTmRNcVI3MDNaVVJQUjZrUm5WRENBSEJNTW9aVlM1QjduZw?oc=5",
@@ -175,6 +208,18 @@
    "t": "2026-11-06T05:06:56+00:00",
    "tags": [
     "oil"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Gold eases on inflation worries from higher oil; U.S. payrolls data in focus",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVdNVmUyT0ZSU0FWcFd6by11bjExUWl4SVp3M04ySXNJaElHLXEzbzBxbkY4cHlLbUxaNFFQenFaQWhDM1pkQm5iemlTejhkYWtRVEhmZm5SLWdlNHczMUs4TG1zbzJzUHhmRm9JNFBkd3J6UGpPTDg3UnlVRF9ldVZMT3hUeUI4eXA4OEs3ODRTUk41Qm1lSGRLU0dGWFhuaTBYX3B0Y3dteDJHNUFr0gG0AUFVX3lxTE5YYjlweVZndF95ZnBFbkw3b2pENzZjOVRPcVNyM1pleEt5czdSMXBRXzV3bXJZWmZEVkNqekltR0dvVEg2eXo3d2lOSjZFWU9mTzdCc3hiaHJvU0lyOUJiM2NRTVMtaTYxVGRPT0JCR01WVHZJeXRackVrTk9Ea0tPY25wTGVDc0duM3k4UHVGLU04ZW9qdXhRSy1lX3lxenpXcmk5NnZhbDRQVFAzV0pYVVlXaQ?oc=5",
+   "src": "CNBC",
+   "t": "2026-11-06T05:03:22+00:00",
+   "tags": [
+    "gold",
+    "oil",
+    "macro"
    ],
    "tone": "bullish"
   },
@@ -281,18 +326,6 @@
     "nifty"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Gold eases on inflation worries from higher oil; US payrolls data in focus",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVNBUlY0RkQ3Vm5qcDFmbS12Nlo0Wjd4RWNEWkROOFRSX0hha1VobWJkTW82YTM1QzNMUXlzX1V5bktiSHJDYklFR2ZDUnN4aEhGM3U0UmlRT3pDcjVFRkR5ak9IZ1NVbG4wempaX1Y0R2JXb0U2THRLcE80d0l1NFppQ3l5b2M4c3RQZU1sS1RNRHdiYmFsYmw0czRoUnVJRVJLNTl0VmVNODg3NWVR?oc=5",
-   "src": "Reuters",
-   "t": "2026-11-06T03:46:00+00:00",
-   "tags": [
-    "gold",
-    "oil",
-    "macro"
-   ],
-   "tone": "bullish"
   },
   {
    "title": "India Gold Demand Gets Festive Boost After Price Pullback",
@@ -2648,37 +2681,6 @@
     "gold"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "Gold Prices Rise as Weaker Dollar and Treasury Yields Follow US Midterm Elections",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1VsMmlYd2lHdm1aOE9HOE52THkxOVBFTGlaZkptTHpqSDVyVzJUcTZqb3BUa3lIUmJmV25XWlh5RFdHaFZpS0lROERkRkdiWWhlOFJpeFNKUXpVTEZvbEYzbGJDUlRoQkJEaTFnWVpYRmRjSzJFMTZ0MUhRcHBSRS1FN2dMMnN6TGROUjVNajRJUnRTc0tnNGwtMGJQZUQ3cEE?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-05T10:37:14+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Rupee finds its footing as oil worries cool, traders watch flow momentum",
-   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-finds-its-footing-as-oil-worries-cool-traders-watch-flow-momentum/articleshow/135569527.cms",
-   "src": "Economic Times",
-   "t": "2026-11-05T10:33:02+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Stock Market Today: Dow Jones, S&P 500 Futures Trade Mixed After Post-Midterm Rally — TM, ARM, QCOM in Focus",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUElWcVF1aG44MmY3bFpQVHlBX3VObmFoMDNEa0lfR2poMUxrMmRETS1oUTY0cFcwM1BnUU9yNHBiZ1NxU1J0NEhRS01OZjdVRldVakxvdE5XeTQwYTdJRERlRmNHcHRTTks5MGYwdVRxdXZzeUZMNkk4QlRSZTlqaENzOWNGM3BMNXYzU0hsSXdvOGxVRGZNaTY3WkloQnVXRkRtMzJZQmNMYVd1cDVUeTNIOFNoXzd0ZHJFSzJUVDdLa2JDQUdURmo1OG1xanMyaGM5bHZsLTJ2Rjk1a003ZTlmSERLck5lZGFWeU5XVQ?oc=5",
-   "src": "Benzinga",
-   "t": "2026-11-05T10:30:31+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bullish"
   }
  ]
 }
