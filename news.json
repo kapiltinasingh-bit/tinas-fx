@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T00:04:16.838549+00:00",
+ "updated": "2026-11-06T01:14:17.251998+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,13 +12,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 6
   },
   {
    "feed": "Google News",
@@ -48,25 +48,25 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 7
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Moneycontrol",
@@ -102,13 +102,13 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,26 @@
   }
  ],
  "items": [
+  {
+   "title": "Allied Gold (TSX:AAUC) Could Be 32% Undervalued After Its Q3 Profit Swing",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRHAtMzFoQVFuY1AzUVYtdnFRWlBWajgzU25HSERaU21YZk9JXzRDNkxpUWdpYU04TkJxY3NQa0dyMzlEbFZRQXFkVnZfeUJHdkRNMDRGZndIamNtRTVwWFR5RHN4X2U5c1A2ajg4dnhMbHNxLVNQWmhLZzNLRlZrUA?oc=5",
+   "src": "Yahoo Finance Singapore",
+   "t": "2026-11-06T00:20:00+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Critical turning point S&P500. What happens next? [Video]",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaXFMdzREZVpKZWdVNFV5UEpQbXp2cFRCNHZiTVZTRDlJdlFFZktsSTNXUktkWExoUnFOZ2dteWc3X1B6RmR4YU1mQUUtRi1jdVQ3ZlRvVnJuaVB0ZWpUb2ZnTWFUR3R0S0JVdEVpR1hfTUUzT3NvVERrR1Eyc0tFZUswNjU4VTlkNjNMbS1rX2N4UVZjRS12V0JDUQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-06T00:06:53+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Gold rises to near $4,100 ahead of US NFP data",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVDhaSDh2bEFpeFJUWjBhOHJWNTdBRVlYaERsWVQ1Nl84cGVLTTdOUTJOaGtqTzhWbHh3TE1TTUNwc3NnOVkwV3VmNjd6UklFeFoyR1lUM3M2Q2pwZXlBQ2ZHN21uRzVENzE4TW56al9VNW9yRXdXWnBFdmRWbFFjNjFFOHNDRFU1Z2ZFaGN3ekRnQQ?oc=5",
@@ -292,6 +312,16 @@
     "nasdaq"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Dow Jones Industrial Average loses the midterm rally to the data-centre backlash",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWDhlUXBjZ21xZTJKUUNvYlc1bExQNV80RWxLNUluQ1pkb2xwQ2pIR1lMUXZpZjEwQjE0a1h4aW14RlEySVVmSTJsOFhsbEhWMnBCRTQtdk5RMHlQZVBLdG9mV3BIdEJ1aWZwUmRVYVJPRWtCazB5ZC1vMDBJR1dwQTZTeFEtQ1FiRi14Zk5NTDBDSFFRUGhpRFRoUlIyRDU0aEt1dlRMR1FIUUVRNGNzQTQtNzhGUXZzMXFRZzl5NTQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-05T21:10:47+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Nvidia's Huang is asked to brief Congress on reported Chinese spy relationship",
@@ -513,9 +543,9 @@
   },
   {
    "title": "Gold Just Had Its Best Day Since August, Back Above $4,000",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUp3UWQtYVMxc2U1YVVQdzNlS0FhSVVnQ092YmFyRWUtVkcwa19xZk1McHJZSThORkc4TzRDejlkRGJaT2VpWC1MTEp4S1lrLWJKV0ozdENpcGFlWHJZZGFxVC1fcU5WWHE2ZTRQVE9YR1FCMGxXWlQ3RWdEcmp1OWpBT0g2M201cllYUDFrZTdmRjZYZTNIbkRWdzRkMVFG?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-11-05T19:22:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ2VwYzdLeFBTb0hyMkRxeTJ2a1BHUzc1anRfTGY2SmFMQjBfSGNqNWdvVE9MQ2pNMWkzSzJOT2pjYkh5aDBHS2N4aUdBektuTWNBa05BalZObEdvR1R0V0ZxQjdVd3ZkdjVtU3U2YjRYVXBacVMyckxSYlV6OURYazVVazZlblNuanBtV3hDZ2xNTFh4YzE0?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-11-05T19:22:47+00:00",
    "tags": [
     "gold"
    ],
@@ -751,6 +781,16 @@
    "tags": [
     "gold",
     "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin tumbles below $76,000 as post-election stock rally fades",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmJfd25xWVlmRjBmZTNxWU1MX2ZjZHdWakcwUXpQNmd5bkxxZVJzbDQ3QnljczBZS0F3M2xiVW5XWGUwX2hJcmFMRWZ6SWU0REYxemdadWY2aFJWaUhWRTJSZUV1Q3JfSDY2Q00weXJDazQ5eU81d3czZDhYMjNlSUNQWEVybEI4ZkhWYUJNYm9WNFQ4WW10M21IV2JrcUFzLXRKTTJaZk9oRkgzSGVod1NDeGpuQTRvQW5j?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-11-05T17:45:40+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -2625,46 +2665,6 @@
    "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-among-4-nifty-50-stocks-showing-bullish-rsi-upswing/slideshow/135559417.cms",
    "src": "Economic Times",
    "t": "2026-11-05T04:41:41+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "BSE market cap crosses ₹500 lakh crore as Sensex surges 1,600 pts, Nifty tops 24,300: What fuelled the rally?",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUFFTbVA3NnZkQWVfWEFENElPMzRQUjlZckowTXp5bDVDRUp6d290cXRGR0F6V0EzckV2SUlOeDJNWFFSUm5jUWFWUWE2ZDd0bnJBSWRCSjZKRlRKWi16ekJSNXY4SGJrYUd6d0hId3lPcFl0cm5HRi1YX2RaRjRxZWdVYmpRTXE0dzZNc0R2QVFabk43c0pjTE5GbGFrai03NE9fWF90cS1ZSFo5Um1NWnFWOFFPc2tNVU8zMUx3aHpfRWRPbXFJNjBfNl9FTFBJNlUycUVPNzczNFllMVQ0SdIB7gFBVV95cUxNQXg2Vk1yTXBHdDFVb2pKUmpIVmZ2ZFBMUDZnMS04dFczMkVjNDV1cEtUOURBQlAxQ2pfSWVvUHNLdG5Vb2V6RTloaWxOWExVS1hmYmx6ZGlKMVNfdVh3cFRQWlg4aFFvNGNJcDdnSzNDZGJJeGJIVG1Ka0oxLTl2WGIwY1gxNGR3VjNPQk5nZGN0S3Zoekw3MDk4RUljLUEwUWdWMXQ4cERtU2REaVZxMHBaV0R2V1FqbjJ2MWs0eEo2amR1b04xWFp6bnkyekJRclhIcUo3WU5ldnJmT1V3TGgtZ1BtdE16REJSNlBn?oc=5",
-   "src": "Fortune India",
-   "t": "2026-11-05T04:34:02+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Morning briefing: EUR/USD is headed towards 1.1300",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWE4MTBmakV2cVBkTTNyTDFwRVhQRmMwWE42TjhicHdJMEdiUGNta3ZYay10eTNtTk9WOFpFVVk2TC1FdTVQU1A1VnAtNE82ZWdjZW9QbndtbXAza2pST2NtV1kxYXlnb2xBWU11OGJiYzh2aFJvMGhNcUZHZVhBZkN5OE9taFcyMm9TVmpfZ2o0T3F3bC1jVExDaw?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-05T04:31:09+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "EUR/USD Price Forecast: Bulls await breakout above 1.1270 resistance, range top",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclJvQXVLMTVVNjJkTEQ1b1ZSTm5rUmlJb2hNc3RINU9wMVNoMHJuaWtXa09JZzFJVmc0TlMyZGNWLTd4UXVqWFJBRG5Qbk8zZGNubVI5QV9VWldKUlJDZWtGU1lkTmN0SGdPY1JDQlpKOG1UUXVhV1RGb2RrVkhfbHBDTUNVTWE4UGdrZlpOSjFTR1B4Ui1yd093SnY0UDk3bHl1WUVNMXJNNmVIa0dlbmp1WjFWaUIxS3U4?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-05T04:21:20+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Sensex zooms 1600 pts intraday; India m-cap tops ₹500 trn: Key reasons",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTzUzNFRPUGRpTWwtR244QUtuUTg0QWlMQUdGUDZYMVFPa2ZCcmFqZGs5LTBfc2YzS2IzX3Bna0E5OTU5c05jcWhDckJVTktyUC1LMzNOT3AwZWx0TnI0RHNvQnVkWThybXp0ajJfVnRjNDFQWkUta2lxNWVFYzR3Y29qRXNTT0pvcjRXNWRhMmZzakVIVXo3WHA4b3RTZ3pXMVIyUkJ2dGJ4NTByeXdqRHh0OThYMFN3S2o3OXZjeHUyUzgtcTMyYWZIeldhNlnSAdQBQVVfeXFMTU5OQ3ctWVFhWnU4aTZiM1I3bm9tRGgxNWhFaE15SHd4bFpOR0xQREtxOXI3M2N3cmhkRWlQTURfbTRCUFhfLXItU1hnQ0MtWUlYTFZuV0t4X3BrVEtGX1hZUF9TZ2tJd1BEZ0N2MFc5OG81dUtYWlZHQzNZaVcxbF9fV3J2dFhqNHBoWVZfemVaaHJCem5hdWxMMHVGZGVtay1lQi0xN28ySFRNb2p0cnNXX3EwYkRhd0UtOG1wTm50SS1pczFpc0N3VGo4em5TNmhKc2M?oc=5",
-   "src": "Business Standard",
-   "t": "2026-11-05T04:14:21+00:00",
    "tags": [
     "nifty"
    ],
