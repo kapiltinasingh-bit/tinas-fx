@@ -364,6 +364,11 @@ def run(minutes):
             if price is None:
                 continue
             chg = round((fut - prev) / prev * 100, 2) if fut and prev else None
+            # Yahoo's previousClose can lag a session (seen on ^NSEI); prefer the last completed
+            # daily close from the technicals pass, which is also on a spot basis for gold/silver.
+            tprev = (state.get("tech", {}).get("markets", {}).get(mid) or {}).get("prev", {}).get("c")
+            if tprev:
+                chg = round((price - tprev) / tprev * 100, 2)
             state["prices"][mid] = {"price": round(price, 5), "chg": chg, "asof": iso(ts), "src": src}
             # walk candles through this market's plans
             for key, p in state["plans"].items():
