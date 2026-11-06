@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-06T21:51:34.753642+00:00",
+ "updated": "2026-11-06T22:28:21.067982+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 7
+   "new": 6
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -66,13 +66,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "CNBC",
@@ -114,10 +114,21 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 2
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Gold and silver ALERT: Can the rebound survive another dip?",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQl8tWHc0S2J0Z0xMdmhOckhIQS1tWTlWTXJOR1ZlbGNTVXR0US1obm1RaHExTjNQOUpUTng2X0c1dUd6LU0xUXNHRVJVZmJmakwzSEp0eDdaY0NlRWhwX2VOMGJmNXVPaDVmZ3l6a0ZnaFZ1STBjbzJITlVEODBkVnkxa0hOd1ZWbDJmVlZrenR5UHFncjRpM0Z3?oc=5",
+   "src": "Kitco",
+   "t": "2026-11-06T21:49:49+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Soaring freight rates give US refiners edge as crude discounts widen",
    "url": "https://www.investing.com/news/commodities-news/soaring-freight-rates-give-us-refiners-edge-as-crude-discounts-widen-5008774",
@@ -319,6 +330,16 @@
    "t": "2026-11-06T18:53:33+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Fed’s Daly says jobs data gives room for tightening policy",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPano3TGg1YWE3MEp5UE9uX1NYTFI4QUhZSEYwQVZlQlVOaVphWk5kRThwZUcxNWkyYjlJZDBzXzVXYWhGcVlLaHB0Z0JPelZWVHEwRndvZDU4YUpiNnNwa29YQVNuYVBFZkdIeWN0TFIwcksweV9KSm5YclpzbThCcUNnRGd5d19aMkNRYTlJUTBvc09fcDFFNkZzNlIwemNQdGc?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-06T18:45:44+00:00",
+   "tags": [
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -692,6 +713,16 @@
    "tone": "neutral"
   },
   {
+   "title": "AI stocks climb after trillions wiped from market values",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jeVQteWVQUFcyaF9zVVVpUjBLRnhBRmFQNVVQM29sQXNaRGI4Ty1IcFBhbVZVa0p4aHJZX3lVWmVaRXdzUm1GajF3bVRaal9qbldGSzZMcFVIM2xUSnc?oc=5",
+   "src": "BBC",
+   "t": "2026-11-06T15:04:46+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Price dip lights up gold buying in India ahead of Diwali",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPanNGVTB4ZFA0c21EWWJ3eUw2OUM5SDZWM202Qy1yVElUY3h5UFNPZmRoNUkyN2JreFRSNGp5b25SUVdDOWh5WEg1YTNoMS1fWDRyRnVxb2pyeGhhWkg3SHN6djZkNFhxUl9GSFJqcnhLeHFMLXpjREJkd3RDXzF3dGk2Y0RucW1Sb1VaVg?oc=5",
    "src": "Mining.com",
@@ -1011,6 +1042,16 @@
     "macro"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Traders raise bets of Fed rate hike after jobs report",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkJXSFFvWTE1ZHlObTRpejBSRHp6dkFwR0w0RC1MM1J0T2czdVVUTWJpNXVXWHFWYVNBVDdQd3ZlNW9IbTNqSkpadmN1Q2pkdmdqVUExTlI5RTlIYk9faUQ1NHJLUEdUMzVRb1JYRmRBQ1BnaHEtcXljOVBCREFwOE9ucWh2ZW94WUV3a19JcjY3aXpOWXd3?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-11-06T13:44:02+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms",
@@ -1852,6 +1893,17 @@
    "tone": "bullish"
   },
   {
+   "title": "Gold drops 1% as strong U.S. payrolls boost dollar, yields",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVdNVmUyT0ZSU0FWcFd6by11bjExUWl4SVp3M04ySXNJaElHLXEzbzBxbkY4cHlLbUxaNFFQenFaQWhDM1pkQm5iemlTejhkYWtRVEhmZm5SLWdlNHczMUs4TG1zbzJzUHhmRm9JNFBkd3J6UGpPTDg3UnlVRF9ldVZMT3hUeUI4eXA4OEs3ODRTUk41Qm1lSGRLU0dGWFhuaTBYX3B0Y3dteDJHNUFr?oc=5",
+   "src": "CNBC",
+   "t": "2026-11-06T05:03:22+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Oil prices could spike as U.S. action on Iran nears: Rapidan Energy",
    "url": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
    "src": "CNBC",
@@ -2631,59 +2683,6 @@
     "btc"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Kitco Global Index (KGX) | Track Gold, Silver, Oil, Crypto & More vs. USD",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45OFJTWDZuVGExekwwWWU5VzJXemxodkI1WlFBSVNmVkRrWkxrNlJjV2ZPTVk4Y281ZFd5d08yMVdxMGZGOENSQ0EtVGVkUXhrNUdNcF9DVkZhQQ?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-05T21:39:21+00:00",
-   "tags": [
-    "gold",
-    "silver",
-    "oil",
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Nasdaq Stock Market Correction: History Says This Is What Happens Next",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdTk3NXpmbE1wWUNkNmFyUUtpeUhBYVNjT2tOY1hhRHJBTG1kOUlpRy16UGRRV1hDM25pX2ItSlJMWl9wZXlLbEhTMUFoZnEzcFdSamJjeGlrZElqZUpmM2R1U1VoWFlCRkxDRzNzcGN6ODJIcEZGSDJxWmoxNl9sX2ktRU9EQjNMWEJRZUhLdDhRME04RVd4SFRMRDB3SHJYOUxqazFB?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-05T21:39:01+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Is this ‘the big one’ for the stock market? Wall Street sounds off as tech plunges.",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlF2dlIwUlh6aW5SSWhrdV9aNFpoZDJTcFhLZHA0NTBZVU5hQUg5b2FyR2VPQUdoWTJzS2p0ZFRacjVldEMtQk9lREFHMlA2M0Q3WGwtOGpqT1VraHpqVEYyQVBwQVNHeF9ZZDJRcmVrSkhoN2pvTUhhMXBDcHRPME5BYjFtLTJHZUZ1RGNpODUwaklHTzhLd1pJd0hha0FBUTRSV3ZJYjE3S1VteEtMZnNRaFMtbklISjF3RW5Bbw?oc=5",
-   "src": "MarketWatch",
-   "t": "2026-11-05T21:37:00+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "The October jobs report is out Friday. Here's everything to expect",
-   "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
-   "src": "CNBC",
-   "t": "2026-11-05T21:32:52+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Wall Street fear gauge jumps most since 'Liberation Day' as AI trade stumbles",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTktvVGJ5TGM4V1pQLWNwU0h5U29fNm96V3FRUGZ0RV9hMGxfWW8zeE5DcVlvR3o4ZmM4SmFWdGhNdUtqVmxoT21mV2FPN1B5T0FmdFItTjViMjI5ZGxzaU1ObXltc1l6QVJ5QkJTOVk0Qms2WHJSbmhRSkpmLUJuWUd3THlIczZVbC1ObjNoRWl2VFR1OWFIQVRoSV82SWQtd1c2b2pjNDFYTXpSM2ZqQVdyajhnWnBo?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-05T21:32:30+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bullish"
   }
  ]
 }
