@@ -4,7 +4,7 @@ Gold (XAU/USD) research desk: live spot price, live TradingView chart, key level
 
 ## Files
 
-- `index.html` — the whole site (design, layout, logic)
+- The site itself now runs on Floot at https://tinasfx.floot.app (this repo is its data backbone). `index.html` redirects old GitHub Pages links there; `legacy-index.html` is the retired single-page site
 - `catalog.json` — every market on the site, grouped by asset class, with its TradingView symbol
 - `learn.json` — Academy lessons and the glossary
 - `news.json` — live news wire, refreshed every 15 minutes by the GitHub Action in `.github/workflows/news.yml` (script: `scripts/fetch_news.py`)
