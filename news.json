@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-07T20:13:39.833377+00:00",
+ "updated": "2026-11-07T20:49:47.112526+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -114,15 +114,26 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 2
+   "new": 1
   }
  ],
  "items": [
   {
+   "title": "Bitcoin ETFs Shed $1.3 Billion in a Week and XRP ETFs Saw Zero Inflows. Is Wall Street Done Buying Crypto for 2026?",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdXd3bFk2VE1oYmJsUVdXblFIMDI2eFd2Q3k5Q3UwQ3FCOVZsaHVuRWZ1czRFT0FsaEVJMG5kNjVVbTl1MWdDbEhQU1cxWS1ZZDN0R3h5X05lOVp1MGtSUHZWTXduYUNnQU4yeGpqWTY1S0hQMnJ4YnZENWgxd3Y4b2NmZVBpRHFOYmprZTRWc0ZzYUNRR0Q1YklTVE56U0dKY3BqR0ZWSHFTOU9RODRSQmRsUjJfTmxrWk9GN0t4aWNzTHotMkdIeU5DM0ZubHA4aTc4WlZ2eHZwUjVTbTFDRTBHczhpTWxVSWFmTUZxVzhFdlpvZzJfbi1pTmVCM1pN?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-07T20:43:00+00:00",
+   "tags": [
+    "spx",
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Why gold is losing its shine: Goldman breaks down the recent sell-off",
-   "url": "https://www.investing.com/news/commodities-news/why-gold-is-losing-its-shine-goldman-breaks-down-the-recent-selloff-5010022",
-   "src": "Investing.com",
-   "t": "2026-11-07T20:02:06+00:00",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdWQ4R1JJeW5UN1hTOUFseUpFZDlIczNyem9DMDJ1aDd6Sy1rN0NwLWZGR2IzZWludkJJSmdoSVNGR2oycXB5Q3JvMVBxQ2cxT1h5UEJiN1dINXh5UUQ3SW92SHRWTXpDcEJ5WWFQTGk1Q0pUZklnbTl0a3NlY0tnMUdlYmY3XzktNzd3TEpzOFNHTDd6a0o2Q2MtTzR1T2ZO?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-11-07T20:32:06+00:00",
    "tags": [
     "gold"
    ],
@@ -885,6 +896,16 @@
     "macro"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Fed’s Daly says further rate hikes likely needed to curb inflation By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVlMtQjh4NGZKS21IWGJ4VUQ5N0o0TXNYRlhyelZwel9YT1pkalJINnVxa2tUTUZMNk9NSDkxMXVDSER3clNHTy1RTk9NZzg1UEVuM2RRUmE1cWZNdkpWUzZZMXNzNGc1clRibnN1cFJkTFhhak5lSTVyVkpxaUZib2t2RHQ3VDdMWTdXVWNGX3ZXdm04anUwNWw5M1dMV3dXY1E5blRmX1ZRRzFjZS1pM18tMzM0a2s?oc=5",
+   "src": "Investing.com South Africa",
+   "t": "2026-11-06T21:44:02+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Soaring freight rates give US refiners edge as crude discounts widen",
@@ -2649,27 +2670,6 @@
    "t": "2026-11-06T10:11:54+00:00",
    "tags": [
     "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin at a crossroads as Gold retreats under $4,100 and Korean stocks trigger a 8.55% trading halt",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUzFQamFLMDdGV19feGhheW1CaWZkWXg3MHNVWG1MYVRyMkZYbzJwUkxScENMMXlwakVVVExvdU5PeF9KVkJ3Qk1GY0wxWkZENU5EcEttWTFEQXpZeFl3dTU2NWw3Sk9EUXdEVkRyUkJkYW9SVHFPRDVFZ0ZvWUt1eDFTLVhaXzRCeVZ6R0FMM3MyQldJN21TQUYxRFRYd3FVU2o0c1J0eDNXQWtOQThFcGNqNVRCWXdhTmxCYm95N2dBZ3dzSS1xa0s2akxINi1IQ2FjcDRwR2dPamla?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-06T10:00:13+00:00",
-   "tags": [
-    "gold",
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold investors are buying into declining prices: Brooke Thackray",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWpVX2ZCYUNsNjJRVWI1WHNYSmdmemlmenhyQjIwQ3dJNVBROE9JNEdCVlNhNDdHaTBIWExLcWUwX0F2SG9LX1ZkUDViUDduUHhzMkJIRm1yWlE2bUU1QUZ0eC1jQkdpa3B6b3pIU0lyUlotd19COXpZZ050NHdiSVVwMEZhU3FRT1VMY1lJV0NIUlNWQU9HZUxnWi1XdVJoOWttRmRwTDlQY2FuNllBWFJZd05zVWVObkUyMEdB?oc=5",
-   "src": "BNN Bloomberg",
-   "t": "2026-11-06T10:00:00+00:00",
-   "tags": [
-    "gold"
    ],
    "tone": "neutral"
   }
