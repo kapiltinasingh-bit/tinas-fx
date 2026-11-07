@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-07T20:49:47.112526+00:00",
+ "updated": "2026-11-07T21:25:40.559150+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -114,7 +114,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 2
   }
  ],
  "items": [
@@ -144,6 +144,16 @@
    "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
    "src": "CoinDesk",
    "t": "2026-11-07T19:13:16+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Judge wants former U.S. attorney to investigate whether the government misled her in Trump golf case",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVXZPOEJ0ZHJwTm1MdDF4ZFZxdXB0enJTQnRwTE04aTRvUUNBOGw1QjFRYkdmZm9DTnVkSy1ib3U5NThpY20wM1BhNFYzNjU5WmJJQ3UzbDktVEpUSktEWkRibzNsdU5EN1hWVFZZQm9BVWNlVEpGTHZ3ZXNFN0NST1prblRmNktHaF9vdzJTaldvTFNoOEpxY0Q2aUFvMkhyTEpV?oc=5",
+   "src": "CNBC",
+   "t": "2026-11-07T18:28:09+00:00",
    "tags": [
     "btc"
    ],
@@ -2662,16 +2672,6 @@
     "nifty"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "What a Democratic Congress means for Bitcoin and crypto regulation",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN1ZaRmdQMU4tbGtwbW5lVHNrdDFJa3IyV0dxbHBnNWZnT2tSZUFyendGMHN3SkNZQWpJc3Q0SGNfSGpySGg4bnQtbTlTT0J2blF4UC14WklxNmxQeDdwUDJDSXN3MW5FNWlISnRPR25ldWtvOG82eTdRMTZ5MUc1RUpvUjl2WGR3NTBsREktZEJaR1cxZmRPRkI1UXV3YmI0dXJma1ZTNE9IVjdyYjJjLWlpOXZLZWtwWnZCVWxrQ0tfWU0?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-06T10:11:54+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
   }
  ]
 }
