@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T01:29:09.432166+00:00",
+ "updated": "2026-11-07T02:18:34.216298+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -219,6 +219,16 @@
    "t": "2026-11-06T21:59:27+00:00",
    "tags": [
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Wall Street's wild ride: What the market volatility means for your money",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVdoTmJ6eklpLWRzdENrVnhVWGVXSnJoQ04wRndVWkZrMDZXYkdnN2hDSGxrOXY5ek5PdThZNUhsRkhKSk0wRV9idkY3ZVl1Y08wcDE4ekllQVR4MmlraDc1aFlHV3BnRWg3dzlPS1RCQ0xtN3NwUDgyM05fZkFKZlhBb21aaml1Y0t0dU11VkdoOE1LOFFSaFhxZmlnRTA3SnpjdmtjNWpLWEszMElYUTFMbVJqRm9SMmxMa0xR?oc=5",
+   "src": "The National Desk",
+   "t": "2026-11-06T21:56:03+00:00",
+   "tags": [
+    "spx"
    ],
    "tone": "neutral"
   },
@@ -1819,6 +1829,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Fed's Williams: Appropriate time to accumulate more information",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM3NNZ3hxNlpPdC1YU21jbXVUc1VjTi1iTThjeVZGVDlyR05EM096SFd1Qi1haVN3dVdJT0FSZ3R6TmczZ0VwbmJQcXNpdk9nUlN5bUd0UkViSkZNUVJOcTdLT1NTbFFGVnpySDBxdXAxQ1RGdHNWUDIyWnNJUVBEQXVZU2RHcE14RGt0c1BsU1dnSVk3WGhrWnVzNjZHOURkclFJdnpmQQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-06T09:57:12+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdF9qRWk2RGF2X29PZXdKaWpYa19Od1J0WTBUSS1yQ0NlOWU3d0JDYVhGT2hWWm5VU2hqR08wa0FKTk4zUG1FNE9QcGJBdDVORVcxSHRMNDZhb3VUYWtWblFVVGxueFN0NnZaZ3A5UmJsQkg4NHpjU2hhVEZpUk40d2dSSWdBb2k5dkpCdjc4NFpjWGZaZEVjbXRGRGJuMWNLSWZEQ2YwblFHcGRjYzFXelZuLW9ERzhlSWtvWA?oc=5",
    "src": "CoinDesk",
@@ -2661,27 +2681,6 @@
    "t": "2026-11-06T01:21:49+00:00",
    "tags": [
     "nifty"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "S&P 500, Nasdaq, Dow Futures Dip As Investors Step Back From AI And Tech With Nasdaq In Correction Territory — NVDA, AAPL, UBER, SOXX In Focus",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakszZDlYY0Z5ZXBoRUFISEVHWDQ1dFlyck05bUNJSzkyY3BGejk2QWZKZGdpeTJRVW9ZdVlxS01GZmpzUHhRTVZVN3k3RzY3R3FBekdITGxxOE41Nm5VRWN6RlhrdTI3Q3RsNmlzTk9na2QxZG5nTWQ2aDN4OWNtbFEzYUJJWng1TmVsUkg4OTJoejQ?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-06T01:00:00+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Oil rises on fresh tanker attacks, but heads for steep weekly loss",
-   "url": "https://www.investing.com/news/commodities-news/oil-rises-on-fresh-tanker-attacks-but-heads-for-steep-weekly-loss-5006219",
-   "src": "Investing.com",
-   "t": "2026-11-06T00:55:23+00:00",
-   "tags": [
-    "oil"
    ],
    "tone": "bullish"
   }
