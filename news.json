@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T12:01:59.896791+00:00",
+ "updated": "2026-11-07T12:55:20.489222+00:00",
  "count": 250,
  "feeds": [
   {
@@ -54,7 +54,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -66,19 +66,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -119,6 +119,26 @@
  ],
  "items": [
   {
+   "title": "Berkshire shares surge as Wall Street swoons amid AI fears",
+   "url": "https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html",
+   "src": "CNBC",
+   "t": "2026-11-07T12:49:19+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Muhurat trading 2026: 80% to 90% — will Sensex, Nifty improve decadal strike rate on ceremonial Diwali session?",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQT3ZXSDhhUDJzSGx3SzVualpwSVFieEZsOTFDemNzUmNqcHFPTXdoOW9Bc21QVUhfLXA1UzdEUXhfQ29rRS1qS3pEWDY5NGNKZGxKaEVxelo5M242ZmFxUnc3VnItNllSbGdpOFd4amlYcUlRMjdxMWdyUS1aa1NWMDlSODYzaTF4UWpicmtzNkU2Nnp4UGU1ZVBZdzNHQWZjOEpYTktqUk0wR0xWckhCSm9ZYzM1S0hPR3BSbTdrdFF6M19WNnpUQUk4cW4tME1qcXVlWXZVQ1ZzTlY1OXI1NkJJZ2J6MjFvdERjRXZ3VkRBaU4zbW1iRWdYeVZMTE1ueHBON9IBigJBVV95cUxOdlltWVFxUXhtNjFnY3BRM0NfbEZwMjRXTUtYcFFRaE1SYllBeWN0UmtSUVJyVkl2WG1xYTFPbUp5ZkNwOXhndjJnS0FpckVUYXRpaTBmYkVmX044akpNWXU5dGEtdWx0ZDJuY0t6Rmd1cnNFakdLN1Q2cnJ6dlVjbzB5ZHpTZUF2N1JlNUtTZ2pXc09CNldnTFVrTEg0dGF1a1VBb3BoV0VoaDdvWWwyNEFoM05XUzBrUHJjdWdvRDdieVFWa19ZY2FRSjdIVU9uN2dzd1BHMnpGN0NUWWQ1YWRGbWRIVUdrVm9wTTVaZzR4NEJPMUpkQk9MaFJ2YkhYR1dJLVRub1hqZw?oc=5",
+   "src": "Livemint",
+   "t": "2026-11-07T12:06:39+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "From Diwali 2025 to Diwali 2026: How Sensex, Nifty 50, rupee, crude oil changed in Samvat 2082 | What lies ahead?",
    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPX3JOeW5Td3pxS3RrQ3BMODFYRHI0VnhlS1B3TjFaZ2Y0VkhhekJReGhFeWQ5b0hPUUVZVDRRVFd5NEJoWHVzUnFOQzZsNmhkMk9rNzJwS193U0tBdWVoRjlMVDRMa3pzMTFFbzlqUGJFcXZabk5iekVnZmlZWXRBQkpRQ0o5eW5Rc3ZTa2xVM2NwS1lFYkRNU2lKa3VjTVprMEdVSWVVQ1M2TEZfcURON2ZJaFBCM2ozeHpmTDFkYnN2Z1pkQmNWUUl6eUxMRUczclhLTGJ4ME9CQ2lnRTZZM2RpaFl3SDFQbWpQMUN2dWJ6blJBY3JQY0IxUlU3MW0xVl8yVlBQZ9IBjAJBVV95cUxPd0lZSl9aYzJWTWpkWDczTk5LdEV4c3hXbnZ2Z1MtaHZsQ1ZEZ3FoM2stRERLTVd6QUlmSzVUa1I0SnBUU3BHMXJuUmZ3ZTFBTHNHSjFiQUpkRlVpX3pPQzM1OVM1TXFvN3hyUnptLTJqNXFPNm1VWFlzSl9Da3Q4WElLN2tLQWdod2dVMkpSSkItanZsYUo3dm5HX1lXOXRISHZzVDVvRHE5VDZIUzRMN0pQZDlqeGtrQmtoX1JocXBRRVRsZVF0MEVXZFBwU21YRThtb2x6V3A3MjcxXzlOZV91Znc4UjNsSEY5OFJBUlo2SjExQzVHVC10ZnJtS0N0OEFKVTBubGNCeERw?oc=5",
    "src": "Livemint",
@@ -156,6 +176,16 @@
    "t": "2026-11-07T09:26:02+00:00",
    "tags": [
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Diwali 2026: Stock market enters Samvat 2083 with Nifty 50 above 25,000: Key support, resistance levels. Targets to know",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRXR1dWwyVzZQY0pjN2dJOGJrZTJjYmQ0Z0tPMjFUYWF5cTN2Q3dVSm1Gd0twRVhhRENPdzdmT1RFZExDTUVVaDRNcEY5LTEtVVNTekg3UDhGd2dZbUZ3ZkV0U3RNNXhmdjBWTHdTN3JocjZhdGtyVUlxQUpaUTdZRElTVnZCdlN1N2x1U01Zcms5bElEaGRZRU5DOVZ2OEhwMHpZbnp6ZV9RMUpDeTBtMzQ3d0tpNGllR01Sd2dTeWJJQlJtTE9KV21JUFJwdzEwRHY2MWkyZ0NMajFoOTFQN0NoWWlEY1dVYnpXQi1fUW9zcmxuTUZqN2hMOTXSAYICQVVfeXFMTXdrSG4wSjNxd0hGQ25LcXgwS2lOT0RVTU9INGR1T24wNnZVeV9SaTQxZlJsVE1TQUgzY2hFNjViQmhpOW5xTm1lRTdyWk1fUjVIaU1VdkdfLXc1cUd4TEZzenZJRFN4bVUwS1BLOU1PdjBvbU5kWWo3azR4TmF3cERpVWI3N0lBelRPN0dEbnhkaEJidlJ5S2Jlck82VTZrUl9VZkVPSXBfbnl4ZWh1SHVQQlFkNS05bkxoUzYzV3JJVnhaaVdPZTdyZWVpTldlOFpJYURTYWtRTE5iVXdfdVpyY0RJV0l1TVNSVEVEZC1jc29abTdVUzU4X1lnU2NTamhn?oc=5",
+   "src": "Livemint",
+   "t": "2026-11-07T09:19:13+00:00",
+   "tags": [
+    "nifty"
    ],
    "tone": "neutral"
   },
@@ -239,6 +269,16 @@
     "gold"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Diwali Fireworks! Nifty surges over 8% in Nov 2-6 week, best in 6 yrs after US Midterm Election results; RIL soars 13%",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUE9Eb3paQ1g4S2NRa3l1VVBqcW8zLVlneWFRSG5QNjBwMGhrUzAzdUZEc01fWVVkRmlITkZXaWg5dzk0S2h1VFpGdmxNRnRxOXRkMmZlUl8tYlFIOU53M2NmcDhQZF9oaWVGUWh1NXgxT2F1eEpoNDh0cXhrZGFzMVFLX25sYlh6QTdyazFQaEMwclBTRjE0S2FIbUExMlJGUl9tSUdmbnlZY3FONUh5X1p4UHpQUjNxamc3VkM4Wl9CX3NuUXlQTVhuU2M1WHhhVXJ3bVVNd0l6VUQwY3hSd2ZlcXhYdlB5cmJyeEpFd2pxZjBiSUlHVkpPUW5fQjE3V3Y0eGlZU0VDZzQtVFB2R9IBlgJBVV95cUxNelBtLXBxVE5jZFk3MHNRMkZjczJUSUNPcktrbjkxdEdpNEJlZmJTTmF0XzhjWmU4QjdSOXZsSEp2WGQ1V2JNZVRCaldDR2RxUTdFRzhhSXNVMnlvTy1XV09mSG5iOGRiUFJWUmFEMW1PZ0FST0k0d21sMS1ibFl5NXB1RER5T0c3aVVTUDJWYnBpV0duR29NcXJYdTBiQmxwUlhBd3BPOExSUVdYemFoQU92eUg1TF9TVnZjZEtSck8wUlRGNUdIb3UydHJyMnVsX2lmZXBPNGM3SzFiOVZybVJDTHNNd2p0VXhMM0Y0V2FSYXBBUDZtOFlZcXNFWFNoZERoam1QZ2Ric2tISGxqcmRZMkVldw?oc=5",
+   "src": "Livemint",
+   "t": "2026-11-07T06:37:46+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Diwali 2026 wealth creators: 8 BSE 500 stocks shrug off market weakness, deliver up to 191% returns; do yo",
@@ -916,6 +956,16 @@
    "tone": "neutral"
   },
   {
+   "title": "San Francisco Fed president on jobs report: This is good news for American workers",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeGdGejQ4N2RHTk1tMm02d1hpX0gwN1VUMlhUNFI3SzFHZVNmZjQzQWF0d2hnYUF2MnJtaURyVzZNWG5USkd6RllOUEluZ2ZPWV96SXN4NjJDanNWMWo3RG1qYVNqTnFpOThsUFR4WnlydHFUZjlTc0NDelA5NXZwcDlxbWs3S1lUXzFGZVF6VV80SGpGSXUtTDkwRkVnS2NrSHd4eWhMR0xhWWtyTzU5TnJNSGU1bXhWTVdYRXRhajRDdw?oc=5",
+   "src": "CNBC",
+   "t": "2026-11-06T18:38:19+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Fed’s Daly says further rate hikes likely needed to curb inflation",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbEVpdnNCZ1ZwY0Qtazd1aVNCdHpUYXVYVnNlZ1FWcmJSaE8wWFNuWG9PaU9WeEp1RkwydEo4NE5vX1RmcFNhZTdpRnR5czc4REgzLUo5Vk4zZHlPbXpTdTlCWUplLUcyZnJzQUFyM2FVb3V1SGU4MHZpcTFJYnBkRDh0UTNobGhiZWVBRGI2eGFFQ21fTzdONE9RY1c3czJ5ZXpxdGtBT1pSRDUwdUQweUJkU0p0TUtm?oc=5",
    "src": "Investing.com",
@@ -924,6 +974,16 @@
     "macro"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "US Dollar Weekly Forecast: Can CPI fuel further gains?",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMExmcGdoTmp2c2N6Yy1JNENkdkJBdWFxN1V3TlhjU0VsTWRFclBWbzYyVDQ3a3RINXE4cFo1QXdoS3ByYXJleU16S0MyYTVCU04wVk5veU1OQXJ1UjhTdFROcFl5QlpIenNDVGgzTy1abnB6TTdkdkFEdGRtMmpXbDFSQmcxVG5NWHZMOExkUTVGOFJuWjdmSkh2cXAyVDBFNFZvcDlWeDdIczc0Nm50eTVkMkxDUVlkeUVZbmhxa3dQMkE?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-06T18:37:16+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Bitcoin’s ‘Best Buying Opportunity Ever’ Is Here, Mark Moss Says, but ‘Crypto Is Dead’",
@@ -1665,6 +1725,16 @@
    "tone": "neutral"
   },
   {
+   "title": "S&P 500: Zoom out, old highs are still the key",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRzRFMkVVRlkwc3pIWFJGem9qZjZoLWduTmhTRDZhQ19lYS1JNlRDRl9qejRfMFd0MzNPNDBhbDNWcnZHT0phdHE5VTIxZXhJQjVBTUxnTGVNUWVhVWx2NmR1TmhOeElwdjNhbVJxMXpfcTFZTHExRkdMNFViLWhwSVlacWl5LWtMQ09TT0F6dw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-06T13:56:37+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Gold falls as U.S. payrolls surge by 165,000, strengthening December Fed hike case - Kitco AM Report",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTXI2NUgwV2RLMm5RUVJVVW9ESHRPZ0dCT3lPRHpnZG03UUpsZFU2MW9vdHduRS1Mb1h2V29xZm5WVVpzN1dWdmJSY1ZnMHhDcndyT2FGSGdYOWZLTHJZWXQwUXdIaWNKU1hyQlZXMWlMT0R4ZGdRUWtBRDQ4MUc2dzBFZmxlRmtYaTNMcFdRVVU0YjlPYTdUV19kSlVmWktXX2VycmV1ZjJ1NjNUdS1zYmFWbU5PS21vWFE?oc=5",
    "src": "Kitco",
@@ -1795,6 +1865,16 @@
    "tags": [
     "spx",
     "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "S&P 500 breaks key support as investors reassess market risks",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNjFSa0w5cjVZTmZaU0Q5SVdoXy1NQkJuZHdMX25lWk84M1NjMFdXWW9nYTFDdDMtekNiSDBKV2t2dGdEeUI5RXVkTExqUG8xLTlMSlpWZDhfYXlNNDNqNmhna1k3N2lGdDNFMzNnazc4cVFxLXhfTnpLclY2MTNwSkZINmVadjFVRXhOR2s2RFBDUkV2elNrRXE3aEJQeGFZNU1nREVR?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-06T13:11:29+00:00",
+   "tags": [
+    "spx"
    ],
    "tone": "neutral"
   },
@@ -2590,91 +2670,6 @@
    "t": "2026-11-06T05:09:00+00:00",
    "tags": [
     "oil",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midterm elections",
-   "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
-   "src": "CNBC",
-   "t": "2026-11-06T05:06:56+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold eases on inflation worries from higher oil; U.S. payrolls data in focus",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVdNVmUyT0ZSU0FWcFd6by11bjExUWl4SVp3M04ySXNJaElHLXEzbzBxbkY4cHlLbUxaNFFQenFaQWhDM1pkQm5iemlTejhkYWtRVEhmZm5SLWdlNHczMUs4TG1zbzJzUHhmRm9JNFBkd3J6UGpPTDg3UnlVRF9ldVZMT3hUeUI4eXA4OEs3ODRTUk41Qm1lSGRLU0dGWFhuaTBYX3B0Y3dteDJHNUFr0gG0AUFVX3lxTE5YYjlweVZndF95ZnBFbkw3b2pENzZjOVRPcVNyM1pleEt5czdSMXBRXzV3bXJZWmZEVkNqekltR0dvVEg2eXo3d2lOSjZFWU9mTzdCc3hiaHJvU0lyOUJiM2NRTVMtaTYxVGRPT0JCR01WVHZJeXRackVrTk9Ea0tPY25wTGVDc0duM3k4UHVGLU04ZW9qdXhRSy1lX3lxenpXcmk5NnZhbDRQVFAzV0pYVVlXaQ?oc=5",
-   "src": "CNBC",
-   "t": "2026-11-06T05:03:22+00:00",
-   "tags": [
-    "gold",
-    "oil",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold drops 1% as strong U.S. payrolls boost dollar, yields",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVdNVmUyT0ZSU0FWcFd6by11bjExUWl4SVp3M04ySXNJaElHLXEzbzBxbkY4cHlLbUxaNFFQenFaQWhDM1pkQm5iemlTejhkYWtRVEhmZm5SLWdlNHczMUs4TG1zbzJzUHhmRm9JNFBkd3J6UGpPTDg3UnlVRF9ldVZMT3hUeUI4eXA4OEs3ODRTUk41Qm1lSGRLU0dGWFhuaTBYX3B0Y3dteDJHNUFr?oc=5",
-   "src": "CNBC",
-   "t": "2026-11-06T05:03:22+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Oil prices could spike as U.S. action on Iran nears: Rapidan Energy",
-   "url": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
-   "src": "CNBC",
-   "t": "2026-11-06T04:46:15+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Asian FX mixed as yen gains on risk aversion, Taiwan dollar breaks 33 amid AI rout",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOazA0SXF5YktyNjk4cTRYeS10VVlWNjlGajJtV0prZ0JrN3ZIcENqeF9IeGdrZEYyZVM3Vnhkc1RPOU1tbGhjazVUWWxkNGg5eFZyZnN3OXFrX3h0bHIyMFdJU3pHN3JwTUVCQkh1UFl6NE1hakpXNTkyZ1JhRzFiNXY0Y2M0T2hwYTFOeXZYaVRoTTBXU2wtcA?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-06T04:38:00+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "D-St defies Asia rout! Sensex surges over 600 pts, Nifty above 24,650 as Diwali fireworks continue. What's",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWkVDWDU5WjdWbVNtQXZScENiZ2VwYlZSLThzb256Q1FodlZwdzFBckM0OTFDR2lmVUF1dUcwZFdRUjJxQ2NzMWZQS2JxN090aXJQSWVKZHhuN3hLb1R1TTVkT2JkdVQ1LWJybGt5Nzd6OWxNNlpEQkxJdG1wNDVCaEZCY21HR0lBcXhlU1lxdW9BMTlUcDJxUkNWNmhPNjVjT21KczhvWWd3Q1FEeTZkNEhYeDFkVk5ma3pfNldLekNJcWttWXlkRXNtSVN6OHRWaHBxdlJaRVVHdWxvSDNYRWZ0SjBSd0piZEExU2N2TkM4MVJUc3FiVC14alJ5VDNqUHFRMEVqcGZCbnVT0gGSAkFVX3lxTE83RW9OZzc1ZjNFSXpsNFZCREJucmMyRzR3cjFtZHFkd0N6a1pVSU5MQlNJeG0xcmpxSGV6WEdKdWVFNVcxT181NUZJR0VULVhBZmFVRm1VMnA5aE1Tc0dnWDRtZUFPclo5SE1tRTZ6MUxmOEJGVVNjaU41bklLLUZIZzdTWVpDRjhZLVRmcFM4Tl9GUTAwNjZFdEtreV9COVZHR2l4ckFQcWg5ZGhPd3BuR3E3WmxvUHdGcGF4QVN6RUhOdzU0d01fb1lrNXgwOUdrZHRQRDlEaTFYUVFnR3JwZ2FsOEplbW5ka0dvd3JYcDIycGlIX0xhQ19Yal8wUVR6UjFuTFo2eVdQeDI0UmxzQ3c?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-11-06T04:37:15+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold and Silver Forecast: Recovery Stalls Ahead of US Jobs Data",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3V0NFZuMGN6Q0pFTlZKQ3c2VGJuRXdqYUFsTHBmOGlDRHppUTA4MTNvZHRYd0ZUbmpzaFVPTjJMUVpGcGR0M1V2NXF2N2ptOEVSOV9kanI1bk1VOU5QY2N0UVJscHVnM2RKcTh4eFdoUVM5WlZZd2xZTXJlNGYzbFN4QWlfanRwM09YeVRIM05SQ3djT2NRSzRQemZJbThtQlQ2SllXbktDTmVBQ0tfMlVwTQ?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-11-06T04:35:21+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold drifts lower as rebounding bond yields and Fed hike bets support USD ahead of US NFP",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd3psa0dKdVVZQ2tXdHVXVTBHT1Brb0dPc09PZmtXNmJ4RFQwZmlZUmcxRHNDOS1XUWFPMnVjdXFMWjFhRWRobFR5T0tYYXdOVVNpNmNKNkx1TURrQTV5QmJUOWRHeGdKRlFZRlB6Tk5KX2J6LTJnand6UDZpUF9fT3RoSWR4SXBqUzV2TExMa0swVmhxOV9ZUnViR3BjNzVvaFREbTZENjJ4UHptU0FGWkhWc3ppTktZNWRLNUVKQldZYmxfZXhQREl4c2Q?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-06T04:23:45+00:00",
-   "tags": [
-    "gold",
     "macro"
    ],
    "tone": "neutral"
