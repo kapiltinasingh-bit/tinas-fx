@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-07T17:01:50.071920+00:00",
+ "updated": "2026-11-07T17:41:26.604517+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "CNBC",
@@ -119,12 +119,53 @@
  ],
  "items": [
   {
+   "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+   "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+   "src": "CoinDesk",
+   "t": "2026-11-07T17:36:46+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Odds of a December Rate Hike Jump to 77% After a Blowout Jobs Report",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3JLcjlXdHpQdzVkWV9ISHdHNHBiU2FTLTRra24zcEFPejQ1SU50RTNZQmtFYmxZYWxyWnVoc2FoSjhGREh2ODNtdVg4ZnhUQldWQ2ZYR05KOGZTeXotZWhDZ2hjM0g5b2paR2ZwTThoOENzSE1Ua0pSWENMcndldk1tYm5VOWdHX1ZIeHNPbE0yRDhDWkIwTFJjN182MVY4RWMwQ1ZISmIwWjFnamgyNQ?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-07T17:33:00+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZDRKeVM5RVBqdTNvVWkwRmVZWUppNHFqbk05TkhNc3JJVTJXTVd6Qndsa2RXbGtPZHdxMWg5czlORzZpcTRyTktYUFdJbTRMNElKLUl4VDBGTG1YVUpVSDlGN2w4dlVFcFB1cnZjeHFBeEtmY1dYV1ZXb09aMnJXcVFRRUJTaFdfbDdJMEc5NURuMmZrRHFJOElwdFBUV2t2OHVwRE1CckY2VkozSXhYdFdn?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-07T17:33:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
    "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
    "src": "CoinDesk",
    "t": "2026-11-07T16:51:00+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Dow Jones, S&P 500, Nasdaq: Last week’s AI stocks crash is not your garden variety correction",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPUlRxNEVmR3FHTVlaTU9YTlZHZ1JqUjdQb2J6QWNVaE1yRG1KMmNMSUtKcFhVUkF4Vi01VWJkZXZGOGFCc3hqOGJIal9pOEo3RVczLUVvQnA3ZDl3UUp1N0M1WmtFY3ZRWjdjdDh2WTBoMVppOFRIck1Rdm9kZjB2aGdmTnNsRlVpektOSExKVGwzMktDdW1iNWYzTFJ4RjQ5SGhxWWgxYkdubDdEc1UwY3drc3FiVmVhc0VjUTNzS0hHM0E3b0hfS2RBaWR6cFlvel9OSGhxSzl2OE56WFB4ZE1hT0dKaU5xNE01NHJ2UWhIQ3pLWUFOR3V3SjRyVHduX2V1dnVjUENDNGhzMm5ZclNXQ1VkSGE0TDJB0gGiAkFVX3lxTE1kNU1MdEVwYUg0WVlkdFRjR2FXeDFKQTY1aTFlem1DUk96S2licXVPa2VxVEdYWmN5QkhTM3dhR1BsNlhhQVVvX0JUZ0JsMm1HT2NmQUtYX09wOS1iOTVBWGhIWUlGWThWN09kampvOXh6TURiNDBaN00wWmx6Z0p6c3BOTXhzQWlxN1Z1XzNJeGo3cTVPWjl5RUZzQnl6NldKYmNCcHJ2WXFWVzQtX3BoTGxESmRlZkNhSS1PTkRIc1V5N3RaVEZDTHdaMUxZOW5WNEh1cE84ak9paVhsTUIzdGlZQ2o4TDNWR21vZFhnWXk2X0VCMTF1RmttbmhBUURqN0ltaU5aQkxIalRxWXV0NmRqVmU4akIzRGNuMjYyaE93?oc=5",
+   "src": "BusinessLine",
+   "t": "2026-11-07T16:32:19+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
    ],
    "tone": "neutral"
   },
@@ -741,6 +782,16 @@
     "oil"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Dollar sees best day since June after stellar jobs report, set for weekly gain By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQejh4V2o4ZllkcGdnbVN2Q1VYM0xfVnNZZ2tqMHdobnhRR2ZNZE90djJMVDlhTTBCMkhzTkllRzJqZXhReFFMZXB3QVNUQ3JjRzY0Z2J6SVZGS2J0VXRSTzJjUjROa2podWdzdlV2RjhUVE9qemJPSDM3MFFVN3E4dUt2U1NWZE9fQTRxMXFEVXZwNkczMmp2WTBVaVBhemRBYWE5OXV2eGMtY0ZjYkRJU1ppZktwalhUbUpYYXRPUDlyd2pI?oc=5",
+   "src": "Investing.com India",
+   "t": "2026-11-06T22:06:59+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "The Midterms Give the Fed More Room to Raise Rates, But Maybe Less Reason to Do So",
@@ -2620,56 +2671,6 @@
    "t": "2026-11-06T09:57:12+00:00",
    "tags": [
     "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdF9qRWk2RGF2X29PZXdKaWpYa19Od1J0WTBUSS1yQ0NlOWU3d0JDYVhGT2hWWm5VU2hqR08wa0FKTk4zUG1FNE9QcGJBdDVORVcxSHRMNDZhb3VUYWtWblFVVGxueFN0NnZaZ3A5UmJsQkg4NHpjU2hhVEZpUk40d2dSSWdBb2k5dkpCdjc4NFpjWGZaZEVjbXRGRGJuMWNLSWZEQ2YwblFHcGRjYzFXelZuLW9ERzhlSWtvWA?oc=5",
-   "src": "CoinDesk",
-   "t": "2026-11-06T09:53:27+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "UBS sees euro-Norwegian krone pullback as stretched",
-   "url": "https://www.investing.com/news/forex-news/ubs-sees-euronorwegian-krone-pullback-as-stretched-93CH-5007021",
-   "src": "Investing.com",
-   "t": "2026-11-06T09:41:40+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "10-year Treasury yield rises after much stronger-than-expected October jobs report",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWEd4MDlaNjAwRjlYdFp0aDhKVDFsVHZNUnBCWXU1aHhPWGMtQ2hmTVJnZmpoMWo3cnJNbEZwRWJHRVp0UjI1SU9ELURwYjctRnRUS19MUVhrdVlvTWswem9xR0dRT2V0ZHJxUm5pZFE5cnpxTmR5Wm1lR1pYRk9xYXh4dGtiVWQtNWJfcVBzQmVSS1VRR1F6UDRpWnhjVlJsSF9iazlCRUrSAa4BQVVfeXFMTXFRWnBSVk1BYjJrMzR4N0VZOXZIa2U2MXZnWFZVS0t3amRvOTdSVC1PaEpLQ3NMS08wamNTeFlmRk5PUWNRZWp6VTZnUHozNVNvWXpLTko3UHNOOUhCQWhpS2xqQmdEd08zVkRDTHBCUU9Gc1drd2NwWWlNMlc1SHVUeUVSZUVwNEhNRDU2d0xCMERmWkdXbWI4QW1UaWhRR3U3MHhQSWlFR1ptT0Fn?oc=5",
-   "src": "CNBC",
-   "t": "2026-11-06T09:34:51+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "The Nasdaq Just Hit Correction Territory. History Says the Stock Market Will Do This Next (Hint: It May Stun You)",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEVZOTRSZnV5RUk3MktzSTRiaXM3dk5GdTlJMERyY3Y3ajJUeXBaaVQ2VnoteVV1bXUzOENaNHVGRlktVmZFa2VhLVZzOVV1ZHVQT1dnNlI3ekNPaWRNRFZCd1dUT0tOUTVGM2Zka1pZbXJ0N29iV29paEVpbXl0Q1dQa25yVnlpRlVYN1R4UW9LOUFoYnhpWEsteHZSTnMyVnhN?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-06T09:32:02+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold: Consolidation with cautious optimism – OCBC",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWdWczdid2NjUGc0VHJGTkdCRTRzMUZ2UTEzaTJGS202YVg1ZHRQOHMzS01hTjRPMWR1Q0YtUUlpWmpXMTZYcWJFWWh3MjdadXJJcXNWMGFTWmRVYnVLaHI2S19lV01OSnlKTWZPUVdEOGYzSjRrdEpBZXdla2J1UFNNenVzQXk1anZjNTJrVS1CeUU?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-06T09:13:20+00:00",
-   "tags": [
-    "gold"
    ],
    "tone": "neutral"
   }
