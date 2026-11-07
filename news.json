@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-07T14:24:18.904731+00:00",
+ "updated": "2026-11-07T15:03:40.705718+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "CNBC",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -125,6 +125,16 @@
    "t": "2026-11-07T13:53:00+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "US Dollar Bears Lose Their Grip Ahead of NFP, USD/JPY Vols Elevated",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcjZQVDZ0Q0JGY3YtVno0bDBSSHZZaFZDWFg2aWMtQ1J3empORTMzb2xFcEhZb3hiU0VKWWxDSklqOHVHMzdTcTJCbVk5TXpHdlpPZExBWEN0b2JEZUM1V3ZvcW1EQmw0Wk04UjdIRUFnM2RIOHpod0FCREo4WkJfUjJOREpELXFwUUNzNVgwRFhkMlhVa3UwM20yTjQzRFlUYmxZMGFZSkNQcWR5WTREUGhsVdIBvwFBVV95cUxOc0hTQWZlUVNrSUpHQjl3bFNDM0tYS0gtdjM2Y1VVT1dObzF0RDZLRmRQZ1FWMlJ3Q2ZJY3NYLU1Tc2xNRGNrV3dRajdGU1RlVWdLZ2otLW9HUlFheUNGRVc3X0JwX2RLLW8zSzlRdHJaVUNzSTNKZmFfTjFoQW1nRWJnLTRIbVhUSWZNVzB0NG1VU0F1QndJelk5c0E3bVI2X1RtWDBLOTdyQ3RRekpRWWw0Z2s0c3pPbDhWckZZUQ?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-11-07T13:47:11+00:00",
+   "tags": [
+    "usdjpy"
    ],
    "tone": "neutral"
   },
@@ -211,6 +221,19 @@
    "tone": "neutral"
   },
   {
+   "title": "Kitco Global Index (KGX) | Track Gold, Silver, Oil, Crypto & More vs. USD",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45OFJTWDZuVGExekwwWWU5VzJXemxodkI1WlFBSVNmVkRrWkxrNlJjV2ZPTVk4Y281ZFd5d08yMVdxMGZGOENSQ0EtVGVkUXhrNUdNcF9DVkZhQQ?oc=5",
+   "src": "Kitco",
+   "t": "2026-11-07T09:54:47+00:00",
+   "tags": [
+    "gold",
+    "silver",
+    "oil",
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "President Donald Trump Just Proclaimed That \"Inflation Is Way Down,\" but Federal Reserve Economists Have a Different Take",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkpPamk0bGdpbm1HT3pYcEdiUXJIRWRCMEluNm82cXBtVWdnYXRxOHJsdjRKSDZES2JjMl9hdWl5OGM2a290ZThaU25hTTN6elczYnhYbWIxS2pka3JBaHZ3Unl1c2pYVGVzbnhYdUNhNU80NDIzVURFT1hraGdVcEk1MjBmSzcxSFBkYm9vVzRkeUZibWZidm5xUFliNVhOQVpBd3ln?oc=5",
    "src": "Yahoo Finance",
@@ -239,6 +262,16 @@
     "btc"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Diwali 2026 Muhurat Trading: Celebrations aboard! Nifty gains in 12 out of 15 Muhurat sessions; check performance",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNF9BcTJUSWNGSGF5VkNlaDZQVUEwbXlENGYtOVc0ME9xNFJZc1hLbHFmeEE1amUzZ1ZULUhpaXdCSU5kbi1PTVVRLXhiZGQwSUhwMElENFlvRWFUZkxEUmh2RW5CQnRacHZHZU5pVWpPeFg0djlOaEJJT2FPUlE2RW9OcFB1OGNURHJCTXlCQmdxdEJ6QjlBeGpvX3paYlhYUnVoQUhJZFJDejNDdk5VNnRhYWlVZ3NETXYtWlFGT0k3MDVacVYweEJyejM2bUF6SHhxS1NIU3JZdG9oVTZlSG16SlJlUl9NMXNXczFHckVwQXY5OUczdzF6aDNsRlRnNTdTYTRuMGhPc0ll0gGSAkFVX3lxTE1fVi1iRjk4OWFjTDNkM2NaVGRtMXYyUkc4SF9WVVNZSzViNDV2SzF4U29xTjFsb2VjcVYwX25abklFSVdpNlVIel9sck5FTkJib3g0ZFRzaU1weHMwOGU4UlJGV1dzQTBOZFlicUJVY2NNeVNJZ1NGV2FwdGh4UmM4OHJnaTVqd210UlY3TW9aUGpBa3hLX3hvRmpDX09lSkRET2lrby04NjU0d3lnUFRFcFVfNnc2eEZiMDVtUlY2TE9fdmNpQkdUZE1HU3BYQlkxckd3czc4R01lVmJJQ0pocFc1U0FxZzZMV1RLXzlOUlI2VEtDWU5TUlhFQV84Sko1WGE1VFNXdzF2TVNTMGVSTmc?oc=5",
+   "src": "Livemint",
+   "t": "2026-11-07T09:07:34+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Extreme Euro Shorts Meet Renewed US Dollar Strength | COT Report",
@@ -278,6 +311,16 @@
    "t": "2026-11-07T08:31:32+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Invested Rs 10,000 In Gold Last Diwali: How Much Would It Be Worth Today?",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRW9TSTBKLThxNkFIZVRqSjhTc1I4Zkt3TDRqU0dvcmkwbVJjR3h0d3U0VTdGNVJKb3RVcTdLcmpNVE5IYWl2Y3N3SnBWZl9mYnZlVlNhS0ZrNDgyQVhCMFF4ZHFsU1p3YXNnNkQ0NFlxR1hoUXhHSUdhSEYwYkRPNnFMUm1EbV93Z09HQ1RGNlJ4dGVjM18tV3NwbzB6R2ZfdnJpdjhkUGZJS2xVNDF1akN3RXI3R1YwSlB6MWR0Q1d2UdIBygFBVV95cUxQaXh6d25YUXZXN0tVSkREa0JNTzF4NkMzdXk0MDVRUjVJNURteWlEQ3pHZV9oc1JKSW90NlE3eGNvRmhGZDFVYVhwSm1GNGNrQlZlaENhb0hVaGJobXJHNkxZVmhDMjU5QWt6UHlxSmxCLVhWdnJPMXBKTG0zem13N244dXpiOWFJZVZidGVQbTIycEdoWFNpM1lyOXQ3WWhaRzkwc2NZOHBpOGs4a0tKOXhaelZMRno0c3RBLWstRTFUUUZENXVNSDlB?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-11-07T08:21:12+00:00",
+   "tags": [
+    "gold"
    ],
    "tone": "neutral"
   },
@@ -737,6 +780,16 @@
    "t": "2026-11-06T21:01:00+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Vanguard S&P 500 ETF (VOO) stock price, news, quote and history",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAycXl6T3hzWGdUMkpyOXkwTmNQb0Rsci1KODlZQ011UjJlMWxreGpqeUx4ZzN4aGZucWw2WTNJY3E2aXJQWkV6NU5pdlpBTmlk?oc=5",
+   "src": "Yahoo Finance UK",
+   "t": "2026-11-06T20:58:57+00:00",
+   "tags": [
+    "spx"
    ],
    "tone": "neutral"
   },
@@ -1515,16 +1568,6 @@
    "t": "2026-11-06T15:00:05+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US Dollar Bears Lose Their Grip Ahead of NFP, USD/JPY Vols Elevated",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUW1jR2hNRnJOVWE0dHFZV1NaVWNDMW4tU3hSbWFYVWdHQTB3aHhnNWo3dXJBTWxNZVhYTDAtV2lheVE5TFhDN3NqYWZTdlZMMEdvTHdLVGFHOHh6b0xFT3RrNDloR1BDTjBtendIVi02cjlQZ3FLVnFKdnNZdjQ4TzdpVVZ2VVNWd0VTczh6ZjJXczJLMDVaRWZYWndWekh1bkczd3RteVRXeXByeWlsMko5WQ?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-11-06T14:56:52+00:00",
-   "tags": [
-    "usdjpy"
    ],
    "tone": "neutral"
   },
@@ -2628,48 +2671,6 @@
    "t": "2026-11-06T07:14:00+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "India bonds emerge as top Asian performers as oil, Treasury yields decline",
-   "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-emerge-as-top-asian-performers-as-oil-treasury-yields-decline/articleshow/135597789.cms",
-   "src": "Economic Times",
-   "t": "2026-11-06T07:03:11+00:00",
-   "tags": [
-    "oil",
-    "macro"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Midcap, smallcap stocks plunge up to 18% despite Sensex, Nifty gains; India VIX jumps 9%, market breadth...",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ1U0cDkzdk92aUZidjhkcUxzRWVLSWxsZi1sak5ZTXBWdmtmR1hQWk5taGhnVlNJajlRcElUeFJnQXFIbmNLZ0JYWWhCanFKODMyMC1MSDFpRmIxTW5BX291UkZVZHczUXhwSk82V1hYZDFLbWxaVVJ4WlFyWDV3YWt5ZjFVM01KQjdzcEVITGJrV2ZaQ0kzWG9scXR5Sng2emdtX1hWQk11bUs1Y2ExWWhkYVdTb0M4Q0ZpRXBmS1VfeGs1d1F0VnkwS1VsOFVYeGlnanRtbGxaUlh6ZnZoRnJmZlNzU0RPYTluUFJIRlZMdVVTRFJmQVRBMETSAYICQVVfeXFMUHpNdW9La2lPQmpNX1lXTGJoQmROdFJpZkppQTQtSGRoSVgyT1hGeFV0ZVBOVkNrMVhrQ0NJSklCV3JFRU9rMmEwLXVEUFlaUjkycFRrNjlFWlg3Wjl2TkZ6WDlzMk10SHo4Z1dGdGRkcG56SmNKVUNOVnI5LU03NlRCZ0M1eDAxbHgycVBHbGYyaE9qXzcwN2ZTUlJBYUJZelNPX0J2MkJHS1pqcktmZ3hncC01bkFGcWxicVR5SXFERkh3N0xJaEJvQlFxbjJscUtPTjZhWFFSSHkzcFFOQnYyTWNnUDEwMUlYOUJxd29hTUlVcFZpTFRNQ0haaXFfQTVn?oc=5",
-   "src": "Moneycontrol.com",
-   "t": "2026-11-06T06:59:18+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US Dollar Price Forecast: DXY Eyes 102.08 as EUR/USD, GBP/USD Await US NFP",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR1RHX1U2WkI1MjhpM1pvTVBPUERCMGZlMEVPZEZiY21pd3BhS0NUQUtrRENIRmd0aDBtM0VpWGh4R05LQ05FMk9LRnVvMTFVbVVESEhDMkFydDFwNDFZUHZ2TmR3Y0FQM3EyUHNUWGFIWXdoRkdDVm9fOFRsVnpUeWdjeVV3MUZGTlh2dG5IQnQxNF9VNTdkYXFpSlZtUXdkTnlRMl9vOUJMb1kwUFpaaHhmZll6Y2FOQXdrYkdZQkI?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-11-06T06:58:35+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold (XAUUSD) & Silver Price Forecast: US Jobs in Focus, Can Gold Hold $4,022?",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObFZpSU5mbVoxWGh5ZTktNllCNEJYU2MwTVhnNmllVmU2UlVnRldGUjFpR1c1NkVwZmZmR3VJMk5EQTdkcDlsZV9SM3U3LVRZY2c5SzFUVEgwbUVSRXBOSExJYmZaY0dEeXBWNDBsd1JTNllUOXkzZWRjNFBaUkMtNFhRMGc4WmxrNHhVZlhuT2l1RkE3S1dlYUZiSFlMMlJ6dmw3MXBscWRLTzBlMkt2cm1sUnl3dEpwWUlBNA?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-11-06T06:31:35+00:00",
-   "tags": [
-    "gold",
-    "silver"
    ],
    "tone": "neutral"
   }
