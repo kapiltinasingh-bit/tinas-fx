@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-07T04:04:04.646066+00:00",
+ "updated": "2026-11-07T04:56:08.848321+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 0
+   "new": 4
   },
   {
    "feed": "Moneycontrol",
@@ -114,10 +114,71 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 2
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Dollar jumps after strong US payrolls report",
+   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-jumps-after-strong-us-payrolls-report/articleshow/135626197.cms",
+   "src": "Economic Times",
+   "t": "2026-11-07T04:11:35+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Gold drops as strong US payrolls boost dollar, yields",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-as-strong-us-payrolls-boost-dollar-yields/articleshow/135626183.cms",
+   "src": "Economic Times",
+   "t": "2026-11-07T04:10:07+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Extreme Euro Shorts Meet Renewed US Dollar Strength | COT Report",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVnFYajN5dFZhWDJtTlBHUlBfcVFxeThpQzFNZ21lYkVLZndINXE1bHhNVlJ4bHBsUnB3UHljcVA4TTNkcG9nQVdweEFWT0lxTUdaMDloTmJoeFpBQ2Z5X0IzWVVyaFJtZW44Y2FWS2dUdXZVeE1VMlZpeUNBMnZjZF9nWi1SQi1mSjlzckJfOVRFakZaeEgyZG5ZUF9YZEFqdmFaYzdrdzBySk84aFHSAboBQVVfeXFMTjFMYmt2Q1FFNVVxdzBqUEw5UDFJckp6WmJfWEJEWHRIWDB2bkxPamtQanc0emE1WlRPaU1VdUY4MGxYOHV6ZkxaOE1GakpyUGlIZ0g4dzFkLWJ4cG1ERFNEVlliMnA4X043T1VjbnpGemRuRUtUcWcwQlB1cHktU2pFWU9IemdKT1dhT0UyS0piMDEtRVliaUZJOUx5TkVYaVdBcHdxWW16M1FiX2VuUmhBZndONkZWN2J3?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-11-07T04:06:20+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Wall Street stocks rally after heavy AI-related selloff",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-stocks-rally-after-heavy-ai-related-selloff/articleshow/135626123.cms",
+   "src": "Economic Times",
+   "t": "2026-11-07T04:04:36+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Nasdaq rebounds but posts fourth straight weekly decline",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-rebounds-but-posts-fourth-straight-weekly-decline/articleshow/135626093.cms",
+   "src": "Economic Times",
+   "t": "2026-11-07T04:02:31+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "China extends gold buying streak to 24 months as prices slump below $4,000",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUk3a21iVkVxTUJYN3NHNDBCSEJ4QmRFUFZ3aXJNVUJSb3B6b2VacUZHaWJvWnpfeG5sN1Z4S0JXajhRN09SSnpJZmJ1aUJvV2JWa0NvdmlyY05qWndXT1pQbm9VQlQ3cFRrMU9TR25EMnFvdGFnTzVMUG9oUjFPdzVXLU5heTUzQkVVV1BnazZtX1UwN0RiaXVMMG9EYkZ5U3JfNDhTWWgwYnhfSk1DVWc1REFwX2x5RlhrOE1nU0pnQQ?oc=5",
+   "src": "Investing.com",
+   "t": "2026-11-07T03:47:14+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Wall Street rebounds as chip stocks rally after heavy AI-related selloff",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUjZhSnNJY1p1ZDNfM2ZUaWxBd1lDcVdnZHRqalF5dG1KTWtZV21oeTMxOUpHVG5NN0ZQSFFtNEhYTmNaaVlYb3VaZWlPRlBCeUQ5c0htLXhGLVhhZ0lGdmFjdl85cmJQaFJtTzFuVDFETmdjVzRYbVczQk1QZVhqRDc1WmFqSTYybl9sckFUNVU4LWR2ODJyM1BQQlRtOXZKUm1IdUY0S1RicFcwdFdHeFhHSlA4cWFjZlZLY2tEZzUtdFd4Qk1hVG83TVh1ZDVxWGFNVktB0gHbAUFVX3lxTE13S1RaUGk5czhTNjUzNmIwMTVOdkhaeV9NWk9MV1l5ME4yaTk0VWV5UWJ4RXVZUjhTam1tWXowVzRYMDhOT0JGMGI3YndXRHd4WkV3VFlvdlN6TTlzVlNmaURvb2R2SWhSb0p1QTVYeE1scVRNdDZOblNnY1V0SS03NFZhRnRCMVJuZnVlUXppRVdIZGk5UlpvUExJOFlEY016WGZQNTcySGozYnZvYlNRYnoycHpRMTI5S01JUmlMYWJxdEZ3U3ZRdm1yOE9BY3pSU0ozanJNM2lrYw?oc=5",
@@ -1339,6 +1400,16 @@
     "macro"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Blockbuster October jobs report keeps Fed rate hike in play for December",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc0R5ZFBCUkh0a19wSEtSNVNScTZ0ZFY3R3ExWDNVRi1IY25lU1Z5WklDT05nMk1UWFVzWm1qN1FWbXVoWVo1aTFxdjNGYTF1X3U3S1pPZXdyaGNja0VYbFBnZ0FWRjBUd1NHX3l2WUlxZWJTN250NXoxM0F3SmZnSUxoZ2lDZTYxT0JUZlpIcEd3MXhvdFV6QnAzODZZZHNpa3ZZZGdkd2s2WUgwNUwwcWZzTmpydjV2TDk4N0l5R0N1bm43NHk5Y0laNlRZd29xYUE?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-11-06T13:53:25+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "U.S. Treasuries fall as blowout payrolls lift yields across the curve",
@@ -2610,80 +2681,6 @@
     "eurusd"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Dollar holds, yen gains as equity rout saps risk appetite ahead of payrolls",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVVpvSThSVk1fQmtBcmMyUHFNMFR5RmlfNUlES01YaWdPNE9DVldWRVNtNlJpaWY3QWdPNGh1dWhjeEh6UmpjNVotempXMjY1NWI5Zk90a0ZRSGZUOFB1aS1pNjhMaUMxVmVFTmZTSzY2VDlGRjhLcndPbHJENjRRUUF1TmtpaVVSZmNrTFV6bXVzeV9vaWIxcGo0RENZOEVUYjV3dmVKc2tPbUdCdVJIQVoxTW92ZjNTLTNQVW4wLU1qVGZvMWxrcWhjSU1ITlhtRjhzYjJtY1FNc1QzWnhlejhRUnBSWks2?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-11-06T02:00:52+00:00",
-   "tags": [
-    "usdjpy",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Trump Blames Democrats as $3 Trillion Vanishes From Market Post Midterms - State Street SPDR S&P 500 ETF",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOGcxVl9teGtNVXd5NVFucnp6Z3I1WVFvMXZ2amMyWVVpd2VUZEhjN1VvUTBSeVpGZm82eGMyUWNRajVMa29IRDhNUFd5U2Z5NXhEU3VDOXJxUXlxSm93d3YzRldfQ3lha3Y3VkJ0akEtb0F6eUY0NE5XcExkNGRUTzMxUUY0VmdrdFk0S19lV3pOUVFRYzVYUUFqZHQ1MS1rTkV0T1lfQl9TbXV5NzFER3dabTJtVXBGZFNXZUw2aFVNVHFNaTBzWExBOA?oc=5",
-   "src": "Benzinga",
-   "t": "2026-11-06T01:59:22+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Wall Street fear gauge soars and retail traders bolt as markets in tailspin",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-fear-gauge-soars-and-retail-traders-bolt-as-markets-in-tailspin/articleshow/135590367.cms",
-   "src": "Economic Times",
-   "t": "2026-11-06T01:58:32+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Dollar holds, yen gains as equity rout saps risk appetite ahead of payrolls By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOE1jbGRJSXpqN3B5dVFQc21xNms3MWVlOGllNU1GcjByRUlUUC1hSVh4N0UybzJqdFh1MUtkNjNhandVNGdSenJvU0RQLUttODZHdDZlUmdWbHlFNUxLMjhGcmdRODBBdUo0T241V2NudUNxVmZjT2dOYWN1cExydGpRb2M3TlhEZ0pLWklpa2M4T05FQXl1MkNLVmlvNGpKUHExSE1rOTRPR2xFd0wyaFUzbVQyLTM5UEdZYmpLcDlkQUE?oc=5",
-   "src": "Investing.com South Africa",
-   "t": "2026-11-06T01:48:19+00:00",
-   "tags": [
-    "usdjpy",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a gap-down start; Asian shares trade lower",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hcl-tech-adani-green-share-price-06-november-2026/liveblog/135590270.cms",
-   "src": "Economic Times",
-   "t": "2026-11-06T01:46:08+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Canadian Dollar remains steady as oil prices continue to recover",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDR4U3YzaWo2TmFsYnZxeWIwaGxEbzE5SFBxOE9ZdUJVTktuMUtFV05VX0lMYlI0S3piZGVyN2s2d3p3SVB3UDgzMnRoYUdGUXVVMk43TVFJd0phelRMU0hEdVZzYnVzalZKUkZvR1ROb1RQblBEdC1WRzRmQ2RUMDdvWU90RDc0aEFzWXMzU3B5cnZONlBTNVhnSTJ5Rnd4ZG9fWFVrR0k4NDA?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-06T01:43:17+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Nasdaq leads Wall Street rebound after AI rout; jobs data lifts Fed rate hike bets",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV2tGUlFzLXh4YWl5bUtuV1Nyckt4a2k1cFlXOU9kcVpseENZRks4NmJMOU92bDJZYW9ySm9vaV9pQVpZblM5WTBVOU5WRVRvYUtLTVg4Zy1JNjctWnhxdFRLTWNYNUFyTDloYWdPOFlhd3c2UnY0dEM5Umlza09obEFmUnlFTzZXSlpBazgxVGVXZw?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-06T01:42:48+00:00",
-   "tags": [
-    "spx",
-    "nasdaq",
-    "macro"
-   ],
-   "tone": "bullish"
   }
  ]
 }
