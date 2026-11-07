@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-07T05:38:45.714539+00:00",
+ "updated": "2026-11-07T06:27:41.153930+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -24,7 +24,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Moneycontrol",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Wall Street grapples with $5.7 trillion rout as AI bets unwind",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
+   "src": "Economic Times",
+   "t": "2026-11-07T06:01:15+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Samvat 2082 scorecard: Sensex, Nifty fall nearly 4%, while midcap and smallcap indices outperform",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMWtjenJ3YWhxdk1LYWFwMm9EMlVkZ2huQ2VGOFYyRVhCM3NqZnhNRmIwVGZDNEJ5UGtvV21reTlNVk55MzVKSUhJVzFuQklsbkFWMW1KcmdKRGlHaDFWZ18wV2NmRjhNRTRaTXVWUHdpaW0yQkh4WV9YelVrcFBoUUI2cXZjMkh6ZW1DV1RPeEEtMVI3ejN4VkNFUEwxLWFLV0dGSEFSRFE2bzY5TzUyZU5QSmhHWmF3Vk9ONWRPa2xDUVVGaUdCZGV3WUpFUVB3U1hGc09hMFBuelHSAegBQVVfeXFMT0lmT1U0SmpaNnBLWmtfd0dMZmR2TkRtaDh4N1N1YjhTNGsydWlUcjdmMlozS3BnajlfNVpGdWxLNEdqM1pNQjF2aEFaUDF3c2tYREZ6dk5lUGM1VWFTMTBpN3k2TXhzbC01aFZJMEVBMmViWmlIOFNlX3hKMVhaRE80by1EQ0p3LXUzemNNZExzZmZ3cDJLWWZYVEV4LVp6bVhiYzBva0gzMlFpMk9xVWZLcjFfQVdqc0ZHaGhNWHZtTEYxRTluZXlDRDd5TWNGdzJoVERHZkxwMVF2MUlmRGVDcFpHaVRJcw?oc=5",
@@ -161,9 +171,9 @@
   },
   {
    "title": "Extreme Euro Shorts Meet Renewed US Dollar Strength | COT Report",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVnFYajN5dFZhWDJtTlBHUlBfcVFxeThpQzFNZ21lYkVLZndINXE1bHhNVlJ4bHBsUnB3UHljcVA4TTNkcG9nQVdweEFWT0lxTUdaMDloTmJoeFpBQ2Z5X0IzWVVyaFJtZW44Y2FWS2dUdXZVeE1VMlZpeUNBMnZjZF9nWi1SQi1mSjlzckJfOVRFakZaeEgyZG5ZUF9YZEFqdmFaYzdrdzBySk84aFHSAboBQVVfeXFMTjFMYmt2Q1FFNVVxdzBqUEw5UDFJckp6WmJfWEJEWHRIWDB2bkxPamtQanc0emE1WlRPaU1VdUY4MGxYOHV6ZkxaOE1GakpyUGlIZ0g4dzFkLWJ4cG1ERFNEVlliMnA4X043T1VjbnpGemRuRUtUcWcwQlB1cHktU2pFWU9IemdKT1dhT0UyS0piMDEtRVliaUZJOUx5TkVYaVdBcHdxWW16M1FiX2VuUmhBZndONkZWN2J3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXlWNTdJdDM4UDV4Um44cG1yXzQwVjN3S3dHcFY0dzB5ZWE1c20tV0JQdkhMZi1uNHhHRXpva0Z6c3IzN1p2d25EcjR0cWZKb3REanVrbHpmR25OODZyS3BMajNBTk8xczVrWmFxMVBfNTdYeGkxNkFDelAwM054dVRyZXFGYmNWbVJmLWt3UC13aGN6ZllIZ19kNklqUGl4U1FKMTFldU51V1QxcUNqbktrTVVMNmpTSGfSAboBQVVfeXFMTnF5VjU3SXQzOFA1eFJuOHBtcl80MFYzd0t3R3BWNHcweWVhNXNtLVdCUHZITGYtbjR4R0V6b2tGenNyMzdadnduRHI0dHFmSm90RGp1a2x6ZkduTjg2cktwTGozQU5PMXM1a1phcTFQXzU3WHhpMTZBQ3pQMDNOeHVUcmVxRmJjVm1SZi1rd1Atd2hjemZZSGdfZDZJalBpeFNRSjExZXVOdVdUMXFDam5La01VTDZqU0hn?oc=5",
    "src": "FOREX.com",
-   "t": "2026-11-07T04:06:20+00:00",
+   "t": "2026-11-07T04:08:21+00:00",
    "tags": [
     "eurusd"
    ],
@@ -793,6 +803,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Weakest Samvat in 15 years ends on a high for mkts as Sensex, Nifty rally",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdG5zLVItTU0wcU1ZWXMzUjJyS2trZmVPOFpkTWNXeVYzQk5fRzE0WVI2dnFicE5JNG9Dd2hySnJMSl9qSHpUb3hRMWNmZ2dIdnpUOUt6VGNQYjBSbXYyR0puU0RPUEZzTEF0ODhyc3pDVkFBSXQ3cmUtaUFNNzJaZDdVbEhZRUlCM0hLMHdQRXdwaXlKd296Q0hkVTYydUhpVWxIUnY5VC1sSl8xLTVPNld2dExjOXZWMjV2ZmRfODZOTzJ0aFZrNjEyX3ZaN09VcXBfWnVB0gHbAUFVX3lxTFBQWEZwaHlTSWh0dDhLZGplbkdCeTFtOWVTTnJ5TkRhOFA1QWFFMElaajR6UDNJQ2poRTlrUnQ1ck8tMy04b1RfOVp6VEVBajVibU9PSnp2THoyN2dWYk9oTTlSc1VnQUtnbTcwUnN3WmVEUmROd0J2TXZ0SWNRNGYtZUFHZUZIZFloYnRGaXB3MEJrVDZTQWlGbjM5T20zMVhHczlSQl90YS1iRk9rSmk3MHdLMDBQbzBUSEFHamU4cUdFa2xPWVBOLWkyWklMbWRfNFJCckhNNGg2WQ?oc=5",
+   "src": "Business Standard",
+   "t": "2026-11-06T17:52:49+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "What’s next for your portfolio after the decline in Big Tech stocks?",
    "url": "https://www.marketwatch.com/story/whats-next-for-your-portfolio-after-the-decline-in-big-tech-stocks-2873452f?mod=mw_rss_topstories",
    "src": "MarketWatch",
@@ -871,6 +891,16 @@
    "t": "2026-11-06T16:53:00+00:00",
    "tags": [
     "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Canadian Dollar stares at 114.7K lost jobs and a Fed rate hike",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUzJEQ3kwRWh2WXF2bGE4NUNQejVOcmRJT1Jtb21RdC1zeElrYzJSYkVlUkFDT2ZNdE8xUi0xcEVlQWMwRWtTZWhGS0RxY211N3VMTm1kQVdfT3BFUWRuZG1aS0RxSlFqS0h5ZWRhTG9jdmJWY2RiNnV4dUE4ZEtkNEo5LUxwVkN5TUpuZmxPQXNlcV9Xd01fMjVoYUtoVlYyR1BJS1JzdGZ4THly?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-06T16:52:40+00:00",
+   "tags": [
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -2653,36 +2683,6 @@
     "silver"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "India defies Asia tech rout as oil slide, foreign buying cushion markets",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjNzeFpJV2tDZUlhN19jRzc4UDQ2NUJ2eWNvdnBjdW1Bam5YdE9HUGhfLUZ3Z3FMOVpQMFdId2Z4SlBlMll2Z2dYVXZqamZYdjRMazg3NnZfbzA0WHFNMVNLY0VqQ0dwMkI5RDB2S1ZrNFNGWWpnQmdjUXE2cjcwem9KVzVPYzJMWm5ycGVJaTFWTGRTX3g3T1JIbVAwb3pFUGFXVHBmMWIxdGhOWUtIQm1hWnZsbUhHMVE?oc=5",
-   "src": "Reuters",
-   "t": "2026-11-06T02:27:00+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3VFZFhZZVFocTFFbk1VWFpidzk5SlF6VzVpbk5aakNLT2RTVDZwVWJSX2xVY3F4MVpaV3lRM2JPM3MtNUpTVmxObkNxX0t6WjB2OUMtVmxueDBRcGMwZmNZN0s4WEFHQWhzbXVXSEdWcXpyM3d6UXdWWnlsc0tsY01ndE9TWWN6MXBxOFNqeTlpdW9oSkFHd1pxMi0tMFlUYnNyRnV4elhZczBRNWhsempubS1xc1BFNUZWT3F3MlhWMXRweVU2TS1BV0pjUU0zX3c?oc=5",
-   "src": "CoinDesk",
-   "t": "2026-11-06T02:26:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Bitcoin, Ethereum, XRP, Dogecoin Bleed Amid Broader Sell-Off: Analyst Says BTC Will Bottom After Sweeping",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcjd3RVNub0J1Y2tjbmQ0T0gxT2ZOek41TW5mWGFtRlZNU01nT1N0QWl0M2hranZ4eDV1ZFJDc2t4eHBHQUJIMjB3Z1JEY1RwaFY5VmtCenZLdHFsUmJ3QTJsQjVsdWplZWFsX3ljMC04Ui1aSWMzTEV1a0NfSXlBdDR2U2Fld0Y4M0JZQVpGbXZ6RzA1V1J2Z1NwMkVMOEE?oc=5",
-   "src": "Benzinga",
-   "t": "2026-11-06T02:15:12+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
   }
  ]
 }
