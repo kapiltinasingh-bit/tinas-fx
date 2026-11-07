@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T19:36:08.297361+00:00",
+ "updated": "2026-11-07T20:13:39.833377+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 9
+   "new": 8
   },
   {
    "feed": "Investing.com",
@@ -114,10 +114,20 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 2
   }
  ],
  "items": [
+  {
+   "title": "Why gold is losing its shine: Goldman breaks down the recent sell-off",
+   "url": "https://www.investing.com/news/commodities-news/why-gold-is-losing-its-shine-goldman-breaks-down-the-recent-selloff-5010022",
+   "src": "Investing.com",
+   "t": "2026-11-07T20:02:06+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
    "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
@@ -2660,17 +2670,6 @@
    "t": "2026-11-06T10:00:00+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "ECB's Lane: Energy inflation to influence wage negotiations",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ0cxRDVOeGNHRU1HNUxUTlZwbmJHVUg4QXVYZmh3NUxia1NMa1FrYzlZVU5Ed3daNUNsWHljR3pKaU9rb2VwT0VoekgtaTBNa2lYcHlOSFFOT2VoTEhUWWEyRnF2dWFXWkw2OTZtY1ZlS2JPeVA0bmZ6V2E5RU82VXlrMHloSzgtZDJJRmhNT1FDU1FjS3JNQ1J2NF9ROVhUV1E?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-06T09:57:51+00:00",
-   "tags": [
-    "eurusd",
-    "macro"
    ],
    "tone": "neutral"
   }
