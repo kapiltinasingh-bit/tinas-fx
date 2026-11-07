@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-07T16:19:44.064392+00:00",
+ "updated": "2026-11-07T17:01:50.071920+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "CNBC",
@@ -118,6 +118,26 @@
   }
  ],
  "items": [
+  {
+   "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+   "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+   "src": "CoinDesk",
+   "t": "2026-11-07T16:51:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "$1,000 in Bitcoin or XRP: Which Is Worth More by 2030?",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTXNYN2ZGZHJUUkV1R3poNGlQYlgwLUlrYXhUdzE1QlZRTjdqWVFWQ2Iyd2dxZkhQXzdiVWtUbHk0cFpPZ2xDMklwM3BheEMwSzVyTktXS19LWDNEN0dvcUZHNWtySjhvelc0WUhKQkxnUW9YZERQOGFsYkZ0VzdteDJkWFlZTkdMR0ZfdHpxcFF6VnAteVJYUS1ZNDhBQUc1QV9Ob3B3QThNWW5oVmc?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-07T16:31:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Best Crypto to Buy in November 2026: Bitcoin, XRP, Solana",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcmdIaVdUam42djBDUkVaN0JySWxEOHBGd3c1ZFVWLXVWcUJsZEZqTnlrYkpMakhWSXZzR0ZIUkpiUHNBS2RDSFRldHpXQWZVb1FQZFAwY055X1N2Ym5VVndjR3M3NUJ6OEJpZHJRbmJ5MWVUam1lOFY5ZEFDZ3pxdmJ3TnYtdGxFWmdYVWp4SUhfNF9NTTVKZVJyV0Z4Z2FvbVRFNnpDcnd1Q1VWVVNaS2pDYw?oc=5",
@@ -227,6 +247,17 @@
    "tags": [
     "oil",
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold Spot Prices | Silver Prices | Platinum & Palladium",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UZW9OY3B0aUpxd0RPZEJjSHhJXzZzd1lZSTZyOHgtMU96OU1fVlpCcENYQ0R4Ylp3OTc5YzdtMzZsdVVJOWNHOEYzVEdZbkdrTHp5VGRR?oc=5",
+   "src": "Kitco",
+   "t": "2026-11-07T12:35:36+00:00",
+   "tags": [
+    "gold",
+    "silver"
    ],
    "tone": "neutral"
   },
@@ -452,6 +483,16 @@
    "t": "2026-11-07T06:23:42+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "What Gold Fields (GFI) Said on Its Q3 Earnings Call",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZExQNU0tMlZ0Smg0cm9IYmQ2YnE3LS11blhqbW9sT3lEYlJrSTFnRDFYQ0pvSWstUHlrcDdYN2RtVzJIck1nZ2JWZVhUcERkRElQTVN6a1ZsYThhSEtTYjlCX2R2U0txeGRHSjlqajhvX1dCUjBQclNzUEZkT3ZEUXphc09tcUthb0ZBU2RkYmxBVmtfUXV1LQ?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-11-07T06:15:00+00:00",
+   "tags": [
+    "gold"
    ],
    "tone": "neutral"
   },
@@ -936,6 +977,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Dollar jumps after strong US payrolls report By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkVfMzFneXl6am9uQy1KZGt5OGxxbjBSb3pWNEl6LU1odXpzODRYeU55c3VDU0w2dkMxbDNnRVYwYU4zZFRKM09TdnNKa3JmSUZJWXl4ejhFTy1LV3VsaHpGWnRyb3VjbVRTeWNfcl9yaTd1NF9HcC1WeTd6UDlibVNjcG85WW81SVM0bG1Rc0NZN2pWU0JNYTRRUkY3Ui1zVnNQT19fS2RFSWExTTFCRDdVNFBYaFZlSTJ0OFJiZ1hjaEk?oc=5",
+   "src": "Investing.com Australia",
+   "t": "2026-11-06T20:39:25+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Gold and the greenback are still at the mercy of Trump and the Fed – Walsh Trading’s Weyer",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONXRWMnM5OU9sRWYyYkNCeTQzMlVibkxWMmFTWjF1bzY1RXNQeGliSVZ3RGxQandxdXltMXB5WVlFOE9aVVNnUjF0MlozVElWbjI1SWVmek1tVXUxVmdPck5zVlV5YmM5MWwySVlDWG9MZmktM2V5VU8xa1pWQ0FZYjllOFl1MERaamgxM3lEbnhEVjI1WDNmcEFyUUMyZ2phWGp1UXUyV3hWakJIaURfMFBqTHRyQQ?oc=5",
    "src": "Kitco",
@@ -1239,6 +1290,16 @@
     "nifty"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Nubank, Mercado Pago halt crypto transfers after external provider disruption",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNakhCTDNvcV9oLVMyRF9vZ0ZHd2k2QTgyS3NWWEozVzFmS3d5dURPVmdmYlpmMmtCMm5lSklLUWdBRGZRbWNmeC1nNngtaDdZQUtDcnhLOGliZGJ1STBLNFdJajZBV3R0SF8welNxN0NFMmU2M1VNNVZ3WVpNdGVIdk5vRVliM0FOYmZvTzJ0Z2haQWdqNUlPaVFYa1RMQ0w4MGw4R0hmOVVMY0dtWDBBSldIS18xbmYwM0s1ajhkZzZBUG9U?oc=5",
+   "src": "Reuters",
+   "t": "2026-11-06T17:48:03+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "What’s next for your portfolio after the decline in Big Tech stocks?",
@@ -2607,67 +2668,6 @@
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWdWczdid2NjUGc0VHJGTkdCRTRzMUZ2UTEzaTJGS202YVg1ZHRQOHMzS01hTjRPMWR1Q0YtUUlpWmpXMTZYcWJFWWh3MjdadXJJcXNWMGFTWmRVYnVLaHI2S19lV01OSnlKTWZPUVdEOGYzSjRrdEpBZXdla2J1UFNNenVzQXk1anZjNTJrVS1CeUU?oc=5",
    "src": "FXStreet",
    "t": "2026-11-06T09:13:20+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold outlook: Is the worst of the correction over, or is another fall on the cards?",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVTFFM192bnF6WWYyUU5mTnA4eUpGQ09zSWo3MTVUbjF4Yzk4RFppZkVWaEFDMFFZSS1LYWdiRWZUOHVxUjE0bXBVMktzSXlZUHRjajZCczFmdkNHVk42RTVLUENhWmdYNl9wbzFMbjg4MDJqNXJSSXIwb0ZtYnY2TXBFTnFnZjZnWWQ3Yk5PVU5hSEZBbVI1cXN4VTlUbHR5QU9lX0NqeWxuUWs5NWFvU2UyMXBEMVVLMGZTZUxqUUJMZkR3dElJdWVPcHpzTFRyOFZLX1QxR0Z5ODNDNnfSAeMBQVVfeXFMUDM5cUIwYWZoU2ZJYjFwWU9KYUlnN1J2dk1UekU5V21mQ1hWVThfWnpqVWZwSExub0JTQnNDN2gxc0hZTjBIRWtIdHZLOERDSXJmdW15ZDRXaV9ndHVZN2lNbWNHMlI3X09hWGdDWW91aTlTQ0pobGpoSTlRUEZvYlhOSEdCQlVSaVgxb09GRnBNUzhTZWc2MUtKWkpHX21zOGcxSWNZeHNqMkIxV3lZMXJWaWFrd2VKVnFzdmhUWVRJajJsQUJiUmNwYmNLV0xFaGFLZ25IUFRNWGhwUXRIV2hwZXc?oc=5",
-   "src": "Moneycontrol.com",
-   "t": "2026-11-06T09:02:14+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-   "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-   "src": "CoinDesk",
-   "t": "2026-11-06T08:47:42+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Samvat 2083: Bank Nifty Fell 4%, Federal Bank Gained 47%; 5 Stocks Offer Up To 32% Upside",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQZk9vUnF0UENOX1JKWXVtMFhwNkVVaVlvVTQ0QkxSUldMNW1vWWk1ZDM2NlY3Q3Q5TUhLOEx4NENwTGdBSXowd0VUVlZDazluOThwVmc5YkJqd2hra3lsR3BvYUtzOHVCZ05oX2NpWnVDcThWeUk2Zmg3emktSk92MmgtQUh1YzJoZE9YaGpBb0JhN3VZS2h2ejdEdkFFVUdDNEcyMGtBb0V4NzhzdWtydE1sMndRN183WkkxTGdNQ09xRVluRWtxYW04NDhIenMxMVBIYjhaOU5NNTZXQnBicFRpcGFFRDd5N0xQdUpGWFFGVlBqT05OUTJsTklkUVhzMjE2cEZla3FwMGI4c3F6Q9IBmAJBVV95cUxOUHZkM296MjJoSTVMdUNJUl9iQUNVaUdvdHUwc2tReVdZeHV4ZnBwZzFoR3FJdTBJa1dOYUZBUnUzelE3ZFhwUXhqMlBNQzZ0Y3hIRDUxdEdLbThNU2dla3c5SENXWEhaM01kd01TQTI0aVlaYi1PWVhPRlZwdnRhS0FFUkJzWU9HSmtnSWlSazYxR200WDlCeXJzcVdLSEtSVEx3X0s0ZEp0VTlHSU5vRDZIRXlJWFk3YldnanNtV3ZWejFDVW9QN3RXandKcFVmNDEyUlVFX292WkNNeEc1bDR5d3FjWHRHTjBxWm9uQVhRN2NLUmFJQXVOOGZGV2wwY2FRak11Y3FyUHBqSzVHbnV1NmgwMGNv?oc=5",
-   "src": "NDTV Profit",
-   "t": "2026-11-06T08:26:56+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "USD/JPY Price Forecast: Traders seem hesitant below 158.00; US NFP awaited",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGdNeGd5Ry1hN0s4b3h5bjJDdVBzTHh0Y1dqTGdnM1Y5VUQtd3dTSGxfUWRwLXpXaVh0VGdLMGxCWkVXVmtaTzBfYVNOT0I2SlpQU2d3SWJQMmlGSUlSMUtWQW9Pc3F2b0lCU1VtSW5rcWxDdEM1elNWNDlDVVZSTkNxcnBfNkx1QTduc1gyZ3pEUlg3TlhmbDR4dF9SNUhGUnhrVWNMRnY3NlhrazR6RWFKeHU?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-06T08:10:45+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Asian FX mixed as yen pares gains, Aussie hits 18-week low ahead of U.S. payrolls",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQejh4V2o4ZllkcGdnbVN2Q1VYM0xfVnNZZ2tqMHdobnhRR2ZNZE90djJMVDlhTTBCMkhzTkllRzJqZXhReFFMZXB3QVNUQ3JjRzY0Z2J6SVZGS2J0VXRSTzJjUjROa2podWdzdlV2RjhUVE9qemJPSDM3MFFVN3E4dUt2U1NWZE9fQTRxMXFEVXZwNkczMmp2WTBVaVBhemRBYWE5OXV2eGMtY0ZjYkRJU1ppZktwalhUbUpYYXRPUDlyd2pI?oc=5",
-   "src": "Investing.com India",
-   "t": "2026-11-06T08:08:10+00:00",
-   "tags": [
-    "usdjpy",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold falls below $4,050 as dollar rebounds after post-election rally",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY2pnMGJ5djA5NEYzbXA2TmE0dGlCQXQ3cC1fQ1hWZVVpb2xoUWVlSTJ1QmhZR09pcEJJQjdGT3JwWGZUOGtqb2NRR0x5aTBCVHJYSGJkOXIwOHdDejdJaGE0eURqejFKUmRsNjMxMHhwOU96WUNPTGx0c3Y5VEdvMFdVRHJqUUJadnN6QV9CSXp5bkRrZUlObGNpbkxmTy11dkdFSkh5eTFtWjR2SVRrVGtndDRuNTR2ek5YMHhUekl5VDFnVmc?oc=5",
-   "src": "Investing.com",
-   "t": "2026-11-06T08:06:34+00:00",
    "tags": [
     "gold"
    ],
