@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-08T18:15:13.730376+00:00",
+ "updated": "2026-11-08T19:13:39.063353+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 7
+   "new": 6
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,37 @@
   }
  ],
  "items": [
+  {
+   "title": "Vitalik Buterin Says Ethereum's Fee Burn Was Never a Price Floor. What Is Holding ETH at $2,200?",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdG02MmVZRnhuRUFaX3M0bzMwOVlPTlF1bHhJa3NnYm93OTlRNHNHVk5WZFJ4MmN5UVRYZ05DazZ6WTU4SGxSY0E5VnhNWFI3VjUyWlRmWVBlR2tNaFlGOFd1MlZ6dnJTUDJBX0lDTU8yTkpLd2RKb1BiWU83Ykh5WnpTWDFTMmp2Z2hFRFFBMllVcEl1NWNfSWFCbXJ2TXJGZktsWG9BdXM4NW9RUkJITkFtNmVUdER1OF9ZU184YnNKNkx0V0JTbTNqS243THlhMGNZdTBOdzB3QlZxdy1lVzhqOEQ?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-08T18:53:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin Trades $200 Above Strategy's Average Cost of $75,451. What Happens to MSTR if BTC Closes Below It?",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNUU1ZDV4NGpvajc0Z0lzUDl4TVY0QlI0RWFETWFKZ1JsOU9xc1J5SW81QzBFVVhTNHhCamxNenFWSmU3NG1EUDdrdm52M0JxUGt1VWtlTlFCVlJHbE10WG8yN2oyRXZnai1BekMxYm83S0tmUGo0Z2w4M0F0UlIyMy14aHByN1FlSU51VUFvTDYzM1JjVER0VE9pSHBZeHFuRWlQNGxlenkwUTlVSXFqREdvRGNTVTJRMThKRlNYeWNMYlhYLUI4UHRUWFcxZlRMQmhHd1FoX2poWU1Ka18tRUZYRjBaaTA4MFNtdUZteWI?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-08T18:31:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Silver Price Forecast: Rally Faces US CPI Test After Dollar Jump",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmJEbTZkTzFqMndWbXN3ZTRUX1RFZGpBNks1RC1WaUhTRjZYVHZBY0FEdnQ0UWMxVlE4cV9ZdXB3NnZhV3hNRGdVOFdrTFhITEhrWmI1OFp3dzlTRngyWjAxNVpnbjVWU3M4WjZGTW56NGNyLWlmcEhiNHBFb0ktdUttZ2w3WVhlRWluRWozaGVTb3hwU0s5RXl0RktKQnktZlVIcUhKeTZnWlNwN1Y0MUJQd1M?oc=5",
+   "src": "FXEmpire",
+   "t": "2026-11-08T18:18:28+00:00",
+   "tags": [
+    "silver",
+    "macro"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
    "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
@@ -2629,38 +2660,6 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnF5MGxzVnVJZVRhX3NUcERHV19FbWQxMFQ2cGNOeVZNM290c1lxSU5IeDljSm1xWGtIX0Mwd2RfY3JqWEJfa25vVUVJQjZoMUR4NDE0Vnc1ZlUwSy14NWRxUlNSN2xFNVFIZVFCT0pQZXk3bHdLM2MwcEw2cGZHZ29Hbk42cHVDRjlR?oc=5",
    "src": "Seeking Alpha",
    "t": "2026-11-06T15:01:16+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold price trades near $4,050/oz after preliminary Consumer Sentiment rises to 51, inflation expectations ease",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYjhxOEY3ZkZleHZYYWktQVBVVVlnb2N3UFNibGhvVnlIXzBYdHN6MjJreFdKOWNYU3NrWGRDMENLQUk4LVV2OEM4SDFPcWJyMzBUd1RMNFVmMWpJclBWV01Rai1hME9pNi1SVW9jSmRURV9ha3VYQ0VKemVfVWdicXU5N2cyM19wNWlueVNzZ2JYNGZMSDA4NWJtdTZlSTY2WEFGemxMbEwwcl9jWU5QX0Y4YmZHOXNqZ3ZqTnd3?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-06T15:00:16+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Gold Price Forecast – The Bottom Is In, But Danger Remains",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHlrUjhaSjdUdUNvNEdJQ0xQaFBVcVNlYTlpeFZ3eVhGdW9sdEtBV2ZZY3lTWlA5R0pQVWRmZTVaMVlNQW0zay1SaFVVQzJ5bzF4enhaWmlsTGswemNWbjlZUHJObGRQbHUzaUxCRVVKRHRjMFlSNHp1TlN4SWQ5ODFnVnRkdDhrUkpmM0UwSXA5bld2QnJXVS1RcGNSSU80T3FmeEIxSWVpdw?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-11-06T15:00:05+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US stock market today: Why is the Nasdaq up 1% today while the Dow Jones falls? S&P 500 turns green amid t",
-   "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOLTQ4a3Q3b3c2cS02M1lBY0xCU3dzRGt6dnkxY0d5LUlYaGkwMUtMN0RlcFhwcmM0MDBlTzYzeThVNnc5Qi14MTNaU3JiZkctQWRGaTZ4R2NhQ040MlplWFg4VGxMUVFIanBtME1vMTViQnJtOGZaWXNFdVByX3VwaTNEZldGcU1NMnAxT1NSbHFCd2xUN2tBS1NaenYzU2tONVVQOUpJenBDU3k4Y2tCaUFFeUFoY0t2VlNCSjY5LVVFeWdmVEI2RjdsYm1DczdMWS1Qa0k5LUxrdk5GemJUcnhBdUQ0OGFGVG9xT3lCRDR2U3pPVmszTDdNN3kwcHU1ZkhjMkJHa3lnQzNJWi1uZXQzOHI5aGw1TVFPUGdRbWhDWW91SW0tWktmQ05sWUFaN1V2ZDZmT2RzVng0a0dHUk9sVmRHcUxFcVFsLXlNNFhyYnVZRkFiNTlBWl8tV3F2NmdobDcwTUxwQ0tPX3Nv0gH0AkFVX3lxTE01RENrRE5GT0dSdjlFY2RZUkVLYTVVTnhRX3dqTTl4SXBXdnR6OVBLdGZhWGFWSzNET2QyZ1RpM1ItUklHb2VQbkg1aE9QQVdMbFgxdnZSOTROaXR1QXVsQ1NxSE5QNFNDY3NzLXBMSUVNeE1lR180dlAtWmlWQWM0S05UVHhkYkotLXN2V0RFenhDX0VHX1RrQXo2MHpXX04ycDRhQmpIcUdGbHctSUNHQ1pJb1Mwb0IwSWQwekRnNXJfNUdPYlhxMWxWcFZCclN4SFdZUzVxeFhtQnQ0cXhreGhKaC1ESnhTenFoRnFRaHkwZzQwdnpRRnZxN0w0Z3R1MW1mQlZIdHQ5M18wUmYtSU5sRERiNXlSOGRUb0NaS0VuWFo2RXNKQVJtM09KNm1zV2NqS0tPNDR2LUtvTXAzWDR6MHZ2TVl1bzJ1WWI1a3hIVXpRcVhuaFdDbE1vVXpUTTVjUUlPZ2tpQnVRZlh0eG8zVg?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-11-06T14:54:59+00:00",
    "tags": [
     "spx",
     "nasdaq"
