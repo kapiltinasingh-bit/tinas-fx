@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-08T12:02:07.988946+00:00",
+ "updated": "2026-11-08T12:56:01.542745+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -54,19 +54,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
@@ -108,7 +108,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 7
+   "new": 6
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,26 @@
   }
  ],
  "items": [
+  {
+   "title": "CFTC Report: Currency short-covering expands; Gold retreats",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkxWMUlBcUdNNlk5em93UW1FOFo5QTBOeWlGMm1qOFZMNnhiUEhqM2l3MEhsbnV0aHd6SmNnMnVmNlBVREk1dThEcHBVYkJ6R0E3dVI3c3RaU1NXNmdTdHVIMnhJenFKeUdVNVEzOEpDRVk2Vi1XUExsaFpJWGRNZTV3OEpmS0lkaVZOdENQZVFVdGt2OXZZVnNUbXZlS19JVkczWkpxbw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-08T12:38:21+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
+   "src": "Reuters",
+   "t": "2026-11-08T12:07:25+00:00",
+   "tags": [
+    "dfm"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
    "url": "https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html",
@@ -2646,26 +2666,6 @@
    "t": "2026-11-06T14:34:08+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-   "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
-   "src": "CoinDesk",
-   "t": "2026-11-06T14:33:49+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Eurozone: Inflation to stay elevated through 2027 - ABN AMRO",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmZ4S2ttNmd0QXhnYmRMRFpEQ3lfZmw2dGZtMkpNOGNTX0V0eEhMcW5URmdSalU1dmJJWThYWUZrODA5YUF6ZlBfUjJVZDdPMHdtQkNqcENWOXhKUjhneEtYQklSTVZNNnQ1bVNxa1lQMF9CQkdYdmJLX3pCX3kwcFl5eVRxQktyMDUxVnJfbWJFLUw3c0dsMFYxZTRIRTJsMHc?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-06T14:32:03+00:00",
-   "tags": [
-    "macro"
    ],
    "tone": "neutral"
   }
