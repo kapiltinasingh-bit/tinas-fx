@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T14:21:55.593726+00:00",
+ "updated": "2026-11-08T15:01:52.330511+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
@@ -118,6 +118,26 @@
   }
  ],
  "items": [
+  {
+   "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
+   "url": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-11-08T15:00:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Samvat 2083 off to a tepid start; Sensex, Nifty slip, smaller cos up",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbnJKX2YzTGFWb0FveDFuZTlycGtjanByUTNVc1JWN0VhSG9LRTJvQUVLeDQzdjVobjVqMExmclhLa2h2X0NsMjNpME9ickVfektlcy1URDgxSnphVzR1dTl1VlNxZjU5aWZSdU5adHd5Zy1nejgwZzJNQkJhWnhQZ0Z1ZDhGbng3SXRMQXVOTTRXMnJKNVVvZ1k4bUthai1sZWsxNUpOLTIwdUhYZjJodnVCdC1EbTAtU05WbFl5YUp4MVNPdXJXRDFlQmzSAdIBQVVfeXFMTm5sdUlET3pnZDNGY0NHX1U2bGNZUlFVRGZlYUZFS0hGaVpTcEZWdjlyQ2NQU1lSRldqeWp6S0NVU01aVkVuLXQzODBfNldkNWdEWTB0R21YOV9hSVc1YjBvV0VTNmNfTFd6Vms2UWNiVFA1QlJtQUpGR2hfX3V1V19vUy04UzY4T2xDYmZ3YzhzNWY0SDhFSDk1ZzJCYlF2dGs1c3UwMzRXM1dLNi1rNnp4b1pla1JCMjVESHB6RWRQUERZc01XcDRRSzdKbGhHNVNn?oc=5",
+   "src": "Business Standard",
+   "t": "2026-11-08T14:49:26+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "The Week Ahead: CPI and Tech Earnings Test a Fragile Stock Market",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa0RlU0FZTXB3blFUZGozNmdUdUxFUG5iRmZncjF5TUVHTndqU0UtdkM0dkQtcHBKSUFTdE81cURMUEVJdUdKRUxodktmZlJDUVIyaVQzdEFXTzZnLW1rMXlMYTBWUUZneEhCUUR2QlZWX0JXdlNRVUtTRWJMTVY1a1pDSWNaTVdhQzVITVdoOG5RNnhTY3RONjFzREs2TksyZUltdGktRThZdzVRX2pITG80VkFkQQ?oc=5",
@@ -2646,26 +2666,6 @@
     "nasdaq"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "The S&P 500 has become a big AI bet. Here are some simple alternatives.",
-   "url": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-11-06T14:51:00+00:00",
-   "tags": [
-    "spx"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Top 10 Cryptocurrencies In Canada For November 6, 2026",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORVhLM2VTLWhXSUxlUTBxZ2ROZGZHVGpKaGZkZDdmalVjNjlFZTl3RjI1aENtSEhYNEVPQ1JaZ0FBeFF0U1VHbUhUaTlvcmJESW5zZWZnQ1d4UGYwak8yVmRVSEhOcE9GYWNWaVp1cklHRFpJZEFyUE5sdFRvSDdVRjIyNG15WkFvemVB?oc=5",
-   "src": "Forbes",
-   "t": "2026-11-06T14:49:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
   }
  ]
 }
