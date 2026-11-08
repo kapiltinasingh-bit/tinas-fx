@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-08T22:16:55.758679+00:00",
+ "updated": "2026-11-08T22:59:20.260638+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -60,13 +60,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -108,7 +108,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,48 @@
   }
  ],
  "items": [
+  {
+   "title": "Cryptocurrencies slide to two-month lows after US midterms",
+   "url": "https://www.investing.com/news/forex-news/cryptocurrencies-slide-to-twomonth-lows-after-us-midterms-5010335",
+   "src": "Investing.com",
+   "t": "2026-11-08T22:18:22+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Bitcoin's Correlation With the S&P 500 Just Hit 0.80. Is Bitcoin Trading Like a Tech Stock Again?",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeWVpWGc5TFlmLThNWEFPTWJhLTM3d1BhQTBiLVBUcVFsNXFFc2ttaHF4THRSMzBacGpKNThrOXUxYnlxZzV2WHhQMkxRMzNOR1VyX2I5eGJ5M3cyN1dYNDY1NWYzZ2RqRmN5NXUxS1RHUjN2ZXJLcWtJeUVLZXZDTnRvOTlpYzJVTFJYMnJuZGhiTlNjZW9qYzhTTW5YMi1XU2J1Qm9UT1JnWEI1bEI5dkdwc2JabWV2VVp3eFhaNkh2eXVCaEpub3lYOXVKSGh6RXNQU3dteVVmVUNTNWdtRUtXckE1c0k?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-08T22:17:00+00:00",
+   "tags": [
+    "spx",
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Read Huang's email to his staff and statement from Nvidia's board of directors",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMlpNM1NTcjhpWU5kMWcxbWhnQmh4SnZFTWU4My1EV1RvNGRNdHR2bUtXckstZlJTWmc3a1Nqeng1SjB1RjQ4UkZKakdTLWdxdkwzYV81ckhEU1R5TUtTRmFhaEd0NW0wcXdZdXJkNGc4R19iN1FoOXg4ZWZXODdaZmZnZWNMbk42Y09PdHdiZmZjaGlFS2c?oc=5",
+   "src": "CNBC",
+   "t": "2026-11-08T21:50:38+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Weekly column: Strong jobs report defies rate hikes as NASDAQ breaks primary cycle lows",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbTFGN1d0cHNVR0dQbS1Lb2dRUDdwSmNEVlhFc0tTN1U2TUM2V2pxQnl4Wnp3a3hfclJCNFQzMW56TGlIZ0llQThubFp2Q2FUZmhMR21FTU1LSjVBcGFsMXMzemdWNHNacUhBMjhhZDI2VTJoNGttR1JzNmdnUFNXWGRJVGMtWGR6aFZoQ094T25RTzhHeFd2ZTlEMVk1QXhOcENUcHoycVJwa0E3TUNWQ3RfMi1lZ2o1WDZkYW5nM2tmLUI1Rl84Tl9QVnA2dw?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-08T21:49:13+00:00",
+   "tags": [
+    "nasdaq",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "ETF Gold flows slow in October but remain positive",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOFRpa3dhU2RTbE9CUW5jVVhwQVNCRWhYSC1jVjRWSkhiN3k4SlBWREJoZWlBUnczVTRfclNaSzFXVXB0RFlWQTZpNTJBRGFwZnNSWWVJQ0VOenl6RGVmbEhpVV9GTjBNXzNxRXdRMGJsT3RNX3dVNDhLNTc4Z2RJR056b3N1RWduX3gwRVY2cFZxNjY5ZV85a2lUekFKUQ?oc=5",
@@ -466,6 +508,16 @@
    "t": "2026-11-08T11:32:13+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "A Top Silicon Valley Investor Predicts a Bitcoin Crash to $57,000 Within the Next 12 Months. Here's Why He's Wrong.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObk15NzBWNnFaRWxWanU2NDk2VXMwR1NMLXIzamp3OWpzZ1YtMHduZm53Q0JiMEZndWpGcUtUV09GNGgyUWtwaUIzeFRkSGdfeTJtU25Ja0FOM3VHb1hscXlzNU1YTk9rSUpsLXJNUWliZkVuWlFDdmZPOFdJSGJRejBkSUpPWDBOOEI4TFR3bDF6TTdReTMxTFN6bjhGMUt2eW5N?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-11-08T11:23:00+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -2606,56 +2658,6 @@
    "t": "2026-11-06T16:34:13+00:00",
    "tags": [
     "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYmNjZ3d4TmQ5anpMSVRzdGRiQzJEaDRleFE0NVFpOG9NSTRMSHdGLVM4S3RDajhZSWNpbEZ3VVhsXy04Y2FDeENjRy12NkxTMUtpc2dzUGU1UjNXRlFlbXE4ZXNFSFVsdXoxWUhVT2VGR1hQbmd2NUxHTmpVT3lUNUprZ0RoTmM?oc=5",
-   "src": "Decrypt",
-   "t": "2026-11-06T16:34:07+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Stronger than expected nfp sends bitcoin to $74,888 signalling a new phase of global markets stress",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaEUxRnpmLVQxT09fOS1OTWhISUtOMjhrd091MUlJZnVGN3k2UzRTWktXVWxwbzNqTXlWVTVaUy1kWmpfTEJLWU93dURscnVieG1HRDJsQVdZZm1lOUx6TGRNbk1DdGZELUhPSzAyRzRrc3JkV2tOVDhqUDhfX2FleDFhcTllSl9OUVM4TXBMQVFjQ2tZU1d1bHdOYjdyQnhuaEhPTDV3bmFZYXdvUTFRdjE4SEotQlAxUjZfRVQwb3ZKTWR1UVl3OE5tNVJoNC1BcW9LRmw5RlRwcUkyaW9YS1J3VUl1dEljTFdNNDUtWQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-06T16:30:20+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "British Pound cracks 1.3400 as blowout US NFP revive Fed hike bets",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWXNuSXBnZGFDOUZnWFctUWQ5dXZpdkxQQUJ3U0xsQklZZVhUaXNibEZ2QzBKMHhkcExEUTd6ZDQtM3kzbWNweWkzbjRCOWdiSkFWMFdHUnRzb2wzX2JwbGljLUJITy04WGsxMng2Rkd3SjUwMWc2MGVVbDNvOG9jbGQyQ2s1TjZPNmF4MDBEdWgzUXVDUkE2SXRCOGFaX09sTGJVRlgyR3hKVnFV?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-06T15:48:49+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Nvidia, AMD and other chip stocks rebound. Is the ‘violent’ AI selloff over?",
-   "url": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-11-06T15:48:00+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Nifty reclaims 25,000, Sensex crosses 81,000 as India shrugs off global tech rout",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMEtkZ09TQ09HSXl1eUstbHJyenRJUWMxMjJmZ29QdUV6QVBGQ3FoLTRhdEZKWVUxSDdvM19wTDI2dE9VVGliU0ZHaUJJdE4yUEZOUDFjOEpxbGp6MkFIMVptOGtaVFg5ZE1fdGlFQjVwcWZFQXZCR0g5M1gzRkJCSkdVSlg4b1dSRkFtekZIM0FETm02YjNkY3RMRFNmNTliYTBraGJzR0xEU0o3WHE3MExwcGhXNHM1bC1hZE1xSUEwOTNRRGxPeDF0RDVZcjNWbjhhdGR5ZkhmRE3SAeIBQVVfeXFMTlFqekxpdUZxU01GWTBqbkZmTXZONThqazlleFB5Ti1VWGdXTU9sV3lOb3o4SWxHcE9DQ1BqMFlZRmpQRDlxcDBRVWM1S2QweG1pdU1fWkh3QVNGVk9YaWt2UlpPc21TVTdfdkpQN1ZQSUI4WHpLYkd1X1NRWUVhYXQ5cmVuOGhGNlJRR1RXYzVtYkFPZEI4ZWk4cG1Ja1p6ZTRsNHdzTTR6Ni1DYXNla3Y4R0VKOHczNVlibktVUENIWEg2RU9OaWpGeDhnZGY2YUlhbGd0R3pFTXdEeTRzTmNtQQ?oc=5",
-   "src": "BusinessLine",
-   "t": "2026-11-06T15:47:52+00:00",
-   "tags": [
-    "nifty"
    ],
    "tone": "neutral"
   }
