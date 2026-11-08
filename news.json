@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-08T01:46:19.033612+00:00",
+ "updated": "2026-11-08T02:40:14.788558+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Moneycontrol",
@@ -108,7 +108,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 5
+   "new": 6
   },
   {
    "feed": "Investing.com",
@@ -155,6 +155,16 @@
    "t": "2026-11-08T00:07:00+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Euro Technical Forecast: EUR/USD Five-Week Range Puts Yearly Lows on the Line",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbGVqMUlRYTh4TWpISWREenRkWTcxMEpVS01KOERHNXphVGY3QkFSWnBZMTZHUjVVcUJKZmh3R1VqLThOQ3BINzZKMHdoTWV0SmdjRmhXY2U1RUpOVDR1WHB1NmRyN2RtUnE5RWJvNE5UNkpINDYyYmx1aWhvc2UzeGF5dk9XaW9LRThqYU9COWsxMnRqaVM4THFVVGlQS0x4VGJSS3B4amg1d0VRRVBRcEJmRS16WWlZVkRZblNnREc3VTJJaGRxeUtB?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-11-07T23:55:00+00:00",
+   "tags": [
+    "eurusd"
    ],
    "tone": "neutral"
   },
@@ -2663,16 +2673,6 @@
     "usdjpy"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Gold – Potential for the drop [Video]",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdUZsZzV6RjAwVWw1b0N6LXJTNVpaTTkwejg5ZjV4SWR1WDdsYnhWVUt3NjVQUnFxTUx0azBGRGh6T1UyOUFuVllrNmxfZGJXdS00ZG8zWm9hYkJwcG5kUkhuSHlwb1NmM2JOaEZJbzBTUGkyQXEwVWhvbURvaS1NYXpxbDJiSnM?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-06T10:45:13+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
   }
  ]
 }
