@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-08T21:42:56.648280+00:00",
+ "updated": "2026-11-08T22:16:55.758679+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Economic Times",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ETF Gold flows slow in October but remain positive",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOFRpa3dhU2RTbE9CUW5jVVhwQVNCRWhYSC1jVjRWSkhiN3k4SlBWREJoZWlBUnczVTRfclNaSzFXVXB0RFlWQTZpNTJBRGFwZnNSWWVJQ0VOenl6RGVmbEhpVV9GTjBNXzNxRXdRMGJsT3RNX3dVNDhLNTc4Z2RJR056b3N1RWduX3gwRVY2cFZxNjY5ZV85a2lUekFKUQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-08T21:40:21+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Bitdeer and Riot Jumped 13% in a Day as Bitcoin Fell Under $75,000. Why Are Miner Stocks Rallying While BTC Drops?",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTS1sRGNINEVKRUZ4eUJDYUlPN3NQSndodlhLYjVVZXViZ3VDa2podlktd3BxOEQ2Snc4azJHV3k3bk1Ob2JtYUhuZ2pLYkM0Q1FLNjhWMlRZbjV2TnRsYjFIR1lBWlBFZ2hkT0E2c0U0MjlDTlRjQjY0cDl5bUw0em5kUlhoNDB5LU1IT3R4TzRWTFNsc2lIQTQwQXBCV2UzanhMeFR5UFMwaXFjaDdFendDYkRNNmg2dWFzQWlwUm5TMnpDUGs4M1FhRkF6VjJ4RlhoWW5LdWUxNzR5aVJHMmxzaWM1WTRjdVIybnhsTjhTTXhzeWl0Tmk5cmI?oc=5",
@@ -416,6 +426,16 @@
    "t": "2026-11-08T12:07:25+00:00",
    "tags": [
     "dfm"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Wall Street's Biggest Bubble Looks Ready to Burst, and I Don't Mean AI or Quantum Computing",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM1U4U3ZRY09jWXdYZzUwUk11LW42RG8yRk9Rb0NQSzdRa2VRU1FJM2dUTmhzakZvRlhVSzVHemlHTnpaczd2NFk4U0hmcTltNHpPbTAzSjFwclBKdHozSW5CMGM3bEJOdTE4QUtOLVNfamNydmVuanRUelVLU250WlRQNl9GbUpROVhuR1RJSm9jZGxkNzlJZmxORXVMa0E?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-11-08T11:56:02+00:00",
+   "tags": [
+    "spx"
    ],
    "tone": "neutral"
   },
@@ -2636,26 +2656,6 @@
    "t": "2026-11-06T15:47:52+00:00",
    "tags": [
     "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Weekly Forecast: Post-midterm elections relief rally loses momentum",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWW1uUmR2cWlyLXZLT2lSR1dyNmVLQ2k3NHBsSkw1MGpoaUJFRC1vM0M2TVh4emFpRUxXVmQyWDhXVkVqdnZodGEzQTBwdVk3bDlhN0ZBRHZzVFNENi1xaWgyWDMxTDhLWldlNEtoTGpiWDA5enRMZ194UWZELW5LTFdDNzRhUlJTVE02VkJGME9zZnVzM0xNOFdMVkt5bGw4NWViM2Q5OF9LX3dSX1FsakFPZEN3Uk9CaGc?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-06T15:44:11+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Ethereum ETH (ETH-USD) Live Price, News, Chart and Price History",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TZkNwOEhGSDZJZkNPeVAxUXR3Y3hHNW1DVHd6ZFk1WmcwXzFVamZsc1pjSVVVZEdfdzJrRHFfV21yV1pxdzROV1JvSmRDN243dFlodHZB?oc=5",
-   "src": "Yahoo Finance UK",
-   "t": "2026-11-06T15:38:19+00:00",
-   "tags": [
-    "btc"
    ],
    "tone": "neutral"
   }
