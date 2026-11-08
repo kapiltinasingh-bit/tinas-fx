@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T21:01:29.732913+00:00",
+ "updated": "2026-11-08T21:42:56.648280+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -78,13 +78,13 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
@@ -102,13 +102,13 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 6
+   "new": 7
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,36 @@
   }
  ],
  "items": [
+  {
+   "title": "Bitdeer and Riot Jumped 13% in a Day as Bitcoin Fell Under $75,000. Why Are Miner Stocks Rallying While BTC Drops?",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTS1sRGNINEVKRUZ4eUJDYUlPN3NQSndodlhLYjVVZXViZ3VDa2podlktd3BxOEQ2Snc4azJHV3k3bk1Ob2JtYUhuZ2pLYkM0Q1FLNjhWMlRZbjV2TnRsYjFIR1lBWlBFZ2hkT0E2c0U0MjlDTlRjQjY0cDl5bUw0em5kUlhoNDB5LU1IT3R4TzRWTFNsc2lIQTQwQXBCV2UzanhMeFR5UFMwaXFjaDdFendDYkRNNmg2dWFzQWlwUm5TMnpDUGs4M1FhRkF6VjJ4RlhoWW5LdWUxNzR5aVJHMmxzaWM1WTRjdVIybnhsTjhTTXhzeWl0Tmk5cmI?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-08T21:31:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Nvidia’s board will probe CEO Jensen Huang’s relationship with an alleged spy. Here’s what to know.",
+   "url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-11-08T21:29:00+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "A Hacker Swapped $3.7 Million of Ethereum Into Zcash on Hyperliquid. Is Privacy Demand Holding ZEC Above $1,200?",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYndfaWZkbDRaWXhLVmZrVzhHMFE0ZkJjcFprOTVtT2t4RmZyMks0cjVyR3JNQ2tseXJrVjdacHRRS1ZYbzFHNFM5QjlENnVRT3dzcTc2NkpfcXBsOEEtc0ptRGhVN09PRHNTdjlBbWtiV2NZVUoyYjNESEFxNmVoMFpPQXMxYWdxV3QwTXB2c3FkYXFrZ1owcjhianVFUFNJNTZjdGROY3lmS3VNRFFtYzJ6eVNLQkw2N0d1Y0E3T1NlSUZ5Wl9JWUpTTlV2eUF3eUp6Y21ZWjZyY2ZhRC10S3JrRWpjTE96Q3hybWRrZWVlNXRySG1DZVFn?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-08T21:09:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
    "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
@@ -513,9 +543,9 @@
   },
   {
    "title": "Muhurat trading: Sensex up 320 pts, Nifty crosses 25,100; Tata Steel, Sun Pharma among top gainers",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOc3IyQTFQMUNEMXJmc01QTU1GQlZLLU4tOU5GOWY2RWNPdHVPSUZPcUNOVUlwNkdzM0lwMFExVVZrR2JURWh3MzlpNjlxbkN0QThlV1JscjlZSnlKcjMxSEdLbk9XcG9Mbl9XT0l2azRXZFB5UFlFVDJwVXlJZjhvakRTU092bnZnbUh3djdXTWdOYXUxczVSWjFPWWdGR0o2dEZCRVVKTnVHTmZRTU03Vmg2UkRpZk5TS0hvRjNFNy1DTG5xNnpDZzF2VXpnVkh6Q1FVb0hRSE8ySzRidmtFZ00xZ1dvb0cxcG13NzhlT0FmUXJkZW5WeA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOc3IyQTFQMUNEMXJmc01QTU1GQlZLLU4tOU5GOWY2RWNPdHVPSUZPcUNOVUlwNkdzM0lwMFExVVZrR2JURWh3MzlpNjlxbkN0QThlV1JscjlZSnlKcjMxSEdLbk9XcG9Mbl9XT0l2azRXZFB5UFlFVDJwVXlJZjhvakRTU092bnZnbUh3djdXTWdOYXUxczVSWjFPWWdGR0o2dEZCRVVKTnVHTmZRTU03Vmg2UkRpZk5TS0hvRjNFNy1DTG5xNnpDZzF2VXpnVkh6Q1FVb0hRSE8ySzRidmtFZ00xZ1dvb0cxcG13NzhlT0FmUXJkZW5WeNIB_gFBVV95cUxPcDdRTDlaSDBBLUJkZnEtaWNkbVlQeW5UZl91ZVhUaFF6bGxsRWdLWWs3c0lFcEhyTGV4WDFPUHg4eng4N2s1a2xGcmJ1QkpramhORm9UaXBOWkZuZlJwWnVBbHVBSi1YWWRsMFZzSWdSbkUxSjU1eW1GQXFkaFdKVXVPaWx2U3R1RFZRX0U0Ynp3QkJCZ0tLOFd2X1RWM3lBQTdRaURZZ01BVF8tN283Tjg1Q0xPTjVmUGZpSUF6alM4b3otbEtnNmdWV2VkM3JNR0dDSHM3MFpHUWJJNkVwRXY3RGVJSWZPdmpNQnFyQzRHS0pjSDJSYWY3WFlZQQ?oc=5",
    "src": "The Economic Times",
-   "t": "2026-11-08T09:45:00+00:00",
+   "t": "2026-11-08T09:51:25+00:00",
    "tags": [
     "nifty"
    ],
@@ -2628,37 +2658,6 @@
     "btc"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "EUR/USD Forecast: US Dollar strengthens despite upcoming Washington gridlock",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUURvaU56TW1mYU1JZVNVQ296SHBSWDczd0tSc3hTYkdyaWFqVXRmVUNWSnN0VmV4c01yRFN6MU9aWUkwZmZXZEZPdTl5UTVxc2JnWHFIWlVkVEdUY3ZQNEFYR0VjVUxwRjJvbmRJbEJhaFBJanpxSEVNOW9hMk1DeXdabkZINGFOTDhqeGtWaTJLRWY3ZDJDWVlDUmwzamNzbXFQalJMd2R4ajA5M3lKenpkZG05b0RTV3hPcFR3YUh6a3hRR250akRn?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-06T15:34:58+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Faces Risk to $4,000 Support After Strong US Payrolls Report",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLTJnVExtUVZYaXVoSWhEYWo0SjFOSXIxQWM1cjBJLXZLbEVlZERoaVNiRXcxNUNWVkFFSFdid1g0Wk9rOWpzelJTbHpEUlJQNkYxcmdnanF3NjF5Z00tTnVuMndHekliaWdDNzctR21QbmNtMGVVT1RjTzAyS0dyLW41cEpCWUpqU2ZMNnBYUVp0NW9jdGFZZUhRa0dzMEltbFB5RlZ1OG9mOFgycWQ3eURldjk?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-11-06T15:32:07+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Nasdaq rebounds as chips stocks recover from steep losses",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanhvOGROdXJUck5kaGdNUnNFczRKSzRZYmVqRi1FN3lVVjE2RnU5WWtmaWVJRkE5R25TLUVkT2ttT215Ri1rMXI1UzdUQXVrT19xN2lueUlrMmF6Q3k1ZmJiQmRtWTA5bDcwS0t0VWZwcExISEdZcEZ1MHY0NVdsek1rQ19FOTJwcW5uYTFXTnRScVNBc2Iw?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-06T15:28:39+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bullish"
   }
  ]
 }
