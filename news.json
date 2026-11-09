@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T08:56:31.209009+00:00",
+ "updated": "2026-11-09T09:52:19.595584+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -84,7 +84,7 @@
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Economic Times",
@@ -102,13 +102,13 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 6
+   "new": 7
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 6
+   "new": 5
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,92 @@
   }
  ],
  "items": [
+  {
+   "title": "Nvidia's Biggest Problem Isn't Dragging Down Wall Street Futures. Here's Why",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWk12cDVBYWRWeW9JcFo1NEluME5QVXlpNmFxSjRybTlfamYxVWN3Y0xlTW5vaklHREY4VzdqeWs3RURiNDZtbDJoZGY1TkN0Mm9xNEkzS3JjdDZETjI1WlJOc1FmaGtkUXhlWm5oeUpWMG44S01hMzRvYW5odHA2bXQtNC1oTFJJTmhXLW1RcTdpczM5eUh5bFdNYjBfSGljcDN2a1ZNN01SLUlRMlQ5OEtZWThTU2PSAb8BQVVfeXFMT0hsRWFraTJQdWpIOGRfLUYtcXI0QnlkNHVfYlBJdEhKb0hWOXZfaTlNaV85S1lsREF4eDROR2VXNWdvWm5VNnEyY3UwTmNudVlYbW1PaV9DUVdoSmFoeW9GbVBZWTZQem5QaWdQT3FOZVNWNHpyUnpQeVF4NGE5RnlQWlJkZnlzRzhpMmF3T21GNWprMWczR251QlhMd3lCU2tTNm1zYkxYYzdZYVY4S2NJeEtxdzdTb2ozdVVETzQ?oc=5",
+   "src": "NDTV Profit",
+   "t": "2026-11-09T09:47:37+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Treasury yields steady as investors await more economic data",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JVE44LUJheWlkSEJZWlBaUVRGUXR2aGVMbm9yZnNDUnR1alJLSDdlU3Y3RktFcmplWmViVjV1ME1UYU9qSDA1YTN2NUdJbTJvWmZGUU5FZ3VTMU1lV3ppbk10SXBWLWxTcHVWYjRFbw?oc=5",
+   "src": "CNBC",
+   "t": "2026-11-09T09:42:37+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+   "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+   "src": "CNBC",
+   "t": "2026-11-09T09:37:44+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "U.S. inflation, corporate earnings: Crypto Week Ahead",
+   "url": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead",
+   "src": "CoinDesk",
+   "t": "2026-11-09T09:33:27+00:00",
+   "tags": [
+    "btc",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold-Backed Tokens Shine in Falling Crypto Market, Defy Bitcoin and Ethereum’s Downturn Last Week",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeXFRaHNENnd5TGxzOG0zSVRnZXk3UTZkWGVLMzcwTWZLclFWSlhoVk1JSE9fVVRTVVI5c2R5N0wwQXREcXNpa25PUUU5Qm9LSFdObFJVUl9IM1huQ01QVEE0dWp2RmNVTmxIU0swNGt2S2hqZzVqUFlGWXdOVTNsN3M2b2hYTlBWejNVckdGTzZRelZ2MktQalhQT3p4WkgyMVo4?oc=5",
+   "src": "Benzinga",
+   "t": "2026-11-09T09:21:37+00:00",
+   "tags": [
+    "gold",
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Euro: Undervaluation and ECB succession – ING",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVUJXSmJhamlvbHRLNmF0bTB4MnN1eEpvNUdPZzNBSDFxRmdkQnJZTkNpVlNKSy1GY3NfeERHblR0NDAyWW5GTGdFaVlLRXpWbmI2VFo3M3JkeEt2U2lMS29GVXhaaDJNeW1FalhjNzBkTDdRWFJWODhlcjF1MHU0OUxRUGx2eDA2UlFva3FB?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-09T09:15:14+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Dow Jones futures gain as lower oil prices ease inflationary concerns",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT2JEVWVwWjd3WVhMT1BVdWkyVVl1YzdtR3VWcC01alFFNVI2Nlo3S19sQWhSNnBVaXZBc2lxeU5UT3pkYXFzR0ZEbmd1REFrS2lQbFZfVnUxWElacElVcTI1V20yR3VSYWh5TzIzeUNsa0JoZ3NodURTY3RmanNjUkpKUVN3OUhZZHd4UWtaRUxIa3BPcWpCUHY5blA4VzlieFY0M092WVpkUkFROURxOGdB?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-09T09:11:34+00:00",
+   "tags": [
+    "oil",
+    "spx",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "CPI stress test: The inflation hour has been as wide as Payrolls",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQXhmVTVDTnZDTmhLN2Y2bGdzMGRUOEktamI5TDJCUEQwS0liMVZRMEtGREc2MTVBYTBOY2dta0dNMUpac1Ztbm1EV3QwdW53VkZDUjJkYWNSTDVIS0xjZnZ4T3o4cUNfc2RlTW1rR0NGdFZOMHROM3YwSU9TNExLTGpWbGZZcy1WSklaMGJmQkVVeUQ1MXBSQWQzbEFaeFR6Tzdqclh2NENnendzaDdJ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-09T08:57:15+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "How Wall Street is reacting to the news of Nvidia’s Jensen Huang investigation into spy claims",
    "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
@@ -130,12 +216,32 @@
    "tone": "neutral"
   },
   {
+   "title": "Indonesian Rupiah advances as easing oil prices weigh on USD/IDR",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVW5XQlB5Mzd6V1dUUk9UZjVxNnR3YlJjbXpWbldvVGEzX1ZUR2NSZ2RTZVBUTXlqUW1ya0xHaGM0R2VBUnJyN3R0WlYyS0NFUU5JRjRTQU1OX1gtMUpSYm8yZmFQZm1wbnctSVFwV2pxOTdFR3NOZFNDVjczdjk4X2JXTzU2LTA3V2tfcG5SNTN4cjJCZFozeDB5QkpVbXUwR3AzRHAyNl9hVFk?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-09T08:46:20+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "NSE rolls out direct-to-chip liquid cooling to scale AI computing capabilities; plans to scale GPU capacit",
    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQ3Q0OXF5dEdEUUtGdFFtZ3ZQMEEtbDFma0stYkNuVVNrWHViZGZsb0pGeEpWQndzQjljd2hMckZXMEdzZVRhdDRIaWZhOGxhQndGNmFheVBfS2c5TjUtQnhHbVU0UEVfMGw0cHdPRWF4Zk91NVVjYTFqUHhNdFdwemdacHNuQ2p2UEhGM1Brd0xrdC04d1daRFZkcWdSaGJOVjVEbXBYLWZ0emU1dnJZT3Iyb2NtSGZ6N3ZEX1JZbXRiSkVvLXRGZXY5T2d4TERaRjU2ZmN0ZHpPM1FLMlZvQWJJcUtjM3Y2N3Rra3lwYm93Y3hfeEtFd1R2QWhBRVhjVGpxODRDVTBzdHZSUGlsaUc5V0I5XzhpQzZPVGNNdFNlRVpTeFA3NDU0d9IBsAJBVV95cUxNd1F2OGNoc0M1akM5bTZocFdxbjdLZHliSzV3MFVGakxmcE40UXJXRHdhUHJqckp2MjhkS2hIZmRqeC1XUmhvVG5GUy1GWnBMNU1DaHZGMzI0eTlaclhPR1NmNVRMRFBDYU44TG5Nbi1icUJMeFZmdWRkdDdtYVZaYlZVT0EzbnJVYVdfMGQwc1V6a1hXUmROaFN1aGxic0F1Tlc3Q0d4a25zYW8yNTZXQ3BiTEp1Slh5Yzl2VU5kb3lFYU9TZWJDU2wwaXk2SEMxeFU5cmYta1JRQUJXRF9MMFdxbFM4VUU5U2JaUlBHY3JXZXBpaVRGRWViQWpNckpzWHNNNDc0X2VHSmxBcjFOQmJRc3VqWEwxLUx1S3FrNEF4NnV4bVA2aEJQYUt1T1hQ?oc=5",
    "src": "The Economic Times",
    "t": "2026-11-09T08:45:34+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Goldman says 'the pieces are in place' for a shift in Treasury yields, global 10-years",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tYTVYTm5XNDhfRVJRaE5pMW5IdTMwdk54eTVjYVZIb0VkTklrbW9QNmptbXp1ai1nQXJQendGNk5NVFFUV3ZKR3J1VFJYaXZkMXp0RTJGS240WXg0a21xTmJWRDk5Mk9uTDhxMUFSUjZma3dU?oc=5",
+   "src": "CNBC",
+   "t": "2026-11-09T08:19:07+00:00",
+   "tags": [
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -219,6 +325,16 @@
    "t": "2026-11-09T07:26:58+00:00",
    "tags": [
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin slips to $74k as regulatory uncertainty, ETF outflows weigh",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTTh1Q2dfQ0lSSWw5LWNXOW5OOWVmb2s0emJlWkgxWC1BdmI5c2FfUnZycW83aVJveF8wRERiYXhqZ1E4VlBsb2FjbWhZZHhDTV9WcEh2RGtiSktpY0swZ013blVjVnpNT0p5aUk1NXhqTmpxc0dCUmJtQk9QQ0ZqN2NuSHp2VzBqRVlkWkhTWW1vdzVCbWVuZEVRc1JXV2hMZzZvVUNIUW4?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-11-09T07:16:00+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -479,6 +595,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Citi, HSBC bet on India as oil slide, AI rotation fuel market revival",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZGhBSG5USUdjc1BWelIxb215ZlBXRjhSbGZiLVRGYzZWaE9nYXhUdHU5alNZa0xhRFZ4QnlnTnhRb0s1Z3NDTTVTV1ZMdm82N0lYMVhpb2I1VlRqeUZkVFJ1WnpPNTd1VFRjX3dvZE1MZmxwc29seXBhT3RHUnA1MlYyTjZSWVhscHpCQlBKSXRoRVFvMWtWdnZCQzB6RTJhczVvVQ?oc=5",
+   "src": "Reuters",
+   "t": "2026-11-09T04:51:00+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Nvidia falls about 3% in after-hours and perpetual futures trade",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-falls-about-3-in-after-hours-and-perpetual-futures-trade/articleshow/135671212.cms",
    "src": "Economic Times",
@@ -507,6 +633,16 @@
     "macro"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORzZWNlIxdzZIdzJibzk3dHBhalE3b1VRU0p4aGZOTDA4eHA3RzlVMlAxM3QxQTlSSzN1ZFNhelZHWk5sMHU4d3R1RjhZUUxPZzRsNzg5YTNFX0VKT29ZaGdjLXd5T1pqVzZMYTdCMU16Y3RpbFVPbkxnQWxNZ0xMSWh1TFYxT0g4TC00NlROaW5rNTNIZGNhb2JMS1BJdGFVQ1E3d2tSUXhHZDdoeUFvaWVKRVo5TWZNczhrVE5MTldCU1RSNG5USTdVclZ4SFEt?oc=5",
+   "src": "Investing.com",
+   "t": "2026-11-09T04:28:54+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Sensex, Nifty trade lower as pre-Diwali explosive rally cools down. Why analysts are bullish",
@@ -1984,16 +2120,6 @@
    "tone": "neutral"
   },
   {
-   "title": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXNJODEtQ2tFSVhQUWkzY255dG9kMEdRYWRtaC00MW1TXzFKQmR4U0NxaUEta2pwOTRKMGsteldTQ2VPSy1kTkJJMG1ybDB1TkpLT3oyc2VzVW9tOE9vTXdfN0RUdW5vZUdlTmNuUGEzdWRxYW5EdW9aTEVYWi1SMjA4QWVlWDdkVHRvRjQ1ZHNQSkRlYXJZS21KVE8?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-08T06:30:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
    "title": "Muhurat Trading 2026 prediction today for Nifty 50, Sensex, Bank Nifty on Diwali 2026 special session",
    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUVpHdmtlRmtxbVhkbmNrNlBLSXpuSjNUdGtrczZFWU5UMURXOEhLQ3M2MGJHMnVmeV9zR1dXc0t6RmFTREcxZlJBeEczU1NjQ2NacUF1aUNGQUQ3aDBjd1JfUUNlZjZvYlhaY2hKVEUxUjJFaEh6R282bkR2RUZlX21WYzVtWDBXbE5SQWx3Zzh3YnVDblFCaWNyRmd6REN2R2RJRnMyVDctQ1ctMVdPY2lJa2xYb3NJQm1VTU5MRzhEaHJKdjc2UmZFLW5adU9zTGgxdm93UWJESFc1cllkM2xpWkk4ZWFEOGoyYXNDMEtKU21vWGtscVNGY2VOQdIBgwJBVV95cUxOcXlMbkFwUjl2TFdOSTVZei13ZkF3SmllRDlwWjdLbFJ4YWNVeklIcTZRXzZUZThSNTIxWGM1VVZ3VmJ6UTNtRHdzSDlLaXZjWklLWHhMOTVGQ0xEanVoNHZfV25tUzdIQ0tEdWFXcXhGcmk0ajdZSmJiZXVBTUJpeC16a083bkx6VWNJT3FpbWx6NjZZZWZ0V3hCNGJGZE52TmdOZi1SNndEc2pwdTR4UHZZSndYZk9vUk1wLWpXNEQ5eTFPMTdTak1DQ3FOak05Zmp6RWxHNWI4d1o3dGdLeFpsS3VSVzBFTENfcUIwbmxZOFV2aDBBNFhTZEQwWERwWFlz?oc=5",
    "src": "Livemint",
@@ -2552,132 +2678,6 @@
     "spx"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Bank of America warns oil could force a Fed interest-rate rethink",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GT0t4ZUxiNDFXbWxGU2dkenBlU1psZ3hIbnJBTWNkdnpxYk9uNFFTbGp3Sy1TRURmcTV5UHZRRnpnYzNGQ0pHekFycGFEVFptdnJaZjNVcTVZRElueHM2NjZCMjZFUlRIX2VB?oc=5",
-   "src": "TheStreet",
-   "t": "2026-11-07T12:37:00+00:00",
-   "tags": [
-    "oil",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Spot Prices | Silver Prices | Platinum & Palladium",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UZW9OY3B0aUpxd0RPZEJjSHhJXzZzd1lZSTZyOHgtMU96OU1fVlpCcENYQ0R4Ylp3OTc5YzdtMzZsdVVJOWNHOEYzVEdZbkdrTHp5VGRR?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-07T12:35:36+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Fed pauses as 7.18% mortgages punish buyers — but a big Dec. 9 hike means more pain may follow. Lock in your yield now",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS3ltY1luQmlIUktLZHJhSWNFUHFBRXpJa2ZaTEU1eVBwV2g4VUFUSWNlV3loZGVtZFU2Wkp5VVVSeTBmTE1mMzRkU3p4R2ZSeGNYRnlid1F2ekN5TWVlVWU3Rk1pV1hvdlRYdklQMTB6OVZERndPb0RsZi1IVDZSOW1RUlI5enZzU2ppS09STWk?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-07T12:30:00+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Diwali 2026 Muhurat trading: Why do NSE, BSE break the holiday rule for special live trading session? Explained",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZUVESWNuV1g2TFZYZ1RaSE9Cam9VazhFZkRrSXdUNnpiNERPTGd6TEFQYXBGT2ZRbmFrUVdLTTRPY0Vad2RwTzFYMWlDcFVFeENkbi11eHZtUDEwNERmQldvVXk2VFpkUFZyWThJT3pjeDdRX1lqd1E0UXhIMEtQU196YWVxOERERFR2dy1MYUctcDRnX3MwM0xWWTI1bWc0ZlRmX3NVWTFVVmtkTV81ckpNQmdmMXFkMFhFVHZ1Vy0xbUx4RmxnTzRUWWJOYTV1dzdib0hRZk9MZGVVWF9qOTQ1aEtxRks4WWRRQmhwVUU3a1B2MDV1TnVHT21ubjZxS3hOVWItcFh6Z9IBjwJBVV95cUxNNFRCaGwyZDRKcTktZUEzdlJxS3lHa0xvRlJxUHhPaVI0bm9GVlMyV0JwME1ubXVxeTA3d0VfQ0tiV1R6ejJta25DZEhLS3ZoMURDX2ZLWWdEb1U5R1hSdVFCM3BwSVc0Y0tOWmJFQUk1OG5OazZ1MGh2TVdnZHRoNnAzY2VTaDdGOFdMMV9oSVgwTlB4RENWYWhJUVhsVHBTMnIybnpORm5WcldpUVpxaWZWOXIyVnVlZDJ4RkZNQzI4YjRPNUplOVZ3aVdEdURaaFZkdXFjYVlaZ1hLc0JOSGxES1ZqOXRvSHZiQl9jUm9zRlZHYW1ZYTAzS29zRFJPSFF6ZHM4ZFJ0bmpacFZj?oc=5",
-   "src": "Livemint",
-   "t": "2026-11-07T12:27:10+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Muhurat trading 2026: 80% to 90% — will Sensex, Nifty improve decadal strike rate on ceremonial Diwali session?",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQT3ZXSDhhUDJzSGx3SzVualpwSVFieEZsOTFDemNzUmNqcHFPTXdoOW9Bc21QVUhfLXA1UzdEUXhfQ29rRS1qS3pEWDY5NGNKZGxKaEVxelo5M242ZmFxUnc3VnItNllSbGdpOFd4amlYcUlRMjdxMWdyUS1aa1NWMDlSODYzaTF4UWpicmtzNkU2Nnp4UGU1ZVBZdzNHQWZjOEpYTktqUk0wR0xWckhCSm9ZYzM1S0hPR3BSbTdrdFF6M19WNnpUQUk4cW4tME1qcXVlWXZVQ1ZzTlY1OXI1NkJJZ2J6MjFvdERjRXZ3VkRBaU4zbW1iRWdYeVZMTE1ueHBON9IBigJBVV95cUxOdlltWVFxUXhtNjFnY3BRM0NfbEZwMjRXTUtYcFFRaE1SYllBeWN0UmtSUVJyVkl2WG1xYTFPbUp5ZkNwOXhndjJnS0FpckVUYXRpaTBmYkVmX044akpNWXU5dGEtdWx0ZDJuY0t6Rmd1cnNFakdLN1Q2cnJ6dlVjbzB5ZHpTZUF2N1JlNUtTZ2pXc09CNldnTFVrTEg0dGF1a1VBb3BoV0VoaDdvWWwyNEFoM05XUzBrUHJjdWdvRDdieVFWa19ZY2FRSjdIVU9uN2dzd1BHMnpGN0NUWWQ1YWRGbWRIVUdrVm9wTTVaZzR4NEJPMUpkQk9MaFJ2YkhYR1dJLVRub1hqZw?oc=5",
-   "src": "Livemint",
-   "t": "2026-11-07T12:06:39+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "The 1-Minute Market Report, November 7, 2026 (NASDAQ:QQQ)",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMk5WNzU0MDcwa09DWTV6X0pjZ1hXZ28yTkNWOHRyemszYV9teVdJcXQ5SkE0RzcyZkpDOFd5NXlXZXd3MHJUN1F6LVp4S3RxVEY1UVVuN1JlRGU3OVhLUlE2YkIxc3FDaG5GRHlUd1hnMTA1UXVTTER2Ujc5djBjUTZWbGhwSHA4Q1VN?oc=5",
-   "src": "Seeking Alpha",
-   "t": "2026-11-07T11:30:39+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "From Diwali 2025 to Diwali 2026: How Sensex, Nifty 50, rupee, crude oil changed in Samvat 2082 | What lies ahead?",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPX3JOeW5Td3pxS3RrQ3BMODFYRHI0VnhlS1B3TjFaZ2Y0VkhhekJReGhFeWQ5b0hPUUVZVDRRVFd5NEJoWHVzUnFOQzZsNmhkMk9rNzJwS193U0tBdWVoRjlMVDRMa3pzMTFFbzlqUGJFcXZabk5iekVnZmlZWXRBQkpRQ0o5eW5Rc3ZTa2xVM2NwS1lFYkRNU2lKa3VjTVprMEdVSWVVQ1M2TEZfcURON2ZJaFBCM2ozeHpmTDFkYnN2Z1pkQmNWUUl6eUxMRUczclhLTGJ4ME9CQ2lnRTZZM2RpaFl3SDFQbWpQMUN2dWJ6blJBY3JQY0IxUlU3MW0xVl8yVlBQZ9IBjAJBVV95cUxPd0lZSl9aYzJWTWpkWDczTk5LdEV4c3hXbnZ2Z1MtaHZsQ1ZEZ3FoM2stRERLTVd6QUlmSzVUa1I0SnBUU3BHMXJuUmZ3ZTFBTHNHSjFiQUpkRlVpX3pPQzM1OVM1TXFvN3hyUnptLTJqNXFPNm1VWFlzSl9Da3Q4WElLN2tLQWdod2dVMkpSSkItanZsYUo3dm5HX1lXOXRISHZzVDVvRHE5VDZIUzRMN0pQZDlqeGtrQmtoX1JocXBRRVRsZVF0MEVXZFBwU21YRThtb2x6V3A3MjcxXzlOZV91Znc4UjNsSEY5OFJBUlo2SjExQzVHVC10ZnJtS0N0OEFKVTBubGNCeERw?oc=5",
-   "src": "Livemint",
-   "t": "2026-11-07T11:18:52+00:00",
-   "tags": [
-    "oil",
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Dalal Street Week Ahead: Nifty bulls come back to life, but 25,000–25,200 zone poses next test",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-nifty-bulls-come-back-to-life-but-2500025200-zone-poses-next-test/articleshow/135634291.cms",
-   "src": "Economic Times",
-   "t": "2026-11-07T11:07:31+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeVkwY1dKeWxrcExZc0dzcnlWSUZ4czQtZHIyX1JYUnp5cWE5WFcwNjl3clkxY3dyUjFtbG1FOU43Ny1leHhSaVpCMzFQREhacmFmaTRR?oc=5",
-   "src": "Yahoo Finance UK",
-   "t": "2026-11-07T10:45:15+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "3 Altcoins Defy the Crypto Market Crash",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaDVHbkF1WV9yRG9HT1k5LUhRTEhDRzhBN3RTVWJwc21TUW5YeVFaLWdzVDZHVWZYVG9lNG9yWG1NZG00NG80V1hIdFU4RWJKYjc0a05XOEhYdXdScmtqS29VYkVzSHVOU1hvaEI1QWl6NnQxY1MtbmZiV19LWUo0VmZGNm55WlY3SmJvOThEdGRSNWdPdkhTc3Rn?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-07T10:39:50+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Kitco Global Index (KGX) | Track Gold, Silver, Oil, Crypto & More vs. USD",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45OFJTWDZuVGExekwwWWU5VzJXemxodkI1WlFBSVNmVkRrWkxrNlJjV2ZPTVk4Y281ZFd5d08yMVdxMGZGOENSQ0EtVGVkUXhrNUdNcF9DVkZhQQ?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-07T09:54:47+00:00",
-   "tags": [
-    "gold",
-    "silver",
-    "oil",
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "President Donald Trump Just Proclaimed That \"Inflation Is Way Down,\" but Federal Reserve Economists Have a Different Take",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkpPamk0bGdpbm1HT3pYcEdiUXJIRWRCMEluNm82cXBtVWdnYXRxOHJsdjRKSDZES2JjMl9hdWl5OGM2a290ZThaU25hTTN6elczYnhYbWIxS2pka3JBaHZ3Unl1c2pYVGVzbnhYdUNhNU80NDIzVURFT1hraGdVcEk1MjBmSzcxSFBkYm9vVzRkeUZibWZidm5xUFliNVhOQVpBd3ln?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-07T09:26:02+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
   }
  ]
 }
