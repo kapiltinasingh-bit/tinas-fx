@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-09T21:30:15.932407+00:00",
+ "updated": "2026-11-09T22:25:26.763314+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -24,19 +24,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,25 +48,25 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 6
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -78,13 +78,13 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 5
+   "new": 3
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Economic Times",
@@ -118,6 +118,48 @@
   }
  ],
  "items": [
+  {
+   "title": "3 unexpected reasons the October jobs report was so strong",
+   "url": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
+   "src": "CNBC",
+   "t": "2026-11-09T22:23:56+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "CPI Inflation Data: How the October Report Affects the Fed’s Next Rate Decision",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0dpUnNRSjlyNnVNVFJOSjlnLXBPOWFjdGVVNlVuZnM4ckJzRllBSEVPWkdxWTV5Ujl5MHMwa3piNmQtU3lta0xaTE1xNVJfdmdrVzFuS3MxRnBSbWZjSGNoMnA2THJ2NVBHUmVDM2s4UFJnNVNFb3pxcjRmMl9CdFMwRzVYc2l5RTJxSHpwLU8?oc=5",
+   "src": "Barron's",
+   "t": "2026-11-09T22:10:00+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold, silver advance as dollar weakens, Fed rate expectations face inflation test - Kitco PM Report",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUlc5eDBpY1JadW5RdE9SaTdxSjZGY01md213N3VBLV9Najd0R2ljWFl1cG85RlNSaThWc1poa1VEclRUdnFKOUo3T0cyR0hYMVZrY180bFhvWW10X1pqRDMxeW8zMTFVZEN6ZVc5RHJoQlV1Z3VjWkdOU2cwRjRpT3UtQ0trNGxSRDZJcExveUZrbm1kU1RGcDc1TTRYRzJiWTRmZi1aTEd1R1NERmppcW5IMENuUVR1?oc=5",
+   "src": "Kitco",
+   "t": "2026-11-09T22:03:15+00:00",
+   "tags": [
+    "gold",
+    "silver",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
+   "url": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-11-09T21:52:00+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
    "url": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
@@ -667,9 +709,9 @@
   },
   {
    "title": "Bitcoin and Ethereum Just Hit Their Lowest Prices Since August After $1 Billion in Liquidations. Where Do Analysts Say They Bottom?",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPclpCZjUzcF9LbEdLM3J3LWlOVGs4dXk1eVhjdDRzU1JIc2VpdjRzbXc2bTRNajJUVkFBWTJoNGJnQVJnQlpnbEVqZVlvTHhMeld3emxVVVNDRDRISlZXZEdnbTQ4aFp4TzdhN1RkWTY1eTZKYlMxTWkzbUVHUkhiME1HMXJ1T2tqeTlraW5hblJhcUhtZGpmeEw3N2xJbkY4OFgtcXh3Zm1aZndMVW00QmJUQ0hFUWduQ2hUVkstX1JRTzkwQXpmbTgwU0ZfZC1GeFJQRGhhSndVczJjQTduMTd3ZVR3bHN2d0NSTkMzcUtFNlhUejQ5MHNKTWxTcEEtaGhsN3VVOTdsakw5aTBqemRzYjVQUQ?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-11-09T17:01:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVNEeFpkbjRXWUFQbU1mVEtKYk5PSWNlYm9qM0U4aGtUcVd1NzA4Yzl2QzczcWJFdFAtS2lQeENFdUVpUGtzRl9UMjdkMFFXUWJ5X19BWTA5SFpCcS1rRzZCX2JLWU1WTHN1dDZFSmZZaVZnVm5rNnV3UmpFNFVSOTI1aEtNZEJ5al9kcXdSMFlaaDkzVWRPRzZvLUtEdw?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-11-09T17:01:15+00:00",
    "tags": [
     "btc"
    ],
@@ -2664,47 +2706,6 @@
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUVlREFfdFVvdmk1OXFEamNOcFVZTGJFX1gxZkhjYjhXNTFnZkJqUmpLLTliVmRCZUNtRGdHSDZ2cVBvRXlLdldZSG1rVmFfMFk5M1dKNnBnVnNnUzZ1NmVSNkRWakkyNktBZmhGbzJwYkh5YTZBekVPY3pyUU9lTXY1WGt4TkhLcHVPTldJb1k3MGVPdzBLcTIyVzNuRUpyRGt5cDJpMV91QzdjcWFtQy1MekMwU3lkRlNXUFNn?oc=5",
    "src": "Reuters",
    "t": "2026-11-09T02:27:00+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Asian stocks steady as AI, W Asia jitters recede; dollar firm on Fed bets",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ3lXUWRXX083VW1QTVpwWDRwR1Z5X0FTSEU4aDlidGpCTlpFaWFjZUZiTDcybWVyc2tyVVY5MXplRnAyTTdJTENudlkxeGZPaURYU3VrQlJpYVkwSE1rNUVYWG93Q3hXNHFaTVZKd0R5QzZmcXM5cWh1NWFFSE5SdnRaZWJqU1hYaDFHSmN5aU1ZeDh0Q3JNc0pyUHlnaldMa1RkZUEwa2hDeHdaZnIxV0RYejNLMm1GWXMwQ19KcTdJcklNa1FRNVp6NnBfam40YVJoN9IB2gFBVV95cUxPMnhrclJreTNwb2EyczMtZkU4UkJhOV9OcXh5a0wwLWxhQmZkazZnT0E5VF9QNHQ2ZDduX3ZFeFl6azJ3LW5keGVER2IzQWxnckhwTDVQRlAxbUx6RFFjajRVQ0pTR1JVcTdtVUd0THlJNk5qeUJDYWY4R3l5eGFNd1FYYVltcGxhU3MzcXVNX1o4ZHZnWFI2NXBZaUxKYXlqNkV5RDdfT0c3bHlOYzVlbnRiSWM0Q1JjNU9HZ2lyMFFEdzdLSkNxZTdRdVJCanJVLXp1UnpMeTBiUQ?oc=5",
-   "src": "Business Standard",
-   "t": "2026-11-09T02:21:39+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Angel One flags Nifty hurdle at 25,150; bullish on ITC, SBI, Force Motors",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaHdMb1d1YWI0WktwRDJpTWVEVU42Q2U0QVc4OGZJSWwyeG9zN2hzOXVBRmpoRDhrb1lrNVdPSk5wbTlqN3Q5ZWwyaFc5MnRMRk9pSzBjY0xyLVVEZzBCTFhNSXJCM3hJaWdoeE5aN1NjTDlCTVpOWE5JSnNDeEF3TGxQSXVHTng4bGdhcUw3dVhtYV9wWC1MNlpnSklmckJCY1g0R1lzN0luUjY5Wm1CTWNTNjJFNkVHbDJWalZJV1RrVllHY0RXSmhrekstdFdWeU9rUDNEcTBEN195aThSVm42cUPSAeoBQVVfeXFMUDdaVHRrTHZWdENKUE83Zk1aam9zMTVzT1JWOWlJZjduWndMMTIzV2V2RUUxNUFobnVFR3NpTGtGX2d3M1VTSGZWR0VERVpDUlAtSU1QM2I4WTRZTkNlRG9fZjBuWjRrYW1kVVNpbzJiRWFSeGdvcVhrYjFOMjk5ZTB5VFUyRzVhZE01QUZPNzZiS3pVcUp2Uy10d1kxY3J6dFBqdEd3cTY0RzNJLWxpMjVJcDdOMHFpTk9GV2ttcVJtbGlYZnVVQ1NYYlZGWmNmNjZlZ2lNNWwtdk1GbGNrSkUwUHZ1RXItRTl3?oc=5",
-   "src": "Business Standard",
-   "t": "2026-11-09T02:15:45+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold, silver prices rise up to 2.6% on COMEX; what investors are watching this week",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRUdyXzRGQ3FBVHdOREVXLTVZR0VnQURJWTJDbE5FajI2X1JlMTd3SmVKbHhCMk93ejcyOVZNQ2hsSF9CUHNKZ1lVWEZmem1OMWhWdHhVdjN1anA2cFY0UThxTzM0WXBPNlktWlNPQnUtNmh4NldwaHd3cmU2U0Fid2FZeUtnSVYtdlVjdjFaaEFqa25tQ01xNlRqbDZJbjdfYUxDVzNiZkNqbE1zZGNDR1lWSmhmYkF3NHBlVkNpR09MNE9I0gHKAUFVX3lxTFBISGd1U3B2dUR3NzR0Q2R1T0oyOW9GZjZyR09EQWpNb1FFX2NFTVBBellJMGZqOHRUY3pLRDhJQmxBSWpzajRWLWRQVno5U0JZYTVpaDJkQWRiOFpJRzdZRGtiZlRQOU5la1ZJdzhHaTBNZWpRZjZUTlJvaW1vMzJveUJjR1VNaG1KeEFEc1RYWGdfX0M2V0J1MjBlNnhwWC1Db0M4X090NkF6VEVNd1o4STNBeU1EUFFDSXZPWHVOYXJZVkY4QzNJOWc?oc=5",
-   "src": "CNBC TV18",
-   "t": "2026-11-09T02:14:32+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "What Jensen Huang's affair with an accused Chinese spy means for Nvidia stock",
-   "url": "https://www.cnbc.com/investingclub/2026/11/08/jim-cramer-what-jensen-huangs-affair-with-an-accused-chinese-spy-means-for-nvidia-stock.html",
-   "src": "CNBC",
-   "t": "2026-11-09T02:12:50+00:00",
    "tags": [
     "nasdaq"
    ],
