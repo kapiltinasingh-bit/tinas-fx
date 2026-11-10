@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-10T06:18:51.546817+00:00",
+ "updated": "2026-11-10T07:40:42.681221+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -24,7 +24,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -78,13 +78,13 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "MarketWatch",
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Economic Times",
@@ -118,6 +118,37 @@
   }
  ],
  "items": [
+  {
+   "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+   "url": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
+   "src": "CoinDesk",
+   "t": "2026-11-10T07:01:06+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold slips as investors await U.S. inflation data for Fed rate clues By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSTZ3dHpzT1dDUFZDVUpCbGROTVJZRVQyZ3U3Sm5SVkFqLXlDMjFUV2VGS0ZXUFZXVlR2T2lra2I1T2pSRXIwdzY5UVpySWd4REs0bkZhallYVDRmcWM2cFZyNVJQNURwdVoxS3dlTXp4cWRYa3VaOFRFdllmc0FrWGl2azMxNjl4SEkxeE84enFQajhIazJaVGhfYndsemloWlFBblRIWUk3T1VlTXFudzlTc2gzTms?oc=5",
+   "src": "Investing.com",
+   "t": "2026-11-10T06:49:55+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Singapore adds lustre to bullion hub with gold vault service for central banks",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMm5xeFpidGsxRHRRZzJ2ZlEwTjNoUFFqaXJ1ZlpnMWE5cHNINW5KdlpBY2pUUWxBYjJ5NmN1bnc5MUhhUXpWdi16a1dhOXpIR3RabUhrSV9xWGtUQkxJUjg2Sjh3Z25TbVV4c3pHT0RKT1hPX2kxbkkzWjk1ejNnRlV1TC1Bdk5pYzlDVkl3d1U0WUVidzRRVjAwSGIxVlRpTVlqbWdXcnBjN3hYZnZfdXFFZkU2Tk1pbzNVeG56ODhTaTBHSm530gHHAUFVX3lxTFAtRGltV1RtR0swVkdCYzBiRzFsM3JETXZXem94RkVBZTZNVEtvNExHeE54OGJ3V25qcnlXeWVaUlBxVDZKNVFJTDBnbnhKODBMSnJDOEVLWUt0RkszSXcxZjh2Y0lrWWUwNlRsc1FtZjVWU1ZVYmFqMEhDZGVHSlF0VmgzVld1R2kzMUtDbFJjUVFneFVBb3lHQzFSWXFwQzZLeWZSdjdGemE4UXF0N1Y3SUp1WWp0UGMyVXVsbklScmtId1F0WWc?oc=5",
+   "src": "South China Morning Post",
+   "t": "2026-11-10T06:16:42+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Stock market holiday today: Are NSE, BSE open or closed today? Check GIFT Nifty levels",
    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOM25SZmRYOHBwMVQwOVVWSzhnNkxVb0hhYUpYOGJuTEFkbDZ2YXpJWURJWDVLX05lWEItTXNoV2ZIN2RfVTItcnZaaWxnZjlTdjlKZzRUOEFnMEFITmZGdFY1R19sSWdNLUVVLVR5NEs5MTVwbXB5V1hqNnVIOTJSOHVMTUZnQjViNDBMcTJudlIyWTNBX1RkemM2M1dGT3hKWnlQbnFveGlhRHdWOFc0OVBvRmVZMTU5MWVhVTVYdklBeDFiT0Q0azdRSEt1OTVQNWhYeklJdGs2VmUtSFFfOV9EMFlOZUtEY1NfeFBGMlRqa3ZzTWFzcHhsdE4xMmdwcm1BbzZXMnVTdUFVelFOdHZ0Ujd3U0VrMUHSAZ8CQVVfeXFMT3VnT3gxeF9Na3BnZVhmS3JobFJNQk5ab1NDa2tldlB0QzNoakczaERTZ2JzZ3lENW42Yl9tR1dpOWdkRU92dUh6Mm1VWEtBQmVIUzlkZE8wUFRLeEhpbDRIc3VPMktoTG4tVTJnTFFRb2FEM2dEMDM1RTloZ1c0Sk5UR0pxWE5LbVM2OFkycHpMcUV3cEJSN01ubU94cWlVa1VuR1NYSFlkaDhMaFpoSTNGZ2ZmU2o3YUR4RE9JcEdHRERsTXc5NnJQcVlzaU1KYnZOQ0Jya1pnRGJFZWM1SGVNNFctdUY5eHJHVXhidEVVMzlqeGgxWWdqTm9WYlY2Q2ZjdUZsM3lkZjRrdmRWZ1d1RExhSllHS2xSWXMtZGc?oc=5",
@@ -417,6 +448,16 @@
    "tone": "bullish"
   },
   {
+   "title": "Japanese Yen weakens after dismal Household Spending data; hawkish BoJ limits losses",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeUtZQlpqNlVtNFV3QnUyS1VxX2NmVnhYQnEtaXRUQkwtS2xMYVBKaUpYSF8wRkhBZkVWWmR1YmV3clBNSGlSSDA0SDNLcDFEcEFUdVllRmVqbGRUSVROdVNwZU1lUnNQdFM0SkdvX3VkNTdqallRRFMxdUt1LUY4d3AtVjRhemhNdkJtR3lweVZTNGhyUTNnSTJiMGtZRTZEREtQeWpnWE9saHlpR0N5Y3JhYkx4bkZLamNObVV4andvUG1J?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-10T01:22:16+00:00",
+   "tags": [
+    "usdjpy"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Gold Reclaims Long-Term Support. Silver Challenges Its Triangle. What’s Next?",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRU92X3dtdlU1LS1HNkRadzZucnlsZzNiOGZ2STIyUGg3azJ2TVJ5S3hGeXlBUHAweDZkaG9VR3pJaGNreFctelh0NGcxblQ5TGNlZjVRNW11T1BoblFYalE0cVJ2T3Z0clFPMkl2OGhNblBQSktneFNybXdTVGliclpEcEo4OEZOd2YxOUhFaklQSjN4VVMxanViZVhaMS1lV2liRVBVaks2YjJVN09zd2h0LThTeF9kVlBjc3UteFpjUQ?oc=5",
    "src": "FXEmpire",
@@ -438,6 +479,16 @@
     "macro"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Euro weakens as US Dollar gains despite rising US-Iran deal bets",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYURTREhWb1RKZV94dTJlUGROcUhsSGhVQjhaRUpyUGxmR19zRGV0Q1FmSGxsTmYwX1hveUdxb25QTTFjNjJmQnh6N2Q0Ql9GcUpxWDZKb2hfWHdhTHpadHVwcUJuZi1tcWhHWk0ycVlYOXR6RWg4TWVnNjhpcjNJWjc1dFpLQWdRUHlsd1ZNd1AtOVBXb2RlMERzbjRTZTQ5T3hxWWRCMmZkRkU?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-10T01:04:43+00:00",
+   "tags": [
+    "eurusd"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Gold declines below $4,150 as rising Fed hike expectations outweigh US-Iran deal hopes",
@@ -548,6 +599,17 @@
    "t": "2026-11-10T00:24:15+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bank of Japan debated need for faster rate hikes, October summary shows",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVlFiYV9MUkZPd3FBcDV4X3lEQkJjNWlRTHUzU3ZKTDZYcGhYelZlSDB6aEhtckNFa2stVGE3SFhrRzQwU1JfTGNPSmM4Tmt3VkpIbDRpUFc5QlpScFRReFVNX2tKUDRIRUVtTHpoMmdRekI4d1VmclIyTXMzSkFfdXU0dVhidG1lVHdBTllMaVhJMkdnWGROcEVjNk11SGZLOVNHcnNmUDIwbG5PMWVJ?oc=5",
+   "src": "Reuters",
+   "t": "2026-11-10T00:22:00+00:00",
+   "tags": [
+    "usdjpy",
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -795,6 +857,17 @@
    "src": "CNBC",
    "t": "2026-11-09T22:01:35+00:00",
    "tags": [
+    "nasdaq"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
+   "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-11-09T21:55:00+00:00",
+   "tags": [
+    "spx",
     "nasdaq"
    ],
    "tone": "bearish"
@@ -2629,78 +2702,6 @@
     "nasdaq"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Euro zone ministers to discuss ECB appointments, but await leaders' guidance",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZDd0NktfMktIc0l5R2tGdnkwLUFYNXdOOVpNeDNpSTlJMFdOaTlLM0lqVmpqQ0xDMkdubjlranRvd2xZc0NVeE5qa18zbTBaMlFZM1dXMkRfc1A2aE9iUGJjY3o4UGRNTzRZYjJaM0ktZkIzMjc0ZUtWVm8wWEQ5OGFRdDVReEVkMXE2MVBPUG9SeHNPNlVCZjhLeFB6RE9na2RNN19QTXhpeGtlZk5OU2cxVTVIb2ZyaEhReQ?oc=5",
-   "src": "Reuters",
-   "t": "2026-11-09T09:43:09+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Treasury yields steady as investors await more economic data",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JVE44LUJheWlkSEJZWlBaUVRGUXR2aGVMbm9yZnNDUnR1alJLSDdlU3Y3RktFcmplWmViVjV1ME1UYU9qSDA1YTN2NUdJbTJvWmZGUU5FZ3VTMU1lV3ppbk10SXBWLWxTcHVWYjRFbw?oc=5",
-   "src": "CNBC",
-   "t": "2026-11-09T09:42:37+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
-   "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-   "src": "CNBC",
-   "t": "2026-11-09T09:37:44+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Euro zone investor morale dips in November, Sentix survey shows",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZWtKeG9UbF9pRE05Q0hUSkhrZ0U3c01SN3RBazg3Uk1ZNFVVUGtmSl9FcEk3Nm1Sa2dkOUZSVkMyU01oZEhQbmVJbGVzNkg0SXVRX01sQm9VeFZtRFJ5RHc2SGo2SE8xYWE0clVRNFRTMlZYb3pGNUdwekZuQUVERHczTUZ1VHg3VGJzX09FY1IxdG5kVXFOS1ZmaW9fX3Y3VFlvd2ZrUQ?oc=5",
-   "src": "Reuters",
-   "t": "2026-11-09T09:33:51+00:00",
-   "tags": [
-    "eurusd"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "U.S. inflation, corporate earnings: Crypto Week Ahead",
-   "url": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead",
-   "src": "CoinDesk",
-   "t": "2026-11-09T09:33:27+00:00",
-   "tags": [
-    "btc",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Eurozone yields consolidate after U.S. payrolls shock",
-   "url": "https://www.investing.com/news/forex-news/eurozone-yields-consolidate-after-us-payrolls-shock-5010731",
-   "src": "Investing.com",
-   "t": "2026-11-09T09:31:16+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Why is China’s demand for gold continuing to grow despite falling prices?",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTWZEMHhfaUNKQXVDWjNXcTNDdm9haGJnSE5EWjA5MUIzbFB1QVdwVk5HZndiM1YzbU8zX0JXN3Ewek9KWlZ6RmM3TjhPMG5MUGdGTHBQeUVRa1g1Z3VaZGlaX3QzTk1La3J6cnNNMmh3OEdYVk03dXhtWUk3RWxPdXJ5N1hyM3NnQm4ySDlWQl9lMlNIbVBic3djQlI0REdBb19lYXRKY1hzQdIBqgFBVV95cUxOWTR2dXpHZ3prSWhCV2JvNzlCQjBLLXhBWFpyYXFsSFgzTjBOTE1jb2tFQVJvejNGejZuZlp4bDhVSnQyWTFmejFGRmpGc1hZekdFNnRfeHlfU1FmdElpV19OcnViQXlMY0R2czI0YTZGU2RmX1NEbUtyZy05S0F2VmNBU1V5ZVBac0I1ZU1yTlJzWm5QZmZBVWpieHI1Vk15Qi1FQlBPVHV4dw?oc=5",
-   "src": "South China Morning Post",
-   "t": "2026-11-09T09:27:46+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
   }
  ]
 }
