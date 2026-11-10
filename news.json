@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T04:23:49.055109+00:00",
+ "updated": "2026-11-10T05:20:56.053151+00:00",
  "count": 250,
  "feeds": [
   {
@@ -24,7 +24,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -36,13 +36,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -54,19 +54,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 7
   },
   {
    "feed": "Google News",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 6
+   "new": 8
   },
   {
    "feed": "Moneycontrol",
@@ -108,16 +108,57 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+   "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+   "src": "CoinDesk",
+   "t": "2026-11-10T05:18:31+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Another billion-dollar IPO: After Jio and NSE, what should investors know about Mahanadi Coalfields?",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVnZyNnpSc1NYWVhZWVRZbGxQZmkzeWtJNzFvbVBtWnhSOWJxeUo5TXp1bEdhdU1mX21lb0xHd24xbzMtekJ0bWE2ekE0c1RBWkRndGkwbThRVnphU3dSRlJFeGhyVURzb3dxSXQ5T1ZnblJfakhHWlBjemRrRlVtRnhReEF1dldCOFlnSlhIaDl0bFRXdFJtMzBjZlZyZGtJaDZKbWNWeXU0UlVWYkxIRG1xWDIyTVN5UlFSLUpwQzNYVVhSYlR1X2FXanZZMURUOFBWZVRyOFZPSGhKYTJpSzhqTU5QNW9EQmZHc1AxdHpXb3A3dmVGN3NwbjNWZw?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-11-10T04:40:14+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "$4,150 remains a tough nut to crack for Gold as US CPI report looms",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1FQY3ZLdGgyeG9uRmhBelBZV1AxcGo4VXVVYjdmYjZLR2VVWGhfSG80TW1xdWM1RUM5LVc2X0h5dnZveGQybTlCTlNpQ0lSZHVBMUhsbl8zOW91bXlOZFlOZ3RBYUstbjVPeklLM0o1QXdrVlZJVGtKNk43Y3U5bF93RVpWOWR5R25NdFZQRzM3d3pFT0IyekFkMEcyVENhWDY5ejZibXZPdmo3bGJhbVpGUQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-10T04:28:37+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Asia FX subdued, dollar holds losses ahead of U.S. inflation data",
+   "url": "https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-holds-losses-ahead-of-us-inflation-data-5014050",
+   "src": "Investing.com",
+   "t": "2026-11-10T04:21:27+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "China’s October crude oil imports rise to highest level since March amid Middle East war",
    "url": "https://www.investing.com/news/commodities-news/chinas-october-crude-oil-imports-rise-to-highest-level-since-march-amid-middle-east-war-5014020",
@@ -135,6 +176,17 @@
    "t": "2026-11-10T03:55:59+00:00",
    "tags": [
     "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold, silver prices today, 10 Nov Tuesday: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQeEc1V1dUMVVhZENtd1dxWHZiN0haS0dSSUs0QmRwU3JaYS1IUmE2RkR5N1FiMW93a3NaU19QOHRlaUZlSDRnbll4NXFvcmtPOFg5ZVRTcXRYX01lYWdrRDJ5YmVwWnJhZmJIdjRENlkydG9Yazd4aWV5TzBOcjNmSDdBMEhIVGFzTVB4enlOSlgwbzF5d2V5c2pmNkhRYzFzMmxEUURwUnVHWkFYOF9GSlJRWUhraFZFdzI4WmZlZlB4cXM5SkREd3BGV3J1cTZHMVk4SWZyMlVfZEtNbzdwY1hOMXZDanFxem9uT1Y2TjMzOTd4SEN3NHU0Z0h0NVUxMWxidlBKRVN4bUJHMFHSAZMCQVVfeXFMTU16Nzd0Qm5LX2FEVEU3ZHFiaEE5WWNhR3U1V2dsUTA3VnhpNE4yakc5a05qZEpIU1laQkVEeGFtVzVEbXRRcU85VmZ3RnpYQ3cyQ2RJRGI4c2xXbU1BOUNjYU96eHNqbHJEUzRYS0QwY3VKX3BMSG5MU1hJcUhaYkxqdVROUmdNU012STU2aXlYdU5QV2NjYjFDa3pleWlkMTNjb2VIVlBoQWI1UVBLell5NTQ5YlBxWmU3SkZpb1ZnOW9STjB0YXAxU1VSNjAtdGVoY182LXVrclR4ZENZYXhTSzNsRXdHM05WLXRiMkd6WjVBdGFPRUVxbWdIdjhHTTAyUHhZY1NDYzJCZ3o2S3lIUWc?oc=5",
+   "src": "Livemint",
+   "t": "2026-11-10T03:55:18+00:00",
+   "tags": [
+    "gold",
+    "silver"
    ],
    "tone": "neutral"
   },
@@ -167,6 +219,16 @@
    "t": "2026-11-10T03:26:00+00:00",
    "tags": [
     "btc",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "US Dollar Index (DXY) flatlines near 101.70; awaits US CPI report amid Iran uncertainty",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSUI4OTJFRHJhbFNjcUNOMzlrb0l5RkYzUW1lR0ZCRTY0UDgtZUxLMmZqSGU2ZnlqQ05yWjVYREpMVXFheW9fQ2RTY05DREczUENwZzVpMW5vc0wtY216UXF5Sy1BT1dVdVZYUHVrYTRUYU53Ulk0dV83SFo3YlJ3N19Ta21zQUhTaUdueWs2MUV5anBJV1V5eXI5cndwYWRoTWFrSFRPV2o3ZDA3bFhJOHNFUkRONTllZjBSc3RvRDlCdFFU?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-10T02:48:29+00:00",
+   "tags": [
     "macro"
    ],
    "tone": "neutral"
@@ -208,6 +270,16 @@
    "t": "2026-11-10T02:17:22+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Silver Price Forecast: XAG/USD bulls seem hesitant above $53.00; 23.6% Fibo. holds the key",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUGZDM0NOVk1nVGhPcVdmWWpnSER2UDZ0Q3VPTVU1bjlHMkRPeUJzRmlSODNnS2xPS0hHNnNwN3lzYTJIQ0ZJazJGWFZRMlB0ck41QmpIYTA5d3lhVVN4TGtOaWlJak9IRWszWnFyUlJ2NUNYT2tEWlZCYkxmSUFlcHl5cGg5dUhpb0h5U0JJMG5HQU9yWlVlYnNwN1NUN0NzUWdnQW1wZk9kejUxckV3dEY3WFdLRU84LUJMeXU4N0xCM09O?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-10T02:06:54+00:00",
+   "tags": [
+    "silver"
    ],
    "tone": "neutral"
   },
@@ -393,6 +465,16 @@
    "t": "2026-11-10T00:42:00+00:00",
    "tags": [
     "spx"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "India VIX jumps 68% in three weeks despite 7% rally in Sensex, Nifty",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa1dHM1VZVnIzcG12dGU2Y0RaYnhUU2QyWnIzbV9XUEFqTVVZc2FXOTQxTy00UUhTNFlNSDJKN0taOEhLY1gzTlM3a3FMdWlSbFl6SlZTNjdwV0dxdlFwTUc5MnFSbGV4ZGtqbHIwSkE3MnJRUHBVZjhJM2kxd0daOUVHWmZUYmFtY051TFlCQUs0WXRod3hGSi1tNUg0MV9PV3FKZXVFaEdHVmtnV3dmUms2dGZ3V2VfQml2WVhwVnJ6d9IBxwFBVV95cUxNejRQMU9wcm9SYnBTTjU2VHh1ZFVyX29GRW1GMlJUM2RmT3ZpYW40XzhZMl9sa3ZxVmpqVDlpUXFVTkFNR2NCU3l4bE4taXNaQXNUalBKNnNZMk0wM0FSeXRsdDJtbUY0R0FpOHJLWE1mRFM5REg1S0RhM1V4NkExVW1SR2ZrNUc5NjQtaFUxUk9Qc3EtZUUtbk53amdLS1JuaVlaS3NWMlhDOFlsamppX3BVajlXLWlVbmE1NklLOVp5ai1SaV9n?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-11-10T00:35:58+00:00",
+   "tags": [
+    "nifty"
    ],
    "tone": "bullish"
   },
@@ -2048,6 +2130,16 @@
    "tone": "neutral"
   },
   {
+   "title": "COMMENTARY: Middle East oil price war heralds post-conflict glut",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWdUbTZOMkxOdnRzOHBPdHRWSFBmNG1jZnFISWQ0MVFaWEc1MUlkTjRuNlhSQzdMQWQxaXQzYTBOTGtBd0NkYnRNTFNHaDlNZ0xwVU1JODVSMFdLZnREeGttWWlEdmE3ZnJwODdnMG5iQnJwRlZBbDZvOEU5UjczRC1UcGo5S0p4U01KZWMzcVBjNEdnWW42clRaR1U5QXpoMHh1bnE0T2phU1I1OEpUVFJJUHN2LThoMFd3WGJR?oc=5",
+   "src": "Reuters",
+   "t": "2026-11-09T12:01:48+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
    "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
    "src": "CNBC",
@@ -2611,98 +2703,6 @@
     "nasdaq"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Indonesian Rupiah advances as easing oil prices weigh on USD/IDR",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVW5XQlB5Mzd6V1dUUk9UZjVxNnR3YlJjbXpWbldvVGEzX1ZUR2NSZ2RTZVBUTXlqUW1ya0xHaGM0R2VBUnJyN3R0WlYyS0NFUU5JRjRTQU1OX1gtMUpSYm8yZmFQZm1wbnctSVFwV2pxOTdFR3NOZFNDVjczdjk4X2JXTzU2LTA3V2tfcG5SNTN4cjJCZFozeDB5QkpVbXUwR3AzRHAyNl9hVFk?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-09T08:46:20+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "NSE rolls out direct-to-chip liquid cooling to scale AI computing capabilities; plans to scale GPU capacit",
-   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQ3Q0OXF5dEdEUUtGdFFtZ3ZQMEEtbDFma0stYkNuVVNrWHViZGZsb0pGeEpWQndzQjljd2hMckZXMEdzZVRhdDRIaWZhOGxhQndGNmFheVBfS2c5TjUtQnhHbVU0UEVfMGw0cHdPRWF4Zk91NVVjYTFqUHhNdFdwemdacHNuQ2p2UEhGM1Brd0xrdC04d1daRFZkcWdSaGJOVjVEbXBYLWZ0emU1dnJZT3Iyb2NtSGZ6N3ZEX1JZbXRiSkVvLXRGZXY5T2d4TERaRjU2ZmN0ZHpPM1FLMlZvQWJJcUtjM3Y2N3Rra3lwYm93Y3hfeEtFd1R2QWhBRVhjVGpxODRDVTBzdHZSUGlsaUc5V0I5XzhpQzZPVGNNdFNlRVpTeFA3NDU0d9IBsAJBVV95cUxNd1F2OGNoc0M1akM5bTZocFdxbjdLZHliSzV3MFVGakxmcE40UXJXRHdhUHJqckp2MjhkS2hIZmRqeC1XUmhvVG5GUy1GWnBMNU1DaHZGMzI0eTlaclhPR1NmNVRMRFBDYU44TG5Nbi1icUJMeFZmdWRkdDdtYVZaYlZVT0EzbnJVYVdfMGQwc1V6a1hXUmROaFN1aGxic0F1Tlc3Q0d4a25zYW8yNTZXQ3BiTEp1Slh5Yzl2VU5kb3lFYU9TZWJDU2wwaXk2SEMxeFU5cmYta1JRQUJXRF9MMFdxbFM4VUU5U2JaUlBHY3JXZXBpaVRGRWViQWpNckpzWHNNNDc0X2VHSmxBcjFOQmJRc3VqWEwxLUx1S3FrNEF4NnV4bVA2aEJQYUt1T1hQ?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-11-09T08:45:34+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Goldman says 'the pieces are in place' for a shift in Treasury yields, global 10-years",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tYTVYTm5XNDhfRVJRaE5pMW5IdTMwdk54eTVjYVZIb0VkTklrbW9QNmptbXp1ai1nQXJQendGNk5NVFFUV3ZKR3J1VFJYaXZkMXp0RTJGS240WXg0a21xTmJWRDk5Mk9uTDhxMUFSUjZma3dU?oc=5",
-   "src": "CNBC",
-   "t": "2026-11-09T08:19:07+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold and Silver face renewed selling after bounce [Video]",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUkwxa1dIeE1PR3BheVhYOE9xQ2NqcmJBM2tTLWZKelBNRzVaOTFfLWxfQXVabWFEY21jLWIwcFBPVEpzUXBlQmFwcXJFSERFOTRkeTVZVVNlRko3SFhocjVOcXVheWR6OXB6UDZ2NDlnMExVeERCMjZVaFNPM3BmQVlDYkNoRXZwNkJpc3JPeThVeFhReWZPeklFcWZfa3RqaEVxeQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-09T08:19:00+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold: Risk-off flows support fresh gains – Deutsche Bank",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMEFONkwyZERTR1F2cDU0TVM0d3d5LWdDa3oxZ2ZnX2pGdVNlNkZiQmI1VnRJUUxXcXJJb2NKYTBYX3lEUFpqMmxNeVNCci1yeldxeGs1M1hSZGc5TWhzRGVMY3pXRkd4d3YtRzZvYmdMUzNIaDlKdTJsS0tTSmdaNEJPX2pDQWdNUHlvcjhqRVpURGhwRExUZFloblE?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-09T08:18:46+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "China’s inflation cooled in October amid falling food prices",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd3FKZkxaREpqb2VsaVpYeFNGNXNxR0FDaDRLU3otZmsxRHNPTHB5RGJvRUJ3ZFNlYXlBTnd6dm9ZRUxwdmpmNGhodkRQYXVjbzRJekNZUDQyclRtbWRCd0ZFbmhBdE54YUFRMVdZN0pZd3k4a3IzQldSZmE0d0pjMDV4Q1haRmdKNy1XU3R3NDE2Z3RTWUpUV0JwVVhCRloyUFcxSHZQcTl1UQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-09T08:12:17+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yOVM0ZTRBWjRWRW9KcFF1czB4bV9VbHNOYnZqSTRlXzk2SHBHTEo5RnIzR0xkNklES1Z6ZnZZSTRhM2tjZEFnQ3VEd1BCUDFPcFRBSlhB?oc=5",
-   "src": "Yahoo Finance Singapore",
-   "t": "2026-11-09T08:06:42+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Federal Reserve: December rate hike view reinforced – Commerzbank",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUk02ckhHbWJueXMzVjJqcFU1VjRLSEc1djRMTVg3N1hwTHlwcXVGWm5scHZ5Ym1GeFhsYzJUNXVfeS1TaUFuOGNHd3U5cVc1aXhEUGdwaV9mUmxJb3d2VzlUeThKemswZjl3VWhQR0xpWnhaYUU0aUQtSU51akZQamc1LVFPdkdobDZ5cU1qS3lKZ29NZlBOYUs5NGFsMmpwNmpHQ0dPVVc?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-09T08:05:09+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US Fed rate hike in December faces uncertainty as jobs surge, but CPI and oil hold the key",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORE1NZmpTSXcxOHhfWlloYkt2TEZKWEY0UEJhcXlZMXdGdzRPSEIxa0VmaE83SUhiR2NzWEx3Zi1lWlVWc2M0d3Jtc0RacUVseEw4QlRkaGFtdE9icXdteS1HYXVBaXFQMnRvRndKaElSbGE5LUx4VTd3bU9CZWhaQ1lpTFRMNDM4RVZKRVF1cFhSNU9XTGxndGMxYjhfZllEaWFfeER3bTdQc1A2Tm82R2taWVBQWUZFM0dURDN5Q3N2Z1YtdjRUZDBEOEM1cFd6VWJqR1BfSlZZNi1IV05TX0tGUHdWN3I40gHvAUFVX3lxTE1WSnlzRmhPN0txV3FrS2ZrenFqT0FZY3l1dkh4SnlrSlpwUFprX0NtYkNiTjFwX3Faa0d4V1hyMFAxQ1VMTzJNR2s2bzhCVkEtMUlFOTlCRUFpakdxSGdNQVcwNjZxOWFwNk1lVkw3NHNMYXdvT1RDbW44WGtPcTdLTHU2M29lZkM4aFhrNDlxYkxMeG5nRGdJQlg4RkRIVmhjMzhCRzlMZkMtUV9CX0tfMVVJZXpzRGpVRk51aUo1cHZVeExrWm9nRTl0dkVEeGxLQVczeHVIc0J3LThNeFIzd1Q4VU5kdll4VHBjX3Fv?oc=5",
-   "src": "The Financial Express",
-   "t": "2026-11-09T08:01:25+00:00",
-   "tags": [
-    "oil",
-    "macro"
-   ],
-   "tone": "bullish"
   }
  ]
 }
