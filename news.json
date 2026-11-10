@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T20:34:00.301257+00:00",
+ "updated": "2026-11-10T21:22:37.942623+00:00",
  "count": 250,
  "feeds": [
   {
@@ -12,13 +12,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -30,19 +30,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 6
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -54,31 +54,31 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 8
+   "new": 6
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 10
+   "new": 8
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "MarketWatch",
@@ -114,10 +114,40 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "S&P 500 Closes Lower as Tech Leads a Broad Market Retreat",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVmlham9kVWVFZXhwTC12NnRzRXliVU0zZV9sRlkxaTY3SU85MDd0Z3FYUzc3UXZqRmJyT1VCVHMycUdCMExCd0p0VzQ1cVFhd2c1Z0tyc2N2STRINF9ZZFBBbEc5STBOa0JGMkJUTUlLRHU2SGd2bnEyczF1a3dfNGxycF9XV0hqYnRyRUtWSkU5cUZiaUU5TDM3VWxYb1g0blN1elNlYzhBRHNEZnJON0lDa3VISDB3Y1lWdGhhT29kUENzYVBRX0x3?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-10T21:11:34+00:00",
+   "tags": [
+    "spx"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Fed's Bowman says 'still work to do' on inflation",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY3M2WlVhaFNWVUVIM0xnX1NJSmRER3EyQkdJNzZicklsQW1jM2dFZUdkTHZvQ1pETDY3Sm9fdGxBR0NlM2QzbWRmTXdLZVZyT1p2Y0RtWXFCV1I5NHJGVjdMOGlFck5mRzZsM01xT2dFZEtBLXlWV1pUbUNHdS1HT3NQaVpwc1N4ZHIwVkQwRjZ2YkxPNVE?oc=5",
+   "src": "Kitco",
+   "t": "2026-11-10T20:59:39+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Nvidia could soon face tougher export rules, making it harder to sell chips to China after scandal",
+   "url": "https://www.marketwatch.com/story/nvidia-could-soon-face-tougher-export-rules-making-it-harder-to-sell-chips-to-china-69c88cc8?mod=mw_rss_topstories",
+   "src": "MarketWatch",
+   "t": "2026-11-10T20:37:00+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "GE Vernova sellers have it all wrong — plus, why Fed rate hike odds are soaring",
    "url": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
@@ -166,6 +196,16 @@
    "tags": [
     "gold",
     "silver",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "An overzealous Fed is quickly becoming the biggest risk to stocks in 2027",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYi1IaUYwY2pINjIwQXU0QmZTWkxSdFRkWlRfYXNaU3M5ak03TWtlcHVISU1XaldLVnBJTnVTdEtmRUd5MF9Sb3ZpZzRod0p0TklaZHQtUUkxcDlGaFhjdnV3cC1wRERscmJUTUxWaG90Yi1tTzlOWXYzY3hpekR5SFQ0Tk5PWk9KVU9zcXpENjNYY2d0SnVSeXdqdzFfYkt2eHhJeDc5Y3h5QTJmMEpNNVFvbURuUjQ?oc=5",
+   "src": "MarketWatch",
+   "t": "2026-11-10T19:52:00+00:00",
+   "tags": [
     "macro"
    ],
    "tone": "neutral"
@@ -448,6 +488,16 @@
     "btc"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Ethereum ETH (ETH-USD) Live Price, News, Chart and Price History",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TZkNwOEhGSDZJZkNPeVAxUXR3Y3hHNW1DVHd6ZFk1WmcwXzFVamZsc1pjSVVVZEdfdzJrRHFfV21yV1pxdzROV1JvSmRDN243dFlodHZB?oc=5",
+   "src": "Yahoo Finance UK",
+   "t": "2026-11-10T17:37:03+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Troubled US debt levels ticked up in third quarter, New York Fed report says",
@@ -920,6 +970,16 @@
    "t": "2026-11-10T15:00:32+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Canadian Dollar comes under pressure as US CPI reinforces hawkish Fed outlook",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNakZORTUxYlVwcjVkRmhxU0lVTVdmeXI3QUdlYVZUY0JKZFlPa1pZR0hKSFpCeU5TT2dnZFlyVXNIZUwxU1hoajJQSVQ0SlZiamZEaVZjSUJzalBjZGRqYjBvVjVfX3FXRGhod3NKZ0hadmdYVXV3T1Vsenh4VWVqOVF1TVN0Tkd3U1Uxc3BaU3ZaWi1SbW41RkNCUE9kMUN6c0QwU0lzSXJIS1BZREsxcm5RMXNuYUYzWmY5cg?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-10T14:56:10+00:00",
+   "tags": [
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -2643,68 +2703,6 @@
     "silver"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Gains Ground As Oil Tests New Lows",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEFWXy1YUmhXdFVsT21Rc3JWUmJTTXJacG1ycU1PVUkyRUFlSFUyTHUtZm1fSmt6Uk1SdTY2dzYyYWg2TkVRYWJBM25RakxUdkNIVXl6VkszaHQ4SDV4eVNqNVdGZ2tqamttbWJOeG5zbE1MRmtJc2VmYTNQU1hDMmEwZEpOcmRwYnVKdjFBTFNsVzg3ckYxMlVUUFVzcHNnSm16WHZLZk0xaUNTMlpfVzBpU2dZWEFvTmxxYXEzUi11aURONU5j?oc=5",
-   "src": "FXEmpire",
-   "t": "2026-11-10T02:05:00+00:00",
-   "tags": [
-    "gold",
-    "silver",
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "RBI said to query bank valuations of some bond derivative trades",
-   "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-said-to-query-bank-valuations-of-some-bond-derivative-trades/articleshow/135696624.cms",
-   "src": "Economic Times",
-   "t": "2026-11-10T02:02:12+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Rallies on Democratic Sweep, but Can It Last?",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZlRLLTNfM1RlTnJ3ajc0NFp3VW9kem1LQmNqUVBsZkd4WmZvbHZpdFhxREM0bnRJamh3ZFV5eWdCamFydmswRmRGYWhLQVAzdUhzakZSWnNPOHpsVTJJeEFlZUZvT2RfY2M0T1BCeGNHUTNFLXFFcDBsdEFHRHFybWZzMUktY1lMLXc?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-10T01:53:47+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Oil falls as Trump downplays prospect of escalation with Iran",
-   "url": "https://www.investing.com/news/commodities-news/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran-5013892",
-   "src": "Investing.com",
-   "t": "2026-11-10T01:49:14+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "British Pound steadies below 1.3450 ahead of US CPI data",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNE9FUzRNb29hYzBNV2dMVGdJQTgyaGt1UWFrdmVDd3NjZ1U1a2loOUNZdHJvdkZKV1REcXQ2aEQtZzlVaktkdC1hNWtMb0xxOFlaVjhCZUItNmNYUGl2b0NaYlNadF96dDh6ajJVaUxvek5xd1JuNy12bDUydk5fR043S25pQUY1UVdsZHhEbE0yQjZwTWJCNENzd2R1b1E?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-10T01:45:52+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Oil falls below $90 as Trump downplays prospect of escalation with Iran",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWIxdHFYZXdDLUkyNjhxSklldE1kTVJUMXBHOENVUUF0YWVXRmhpbGhvSDdJSUtSUG9ZUk5FVGxZdExQa0c0WmJFZDd2QXFNUnJUV0ZuZ0x3eHZCTFBiVXY3b0lVMVA0RkVaVllFRHJHSjJaUmlpSjNOQThxOGhoN05LelBtdjE4Qk5PbnRoTThFVWc3NE91WlE2WHJKbG5kWEVkeF9SS20wSGs?oc=5",
-   "src": "Reuters",
-   "t": "2026-11-10T01:43:00+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bearish"
   }
  ]
 }
