@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-12T19:38:48.718324+00:00",
+ "updated": "2026-11-12T20:28:31.401399+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -54,7 +54,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -66,19 +66,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 2
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 3
   },
   {
    "feed": "MarketWatch",
@@ -114,10 +114,84 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Gold plunges to one-year low near $3,850 as Fed hawks take charge",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDlSRlowSWFReG9obW9kYkR2em1YTzVHc2FnRWZiT2E0RDRWN3g1b0JHTUVmZEFURzdoRzFYaDRrVDNmdk85T3hLYXlCcUZmR1JDd29vZUpRaExaSFVkYnB0MGgyMWl4eU9PYy1LRlVhSmk5S3RIalhyQzVKM2hIdVhMOV9ncVZlLXJwWV90OGllYU1lTDF6OEVaWWtETF8tRHU4UzNXR1JIM3M?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-12T20:13:37+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+   "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+   "src": "CNBC",
+   "t": "2026-11-12T20:10:49+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Why Strive’s Joe Burnett says Fed rate hikes don’t matter for bitcoin",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZk1Mb3Q2eHVpLWZ1RGNQcHZNYkNPWE0yUzNsVE5kazBZMDRfUVJIbWxPcXJHVlBXX0VFcW1QRzlhQ0I4WjJWRlhqcm9YRF9aZ2E2LXdtVW5JNUhJQ0IxX2V0dHhfWFBnaVRfZFNqQW1xMGM1Z0d5QmlQMGYzcV90UXBZWHpCSmhqWTh2bUNNaS1VLU9nS3dGMjVlRlg2Q3c?oc=5",
+   "src": "CoinDesk",
+   "t": "2026-11-12T20:08:28+00:00",
+   "tags": [
+    "btc",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Who will replace Jensen Huang? Here's our early thoughts on the search for Nvidia's next CEO",
+   "url": "https://www.cnbc.com/investingclub/2026/11/12/jensen-huang-ceo-replacement-jim-cramer.html",
+   "src": "CNBC",
+   "t": "2026-11-12T20:00:42+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
+   "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
+   "src": "CNBC",
+   "t": "2026-11-12T19:58:11+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "‘We believe gold and silver are not simply defensive assets’ – BlackRock’s Akullian",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2lPdXhYZUxpMXE1eUd1S01pNVVpZWMzdGxiRnhrWnZOS2xyWTUwcTZDSjB2WmJrM3IxNVpPZGRGNVhqcmY4TXIxNVVJWWd5RlpyNTNxQkxpa0NrYWlqcnRQZE4tWWhtM05rSl91amhsOEhYdDhYTU1FQjdpMks2UGNlbTJ0VHp0RlU2V0s1Sm9UOWlka29kMUxLT2lCUFlYV1NHaWJKV0Zia2t1VmhIU08wbzNBQQ?oc=5",
+   "src": "Kitco",
+   "t": "2026-11-12T19:45:37+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Gold Prices Plunge as Fed Rate Hike Fears Intensify",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTRENmZzY2lCOFZlaTdSWjItU3VUQXFTMTBlZk1vRUJlcGFNLTQxb0lwM1dkYlMzd2lqSUluYkFVU3FZWVltWFBMZnl3c3BZdmcxSndPZm1KU0s1ZlBqaDYyQmwwcGZSaTNOX0U1YUJ4WUJOTzhUb2FhT2h6NWpqSE1tdTVYckNrR2tsN3diakU1emxRZ3FZUEtKSHNXUQ?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-11-12T19:44:27+00:00",
+   "tags": [
+    "gold",
+    "macro"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "Gold could see $3.3 billion in buying on index rebalancing after 13% decline – Société Générale",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3Z3WUFTOUo3Szd4MUJXUXp6NXhJN0t2aS1RVE9vRWhXMzhEMHE0ZG1nTFN1R0lyVzRCVnhRMkplOXNDdjktTlJlZ0tINzhBSWtBS3lqWFFKNjdCLTVfYVF0QkNaampTU3NXU2plOG55N3U1YzBwVE9tRnlVd3FROXAtdUJuXzc3TURSUFVQVV9mM2ROUkh5R2R4VUNNNXdiNjVmY3JyVUlEUnhFWUYwQ0VxZ2ZhMS1ZdzhZS3NR?oc=5",
@@ -127,6 +201,36 @@
     "gold"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "Adam Back Says Bitcoin Could Reach $1 Million by Late 2028. What Would Have to Happen First?",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ0V3TFpjRWxWZE9NU2xRc3pXLWFRdWZXQV9iTE82bGhWNVgwVENlQmJSVjBjSDdUZzc4bTlpMGNqMU9zTDN2elhZZmp1R1FDWElXclVRcXVDVl96RHVTX2EySFNBYjRsRVpJUjFQek95SjkyRjQxV2lUX2ZhZGtCTVB0WXBDUVV1TW45ZDlONmNvbmVwdzdBMkZ0SEoxOEpONWtNTnp5QzdydGhVYm00ZU54MW1JenZhZjh3amZTOU91cTlWOFFVVFhIX3l3bW1Tc01aU0Q1aGo1X0hTX0VCc05n?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-12T19:17:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Fed to skip rate vote at October 2027 meeting under Warsh plan",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZVZNYzRzaVNQSnRELXIwMTBjWlNBOEMwbEpReFpHMFFSQ3BwQ3hsbUxoMmpoYmJwU3kzdHZBU1A2NVh6SkZpR1M3MWJqak1od0lLVHEwYldZWFNPRlZ0aGduNjhzU2ZGYUJrUXlVLWlsZmVSTV9IamZnaEhGSjhFYQ?oc=5",
+   "src": "Yahoo Finance Singapore",
+   "t": "2026-11-12T19:13:29+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "US Fed Sets Aside October 2027 Meeting For Policy Strategy Talks",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemlpcnFNdkdraW1XTTNJR0N5M2lNUXdxaHBCZnpjTlRkRGZqaERjWGlKZjBYakhhUHRQQ3cxSHlkWEJrQWtkMTR1ODYtZjd3cy1XVkU3Q3pFNzF0ZXNoZThNc2V1Y0xMSWdJWGJOeDJrUFlGZ3ZoZ2p0ak9peUNHc21HcXZQNkpsOGJaNXJncHZ3d2xWbjJ0LTY5cVgzZXhKaWJCY2hSaF8xVUcwWFlSVG1sNUoydw?oc=5",
+   "src": "Forbes Middle East",
+   "t": "2026-11-12T19:10:36+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Fed’s Daly says more rate hikes likely needed to fight inflation",
@@ -506,6 +610,16 @@
     "macro"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Australian Dollar slides to 10-month low as Fed tightening bets gather pace",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdTNmTUJGVjhyLURmaFdBY1RNWGN2UjBHSW11c1owZkhiUEhoQzQyeFlDaWlaMjU4enNja2RBRW9xV2RvMFdtX0dMZk1GNFF0XzRoN3Jra0x1MWh0ZVpXUWpXcUU4X0tqUTRwZjlxa2RjOUdhN2FOdzFpdWttOGlFUlFTM1hUNWI0LW1uTlByeFhpV0VmQnFKeUlHcjRxY0htZEo4dmpmcG02WEFVTnUzVnhyTmlCSkJNb0E?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-12T16:03:11+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Nvidia default risk nears record high as board weighs CEO’s fate",
@@ -2581,119 +2695,6 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEg1RUxBUTNDUEFCQUg4OXZEVkdLU1dXYkVYZmIwWmZqUFZEOFo1bUkySXM2YndHeTJLNlNkSTdPRHFrUV9VR0JEZGxsX0VWTDdUMlR0c2hDSk5veXd1OEJRb1RsZTJCRWtqeU1WYzRWR1BDWlN6bHFvUVBSNkhMMkdyN2RBSC1hUW5EdE9YUXBCTXdBZzZndGRrZk0?oc=5",
    "src": "Yahoo Finance",
    "t": "2026-11-12T00:22:00+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Japan wholesale inflation accelerates, keeps alive rate hike view",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcS10SkFkNjF0eGRPdkJTYU9aVVR4YzB4ZzNQZ0dfbzVOZ0g3Y2xwQkN2NHF4SmdGdjhIRE02el91WUdSYlFPV0lMcjNQbXdrZVFoWGdVb2RZb0Vwd19HN1V1dWN1MnBzaVJRRzNjU3Z5ZHQ2MTctbmhPZjRXcGVaZVVaZ0szd05xZEoxZEtHOWxkMXZOcm9CMHQtbUl0UEt5aFNNLVUzSDJvQkxibmdMS1VmWTZBUVJYWGVQNEhKR00?oc=5",
-   "src": "Reuters",
-   "t": "2026-11-12T00:14:00+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold Holds Below $4,000 as Market Looks Ahead to Fed Rate Hike",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTJybnByRUZtMk5uajdEUVROVDJnSmZlQVRsazNHSmZaY0FKMVM0d0tvVnhDdlozdUhuMkx4ZkJZV0IyUDRCMmxtSzF0U3RmWWkxckVJVVVUV1pZczI2dmZfN29TYmN0YkVWMml2X2NJY1liZk1WeWFVdXNHbFpqdHBVWmhMTE4zTHozN2l5ZGFOWVBxWVBzTVB6V3dLeTR5UmlYYTVtN0xJQW5MMTVRdUJn?oc=5",
-   "src": "Bloomberg",
-   "t": "2026-11-12T00:12:00+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Dollar rises to 19-month high as Fed hike bets grow, yen wobbles",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmd6aUhaTzk5c0pGbUgyQ2U2clNjX0VCQjZVT1g4dmNVUkFFa05DQTRmWHNLVl9oRGJ5R0tfeVZjbGlsSjhwMHNTVEhUaWtJMzJGUk15dnRGd2d5RGpLbEVtZzZFTGVVOHM0cmtMTFNkMTJDbUNPMm5acjZFbjltWC1URXlPTHdOLUlIUVdJOWxqb0xnMndvUGVwYlEtTGNvQXZ0Vg?oc=5",
-   "src": "Reuters",
-   "t": "2026-11-12T00:05:00+00:00",
-   "tags": [
-    "usdjpy",
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Oil prices dip on report of more U.S.-Iran diplomacy plans",
-   "url": "https://www.investing.com/news/commodities-news/oil-prices-dip-on-report-of-more-usiran-diplomacy-plans-5020081",
-   "src": "Investing.com",
-   "t": "2026-11-11T23:48:55+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Japanese Yen Short-term Outlook: USD/JPY Breakout Hits 10-Week Highs—160 in Focus",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS0RRTHhaMmxxbDhMa3cyY2ltY1c4N213Unl4aV9UaTJmN1JidzBoZkx4blFtS2ppNW9KOGs0M1FYX3VNWmZ2a2M2bFhFMXc5NWs2elUwTWU3SU4zc1prbEdNZTJwOHFNY2lqV05QRV90Y3R4VVJ5YmRsQUc0b1VRNTJEQ3BVeE8zVS1XY0pnelExOWYwc3FtdnZLWVhJY0cxUE9tZ1phQWh5VUxlQ29MUDNWaU9tWFNLMWY5bUI3WDh6b2hUVk0zd3pkakdyMW1fd2xybQ?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-11-11T23:31:11+00:00",
-   "tags": [
-    "usdjpy"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold falls below $4,000 as Fed rate hike bets grow",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZldWOUt2Z1JKQ1p0YjAzN01pM251MUNjenJScUVMOFk4UmY3NkYyMTRERDhteWZ2c1VhMmpfY0tscEZJVjZVZW9GQkNOT0FhTnFFeVNIdjZva09BdHMwQm1NTjVWQXNNUHJZTVRqdnJ3Qkh3MElPWktqMW5CYTRCLVRTME1IMXIzU25fQ2VBSWQ0UjVSSDZN?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-11T23:26:23+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Huang could cause further damage to Nvidia, 'it's hard to recover from that,' says Dan Ives",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObEJhd0d3dTEydU8yRDg1bDc1OV93RlZuOVpWemlwcVhxTHpTX0tYYnJWelk2aDhhenJtUzRHekpfNU1MbTUtQWFNd0hXcGF3Z2lVSVFOeEJNZV9DUWk1QmVmcDhNRTlEaUxPQ01wRzJ3MURKNmZZS3hFSmhqX3NTSVBIWGphdS1SSU5kdDQxVGxfcXRDdTM5Z3JNeWxfUU0ycmU3WWNXdWlCQjF0WUlOVnh1VVNEUXFaRFVkemVWdlZvZUhNWDZCeg?oc=5",
-   "src": "CNBC",
-   "t": "2026-11-11T23:21:24+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Tech investor Dan Niles compares Nvidia's current position to that of Apple's post-Steve Jobs",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUmNmTFo3NjZNQnNvMzFkdmFValB4ZkZnQnRNQlpaOHJYR19DaGN3YmZGUkZjMk05eUo2WlkzTHR6NUxwaUltLW1Sbk9Qc1lYVHhTOFpRR3JMTV80SmIwU1RKdmxiT3BnbmpLWUt6UV9mZ0ZyYU50YkM3VnpzQUVBNEdGQnU1bUtQZ09hS2s3T1pHMEdpWXR3Y1BJS0hISGdfUGpJeGtBT1U1VXJiNURmZTFWR3l4Qnc1dWdRY3J6c0pOdXhncDhkM3hWOFVIa3M?oc=5",
-   "src": "CNBC",
-   "t": "2026-11-11T23:19:31+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Instant View: Nvidia board meets to decide CEO Huang's future, source says",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVJVTG1XNEk2Rm4xZFpXdXh2czIzSnZpdXMzaEpWN1RsZFJpRy1TeFNXZHBzei0tRGNSZ2JSd2ZtTnN1N3A2Q0IzTHNrelNxS2NOWVNSbjhWTlNfc012cHRHc3g0U2gzOXJ4MjRKWjNuWm9NaGt2S2ZhbHp6dmtjenFGTWstWllrYmdLcG8tOXR4b0FCcHR1Zjd2RU52REVFM2E2YmZkX0N0QQ?oc=5",
-   "src": "Reuters",
-   "t": "2026-11-11T23:19:00+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-   "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-11-11T23:08:00+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcVQyZWxhdEhVbG5RODQzMTRrcmZQQWlFblRqNVZhVDBkUTY1LVhGd1dlbFR0RDFZNllYQk1WRHEtV1JVeFZZekpoSDBJOTQ2dkd2d2hteVlnOGxCRkZBY0otcngwZ0FVaUJmTXY0MVBnUkdZQnBWWlBKdmtLOW93VHdOWmpRUm5LVjM0LUVGYXBDTm1STGRsMXoyaDBIakNrZElwQ1Bn?oc=5",
-   "src": "CNBC",
-   "t": "2026-11-11T23:06:00+00:00",
    "tags": [
     "nasdaq"
    ],
