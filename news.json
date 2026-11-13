@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-13T23:07:11.215221+00:00",
+ "updated": "2026-11-13T23:45:46.099205+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 6
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 13
+   "new": 12
   },
   {
    "feed": "Google News",
@@ -72,7 +72,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "CNBC",
@@ -108,16 +108,26 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_1.rss",
    "ok": true,
-   "new": 4
+   "new": 6
   },
   {
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+   "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+   "src": "CoinDesk",
+   "t": "2026-11-13T23:30:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "US Stock Market today: S&P 500, Nasdaq fall ahead of Nvidia earnings report, Anthropic IPO. List of Wall S",
    "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOYWFfVmhLQTVta0EzWkMzRGt6QUp3NE5jQ25rZGdIbmVZMVNha3RYWk5jZ240TG95aTdnZnhhb1p1b2d3SXIwOVlHNVdibG1ybThfNHhRMDZGZURwMi1mbDV3WEFWLTYwOXo0b0JzZWFkUGtUTGlOdnRsajdkT2NMbmxldTZzYVNIMW81Uk5fY2lzNXRnSFNSVl9remhHb0w0MG94R2NkVXlqOUZMbXllWUdPcnJEMnlLZmJTVlB2MWNwREVmdFJsZmlpcm1VVVRVb1JreHVpSFhfdk55VTJaR09pX3dkNUd0NHBXLWhFdGNXYmQ2WXg5eExPbW5NaTVhUGdJNHNhcWZGcTRqUC1lS3d2Q1liSXY1eDZXTGM4ZzFwZnFNazdoLWwtU0dhVk5IcVhj0gG4AkFVX3lxTE94WjR4bVJQTGIzcEdvbEUtS1c5ZlJFZjR2SGE4ZG02WTYtS2xTWVgycFFza3dnMERfMmNqTDRtbmpWdXMzMXZOVmpveVlMa1RaSDVPTVJhYlQ5U2V0TmZVQXZudzl1NmNtSjRvQXJtcnctcjNKb1JXaUdlMXN0bVZmalNNZ0VRZ3lndXN6ZlFOVXhtckNVMVBaTGNxRDNjdmdsTHFKLWZfYzRpZWNzLXZRcUxWX3ZCeHlPU2xNbUk3SE4zNXNuS21ZVm5wcFFLQ2lXb1dDRVBUM0xvZ0xGc1RlNmpNNUt3MlpaMkNzQ21BbzRHUmJmQzZhLWhxR3pESmJQb0ptZFFJeVZuTkNWZy1FUlNvRGpKcU0xSHlGQXJTNUtWYWMzNVA0Q2prZmlyNTVud1BoempBOQ?oc=5",
@@ -149,6 +159,16 @@
     "oil"
    ],
    "tone": "bearish"
+  },
+  {
+   "title": "AI rockets to top of worries about financial system in latest Fed survey",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQxamNhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ?oc=5",
+   "src": "Reuters",
+   "t": "2026-11-13T22:26:58+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Silver market remains resilient despite price volatility and weakening industrial demand – Metals Focus",
@@ -314,16 +334,6 @@
    "tone": "bearish"
   },
   {
-   "title": "AI rockets to top of worries about financial system in latest Fed survey",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYU9QU29MYzJldWxRX1BfcDhBcGN2MHRJc05zRjYwckRrYklYTGRPMWtTMEd2RjF0R2s4eDVBYlBRakpyMkQyeGU5aEp0VlFsLVNkMVFMTE8tYkNTQkdPZDJQc0NZWGxjZU1QaTFMVUN4ZlFhYWhsWTJ3bmd4ZGZuQjREVTBaSk5qaGxiaEowc1R6MjRtX3BmQTRiYzdueDFJdEtoODBSOHY0OEE1NW1sSElaR1E?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-13T21:07:16+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
    "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
    "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
    "src": "CNBC",
@@ -343,6 +353,16 @@
     "macro"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "U.S. dollar surges to biggest weekly gain since September on Fed hike certainty",
+   "url": "https://www.investing.com/news/forex-news/asia-fx-yen-intervention-in-focus-as-rate-hike-bets-put-dollar-near-19mth-high-5024024",
+   "src": "Investing.com",
+   "t": "2026-11-13T20:41:10+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "What Could $1,000 in Bitcoin Be Worth in 5 Years?",
@@ -965,6 +985,17 @@
    "t": "2026-11-13T15:50:38+00:00",
    "tags": [
     "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Canadian Dollar finds support in firmer Oil as traders look to inflation data",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc3VPSS1keXhjRkdrUWk2MWdhU00tcnZDVVVwYkhNdFowY0tkVnFpdlNrSGFvaGM2RE8yQWdQLVVldFlBZ0FYd3VxaWpYUDczVWk0X3dtUzNqejNrdDZ4ZlhhbC1tRTdPY1VMUGxVOElET2Z6Ml9WelBGalY0UnR1X1pTSGEwUmNOaDBURUN3ejlVQU9aR2R6MUxiVEFZUTdkNE44dHVmeEkxSWQwTmoxaGh6WmZ3ME9pRGQzWQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-13T15:50:31+00:00",
+   "tags": [
+    "oil",
+    "macro"
    ],
    "tone": "neutral"
   },
@@ -2634,36 +2665,6 @@
    "t": "2026-11-13T03:43:00+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP extend losses as downside momentum dominates",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOczRpek1FN0tvYlN5YWs0YVJaTzJEdmxxcGNhaW8xdklnQXNHWElFNGwyVUVJWFdyMVJyX3ZEQzN6cTRnYzhtelUzbWpXTWlaWTBRTVh2dDNQcm15MFZTd0F0TktSWUYyak45VVZtMy1EV2ZDS1lnSGNlMDZPbUZReDdfdHZPd1dDUkg3YUVJVndobTBzU2l1YVV0WlpsOU9VX3RpdUQzR3RsRnR0Y0E5R2dKU3hQSWhvMTJNZW9yZXRBSEVWa0prTDFzMmpOa1R6QlJmcmhEcWdaYjNmT2ROa2hHZ1hudTlMQm9jS3l4R1ZianliOHhUQnU2Sjk?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-13T03:42:58+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "BTC news: Prices slip below $70K, triggering $1.2 billion in liquidations",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUFvUmV4NkRTR3k0bnVVUjBYQTh5Z1BNX3NsTE1YWE9YUEpRMTJ4TEF5NFJfVmxPaUZQWl9CZEJpNGQtOTRMNmtYRHV0N3NUM2FtOUp1dWNaSV9OSlVYMFRwNld4ZWI4bUV4a251VjdzeUVnTW1EbFBuUndERzNjTWg1cDZ4Y1d1aXFPbzZYUXFoT2NJcnVBcXFXdFo?oc=5",
-   "src": "CoinDesk",
-   "t": "2026-11-13T03:41:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
-   "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
-   "src": "CoinDesk",
-   "t": "2026-11-13T03:37:00+00:00",
-   "tags": [
-    "btc"
    ],
    "tone": "neutral"
   }
