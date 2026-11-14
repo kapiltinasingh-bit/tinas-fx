@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T17:43:00.330728+00:00",
+ "updated": "2026-11-14T18:16:54.317623+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -60,13 +60,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 10
+   "new": 11
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "MarketWatch",
@@ -184,6 +184,17 @@
    "src": "Barron's",
    "t": "2026-11-14T16:04:00+00:00",
    "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Why the biggest risk for investors in 2027 isn't Nvidia — it's inflation",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUU1XbGRvSFRiYXFKSm1KSWdMSDhyRWVnRGYycnhNTW93aVdWeWNjYWFSSmU5YzBCRmltT3M2WGJsdjN5ODRLdG5hTnk3VkZrekxpYnpOWkRqcnk2YnQybXhES2dGc0YxSEhCX1Z4Mm1WUUZRUTE1ZlRNV05KR2Y3SGxxVDRQQmlhWjFUaXFhdTdGb1dQdUFCb1Fyay0xVFNpV3lsVVg5Q20zYUVPWWtMYnRxTVlxcUY0YWx6N2RFOHpkY2ZI?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-11-14T16:02:41+00:00",
+   "tags": [
+    "nasdaq",
     "macro"
    ],
    "tone": "neutral"
@@ -851,6 +862,16 @@
    "tone": "bearish"
   },
   {
+   "title": "US extends shipping law waiver 90 days, to allow freer movement of oil, commodities",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ2lneWN6TzV1ZXctMUFVUlJSbVVDUG1vOWNYM1d2Z25QV1ZlSHdjSFVmblhtX1UzNEQySEYwdjZNZGw3VnZPc00yOTEtSWFsY25CRTRhaGZJM2tFamQ3cDl6YTEwbmJLQ1VmdHo2Y2hjVThnNjdiQTNfai1xTDhFcmFITF9WblV6Rlk1M0FnbDRFWXJjdXA5R19ERUZ2WjdyZmg4bUxPQ2RZcmhaUzZxRjIwQk5jTWw1cUwxVw?oc=5",
+   "src": "Reuters",
+   "t": "2026-11-13T21:46:42+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Tether taking aim at gold ETFs as tokenization gains momentum",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZF9lOHdWWE9sS2E2eUFpZDlScnU1YmNfck5CYXJ4X2xpQ0lfdV8wZXdIUzRZTGpiM1dYOXJlOWlRVFJITWlpU1VkZ2llamZQTDJDa2xCMWFYZnhkSGRLdjFpUGJTUm1uQzBBN256VU5Fajg2eDFhcWp2WVMyLUJMcnhUd19aOEZjMTZXYzdyRFFjUFNLbWJ6LUZTeVJrQXB3Tk53?oc=5",
    "src": "Kitco",
@@ -1240,16 +1261,6 @@
    "t": "2026-11-13T19:13:20+00:00",
    "tags": [
     "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US extends shipping law waiver 90 days, to allow freer movement of oil, commodities",
-   "url": "https://www.investing.com/news/commodities-news/us-extends-shipping-law-waiver-90-days-to-allow-freer-movement-of-oil-commodities-5026364",
-   "src": "Investing.com",
-   "t": "2026-11-13T19:12:29+00:00",
-   "tags": [
-    "oil"
    ],
    "tone": "neutral"
   },
@@ -2655,16 +2666,6 @@
    "t": "2026-11-13T12:44:26+00:00",
    "tags": [
     "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
-   "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
-   "src": "CNBC",
-   "t": "2026-11-13T12:44:20+00:00",
-   "tags": [
-    "nasdaq"
    ],
    "tone": "neutral"
   }
