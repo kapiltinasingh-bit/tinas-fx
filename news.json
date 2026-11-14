@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-14T02:38:38.972175+00:00",
+ "updated": "2026-11-14T03:28:54.646207+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -66,13 +66,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 9
+   "new": 5
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "CNBC",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 11
+   "new": 12
   },
   {
    "feed": "Investing.com",
@@ -114,7 +114,7 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 0
   }
  ],
  "items": [
@@ -830,6 +830,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Silver demand seen down 5% this year due to weaker jewellery purchases",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUTJYMWdEVHFDV3FURUQ3RmpMYlY0UkV4a2gwZ3lXa080ZnBKZGdtakFaUk4xejFRNWRaWm43ZE5SdWdjcDR6VFU5ZFNxc2RvTmtPbWVoQ1g4WlRHZjhuWVBzUnBWOGQ1QjhXWlpYN2pDeTByQTlSWmNHbk1PQTdOejBSMDlNUkhpdmktRl94b0JpbHhRSG1oTjVHaExQMnoxUWo2dDJsaHZCV1J4UEs2NHBQaVU?oc=5",
+   "src": "Reuters",
+   "t": "2026-11-13T18:05:26+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Is a bottom in for the Nasdaq-100? Charts to watch",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObElmN0o4T1FSQ204WGtxUnJ4THdjYmRpT0Qzcmd5bVE2WTgtazdyb0M0Q25ZMWtwZk95NTZTNXVMZGQzUndtVWN1cW9nMWFUT2dnSXVubXp1al9YcVFRSFItX2poOE1Ha0tJamlmQ0NhQ1R3eVhqcm1hOGREU2JENlQzdkNLQzBPbjk5cC1CY9IBlAFBVV95cUxON1llSVlNdlEwT1VGb1h4V3dKSTlEdHB5ajlObFZhbjlJOEVTcXN3VUc5bHRERUp0UTF2cEFCbDNuQnJnMlhFSW5SOS1rU0xtNU9qRXBFNVhacHNCWk43VWN2a21QOUFPVDY5dUJrdWplMWtSWG12WVZ6eEJIeEpKMGZhWjAxMVNrd2l4NTcwcWZ5Z1pC?oc=5",
    "src": "CNBC",
@@ -964,6 +974,16 @@
    "tone": "bullish"
   },
   {
+   "title": "Logan says Treasury market functioning 'very well,' Fed needs to strengthen support tools",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZmZBTTBhYXpVY29JS2dYc0s4MVZzQVN4NUJXX2dRUjUyMVM2OFA4cWNKT0h4bkliZ2tjTkhaRkhSeElYenlOVUVkeGNiWXlYaVQ3QXZ2TTY0WXBXTGppZ2Q0V0VlSVRPZGd4eFJNdVE0WjV4OHk3U0JBcV9BLUdIS1VPZ0xtVUhUd3A4WHB6Nlp0cjE4WjhzNGRlQjhqVElCSVlYcC1WR0N2Ri1keTFSM19PRnFSdlBVV1JteHB1UDJ4Z0FWSi1LeG5n?oc=5",
+   "src": "Reuters",
+   "t": "2026-11-13T17:16:35+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "The Japanese Yen's 160 line just got its third test of the year",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMHpZN3dtOUxhTVBKMEFVbkF5Z1lDSno3eFNHdE1ibkdhNkdMeGRMampOb2U5MjBiX3JtSDQ0VUVCc2hJVHlwRjRMVS1iUG5XUWFVb3VJM2dhRnp6R05rTEhwanN3THZfVGhQZ1hGRVZyTHZZMzFfeXFpVDc1d1dKNUhaWi1aaWRHSEdWRHg2dU5UdGMzdUNTejF1Z2IyNzdmOWxOU3pvcFlTYkNFZVE?oc=5",
    "src": "FXStreet",
@@ -1092,16 +1112,6 @@
    "t": "2026-11-13T16:26:00+00:00",
    "tags": [
     "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Logan says Treasury market functioning 'very well,' Fed needs to strengthen support tools",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTV9HOUQ1Q0lJeDJOTkZHSS1JYnQ2Z3dyVnRVX2pLTjlIaFRYSzEtUkFtOUtsYUlaV1ZqWWFPU3BudnVQcE1OLVdmZlcycXJjVjljbnpqMnE3dGMwaWZlZGJSUkEtX21tY2l0X3NWckV0LTYyd1NSY081Qld5czJxakNCWXl1RGZzZjNlM3dSZ3pPT2ZDZ0JPdEtIVWZ5d2VaNjduUFBwN29tSWNucXhHSGVUVDNMODZiSVFIQg?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-13T16:23:14+00:00",
-   "tags": [
-    "macro"
    ],
    "tone": "neutral"
   },
@@ -1613,16 +1623,6 @@
     "gold"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Silver demand seen down 5% this year due to weaker jewellery purchases",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzA4QWx1X0hqRk9MZk1KaEtOYkNKZFpFYlVMa21HYXNaR2pKWHBXWjRWYWp6bTA4NWNlb3l6bGlaWDhqX204YnRBaDgydllDcTdjaG90V2Nselh1U1RTWUIwVHI3cjB0aDlScDlCQzAyMjNlbm9jay0ySXQzRnJETjhhbm5fcExSc05BWXRrdGo0OUh6VDNSanRMQ0YtQ0szYmdJNEVILWk1RVlFUldoWDVB?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-13T13:49:32+00:00",
-   "tags": [
-    "silver"
-   ],
-   "tone": "bearish"
   },
   {
    "title": "Watch CNBC's full interview with Treasury Sec. Scott Bessent on Nvidia, China trade",
