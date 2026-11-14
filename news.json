@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T08:14:01.372636+00:00",
+ "updated": "2026-11-14T08:59:46.751963+00:00",
  "count": 250,
  "feeds": [
   {
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -130,10 +130,21 @@
    "tone": "neutral"
   },
   {
+   "title": "Yen Slumps as Fed Rate-Hike Bets Boost Dollar",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3EzbUZLMzVNX1JTTVVjTVYwOVhoR0JQMXlRWjh3WjA3OGlfRkhvek43Qk90UW1jeWVDOWZMa2djT0JlSnhoRUh3SXBtbWpRQ1Q5SkNJbnVhZHR5X2NsWTFLT0w4TG4tOEdXQlBVdG91RGp1aWFtNkxJN3NZYktEN1dRWWU3LWQ3MTJ3SjNKejBkc1Zsb3JTV3Myd2t5SnZEeHRaZQ?oc=5",
+   "src": "WSJ",
+   "t": "2026-11-14T06:25:54+00:00",
+   "tags": [
+    "usdjpy",
+    "macro"
+   ],
+   "tone": "bearish"
+  },
+  {
    "title": "Bitcoin slides below $68,000 as Anthropic IPO frenzy drains market liquidity",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUmdjeS1rRjgyaHB3b29VcVlsQjN2TVBIaWFYSUJmSnkxbEtKMnU1M2FJdkViN19peVBOQTRKVFloUTNXenZnVEJfbVdCVjFoN256V2NmRTdHVGxaYWE5R3d6aEJFN2RTR29td0ptRWVNSTVtYVd3bnN3QmJkSjh6NF95MDVnRTFrMFU0cm9QMk9VbV9fREpR?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-14T06:19:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVkZIQTA4ZnRvTHpyc1RTMUp3RWw2aDNBNXNXdnJRRmlqMmxIekNVWmpPN2pOallua2JpNDZQcFZ6QlZKbWlMVjdFMXJIblowclhFdFRBMno3Wld0RUFuT1FhMDhCQ3l0SmF1OV9ZUTdVdWozY0pyYnFLdmNGSWY0WGVCQjRndHlXdXJhb0txcWN6QmV6V0gyUVZxd1Eyb0JqaWNqS2RkdFV5MmNwZEtQR0hEOU5CMzFZTnRHNDh2MVF3SlVQejQzVlpnQzdNZw?oc=5",
+   "src": "Investing.com",
+   "t": "2026-11-14T06:20:54+00:00",
    "tags": [
     "btc"
    ],
@@ -741,6 +752,17 @@
    "t": "2026-11-13T20:14:58+00:00",
    "tags": [
     "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "US Dollar Price Action Setups: EUR/USD, USD/JPY",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDE1aERBSW5CZm1MSjBqRl9tRm9qekJJMXY5Y3Q1cTBKMk4yU3lNc3lSQ0hVM3QzeUVPUVZGM0pSMlBWdTJOVHpFbUF4V1JfWWl1LVJDSnFwc3RYUmhEMHk4R0VwY0wwUTFwOXg4RTh6VWd2R3pNc0o3SXplblNvS0k3MVo5YjRSeGRlT0lMcWZsWmhEU2VndkpSS2hzSmF0T1RHaTNR?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-11-13T20:13:00+00:00",
+   "tags": [
+    "eurusd",
+    "usdjpy"
    ],
    "tone": "neutral"
   },
@@ -1889,6 +1911,17 @@
    "tone": "neutral"
   },
   {
+   "title": "Sensex, Nifty edge down on profit taking, inflation worries",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeXdOaTIyNVRUVzVObVM2Q1cxeU5yZXZnZVNKM0lNdlU4MDh0WnlFekR1RDNIcU42ejNjNlpQdFd2RDdEQ2hzaG13NVdDbnJZSF8tbGRFeE9GY0dOX0FxMzlqd3pvajV6anJlSG8wVjNvTUphUVk5Q0hPZmZBMzVRU0M0eWwxZnFPT0dteFF5N2R6Vm1aS3NBa2hJTWRQMmN1ckxFeEtVOXBHazY2ZmV2SERtTTdvdWFwSjJCc0U1ONIBxgFBVV95cUxOU1VSLV9qT09Bd3JleXNRcDZDcHlGVE13cmxKYl9FdFZDY010WWZXSkJUS1o1Z1AzMVV6bDRnN04ydEY1R1lGZGxBcUdVS0luYi1kYVZFcERycUg5Qm11cy1LT1JCWVdRR3dYUnhnNHg3NzlJX2ZSZmtlb0J5VlhWWnpweTZmSk4tSW5HekFBcTVUMEVZWHVJUUdWQ0VfYmZjVTE2NGFyb255U0w5SC1XQS1Za252dk9neEpRQ2NBblZUUU1lclE?oc=5",
+   "src": "BusinessLine",
+   "t": "2026-11-13T13:18:09+00:00",
+   "tags": [
+    "nifty",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes fade",
    "url": "https://www.cnbc.com/2026/11/13/cftc-chair-selig-crypto-industry-opting-into-agencys-crypto-rules-.html",
    "src": "CNBC",
@@ -2016,6 +2049,16 @@
    "tags": [
     "gold",
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bank of Japan set to hike in December: Why the Japanese Yen is still weakening anyway",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTGozWXYxU1drQkN1T0JfV3RQSjFCY2NtUE5pUDFySm00aFptb1ZiS1MweEp3Q09TdDUtQzBpRDNjZjlIRWJLWkhGTEFKdjg3SnlZUUtLT2lzdUkyTzMxQ0xRSlJ5SkZaUTJ0WHVDeDZHQTY0OUNFTFNvYWJfQ0pmYmZ6UmM4LXdIVlUwRVFzTUhmTnJLNkhEQmFvZ1c5Xy1mbUxOVXVEX2JyWE1RTEdfNWxXWmRYUlI3OWtsaDc3dGZCdzZDUVE?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-13T12:47:38+00:00",
+   "tags": [
+    "usdjpy"
    ],
    "tone": "neutral"
   },
@@ -2628,47 +2671,6 @@
     "macro"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Gold sinks: Where does such strong pressure on precious metals come from?",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPalR6SzJRRXlIQjQxemoxSWlDeDY5QnVsZHozbnVONzF2TlBpOEtYaWNxRzlCNDFjSFhHLWhRNTNoRGhKN2JjSXk3QmNGUi1Bci1lQ3NJTjBKOXY2amo0ZWxhV2dtbGlLWTJQUUo1VkR5bXN4LTFRaEg4SFhYQ1hhVTUxbG5JcS1rTE05RkgwZGo5WTdJWE9iVzk0ZGEyV2RzV0ZXSUNvZHVwaUR2NTZsLTJFeDNFRTVYSEE?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-13T08:54:37+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "EUR/USD: ECB hawks lag Fed – ING",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Oc0x5NkVzNXlRVlc2NUJGajI3YV92eEd1NXZIT3RJOTRpazRveEdTR1VOLUZzQUdBR2ZTYTNiSlhyZVhuRnRBZkt1SVozQ1FsYjRFOE8zRkpTdmoxQWswOG41eEFVeXU5dV9hMTdjOEZ1YlhWWDJGQTZaTng?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-13T08:52:45+00:00",
-   "tags": [
-    "eurusd",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Treasury yields rise as traders strengthen Fed rate hike bets",
-   "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
-   "src": "CNBC",
-   "t": "2026-11-13T08:43:24+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "10-year Treasury yield moves to 5.15% as traders weigh producer price report",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iVEhaNGZvZDlvWlBGMldrUE5jUlVpUXp2d0YwdEFzZU5ScmVUOTk0ZDdORVhuMjhvRWZTWVQtR0JXWUlWVWVGVHlfOG4wdWZiZVVQNGZXTzByQ2tCRU5LQmFGajY3VDdtVnZIam9MSdIBdEFVX3lxTE1HYkdxR2dlMXVleXNjckE4Nm4xS1JNU1lQMC1JMGtkQ1FwRU0zWXNsSU45UnpYRjNqeVZkZEVwbmxZYmdnLTlfQkVNRW9iV210ZWtPYjdvRGVUc0ZDSDFMNy1FY2JiLTVjTlJ2eEc1VUxpbGZu?oc=5",
-   "src": "CNBC",
-   "t": "2026-11-13T08:43:24+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
   }
  ]
 }
