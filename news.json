@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T16:27:15.807734+00:00",
+ "updated": "2026-11-14T17:07:44.853548+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 6
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -66,19 +66,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 3
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 13
+   "new": 15
   },
   {
    "feed": "Investing.com",
@@ -119,10 +119,50 @@
  ],
  "items": [
   {
+   "title": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone'",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5",
+   "src": "CoinDesk",
+   "t": "2026-11-14T16:38:57+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+   "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+   "src": "CoinDesk",
+   "t": "2026-11-14T16:33:29+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+   "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+   "src": "CoinDesk",
+   "t": "2026-11-14T16:33:23+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Fed’s Collins backs gradual rate hikes, sees inflation and jobs risks as two-sided",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ0dkcjRBbkRlQnNVVzhGN0NGV0xyaEFSc21NZDdnMXEzempWLVJpS1BZR2lrbTk1dlBROGJLS01OYmVyNDU5NVU2YzBHdy1CSjYzcVdMbWxXSGV4LXpMY050ZG13emp4ZlFPV1kydm02bWkyY0lhLUFNLWI0azhNV3cyMnFwWFpFSklPcVRsVUxERURZY1hvRlBiU09XOVp3UlRaV1o0aXlpdzc5Zkk3bWJ2U25OWG9vQ0hvdnpBZmpYOW5FZDhkNA?oc=5",
+   "src": "Investing.com",
+   "t": "2026-11-14T16:26:27+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Bitcoin Just Crashed Toward $66,000. History Says the Worst May Not Be Over",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa3NON2VYbkVFX0pfX2pzUU1WSzNCSDRRZFJIeWQ1bjdaTXFYY2tpV1JPY2N3VFVJNGM3dVNtZDd4Wlo2ZVVzTm1OeVBqTlliQjdGVlJteXBIWkZiN0pfWVFCQjlWUV93OUkxUXZaVFducmI2Qm5NcGxEX0U4MF9BVzRRRTRhd3M2NWRPQ1VlcG1lU0NZbjRkNjBfbDY0cXZqVk1VT1NoOWpBYm1rcGJoZ0kzRF9aSGllOFBEOGNLT1hBZDRQSEJNd2RkSQ?oc=5",
-   "src": "24/7 Wall St.",
-   "t": "2026-11-14T16:10:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenp5c0wxeVNoM3R5Vk5KZERkZVJ1NjhqUllaM3lzUW52c3BVRzRMc0xMbTRIeV9XWGRXc0VfT0szOE1FbkxSOE5wMXJwTlVNQTBxbUQ5aEliQWZqTVJpVXdFc01XRWhWTC1zVHlLRngyUGpUZVQ2REs4U19INFp4ZF9Cd0tEazN4b3dKd2d5ekZtQ2Y4ekZkOU96WQ?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-11-14T16:10:47+00:00",
    "tags": [
     "btc"
    ],
@@ -2625,46 +2665,6 @@
    "t": "2026-11-13T12:41:41+00:00",
    "tags": [
     "nasdaq",
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold price today, Friday, November 13, 2026: Gold's down over 4% in the last five days",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLVRObm1EUEJJdTdaTm1Vd1pYTS1pZjJaLTRJY1JKWlltRl9jalhnZ3d3NmNHdGNUVHVfUmhUYVE0dTg4QjdCd28ybUhZS3hWeFlreXlBNDdaazdmazU1aU9sdWtFd09wWThuN0lWQ0xPZ3l5YU9fSWZjY1NBNDNvUVlHUDQxazF0UUVQT2dhSFlmZkRKam1jYkcwalpqUHBYOTBZS25LbVJ0R0x5UGJiZEJKOUxCYjZOZUJ3NjRxenJkNEdDaElaM1JnMHNaVWN3TVRkRVlqV2hLTUlTRWdKVnR1ZHp4M2xDUjZnVw?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-13T12:38:41+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin Slides Below $69K With Dollar Index At 19-Month High, Wiping Out $1.6B In Crypto Bets",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMmN6UEd4ZFFXLU9tQTVxZ3loUFJBd19LVzEtU2hnb1BUUjBrR2JCa1JfNlQ3TFRhSll5RmhBdGFBN3R2Zi1TREhvUEEtS0UyakctclhsWHBJeEJQd1JtSmRjZHMxODdPTmxHZzdZcnE4ODh5cmV2T2V1UWpTXy0xc28xMGV0cG5POUlQY194TEtXYWJubmNLeUFSa2M?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-13T12:34:33+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Nvidia has shed nearly $500 billion in market value this week. It’s still a $4 trillion AI behemoth.",
-   "url": "https://www.marketwatch.com/story/nvidia-has-shed-nearly-500-billion-in-market-value-this-week-its-still-a-4-trillion-ai-behemoth-2ca6eba7?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-11-13T12:25:00+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "This bearish BTC signal could send prices back below $60,000: Crypto Daily",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV1d5MG1PYUlWaVVNdkpSOGlKcXhLMUlYeFNvaEU0cVNJTHAyT3VIUG42Qm1aQ2p6TWFJT1RSbC0yOHZObHI2N0xOcG94aHJzdUJjS3pwRldoSFZncnZBLW9YX0RYeWczeU1GVkk3VnpHZDNmN0tGZTYtQUNfRk9UTDBSMVZuMjliY0R6UUZBVU5BT2Q0anVnRUYzWENGVklBRnRYMGxUZVo3X19UY3FfM2dWRXBnM05Qb0l6anB5b1hBQkE?oc=5",
-   "src": "CoinDesk",
-   "t": "2026-11-13T12:20:16+00:00",
-   "tags": [
     "btc"
    ],
    "tone": "neutral"
