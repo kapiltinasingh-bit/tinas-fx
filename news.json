@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T17:07:44.853548+00:00",
+ "updated": "2026-11-14T17:43:00.330728+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 15
+   "new": 13
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+   "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+   "src": "CNBC",
+   "t": "2026-11-14T17:35:51+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone'",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5",
@@ -306,6 +316,16 @@
    "t": "2026-11-14T12:11:15+00:00",
    "tags": [
     "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Iran's navy says oil tanker on fire after hitting mine in Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
+   "src": "Reuters",
+   "t": "2026-11-14T10:31:30+00:00",
+   "tags": [
+    "oil"
    ],
    "tone": "neutral"
   },
@@ -2645,27 +2665,6 @@
    "t": "2026-11-13T12:44:20+00:00",
    "tags": [
     "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "UAE stocks decline on weak corporate earnings",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb1FTbUx4UmZUd256RDRDcS1TSmk0OXZrV1ZOVlhBZjZCWVo1YXZkLVpTUGZQbGdkemd5M2x5VWlNMG1BZ1JJbzZ0NUx4M1NaV2VOUGFvYXlPZTFOcnczc1lkVzU1MTN0NEZqRzlRc1lvNWJKVlMwaFJWZER5dXFOZTR4TnJvWVY0WmV2TE5UaG1TenlGRjdGVW5yb2U?oc=5",
-   "src": "Reuters",
-   "t": "2026-11-13T12:43:43+00:00",
-   "tags": [
-    "dfm"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Bitcoin Implodes to $69,000, Ethereum, XRP Down on ETF Outflows, Nvidia Turmoil",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVE8wTVlwckVDM3VuZTIxd19qUlJYN3lhRmdrWDBfRTBNdXJ1UUpnRHRHdUJJWXZWeXdGanRrV0E0TGVpd2pJZUxJTjNod3owSTM2WkU3cGx2aFFpVXl6bjVYVlFpNkFYVGNxVkJyM1hTcjNJWG5uLWNKXzlDYlRFZEFkWVl5dEFsT3BkdFBJLXFVM185aDdSTnNMZkJpdUdMMGJ4aDc4MmlGY3J0aENUV3drZTdoejJ0am9McHhaT0ZianV2TmMxVFlvZTNxdjFlTUE?oc=5",
-   "src": "Benzinga",
-   "t": "2026-11-13T12:41:41+00:00",
-   "tags": [
-    "nasdaq",
-    "btc"
    ],
    "tone": "neutral"
   }
