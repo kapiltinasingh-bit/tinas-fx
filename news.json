@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-14T19:13:30.531496+00:00",
+ "updated": "2026-11-14T19:52:10.287450+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -60,7 +60,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 11
+   "new": 9
   },
   {
    "feed": "Google News",
@@ -118,6 +118,26 @@
   }
  ],
  "items": [
+  {
+   "title": "Ray Dalio Keeps Telling Investors to Hold Gold. Gold Just Lost 28% From Its Record. Here's His Rule for a 66-Year-Old With $800,000 in an IRA and $2,800 a Month in Social Security",
+   "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQbE80eXhMeWk3ZmQ2X2w5b3FjMnl5eVhTU3VGSEJYZlFMd2ZRZTN4RHVMMlU3YW83amJNM005MHFLdDVralppMnRqc3doUThHU0Jsa1ptZTBfclpkY3VZMllQdUQtRUM1d0pQMk1EVGtPeGRNMUQ2Ujc2blFhTjV2LTJPekFVdnI1YXoxTlUtd0Fzd0llbmd4LXBFczI1N3ZiSkd2WWhVblNjU2x2UGRNS3FmaTFJanhBWTJLMWFlenVNZW16Z2ZhTWhhM2JTS0h2a2JKeWwzbFgzQ1B0czNzaHpjMlUtY2c2WDA2NzhhRGJXTndkTm5hUzZmTmZ2Wk5feVpJbEl0VVN6ZmZjNHNZMF8xeGY3OGlCRGU2OWg4Q2xabG9haWxaTlZIWUN0NS0xRkdKQjE5clE4eTQ?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-14T19:43:00+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Why Is Bitcoin Crashing This Week?",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcmZZbmRObG5qR0F0V1dHOGFkaDJVSlBpb2lVelppUEZmTGoyak9TZzhKRmZjbVNLY20tUjAtaWdpR214d3RBY3ZRWE93N0ZUdTRjV2x2Zm5UY3JiaFR1REdpMjdfZHpCUGFwN1ZXTjQwN29lSmM4TGNUdWlxWV9WelN1TkhiRkFMWVlPNlRjUGt3cmZ4cEdN?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-14T19:17:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlZuRGNwODhyT3Npb1V3dDVFSnQ3OFZ2eDY1VUk0WDdLUWktdVNrSnQwQzhhZDJWcFdCeWtwd0plOG41bEdYSk9PZmFrQ1JlUjJqb3RKWXVzOWZCOHRrU3BoWlluOU5kczhwVldlZElqa0pyUHJ5M2tNYWZFVkF3T3hvTWc1YXdCTzdOVFdOTnRGREFJSHlvbFVsanFQWlNLczZUak1ZWlNoT0EyT1R2NGNhaUtJZw?oc=5",
@@ -229,6 +249,16 @@
     "macro"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Experts assess the fallout from Nvidia's spy scandal and what it means for AI stocks",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWJ6THJNZl9UeDFZdll5WFZ1MVNGdy14MXFqNkNFMEhaakNDNE1LenppWTg2dmw3LVc1ZDJGNkxVNlNwTmtTX1IzSTFVWVp1bmF6QnliMkRYaHB5ZjZoZU9LTmdOVFZpVzltYW5xNEFfUnFtdzh1SC1mR0FFd3VMNm9BMmM1OUY1ZUlZVXBDTWlrWHZkeXdTVl9QYWFMQVVJcnVyTU5yU2lfLS1NTTVhQTNSMGx2bDZSM2NyNnNYdDBoMjcx?oc=5",
+   "src": "CNBC",
+   "t": "2026-11-14T15:21:09+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S.",
@@ -2638,36 +2668,6 @@
     "usdjpy"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "WTI – Rally in the play [Video]",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBVzZ3LTU0bjlZemVraTBEZ2tMN1FXdEJvTXB3YjBxU25FOUtHdTNyTjl5UDhNMWtCRlVmWjFCeVE2NGllY0kwa213LVZEclZWZDd6Y0RuSHFiRHhhemFzNWw2XzlqeUJNUUthWUxyeUx2VTVfNDBsZXZxRnc1Q3M?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-13T12:47:05+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Fed's Williams says central bank has 'work to do' to get inflation back on target",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORC1qdFFiTXZNaDRBdkxhZWx0Skptam1QdklPb1hCM1lWY01BM1luRWtGdmdKNjlwT0QxNEtyNjVjRHVNdFZtTndNajRCSnpWWUN1RW5IMUdSdVdSVEpKV3RBUTlYQVF1bEI0WDBQdXdqN1ZRcG9RYjl3Q3Rmek1NdGdzQi1JWDNtM0YyakM3bXp6dGJqNGduM01ZZXJoY0JfNXJMS2c3TFNlTmEwUkdycUlOMFBwejBPbTA4cA?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-13T12:45:36+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Market wrap: Eicher Motors, HUL, Shriram Finance, Tata Motors PV top gainers and losers on Nifty and Sens",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTFQ3RER3Qk95YktqLXBTMVBhNmJNTGUzdmJZM3VKeW84ZmMzYi1wOWlHTngxX0lOekNQRmVDeDBIdThhcXFNMUdCczdYeXRiay1nNFJYWkpUVXdEaFF1U242dWRwQ2JTWEdsZ1BFVzBLcEltRXJWTlVCdmU0TWI2VGVrbmVfOEtKb1kybm1wMUlOT0FNZXVrbEluM21VQkVsbnlKdjdoa1hSdUxXeUphc0daZGFKZEJPYkFfdlJLYlBoMWNnbk1fN2tKOHlwYkJOVlNfdGRqRVR2Y2t1alVQa3BUQ2lRV3lSbDEyTjAxcnJ4S3kwMDZucHdkOXZ5STJjTkF2c1FpMWNqU2w1SDJwcTZJd0Uwd9IBmwJBVV95cUxOT0pzVjYxVXB3dWszeG5reDBxbzFpZ0VITXZKYm5OQmhoZExZTVFZd0JyVFpUa2Vqb1NkeGU3c0FFMmI4WTRGU2w0S1FrUkhNWVAzdTZySjkxd2E0amx4a1JCNTlMcFNmdEU1MjZiU2s5Y3N6eXpaZWVxZDRQRHJWTVpkMXdEMFNPaHcyQ3VtSmdLZUU3RDc5bUF1ZU8xcmpUWUYyVW54cUFjeTVzdFBmSGlJS1NKU2dsZDI4X29hTXgwVnVJMWRCMG5HY0wwNmhSd0RDRzdkZGxWejhVMEdOaVFnVVctZjFCVmoxNzgxejhHaG1fOTJITGJNZGl3elVMTF9IZGMwQmhpZUFUUDBVX1lUeFhtSm1IVlZ3?oc=5",
-   "src": "The Economic Times",
-   "t": "2026-11-13T12:44:46+00:00",
-   "tags": [
-    "nifty"
-   ],
-   "tone": "bullish"
   }
  ]
 }
