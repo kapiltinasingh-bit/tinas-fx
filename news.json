@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T11:07:48.603451+00:00",
+ "updated": "2026-11-14T11:46:35.852093+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 8
+   "new": 7
   },
   {
    "feed": "Google News",
@@ -54,7 +54,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "MarketWatch",
@@ -90,7 +90,7 @@
    "feed": "Economic Times",
    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Moneycontrol",
@@ -1555,6 +1555,17 @@
    "tone": "neutral"
   },
   {
+   "title": "Why is Gold rising as Bitcoin struggles?",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRlJFTWVVb2lBcFNWejREdFEza0MzcVFpTDhhanh3Z3dqLS1CaUFGTGE4alJCTTdIZ3RqNEN6T3V2YkNpUHd5M1JBLXBCcmJIWW1DQVVfUU1pcU1WTk1TVXZYZUtDVHNvMmx5bWEtbDJWenZXb1lHSkVuaFpOR2JyNXl4clhlQ2VyNU1vdmVWMGtYc1hIMGxLYnV2eFlObjZ4Z3BiMDZXa2c2R3pWVjA4X085YTRxLWtRTEU0WWllaURocXMwbW9yamZRLWhXbEhGczRXR1p5blRtSEhORXc?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-13T15:20:17+00:00",
+   "tags": [
+    "gold",
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "S&P 500 Opens Lower as Tech Selloff Splits the Market",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXNJZFNVZzNJNEhHTVQ3RlVVV3BXZjc0STB1eEIzYlUyZUxZU1ZwckR2TTR2NjNpanNRZ1BkWWxQajhMaHVQUUpsdWg3b0JVOUs0eGh4NnFOaDRsTXlfQVlSbXpvRzVTQUZpa0ZaelhlN1JmSDFZSTc3Ql93OVhSYThIT0daRmxudmFTTHBPcHgxVUVtZ2J3RGpTbmJXaDJSYnFyR2ZJTHF2Y1pWNXNwZ0NEVnNVMnlJTkZqYU5RTFBlTERRWVZoSE9HNA?oc=5",
    "src": "24/7 Wall St.",
@@ -1989,6 +2000,16 @@
     "oil"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Dollar posts one of its best runs of 2026 as 'hot' inflation and hawkish Fed comments fuel rally",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkN1LXl4cTdWNG1OUWRlVDJmMm56ampNZVp3Y0x1VElCZHByVDJzNGxJU29QRVRsWFFILXdKTU5CRDZHZDJMZ0lmSlhqX2c2OXY5V2Z2Y1lTUkNzUzBUWVJKZDQ0Sjd0M1h5a3RzVEZDZG1BaUJHcWJEU0dfd1o0empURzBzZDJKMGR0ZlYwanRRM3dVOEp6TUVyUU5GRUx1dWpBRjJQRG41S18yYnpsVzlaSnpVb0dRUXFNNHUwQW9sOENFdlFHekozZlF0Ni1KYTRVWHZIU2Y?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-13T13:25:46+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Sensex, Nifty edge down on profit taking, inflation worries",
@@ -2648,26 +2669,6 @@
    "tags": [
     "spx",
     "nasdaq"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Silver price today: broadly unchanged on November 13",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdE4xbEZzbkt2akJ3a1RmdmticVl4c0FsODFpckJYOS1KLXhhM3JQOTYzSmZZa252bTlRZHdpVDVJS2t1NjBIdnVLV09PM0NLTldFTEdaRzJqVFFhLXhZc0Zvd2Vzcm85V1lIaEpjY2J3RF9LOTFnLThqQzV4ZUFMaGdHeTEwLXI2cm5fa2tSUlQ5cUJyUXdmOHRMYjd0dUNsT0c2UFF3Q2hBT08xLWVUdkxiSQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-13T09:30:06+00:00",
-   "tags": [
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "How much lower can Bitcoin, Ethereum and XRP go?",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd09lTTVCRXJvSk13SG9HQ3pkTGdSUlVKQXNFa2xpUFIzYVg0YnMwU0lLT0RMdXpDSEtXZjJMREgtc0pYUE51V25GbWZaQUc1VXBraGNaTG0tM2owTUt4T3pCMG9iMW8zU1p6cTYzMzZ5LVRaczIzeHRLUDdCRHpvQlBUN3l4bHJCZmlXQnlMLWt0VWNtRHAwWFYyeDhNSDFPNklZUEhZdElPRzdvZDYyblhIUzdEdkYwZE1JV2hiRE5hVk1tTkl4QVBFc08wS2JH?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-13T09:29:06+00:00",
-   "tags": [
-    "btc"
    ],
    "tone": "bearish"
   }
