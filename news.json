@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-14T14:24:54.055977+00:00",
+ "updated": "2026-11-14T15:05:38.973580+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 7
+   "new": 6
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -72,13 +72,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "MarketWatch",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 13
+   "new": 12
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,26 @@
   }
  ],
  "items": [
+  {
+   "title": "Crypto Market Crashes as Bitcoin and Altcoins Slide, Fear and Greed Index Sinks to 17 and Liquidations Surge",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTG56RENCMERuRWRkLVR3a2RwdV9ubTV5X3N4RThjWTQtX3hNZ0stQ2k1WGRaMmF6TU9WTk1qQWpzdlFCTEFWUzZyU3VzOV9leHlNWklFRVNvNDFSSVdYWUFQMTlKRkxubFpvVWpBcHAxNHludnRSRlhIVHk0M2xHSnBsWU5vcTF1ZzRPQXdONnBOTnhiZmc1ajdZbUxUZUp1cFc1ZWVySWhQZlRuU0RmNE5ZUUZyNWd1WlA3bUhTX2pHSWxDd256XzlzbEJOaGhMRXMyUnpSc2JDLWdHWkxlUkxZT1BxQU5ualE?oc=5",
+   "src": "Benzinga",
+   "t": "2026-11-14T14:30:07+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says",
+   "url": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html",
+   "src": "CNBC",
+   "t": "2026-11-14T14:30:01+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
+  },
   {
    "title": "Bessent Tells the Fed Not to Hike “Too Much”",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTWl1Rk5zN0lnaU5qOU1ZQllsUGFNcWlKZmpyRFhHREJDeDA4cWx2SDlhUnFweV81bzlQMlRGYXdYUFYzQkRKeXJHZVBMNWZNYWFING11Rkl6ZXZpUG9MTVA0ejktbnlGbnZhcTBiZ1l1cHAtVHNjUWpvQ0llT3JqdEI2VC0xMWw2cnhLc0pSdw?oc=5",
@@ -275,6 +295,16 @@
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkxxbE1VclJTQkp3R3ZZR3M4b0UtTUNMMmIzb09GSzlZQU1kUDQzN3ZKRXhleXhXV1BUd1lEMXVSMnZBUDN3WEwwdUM0QVhydk5mZWwxZnRndlJHd2FEQUpWUnRaeG5raGFMY2Z2M1RHRlZYLThiVktPTVVsYVFFS0dkMHlyNmtPNWRlQ3NsYjNRY0dxZVdQaFhRUlRpMTNjdlZqbDBZcVg3Q0tRV3ZFWlQ1bTJIZHl3WXFDV2FJbFVocm8w?oc=5",
    "src": "Reuters",
    "t": "2026-11-14T05:40:00+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3otVnY4ZXphd1g5Q0REOVlqY3c1WXBMSmMtNThTbGlaRGVkVkZXZml1RHlEN3djZXRMT0pSTnJ6c3JiZ0tOdVRRekpJUlBfRV92ZEFEUU9GVU5XZHBYVmotRjFpcExuaER3S1BUaF90UWFaRnVBcFlHazgzOXBSWXJfN1RMSFNrcWY2TVRkQmVTYkNHUUhMeHAyM1huRXItSVhKZU95Q2wyTmg1MnlZcGduR01vdzFBcmpiVA?oc=5",
+   "src": "Reuters",
+   "t": "2026-11-14T05:13:48+00:00",
    "tags": [
     "nasdaq"
    ],
@@ -464,6 +494,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Current price of silver as of Friday, Nov. 13, 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NN0NkalREd0dwaldreUhQNWt5WG96M3FjSUI3MXBlUkFWa19NZDhrRmRRRHlBX2JCNjNtTzh4c2MyUVJHd0VvTXQ2UEI3eDlQWXhhWTN0WlVsZ1J1aENWZWVlQ0VvMzV3OHAxaHBKWlU?oc=5",
+   "src": "Fortune",
+   "t": "2026-11-13T23:52:58+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "S&P 500, Dow, Nasdaq End Lower Amid Nvidia Turmoil, But Record Best Week Since August — SPCX, NVDA, ARM, AZN In Focus",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWUpjR2Y4OTNkb290ZEs3VzNwNWlSRW5zQ19LYVJwRXQ1OTdtbUZadkdQUmNPZ0RaTHQ5VnVVXzA1VWp6VEJjQlkyeGFFNjJwVmdnU2dKM3J2WXpsYVVqRjRCZ0poOUhUWnRTbDZQX0tBbUo3QXlMVTdEV1BxQ0FGcWItZWZpcEZTd2dpZVRR?oc=5",
    "src": "Yahoo Finance",
@@ -525,6 +565,16 @@
     "gold"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "U.S. dollar surges to biggest weekly gains since September on Fed hike certainty By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZG9jcHdaY04wYU9OTFE4OVNwNmo5VUFzQTQyTUl6UjJ0OUtWSi1ST1VFRlN2OXRPMy10aDhtcGkwZHh4UG00SEphbXk2dGFHSzVCd21PT2E0TUNEU3BuT0JjbkFFbFhKZHJxd0VlaXN3emVzVHIxWXJyTjRpa29ybVV0OGNYWHlxT1gwYnZiUWh6NWhtVExqQS1FNW1WRHVDSjNDRGM1QXR0bkgtZVlQNDdZRGhDOExDbXd5M0FvRVhPOUw4V2c?oc=5",
+   "src": "Investing.com India",
+   "t": "2026-11-13T22:52:20+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "US Stock Market today: S&P 500, Nasdaq fall ahead of Nvidia earnings report, Anthropic IPO. List of Wall S",
@@ -1350,6 +1400,16 @@
     "nasdaq"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Neoclouds, AI stocks slide again as Nvidia turmoil rattles sector",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDEwYUl1V3JQSU1MMUlWQ2k5V0toMnNCNUFZLXFaTldqYTVEWXlrZ0xudEhMNDk4bVJweUxrNThEaGo1VmRhYTRndVJ6djRINHRNQU8yVE9oczQyUUVxRzVjbnNzZlFQbEhTcGV6elkzcjNNVWs3RFhZYVg3a00zNlhxam1xV0ExcVM0ZEIzN05oQl9YTU5vUC1FVXFXU1k3dFpwQmx0d0hGdw?oc=5",
+   "src": "Reuters",
+   "t": "2026-11-13T17:17:40+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Goldman Sachs sees a new problem emerging for the Federal Reserve",
@@ -2605,66 +2665,6 @@
    "t": "2026-11-13T11:52:25+00:00",
    "tags": [
     "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
-   "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
-   "src": "CoinDesk",
-   "t": "2026-11-13T11:52:25+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Why are Oil prices pulling back if US-Iran peace talks seem dead?",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTGYxRThHV1VoNXhtakFaWE16bVBvSGRvRVk0M25QSG90Y1FKRVZZeE1GMG9HSkJyaUNpZllaZEgwVGJYdlY3T1MtT1h6UFpDeWx4M3RtZE1GUEI4QllKWTQydm44T19kM0tRbV8xeTQ0eGt5SXI0d25OT0RPVTRsSFZUVVJrRWk4NUtvNEtQdHpLRTVpNkUwRG9vd2tNQVFlR3VWQjNPbUpTWmlfX3hseEYwbDZfQ05neGYwTEtiRUxYbEE?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-13T11:41:27+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "World oil market is returning to surplus as Gulf exports recover, IEA says",
-   "url": "https://www.investing.com/news/commodities-news/world-oil-market-is-returning-to-surplus-as-gulf-exports-recoveriea-says-5024885",
-   "src": "Investing.com",
-   "t": "2026-11-13T11:36:26+00:00",
-   "tags": [
-    "oil"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "The Fed expected rate cuts this year. Now it’s bracing for another inflation fight",
-   "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-   "src": "CNBC",
-   "t": "2026-11-13T11:31:10+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Current price of gold as of November 12, 2026",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pWVFMTUx3c05YLVZsdG9YLVplY0ZIU2x5bW92cDd4dGRpQWo2cmFIX04zMTBQTDlHU2k4NWc5em53dmVWUjRBb0tSZ3B5c2x0Z291emZ4djk3UFNNWVZoemV5ZkVNb3BVNzhOLVJR?oc=5",
-   "src": "Fortune",
-   "t": "2026-11-13T11:21:35+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold struggles below $3,900 ahead of US PPI data",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQekpaVjlZbTJwWWQxTWVQLXV4VkZKeDR2dlNfanhvbjVMTUdTWHEyYUxCS2x1Mkt3aWJ2em1Cdm16SWlhNS16c3Z3eG9WRjBtRWRCOGJmcWNSUGhLN09LY2NxbUx6Q1FuaGpoZVdOT3J6ZlA4eUl0LVJWdEVEU0dCZ1dELWhWakFtcm04N0FBS3FWempF?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-13T11:11:03+00:00",
-   "tags": [
-    "gold"
    ],
    "tone": "neutral"
   }
