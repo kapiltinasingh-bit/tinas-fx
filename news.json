@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T11:46:35.852093+00:00",
+ "updated": "2026-11-14T12:31:37.984662+00:00",
  "count": 250,
  "feeds": [
   {
@@ -24,7 +24,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -60,13 +60,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 11
+   "new": 10
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 5
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "MarketWatch",
@@ -114,10 +114,20 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 0
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Goldman Sachs just slashed its 2027 gold forecast. Here are the new numbers",
+   "url": "https://www.investing.com/news/commodities-news/goldman-sachs-just-slashed-its-2027-gold-forecast-here-are-the-new-numbers-5027310",
+   "src": "Investing.com",
+   "t": "2026-11-14T12:10:32+00:00",
+   "tags": [
+    "gold"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Dalal Street Week Ahead: Can Nifty bulls overcome key resistance levels?",
    "url": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-can-nifty-bulls-overcome-key-resistance-levels/articleshow/135829497.cms",
@@ -910,6 +920,16 @@
    "tone": "neutral"
   },
   {
+   "title": "The Dollar hits its targets; Is Silver approaching a major breakout?",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUkdzYU1SNzkwT1JXZHB3dW9fZ0duZVNpdE9TU3FOWnVWaDd6ejFOdW5YaExoRTY4SHpQNWZTTzRZMFlvcHZvZ2g3dFNiUGlFek9yQ2tBMnFIRjBqR1F0Yk92Qml2am9RRi02czAyRVY1cTdxTG1OVV9makdXcFhqV09rWVlteGZaOEVONlJhZ05yZjZ6bkFqc1hfdE43OElyRXZEQjJHNnc0V3lnNWN5YWlpWQ?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-13T19:13:20+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "US extends shipping law waiver 90 days, to allow freer movement of oil, commodities",
    "url": "https://www.investing.com/news/commodities-news/us-extends-shipping-law-waiver-90-days-to-allow-freer-movement-of-oil-commodities-5026364",
    "src": "Investing.com",
@@ -924,16 +944,6 @@
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSG0tc0pZUGZNTU9mWGo4bnpXTTlkbFNCeVg4QXBUQ09Ia1Z6RlRnX0pFWXlpZ2ZBZlJCa3BwLTFBcTUyNzFyOVhMNGc1R2M0MGRxOWRYWWswQ1hSQ3BRR0Y2Q0xaLWlpbEVPZVlpeFVCNVNaZnZQaGlkN1RYR0VnQ1FmOHo1d190N1BhZ04tdXBhNFNJMms4WDFzQmtYQ3RXS1RZS2FEMTdRSnpUdXlr?oc=5",
    "src": "FXStreet",
    "t": "2026-11-13T19:12:05+00:00",
-   "tags": [
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "The dollar hits its targets. Is silver approaching a major breakout?",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTENWZWlHeWhRbFBXU1RfcHNWZHlKU251enY5aWRQaXBMb2E3MG9sdG9VeHgwdlNsRUVNeGxsZU84UkxHaFpZb3BVY01QcVJqOXZLUldLM3dWNTNnbExSMVJCRFNYTXp2b2hwTUk1MWNja01CM0I2S1VsNzZOYXNVaGVVcnVJR05oOVJMa0FRYWlpT1U2c0RuRWx3aE9KeDg?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-13T19:09:48+00:00",
    "tags": [
     "silver"
    ],
@@ -2002,6 +2012,16 @@
    "tone": "neutral"
   },
   {
+   "title": "Current price of oil as of November 13, 2026",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pek1yV1BQWGpQM3JXb3JhX2d1R3Z0SDNhcUloRkJQTEplUTlsOHdFUE53WmlmNHZsLWxyXzZSWVhHWnVwVUFoUGRaaEgzcjdVR0QzSzM0UVExdkI2aHZ0ekpR?oc=5",
+   "src": "Fortune",
+   "t": "2026-11-13T13:30:00+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Dollar posts one of its best runs of 2026 as 'hot' inflation and hawkish Fed comments fuel rally",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkN1LXl4cTdWNG1OUWRlVDJmMm56ampNZVp3Y0x1VElCZHByVDJzNGxJU29QRVRsWFFILXdKTU5CRDZHZDJMZ0lmSlhqX2c2OXY5V2Z2Y1lTUkNzUzBUWVJKZDQ0Sjd0M1h5a3RzVEZDZG1BaUJHcWJEU0dfd1o0empURzBzZDJKMGR0ZlYwanRRM3dVOEp6TUVyUU5GRUx1dWpBRjJQRG41S18yYnpsVzlaSnpVb0dRUXFNNHUwQW9sOENFdlFHekozZlF0Ni1KYTRVWHZIU2Y?oc=5",
    "src": "FXStreet",
@@ -2093,6 +2113,16 @@
    "tone": "bearish"
   },
   {
+   "title": "AMD’s rally puts a price on Nvidia’s uncertainty",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV2ZrVEFyOEp1a3BBWnB5cUZ4elY5QTJOejFVajhJZk1Ha2RyU0ZETEpZRUhRTUZVanRBa3pGQ3FuNUpjZWYwN2wzcm5YZWNGTUZwV3BSRWVwX2VkVmRiQ3ZTV2JTcE9DQzB2M2daQmJjTmFfS0xzbkRocWNvTzFFbFZncWVjeEJxLVNhWjVpMDlqVU0?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-13T13:01:33+00:00",
+   "tags": [
+    "nasdaq"
+   ],
+   "tone": "bullish"
+  },
+  {
    "title": "Gold Price Forecast – Prices Must Hold $3,800 Next Week",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdE1HMEd5Z0N6ZWJob21wcTVzRFFYMG4tdlJVZXkwOE16RzlENHpTN0pkS2pkUWw5bXBYOUNRTGN6UHNZZ09SM21VS3ZrYlVMVTdfRlRfYUNyMV9yRGYyS3pxOFZGOEE1TVVaSzQ0Z1ctSHBOMTBOQnowNUMyaEw4RDRVVmUwY0Fna3pXRFRTRmcwYWNscWYxcGFnTHlibDJzZ0FCdg?oc=5",
    "src": "FXEmpire",
@@ -2162,6 +2192,16 @@
     "usdjpy"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "WTI – Rally in the play [Video]",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBVzZ3LTU0bjlZemVraTBEZ2tMN1FXdEJvTXB3YjBxU25FOUtHdTNyTjl5UDhNMWtCRlVmWjFCeVE2NGllY0kwa213LVZEclZWZDd6Y0RuSHFiRHhhemFzNWw2XzlqeUJNUUthWUxyeUx2VTVfNDBsZXZxRnc1Q3M?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-13T12:47:05+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "bullish"
   },
   {
    "title": "Fed's Williams says central bank has 'work to do' to get inflation back on target",
@@ -2627,48 +2667,6 @@
    "t": "2026-11-13T10:03:31+00:00",
    "tags": [
     "oil"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaTIzZHZCSGlfZTAwY0VGY1hwZ0stMC1fblpqQ1N1eC1tWHRFazYxeDMxcVIzdEs0NXNUMVRhVWdJTVhOc2ZQcmQwaUFkOVJMZDVJTG5kUlE2aWtNYnljaHlqU05HWjFIUzl0MTJ1UzZGYk11SU5mXzJuTmxwOWFqbHo1TnkwTXZpMFA00gGQAUFVX3lxTE9QZHhGMjFUYWFSaGRxQ2lrQXpWYkdUTzJ6QmRUNFcxV092Q2MzbzZyMm9paGp2eGpEVEVXUzhsdkRZZy1GOFYycFVXYXFTVmlfZmlvM1EzUGh0TkMtU1dlZlVyd0xYemFaeDNYR0RYc2lhdTk4UTNsVjNJM2hXS2hod3dBTzBfYlNnT0dmLUk5dw?oc=5",
-   "src": "CNBC",
-   "t": "2026-11-13T10:00:26+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Stock Market Today: Dow Jones, S&P 500 Futures Rise, Nvidia CEO Exit Remains in Focus — CSCO, AMAT, NU in",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUWxTN1gtLUgyQ25ic3ZNYW1jandqR0puRlpMQ0I0QjlMdUdIVmFnWVlxemdSU3NkcGlULVVqcUhac2d2eE9oOXYzaGxYNldkOXBfelRkNFFvVGhMVGVJeTJiUlcxNEhOakZHU3RnZEtGLXdfdlppV09IdEtFU21uU2VmeF9xaFBzdUhaRDQwSXlsVlBFSVhmVDV0UHhnTk5ERlNDT01Vb0hXdF9LRUtkbDg3NEdHVTVTSGdiUEczal9Vby0ySlZFTWRHeU1seDJYMEdqVVhHeElNVzNEcGNmU3VuancydU5xZ01VaWNWTVZhQQ?oc=5",
-   "src": "Benzinga",
-   "t": "2026-11-13T09:59:13+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
-   "src": "Reuters",
-   "t": "2026-11-13T09:57:30+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "US Stock Futures Edge Lower as Nvidia Leadership Changes Offset Cisco and Applied Materials Forecasts: Dow Jones, S&P, Nasdaq, Wall Street",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWk1fam4tWGxsSWI3dGV0WnVKTnN2bV82ZFBULXZRY3BZbzVpQklkRTZ2ZUt5R3JaRkczOWdUMzJremRjdWdUM1dyb1ZXaml4RFFpY09USTdnaGhFcWtvS1J1UnhyOE1kVm16WHNYYVlkd1pSUWM2WElrSzRRRGNQSXc4dGtDWTZNRkhZa2cwNW01U3JiX01R?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-13T09:54:55+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
    ],
    "tone": "bearish"
   }
