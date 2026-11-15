@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-15T03:48:37.876107+00:00",
+ "updated": "2026-11-15T04:43:40.804678+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -118,6 +118,36 @@
   }
  ],
  "items": [
+  {
+   "title": "Smallcaps jump 3.6%, PSU banks surge 7.5% as Sensex, Nifty extend weekly gains; what lies ahead?",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ0VNaC1pVHp6dE10THhYR2tWWWF6bmpnM1JfNkhmeDY1anB6S2F4c2xCR0UwT0QyY0t3cHdXNDBlQ2lqS2lSTlZKNFYxWWtaajE3MzBHVDZ3Q0dWSW8wNC1lTnl6TmNtTDVRaXpsZGJ1X3BsY3VFOWpQU0lmQzNiZWR6clEtQlpKLWNtRmhkNERSYldUcUhCYk45M1JTT2pNNjlOd3EtQ2dkV2xjRWNXdi15MDlCVFA4Q2YtUmNNR2lLOHhKT3BrVUV0ZDVDR0VNQ2V2cW95MWFmNS04cWZWV0R3ZWVBdkdvUVHSAe8BQVVfeXFMTnppUnhLbjlSV1p4TlRGaTVPSmtJcFYxSmJnS3gwRjM4ME4wWGduR0FJdHFTOV9idmtaQmxndDcwTC1jUkJhUldxTXNxa0V4azZ5NGZuWlZNUkNSV2ptblFodEpVT19qUkoyNDdSTWNIM1FjM1V1Y2I5QkRXTGFBMmZ1SEt5aWZTZERIZkNNVUZ3NGFQa084ZTU3RlhfUmNyd1BVS1JVckFLenRZNDR0bzM4LVQyVXk2b0tDT2puVHRqSDIwdzhQcTdmM1ZmbElrcndLMVBmVlh6akRGaDZmYXlMUG5FQUw5V3A3enl5bkU?oc=5",
+   "src": "Moneycontrol.com",
+   "t": "2026-11-15T04:14:40+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "MCX, BSE, Bharti Airtel shares: Top 3 stocks to buy; check expected returns, ratings, target price by market expert",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNM1R3ZTZDQVZvWlYyWXdTZ2gzT0ZqZk5oa2NTUkFsd21Ld2xzaFNmOElaT2N6cnFTbWs3NHZWaDhKdnpOSzJQV3BYQzFZNDBFQVk1MmItUFo2ZjdNLWwxdTk5bFVBQW1mV1JvYWJjNVBLcUxkcjFQcFhzZXNYSG11UGE5TlZMSWpRQTk0ZXk5UEk2b2RBbmE2SlJXdV81cDUtWVNWZEkyVFJOV3E4TzZydDl5aXZ0RWlJdkpqYTJUeVNqMjdGVWRWU3dzbTV1UHdHaXVOa05USTNxYXE1cV94Z2t3bTRUNDhYMm9ELUx6ZVFKNDVZY1BnZ1c5TXJVd3hqdWZVWDFhaUlRc2PSAZACQVVfeXFMTXZVR1dweGJWN3Q4dlZKTzhJalp0WjRFdF9HaGpId3FFbmtQT1F0YlhKVC12cDNrU1g5R2pFU3hpSmx1bmFoaUE3UnpYcGcyMEswTmtGS3FhTC1FR2JXanMzT2dpenYwRVdmdVhHUWhyYlpzbFAwSWZad1NDbWJMT0FtNzk5d2lPMzlvbDQzamZzajRIRW00cWpDcDk0cTdzOXNlLU5DSG9uc0RMcU5pLUJfQXV4ekdsWGVIZUMtTFp4QVZnT2Q0QW1VRE5tNUpyVzM1RHhjVFNzM3Z3aDkxUmhmR0d3YmFESFJSUXdxRERGa2pjUUt1Z3VST2tXalRkQ080ODZvUS1abjVhRWtFSmI?oc=5",
+   "src": "Livemint",
+   "t": "2026-11-15T04:13:39+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Will Sensex, Nifty continue their bull run or consolidate? 4 factors to watch out for this week",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYzlYZ3lsM3BwLU1MTTNUSk55QlFZOTlIY3FHSWtyREhoQXJKbUQyRW9xdXl6akdHTEI0ZXI3VFJEaVI1UUdjcFdDUVlUaXRhSHhITkg3QUc3TEdDSmFibklCZ1dnZlkzdGZwVnhTMnljeGRaRWFOTlkzMUF0XzExRS1FdGhtWXg0aW8zZy10aDY0MEhHVUFFXzZoZkd6VWVNQXVaM1VickdpNldpMjJ5Qm1GTDB6enBvYTg4a0pZZDZlMTltMEFwX3ZMa0FlRFFGTXZLdmtZN3lIMndPSEwyTjdKa2VNZ2NWa242bGNEWGRmeEhnM2tnWF9vSdIBgAJBVV95cUxQOG52UTBkNDlYME8xVEdjTkxDTld3RFRxcmhSRDFRVkVXQ3FheERGWWxVbUdxWE5KNU1XRGstbk9LazR6c3FsUUVGRkdMN3MxODdPQ0ExT2hIUDhMM1BlX3hnSXNUQmN3cHhENFFHWUswajNVeHVqOFd0UlJ4VTAyV2h5WEZYcHJVUXczOENpVWUxM0pSVC1wNThTV0dtODQ4ZE5VN04waldCY0x0TnBpek1LUElYOFVnV2tabGotN25BWjF6MzFLVmstU2VYZXFlU2N5bElqTVJHYVdoOE9LaDVLbDRJb1dONTQ5ZnJLSkM3VGdHaW41XzN6Qnk0bVBz?oc=5",
+   "src": "The Economic Times",
+   "t": "2026-11-15T03:52:52+00:00",
+   "tags": [
+    "nifty"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Gold, silver prices today, 15 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNkZ2aHNGMURpQUpIXzNzVFFkbHFSOXFXNVJvaTNneUc1Vnl2Z0JRMXlhY1E1LUpBMGhSQ3NReFpLV3g0OC1uX1AxNnFWZ00zaWU2bUlmS1JCNGFiTDIzZ09ieXVDUk11eldWbkcwbDNpTm5WVzR2Y3JmaWFRdHN2MXJjMmhjeG9tWHRJQ2JIbEl1dDlsVmVobWJ0TTRXMS1BTWxid2RhRTFOMFN1M0FKR01UcEJ5U2piT3NzOHNLQ1ZZR2NzSFJlSlg5ei1kd3JZQXlBUE1kNGcyelh1eWZiWkxSaExKTEFwUWdZMndoZ2VNYlNHY0xDRV9vTVM3WHhH0gGGAkFVX3lxTE16Q25hZjdlaVRhMXdaWmxhZVgta0lsRTVRdHdqVU5GMG52MlFxbVNuUjN3LXhGMDlhTlNLTjZ0blBpX3EwZ0QyLXphSE9ud21KRFloSllWYkd1R2pIRkluQmdXYVNpMjBWczVuQjd4alVSV196RTFSam9iNFVRQkVHc05zQ0hOYkRrQVN2RG1fY19ic19rV1ZsOUNfM05oOTB3UndGcUYyekNycFVlVl9vbTJtWjdaNVFKTjQtZkFDdjh1bi1SOERfRkFOQ0VqNThVanRWNVMwWU55RlNKNWhpWkh2V3JLVDJmQ1RSWlhFVFdicjBiQlhFaUYzLWxucnNibFI5ZlE?oc=5",
@@ -392,6 +422,16 @@
     "silver"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "US core inflation may fall to 2.4% by 2027-end: Goldman Sachs’ Fed outlook explained",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTDNVaENTRTBBdGNjRWcyWGF3LVBfdTJRcll4TWZjU0ZPanBoSThINm93QlBNU0F0UFVlWGFicm5LZnBzdFJVM09TRHVYbk5zazdBd1ZVSXRabVZnNjl6LU9tR3RZZU9JNEExdTNjUFVCTEpVWnFab05UMWkxZWt0VVlxM0xKLTFJSlVKRjNKbDhWV1pDM2FrVG8zU29tMnRwSXFWWHVXZnFDcVhUU3ZEVGNVNGU1Nl9STk50dC1JUmh6b0hHWVFzVl9pV1cyekptM1ZHddIB2wFBVV95cUxPbVExSFBjRGxCbW9JMVlMOF9IdzBBdGdrOFN4SDhGd2VYQkRwVDFCUVRZQUpTZ1hCQ2FfR0Q0VVR1YmFqaHRhMWp0aW45X3hQM283RGRUYmNndTVnZGhHcmpTcW9lUjhYRU4wVWZWSXRPQWdtdHRyTWFqT0JvQTBQMmlRcFRtZVZHVmJrNThUc3lSX21kMWREOTBfaExfY3JET1dneHloc3BRYlAxYkFFX3N0R3ZjbVlBcUJTcWpvQnptNXZzN18wbktRSlZmeVNULXM4TUtWdlBLelU?oc=5",
+   "src": "The Financial Express",
+   "t": "2026-11-14T15:54:15+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
@@ -2632,46 +2672,6 @@
    "t": "2026-11-13T14:10:00+00:00",
    "tags": [
     "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "European Shares Retreat From Record Highs as AI Uncertainty and Fed Rate Expectations Weigh on Sentiment: DAX, CAC, FTSE100",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUFZIcE03UHpuOXRQUHZXUlhZRlp4QXVUSGphcnJmenRSdl9aTkR1V1FrUkJUTWZmcFFMZTczUWU3dkJRZS0yOVRnQ1M2UVlvZ1dfZXJiX3ZuV0dyejN5LXR3RXJFeXB0cXBBMFBuN1RKRUplSlBDSHpla214aDZ1UnBlVUhHQTZLbkNHWjh3?oc=5",
-   "src": "Yahoo Finance UK",
-   "t": "2026-11-13T14:05:51+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
-   "url": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
-   "src": "CoinDesk",
-   "t": "2026-11-13T14:02:00+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Bitcoin Faces $63K–$66K Risk as ETF Outflows Drain Liquidity",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcExSeXFKQTR5T2lST1N6cWFVVzM4Nlp5alJYNnVaTmtHaC0zbWpOSXZVNHlkVXg1R1FqV0swLUNwMDg5X3ZmUmVELXdmenlUQ3BDWW95Y1dqTFhXS1VLRkc0NEVhSzNLM3ZMX09aT3BNNUczTG9fU283eVhEX3JzYmUxRzBHRlZCWDU3YkdKVTNsMG5iRlVkajJlS3RRcHBhdVozRQ?oc=5",
-   "src": "Investing.com",
-   "t": "2026-11-13T14:01:05+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "FIIs pour in Rs 5,736 crore, but Nifty slips: What is keeping investors cautious?",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaEhkbW82aGZNOHJVb2FMSXpNc0xTeGJPRGwzUXhTUS12TWtVT3pjT05pVGt2bGtFTDdHeUJmRmtlalNHSWxyMk5BQkdwLTg2YUNhNVRfWTJoOUNHbTY4d2hELUhDRmViSjBveXNkcEhYbXRMSUpiSDRYMlR5RGdrYU1nd1BOZ0Z3Mk1HVGExOFJFZE1CVUU3bEo0WDRCMG9XYXFwVEs5Wjc5NVVIbTNzSDZIV2Y3Mmhwd3k2eUVNOWF5UHpl0gHLAUFVX3lxTE54SlVWeG5MeVB1RW9rako0eDN3aUVWQTNzRWdNVHc4VFFLYk9ySFJBU2t3dVg2Y0hMd29QQmQ4aDc3MzUwS1lSMEw1OWRjSGxKS0t2RHRTTDRjZVVuTldBenJLUU54dF9RM0owSUhMQkFGbWUzOG1ib29IRTFwUXVpYmsyaWMtcXRfY1FYMUpqdVpyU1lOQURIY29zd0JmZU5sSmY3QVkxRWpHR1hoVFl3aTIxN3ZzY0pvLTUxNWFZaFlGNVVLRkh6ZWsw?oc=5",
-   "src": "The Financial Express",
-   "t": "2026-11-13T13:59:56+00:00",
-   "tags": [
-    "nifty"
    ],
    "tone": "neutral"
   }
