@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T04:43:40.804678+00:00",
+ "updated": "2026-11-15T05:36:47.705205+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 12
+   "new": 13
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,17 @@
   }
  ],
  "items": [
+  {
+   "title": "S&P 500, Nasdaq 100 Claw Back But NVDA Cloud Looms Overhead",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX3UzaTNkRTFFWGV1V0NGVTlBSXB4NkdIbFFuTmhXMDVSbVFkSjRNcVVqNVlTT2RhMEhubGVYaklqUG8zTlI3NzVoRVZoUnZ0djhKUFV4SXlxUlNUVmk0SktlWWdIVHVQUXphLXVia09jU0p0VTJFSV8yTlcwNWVSeElmMzl6YjliekxMcWgyTGktbmE3SG9UbmRUeXRCZlBKRmN1NjYtWjFZd0dEOUJ5eHVTNNIBswFBVV95cUxNX3UzaTNkRTFFWGV1V0NGVTlBSXB4NkdIbFFuTmhXMDVSbVFkSjRNcVVqNVlTT2RhMEhubGVYaklqUG8zTlI3NzVoRVZoUnZ0djhKUFV4SXlxUlNUVmk0SktlWWdIVHVQUXphLXVia09jU0p0VTJFSV8yTlcwNWVSeElmMzl6YjliekxMcWgyTGktbmE3SG9UbmRUeXRCZlBKRmN1NjYtWjFZd0dEOUJ5eHVTNA?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-11-15T04:40:22+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Smallcaps jump 3.6%, PSU banks surge 7.5% as Sensex, Nifty extend weekly gains; what lies ahead?",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ0VNaC1pVHp6dE10THhYR2tWWWF6bmpnM1JfNkhmeDY1anB6S2F4c2xCR0UwT0QyY0t3cHdXNDBlQ2lqS2lSTlZKNFYxWWtaajE3MzBHVDZ3Q0dWSW8wNC1lTnl6TmNtTDVRaXpsZGJ1X3BsY3VFOWpQU0lmQzNiZWR6clEtQlpKLWNtRmhkNERSYldUcUhCYk45M1JTT2pNNjlOd3EtQ2dkV2xjRWNXdi15MDlCVFA4Q2YtUmNNR2lLOHhKT3BrVUV0ZDVDR0VNQ2V2cW95MWFmNS04cWZWV0R3ZWVBdkdvUVHSAe8BQVVfeXFMTnppUnhLbjlSV1p4TlRGaTVPSmtJcFYxSmJnS3gwRjM4ME4wWGduR0FJdHFTOV9idmtaQmxndDcwTC1jUkJhUldxTXNxa0V4azZ5NGZuWlZNUkNSV2ptblFodEpVT19qUkoyNDdSTWNIM1FjM1V1Y2I5QkRXTGFBMmZ1SEt5aWZTZERIZkNNVUZ3NGFQa084ZTU3RlhfUmNyd1BVS1JVckFLenRZNDR0bzM4LVQyVXk2b0tDT2puVHRqSDIwdzhQcTdmM1ZmbElrcndLMVBmVlh6akRGaDZmYXlMUG5FQUw5V3A3enl5bkU?oc=5",
@@ -137,6 +148,16 @@
     "nifty"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin Tumbles to Three-Month Low as Liquidations Accelerate",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFN4Yk1qMGk3ejFQc2RuVXlMMWoxUmd6T3NHOGM1WEFCd2E2ZFplM0NXMGRhb3VFS0VtWEtVajlzUS1UV0N6aVpZSlB5Wm5rbWNTUG9nNTNoNUI1LXB1OF9vUWxRNHVSaXBkbmJlbXFYZ1BWWllpY2FoUm5KWXdycXM4VTZXNldjVDJTUHYzRG1IWUt5Ujc3NjFvYWVab1IyUWxQaVVkb2E0NWlLY1hyRHZ3?oc=5",
+   "src": "Bloomberg.com",
+   "t": "2026-11-15T04:01:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Will Sensex, Nifty continue their bull run or consolidate? 4 factors to watch out for this week",
@@ -671,6 +692,17 @@
    "t": "2026-11-14T10:00:00+00:00",
    "tags": [
     "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "US Democratic senator wants assessment of whether Nvidia is 'too big to fail'",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU1VaSFhwajh0clNVbElvWjVHcHZGaDBibjRzNjhwMU5RSVJ2bkVwRjczMzhrdmZUTXlmc190QjlELUQzYzRkSW9LX0NjXzA1cXQ0OTNxYWRRQVJLaV9WYXVyWGZ5QlIwZ2IxN0FxQi00TTJwcW84ZlFJMlVsQ1h1dmZXUjNtZGczampObE9GNVR3TzQyZlFIamc0bThDOUdEdE1ScEVtNDhJZmdiSFpwc1BZR2pzcENKLXZESlJOZw?oc=5",
+   "src": "Reuters",
+   "t": "2026-11-14T08:46:21+00:00",
+   "tags": [
+    "nasdaq",
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -2643,37 +2675,6 @@
     "macro"
    ],
    "tone": "bullish"
-  },
-  {
-   "title": "Gold hit its lowest level of 2026 near $3,850",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX0RSdGFkTEROdWJjRzUwb21EdkQxRHpveUVIYWZ1Rml6WVZBeEVwN0FPN3VJaTFmYllxZThNbmIwdjRIX09kRERCSndRRExjQXhnblRzX05BMmM1Qlh1MVFVblgxNllFX0JDQmFGODhWQWdGTnRDczgwdjhGZlgwblFIOTA0QnR6Yzk0MW52dnFIdTFWSEE?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-13T14:13:02+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "TSX futures muted as gold edges higher; investors assess Nvidia CEO's exit",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2QxQkdDLTNWckZhUTZqSEtDd213Qnd5cWhfeGxuMnktd0NTZllGd0ticHpnR2llOEoydG9fM2JDRURKOVZkNFI1d2NkaDlMcURrRy0tendubzFLUjhHWXdzRkxnRWJvUXVLYTBDVlZLbnJFUTlUeV9zdzFjQk9KOXltNTdTT3JwUG5wcTZRMXkxNlRXWE1KQ2ZsMm52MjlwenN5X2lReDRoLWJJOXVOTWliZXI2dmRhVkJOMA?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-13T14:10:54+00:00",
-   "tags": [
-    "gold",
-    "nasdaq"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Fed’s Collins Says Inflation Fight Outweighs Housing Woes",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEwzV3pSLU9vQ2tmOXhVYzdoTzhyaEcxUjdBdzM2NXE2VC0xNlFDaFhUOGlXa0ZqeTBDTFByTE1xVlVEejBIdEdSUlYwZlZhZnE0MXhzTUtQUlcyNFZYNE1rcVZKV1RWVHRmUXYydWNvbC03V0RFd3NjZUtpS2VtVFl1Umh2RWxDbzQ5a0hlR2F1bDhIN0paOW5sNFdTaU1lOEUwNVNZaHI?oc=5",
-   "src": "Bloomberg.com",
-   "t": "2026-11-13T14:10:00+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
   }
  ]
 }
