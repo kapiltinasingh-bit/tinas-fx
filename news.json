@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T22:45:27.454239+00:00",
+ "updated": "2026-11-15T23:34:39.351431+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -36,7 +36,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 4
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -66,7 +66,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 13
+   "new": 12
   },
   {
    "feed": "Investing.com",
@@ -114,10 +114,20 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 2
+   "new": 1
   }
  ],
  "items": [
+  {
+   "title": "Australian Dollar declines below 0.6800 on hawkish Fed, Chinese data in focus",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeEcxQ0J1MVFzTlFuZDdvOHdvbFVBdzI3OXlYbmt6MERXUFdBTnh5RE9SSjJ0emJQRnJTOHN5RXNubzNnRzByd0pYeUVNdTJPc0dMeUppQWFuMFFOUFo2M25fYzctVVQyeDhLd2dFQXRxUWgwN0luWVRBMVJBWGlIMW9FbDhMcHpUMUpSSU5rRzNoZWpLY2tKMmJ5NW1XcDc1QXVIZ0V0emhBaHFwTHFfRlVCUXlnTUd1NGc?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-15T23:24:54+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "How Much Bitcoin Do You Need to Be a Millionaire by 2030?",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3E5ZmI1OGhYV2doMDRiUTgtLXhPN1JnZlhvVEg0a2YxMEhOT1VGajA1UGxpaXl2WjBrSHJsSmFvVEx2bVlYTXdWcFFjSm9LLURka0lTa05rSU93UjNIZU9VNlU2bHJRc0x1dnpVdzZEb3c3a2JNa0xRcUJRRGYyb0VXc00tVGV6c29EZUp3UTZqNENuR1VlaGFReUNSSGdHeUs3ZUVSZFc2REplOFlHODhYLXRzZw?oc=5",
@@ -157,6 +167,16 @@
     "btc"
    ],
    "tone": "bullish"
+  },
+  {
+   "title": "Fed’s Schmid warns inflation fight has grown harder",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONlRNRV91YVJkZ0FaSno3MU1DR3lEa0dRZmNzel9raHJwZVc2UzdwNWg1QkFFQTk1ZGFITWdQMEs1UklZaTFKMk1nRnFrU2xBR0JTNlBUUUlQOHZZck9XTlR5OV9iR0hBZlJWa2hNRW5sdlYzd3Zxbi1yZ0tzazMzSjNGN0d2TDcwUFRaVHN2LVlyNnc?oc=5",
+   "src": "Seeking Alpha",
+   "t": "2026-11-15T21:25:05+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
   },
   {
    "title": "Best Crypto ETFs to Ride the Next Crypto Boom by 2027",
@@ -499,6 +519,17 @@
     "macro"
    ],
    "tone": "neutral"
+  },
+  {
+   "title": "Fed’s biggest AI challenge collides with fallout from Nvidia backlash",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoMWxQYm5NOF9OeW03OHBXVWVDdFFVQUluOXFneXBGTHlrVThqSlhzRGpzOF9EVXNMVDlLRDZEUXFTQzhvRVF5Uzl2NXR1Zmg3b2pNeVZwUmJ4aHJGN2NEQmlDdWRYQ1Y3Yk9Ib0FkZmpNVHczdDJFQQ?oc=5",
+   "src": "TheStreet",
+   "t": "2026-11-15T11:03:00+00:00",
+   "tags": [
+    "nasdaq",
+    "macro"
+   ],
+   "tone": "bearish"
   },
   {
    "title": "Sensex, Nifty cheer as Bulls, FPIs back in Indian stock market; pump in over ₹84k cr in Nov so far - More rally ahead?",
@@ -2645,36 +2676,6 @@
    "t": "2026-11-13T17:01:26+00:00",
    "tags": [
     "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Australian Dollar weakens as rising US yields, Fed tightening outlook weigh",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmlwUVlpYzUzYzNMQlBnbmhUTFJ4MzNaRTczeVBvaVRpaEgyZG1jLW0wQkVmelVGbUhGS0p1UEY0bEY5OUsteUpwSERwVGpqUXRYbUQwclF4T1I2bFFONzNWRUhjNkNYS20wOHJDNjFmVVNFR19HR1lxbktrU3V3aEUtYmp2N0lKS01sZ3ZCUGFaUUstS1ZKcGFOMzI5T2FxM2otZmlraVZmWFUzTV9UQ1BoMnVfb3hT?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-13T16:58:03+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "Fed's Collins warns inflation is broadening, backs careful rate hikes",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeXZuZEVxcmhHV3hyRjdSOWFucWthQTlEX1dVUTRmNnBqX1IwQUFOc2lPSzBibkdaWkdrRTZQdERZRThvUkZOaHlNWERNUkFnVVctVVpKRjU4UFRXaC1hN1JoWFM2eENyTE1jY19rWGJfa2lNWnBINWhyMVppLWJpX3AxMWpVaW9PLXhHYVJBMXY2NUZEYzZYNTV4SDcyNlhMdkNCXzd6YVpITGZXdDQ4?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-13T16:33:38+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Fed's Warsh to take stock of AI revolution as US public grows wary",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkQ4OXhSU2NkMHBKdUJoR3UxSHZZdDcwX2lwRldpTVlTdWstUGdDMExnaDVjb1ItV2kyUlNGRnlNbS04ZDVWX1hrczMxOXRnTG9MWUxFRXBMNFc5UkYwMnpFOGZsTG1KcTB5dGdlckdHRmFrdERaT1VZWkJKU0JhMER4czlvUEJXQ0JxalhaWUxyQ0pfaHh6WHZlUW1GYVBpb3RxQXVUMVpzMGc4c0E?oc=5",
-   "src": "Reuters",
-   "t": "2026-11-13T16:30:03+00:00",
-   "tags": [
-    "macro"
    ],
    "tone": "neutral"
   }
