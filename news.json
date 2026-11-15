@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T17:59:46.934020+00:00",
+ "updated": "2026-11-15T18:39:55.356164+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -60,13 +60,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -119,20 +119,30 @@
  ],
  "items": [
   {
-   "title": "What I know and respect about Colette Kress, the person now leading Nvidia",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN05TY0ZYaEpTRlktS2tXZTBrSTA2Y3o0MEdjNkpJRll1VEZXVWdNY0pxM2ttcXFPdlhJa1B5d1Z1UzZ2dnVySVFIRGpIa09qdUdvSGo4S013cmhINjFoTXJCakEtdjB6Q2NVUXJBd0lLdXpBaEoxZXFEN2VkQ0NnOWoweEFwVHB5bGk1MGkxRktvZVdQdDYzZGlXWQ?oc=5",
+   "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+   "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
    "src": "CNBC",
-   "t": "2026-11-15T17:14:17+00:00",
+   "t": "2026-11-15T18:10:18+00:00",
    "tags": [
     "nasdaq"
    ],
    "tone": "neutral"
   },
   {
-   "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2V3FTYlVUQ2VXQjBsaE1rbGpaU0FsM2RJN2FydGM4VHJsSU43eDR0SUMxNFhXZGtfZ2M2cDFWa2xLakZIellLQWNlaHpNazBCamhVeG14T25tREVFZG1ST3ExMHJma2l4Z3RCWktVbFBXRXduZlFFdHJsaXIxd9IBgwFBVV95cUxPeGkzNkNkWTB4ZkUzekc2SVFfVUlfQ0lFQTFtcWNMS05oaTA1dWhadV80YVZjNzJYLWhsT083bjFSZGNPdjEwU0JMeUZHVWdQS0ZmWTJOYm1hNU1qOVRtRnI5ZjJ1ZjgwV29ZTVhmNzVsMFZfUExiazhQeUltenVvU2tzYw?oc=5",
+   "title": "Silver has a sixth deficit and a small surplus at the same time",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS3gyN1lxNXY2dWFsY0ZsT296T2hZc2dMY1JmbTcyUHNxT29CaU5LaWN3Rm9icjgwQnhuYkwwQlVQOXRJcTZzcEpYS3NselZhbU9kb1Vuc3VOemlhaXEyT1dmLTZSdzV6SEhZbmVUU0VlRXUxdjY5Wmt5eUZCUGJZQ3FBZUZsUlhiTVZ6QUM2c2RxYm55WTV6TGZISzlNbzdBNW9ZUkM5S0dpVU1lNDNr?oc=5",
+   "src": "FXStreet",
+   "t": "2026-11-15T17:42:17+00:00",
+   "tags": [
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "What I know and respect about Colette Kress, the person now leading Nvidia",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN05TY0ZYaEpTRlktS2tXZTBrSTA2Y3o0MEdjNkpJRll1VEZXVWdNY0pxM2ttcXFPdlhJa1B5d1Z1UzZ2dnVySVFIRGpIa09qdUdvSGo4S013cmhINjFoTXJCakEtdjB6Q2NVUXJBd0lLdXpBaEoxZXFEN2VkQ0NnOWoweEFwVHB5bGk1MGkxRktvZVdQdDYzZGlXWQ?oc=5",
    "src": "CNBC",
-   "t": "2026-11-15T16:49:11+00:00",
+   "t": "2026-11-15T17:14:17+00:00",
    "tags": [
     "nasdaq"
    ],
@@ -2669,16 +2679,6 @@
     "nasdaq"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "US producer prices rise moderately in October, but inflation broadens out",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTNDTVIxbVNEWDkyN3QzVk9YR2stVjFURXFqcDNXeGZ2S3FUcmhJNzJqcEp5R3JMY0dDdnl3MDEyRXVKRnB1ZGhMVHpQeTRYNnZwZDQ3UlpnTG5mR1o0akdxWDRhWDU1dm1CY2M3bFZQNHhNRHZyaUZFU1VPODZIdFJrbXBaM2UzTnRXOA?oc=5",
-   "src": "Reuters",
-   "t": "2026-11-13T15:31:16+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "bullish"
   }
  ]
 }
