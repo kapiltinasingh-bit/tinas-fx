@@ -1,78 +1,78 @@
 {
- "updated": "2026-11-15T22:04:59.378745+00:00",
+ "updated": "2026-11-15T22:45:27.454239+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=forex+dollar+euro+yen+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=oil+prices+Brent+WTI+OPEC+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Akitco.com+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "new": 0
   },
   {
    "feed": "CNBC",
@@ -114,10 +114,60 @@
    "feed": "Investing.com",
    "url": "https://www.investing.com/rss/news_11.rss",
    "ok": true,
-   "new": 1
+   "new": 2
   }
  ],
  "items": [
+  {
+   "title": "How Much Bitcoin Do You Need to Be a Millionaire by 2030?",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3E5ZmI1OGhYV2doMDRiUTgtLXhPN1JnZlhvVEg0a2YxMEhOT1VGajA1UGxpaXl2WjBrSHJsSmFvVEx2bVlYTXdWcFFjSm9LLURka0lTa05rSU93UjNIZU9VNlU2bHJRc0x1dnpVdzZEb3c3a2JNa0xRcUJRRGYyb0VXc00tVGV6c29EZUp3UTZqNENuR1VlaGFReUNSSGdHeUs3ZUVSZFc2REplOFlHODhYLXRzZw?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-15T22:23:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "UBS sees Brent hitting $110 as tight supply buffers leave oil vulnerable",
+   "url": "https://www.investing.com/news/commodities-news/ubs-sees-brent-hitting-110-as-tight-supply-buffers-leave-oil-vulnerable-5028142",
+   "src": "Investing.com",
+   "t": "2026-11-15T22:06:00+00:00",
+   "tags": [
+    "oil"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Where Will Bitcoin and Solana Be in 3 Years?",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZnY5SFlfakxtU2kyWVJ1ejJOeDRjZXJPUzZkVkNfZDZXRWRqRlVpbEFTZlMxS3NxODhCSUVRaVowUzVVT2VsUjBYb0s1eUtCRDV3RDJGOV9rWURKOWZIWEJwcUFDM2ZmZzJ2dk9mVUpxWDBkYUdxSkxxbGNaRERsWjlqVjdkMVpKV0oxZE1Pd2xUazAxNVZPcWZsalh6c0gzNElOLQ?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-15T21:49:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Crypto Market Loses $750 Billion in Value as ETF Demand Fades and Liquidations Surge - Grayscale Bitcoin",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWmpmdzZMN1o3OW9LZHBmRkpHV0FtaFNMVXRjMzAyd1RWcGUxR3VmT0xSZ0tPS1FaX1JnS2FBdmlLRXBtdG9ESUFlQTF0Ykt5WFFGc3J6WlpnbURQemlIV1VJclh0eWNJQWhhVm1ubW1SZW9RS1V6VDBKT0YxajliUy1SX0ZFbFg0dldmVEZsM3J2QjRMbUFLWUN6VDhEQ29jNmhrQnJaelpzOW96N0F0R3FWS1N3d1JtS3RvMjgxUEIyQTB5aXZjdjJn?oc=5",
+   "src": "Benzinga",
+   "t": "2026-11-15T21:45:06+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bullish"
+  },
+  {
+   "title": "Best Crypto ETFs to Ride the Next Crypto Boom by 2027",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRk90TnRWOEhjZG1PT3F6aWRscldBc2ZGdGpyODFzSG5YSWc1Y3J1VGFkQlJwUkt0Q1BPaC1EYXY2VmpqNFJkTXE1MjNPdWZ1RDJMSl9qTS10QUFGXzhwVUxFbHJWZ0hIX1FjNnR6eXZfMmJZemN0Y3JUVUppVmdydXVYVmNXZHoyOC04eFhGdkJUV2hxS3EtVVk5WWh6UFMxM3BhOVZBWXhPbW8yNUF3VEZB?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-15T20:41:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Dow Jones, Nasdaq 100, and S&P 500 Outlooks: Key Stock Market News This Week",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeHcxUGNoYnF1dFlaNkd4cEdtYWxxbEhDbE9EcmJyUTg3NFJsREZTY0JxZS1CUmJRZEhteS03UHBEU1pQZEY2bUZXLTZyaXFseDlBdU40MmtiMC1tX2h3Yjl3Q3VfWi1maEU0TWpUM1luS0p1c0puUmRqaXc2OEpPOUg1bmhTNmZUQkhaNGRwMk1GNmJ4MDVJNE1mc3JLenJ6TWg0eEpIUGZPdW1tSmYybXdzNDdncV9mQ1lNb2Ewd0tVRmRwc0hTeA?oc=5",
@@ -2625,57 +2675,6 @@
    "t": "2026-11-13T16:30:03+00:00",
    "tags": [
     "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "British Pound faces weekly losses as US PPI keeps Fed hawks in charge",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3hoZTk1T1Y1aEFSLVZoRExNbXNhaTdENF9IMjJaTC1Vd1poRG84Y3hTUkpJd3NLRjdCSEdDQVpjMndRdmdaN2wzODl4czZ2aVZzNGg2MktzTHIwcUR4Wm8xWEs4WDdGSl96V3ZXQndxSFV5Zk5URzFpX1IzV1hvNUp5eUtIQ0oxTUtidlhLZ0dSNUh5bDdPc2w4MnJuQjZfdjR4NXBBWnpJZmxfMnlPa2p3?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-13T16:28:51+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Watch Fed's Collins Talks Inflation Risks, Rate Policy, Housing, AI",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0drNVFzYnR2SnFHaGh6OHdFRWQtUUlWcEJSa3oyVXpqaEs2ZnZQN2pSZlFLdHd3c2ZWMHJXOVFWUmZkU2NrX25yZ2hvWE9TRlp3ZlZ3QTJ4Q3N3Q0tVaE1IVEFZMXB2Q2ZsUGJEY29mNjc4NWxUX3VrVWlNX05wN0k1T1B6SUxVTWtNb3hkZUUtWFp3d2tfMGl2ai1EZmJTdjhnbmlZSERGY3Z4UUE?oc=5",
-   "src": "Bloomberg.com",
-   "t": "2026-11-13T16:27:41+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Gold & Silver setting up [Video]",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcHMxN1Z3S3BIMmxzUW9mZ2tITUVsN3pVQzd5NkVKQjFwODdfeU5pRDRMSGpIajZ4cnNYclJ4MWREWXBvZURhdVlYVGQ5dngzVERmajN1WlV1Uk9pVG42NFdCa2ZiNjdaX2ZtYUY5Q1V4TG02cmo5U0lpeHZrc0J3QQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-13T16:26:37+00:00",
-   "tags": [
-    "gold",
-    "silver"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
-   "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
-   "src": "MarketWatch",
-   "t": "2026-11-13T16:26:00+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Cryptocurrencies price prediction: Bitcoin, Ethereum & Cryptos – American Wrap 13 November",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaEE3TUFIenQ2a1FXSDhDWXdJMDBreWlsVFEyT3JUMjVXcDNVdjVYWS1vTTZicG4wRW5ZSjVaUmVHaEh2YUVrUEdFdW5VN21ON2xQcExEUVB2eHdCaDl5V3ktZzk2VkpKWUl6NW5IOUJydXZ4X3R3ZENONkk1OVhIQzVyYlQ0QXRFaVAtUFhRamxnM1JlRGM4RzltZnNDZk10U0o1RTVaQVZ3aEdZSWlhRzNFUHRKWVhodmQ5bTAzNFNpWm5TbHlua1dHUkJ0aldpUnpyWjZNejctejNN?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-13T16:24:55+00:00",
-   "tags": [
-    "btc"
    ],
    "tone": "neutral"
   }
