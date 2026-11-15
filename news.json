@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-15T02:59:25.072208+00:00",
+ "updated": "2026-11-15T03:48:37.876107+00:00",
  "count": 250,
  "feeds": [
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=gold+price+OR+XAUUSD+OR+bullion+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -102,7 +102,7 @@
    "feed": "CoinDesk",
    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
    "ok": true,
-   "new": 13
+   "new": 12
   },
   {
    "feed": "Investing.com",
@@ -118,6 +118,27 @@
   }
  ],
  "items": [
+  {
+   "title": "Gold, silver prices today, 15 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNkZ2aHNGMURpQUpIXzNzVFFkbHFSOXFXNVJvaTNneUc1Vnl2Z0JRMXlhY1E1LUpBMGhSQ3NReFpLV3g0OC1uX1AxNnFWZ00zaWU2bUlmS1JCNGFiTDIzZ09ieXVDUk11eldWbkcwbDNpTm5WVzR2Y3JmaWFRdHN2MXJjMmhjeG9tWHRJQ2JIbEl1dDlsVmVobWJ0TTRXMS1BTWxid2RhRTFOMFN1M0FKR01UcEJ5U2piT3NzOHNLQ1ZZR2NzSFJlSlg5ei1kd3JZQXlBUE1kNGcyelh1eWZiWkxSaExKTEFwUWdZMndoZ2VNYlNHY0xDRV9vTVM3WHhH0gGGAkFVX3lxTE16Q25hZjdlaVRhMXdaWmxhZVgta0lsRTVRdHdqVU5GMG52MlFxbVNuUjN3LXhGMDlhTlNLTjZ0blBpX3EwZ0QyLXphSE9ud21KRFloSllWYkd1R2pIRkluQmdXYVNpMjBWczVuQjd4alVSV196RTFSam9iNFVRQkVHc05zQ0hOYkRrQVN2RG1fY19ic19rV1ZsOUNfM05oOTB3UndGcUYyekNycFVlVl9vbTJtWjdaNVFKTjQtZkFDdjh1bi1SOERfRkFOQ0VqNThVanRWNVMwWU55RlNKNWhpWkh2V3JLVDJmQ1RSWlhFVFdicjBiQlhFaUYzLWxucnNibFI5ZlE?oc=5",
+   "src": "Livemint",
+   "t": "2026-11-15T03:34:53+00:00",
+   "tags": [
+    "gold",
+    "silver"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin Selloff Deepens As Bitwise CIO Warns Of ‘Wilderness’ Ahead, Whales Buy The Dip – But $57K Remains In Sight",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWXBES09DcFc1UDFJZ0Z3NDVFcDVDWldRVlVZYjR1XzhTOEdwYUJpbXctU3MzRzRjb1FCNWtwbVpEd0JMYlJocjB5NGVta3dxdGJnWWMtSi1pSzRJR2tKSXhOZE1HWmtFWjZBUVFRSzFWTnFQTUZnbjRVOVRtVkRFQVM1WWJFazd5RU1TMmxiMnhKTzV6aDZVbWY0RmdRUGZUaUE?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-11-15T02:51:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
    "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
@@ -530,6 +551,16 @@
    "t": "2026-11-14T12:57:00+00:00",
    "tags": [
     "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Benzinga Bulls and Bears: Nvidia, Rocket Lab, Nebius",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXBoYXpYQ1NPem9sQ1dxTW9CQl9MWnhNRzY1V3ZSS3hyOHAyc0ExWWFKVWFXUl9MQlF2R3pvQjlQOGlTMnlaNkducHZPYVVueEEtanB2WWpva0xnTjcySDBzOHd0VlBKc1QyTFVROGNJdndtT1dPTW42OE1FN2pCVlZ4ZXljVzBTaVN1cW96c0xrZlkzaUhoVmQ3M0Q4M0s4cjZZbm8tRzN0Smw2MmJVRS1R?oc=5",
+   "src": "Benzinga",
+   "t": "2026-11-14T12:17:23+00:00",
+   "tags": [
+    "nasdaq"
    ],
    "tone": "neutral"
   },
@@ -2643,37 +2674,6 @@
     "nifty"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Goolsbee Says Fed Must Reestablish Its Inflation Credibility",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRkdUNWlhMGFRZG5rd2ZNZE1SUHgyYl9YUTZRbWZRYkFfNkc3ZWJxeEVuOW5VOGdjUFFOb191N3VYLUhvOTBtRHZYVS0wa0FwdXFzZnFPVmI3X3I3bE1sVlp6RS1Jdm5vRW4tcndnSl9IQ0FQUGd0ODhHRkpUMlB0akJ0akZpZTNNdlZXdk8wREY3bHZRTzdfcFFLQjRsancxWHBvSlNRZTdKaFNhMmQyOQ?oc=5",
-   "src": "Bloomberg.com",
-   "t": "2026-11-13T13:59:19+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Bitcoin Weekly Forecast: BTC drops below $68,000 as oversold signal fails to stop sellers",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORFF0SC1UXzgxelpxallGU2FWQldxM3N1MFBjOXAyZ0ZoY196b2ItUlI5UmpxRko1dzQzblVLS2hfR1pIMGRQQWtEdVJrV2pPck1ZbEV6R1dHcnREdkdzTklHUEI2NmZmbWZ6U0ZkREUwTjVjdU45ZmxzMnBleW5PVGlEakpZbUJmRUk5ZlJHd2hQbjRqRm9zSWJwcmoyVHo3LU1WSmpnYUZ6Y3E2ZnE4bWJoV1drTFNUUHBEbnU5aTlJSGpaY1BRNTlsMU9oa1RHOE5fTnctZVZheTJsbE9oSA?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-13T13:58:49+00:00",
-   "tags": [
-    "btc"
-   ],
-   "tone": "bearish"
-  },
-  {
-   "title": "Gold rebounds from 13-month low as PPI complicates Fed outlook - Kitco AM Report",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHhsRVdzdDdzX29SbU5XZElHR1JvQ3I0ekhDckpVU2s2MVJRY2djN29JaTk5dDE2bG5PRGlCY0JHajlyaVZiTGhmdlJ4aDFDQ3h2V3ZYZmVBcnZwYTBUajg5V1prR0xyeS1kbWQxRDlUZ3c1YkhPaFZVS0xwcm5HSGFIZXhScmt4UHd1c01pdzJCbG5OaDNYTVl1TWNObFFqNEF5VElLQmN0NGJudXBVOVFKMDdlaGc?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-13T13:57:43+00:00",
-   "tags": [
-    "gold",
-    "macro"
-   ],
-   "tone": "bullish"
   }
  ]
 }
