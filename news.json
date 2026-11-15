@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T20:03:32.088409+00:00",
+ "updated": "2026-11-15T20:45:31.796135+00:00",
  "count": 250,
  "feeds": [
   {
@@ -18,7 +18,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Federal+Reserve+rates+inflation+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 3
   },
   {
    "feed": "Google News",
@@ -48,13 +48,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 2
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -118,6 +118,17 @@
   }
  ],
  "items": [
+  {
+   "title": "Dow Jones, Nasdaq 100, and S&P 500 Outlooks: Key Stock Market News This Week",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeHcxUGNoYnF1dFlaNkd4cEdtYWxxbEhDbE9EcmJyUTg3NFJsREZTY0JxZS1CUmJRZEhteS03UHBEU1pQZEY2bUZXLTZyaXFseDlBdU40MmtiMC1tX2h3Yjl3Q3VfWi1maEU0TWpUM1luS0p1c0puUmRqaXc2OEpPOUg1bmhTNmZUQkhaNGRwMk1GNmJ4MDVJNE1mc3JLenJ6TWg0eEpIUGZPdW1tSmYybXdzNDdncV9mQ1lNb2Ewd0tVRmRwc0hTeA?oc=5",
+   "src": "Benzinga",
+   "t": "2026-11-15T20:30:08+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Prediction: When Will Bitcoin Get Back to Its All-Time High?",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdHJvb1U3bHlidi12S096SVdDUUlCYXVoSzltT2k2U1pmdDdVcTBSdU5qWVo5YmtvMmVESDNlaUNZdkVlcE0xek1CX19rSHF0TG9ZSWViZ1pCNUFYc09JdTZRVWlxdzJsYkNNTy00Zjl6QmJIX2l1WDlXT3JUeVhMT1ljcnEyUVJuTF9PZlB0SEZ5TGFzS0tkeEQzT0FvbU5WcEVsZ2dzM3NlUnZNSUhER1pYVTF4dnFE?oc=5",
@@ -193,6 +204,16 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcHVVT0thQUt5SFBncDl2Szl0bmkySkRCanhTVTdsNzNTdWZtQmxUNVFONUVqYUVfdUZ1QkJJR2xNZVp6RjNhZE9iZXNJSlE2U2p6b1I2X1Boa0dFWWotdkZ2a3oySEZDR0VEWk1LTGdzUjUyc1R0RlRoN3k1NVhLcFdnU0lKNnhGSnQzYi0tb09HcnYxNG14S2MwNlVldXRxMXgzLVhDQ294Zw?oc=5",
    "src": "Investing.com",
    "t": "2026-11-15T18:51:10+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Schmid Says Fed Has More Work To Do to Bring Down Inflation",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlRIUFR3TDJ6U21FdjlsZlNxZHBNQXJUaUpRZjNjNld2bUZianpsUEExS0NVQWVmN0RwVGY0VndQQk5oVGhHZ3pzcV9IMmJrS05tVzBrMWZ6WTV3X0JGWFR3NXJvLUMtTzZVNlRieXBENWhTX3k0S0JpeWRicVFaSmpiVjBBdWwwNkxrRV9ZLXFZNnNlS1A5LTA3VzYwWHRCRV9XSkdZYXAzWE9vYVM0?oc=5",
+   "src": "Bloomberg.com",
+   "t": "2026-11-15T18:40:00+00:00",
    "tags": [
     "macro"
    ],
@@ -2657,26 +2678,6 @@
     "btc"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Gold price rebounds but heads for biggest weekly loss since June",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcEp4Uy02WVlLLTQ1dGVVNWt0a0tqMmhXRzRweGRudlk0RVdhOG5oc05XaHUwci1aMnBuWDZxMFl4VUNWRVhsRFZ2Zi05YUpIZS13c3d3S2NkNEpIX1p3WkRzRnFabkV6RUt6T3Y3NE5nVXpWbDZ3S19zaURIb3lhRHNFUm1pVE5rMDBId1p0N18?oc=5",
-   "src": "Mining.com.au",
-   "t": "2026-11-13T16:09:37+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bullish"
-  },
-  {
-   "title": "India gold demand stays firm as lower prices draw festive buying",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVlMTTd1TU12ZXFIT1ZOQ0VQaS1rZlF3bWd2cXpEMnFfcllRSzNtNVNEWHdzLXduVENXX1V1ZmZqVFQxZHJWaXRob3g1d1BlanRib1NUNC1TaGh1dlQ3bFdhSkV3c0VGaXNUQkFVazBVS3YzcTRFd1B4cDZXYjFtbDNkSEoyQ05xTGhMRmJiM1V0UkFCYWJNcDJmOGlKcjZPS0V3ZDd5clJLeDRWSVBFNTh3?oc=5",
-   "src": "Kitco",
-   "t": "2026-11-13T16:08:28+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "bearish"
   }
  ]
 }
