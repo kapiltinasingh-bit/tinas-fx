@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T18:39:55.356164+00:00",
+ "updated": "2026-11-15T19:26:49.438762+00:00",
  "count": 250,
  "feeds": [
   {
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -48,7 +48,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -60,13 +60,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 2
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Afxstreet.com+gold+OR+forex+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
@@ -78,7 +78,7 @@
    "feed": "CNBC",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "new": 2
+   "new": 1
   },
   {
    "feed": "MarketWatch",
@@ -118,6 +118,46 @@
   }
  ],
  "items": [
+  {
+   "title": "Tom Lee on the Crypto Crash: Here’s What It Means for Ethereum Holders",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcmNtcXdtVHVvQ0plSkVYZzV4bVVKZjNJbk9qdndCQ0ZRREZfLW5ZcDlNRm03aHoySlFnek1ZZkh3a2FmRkRqWHVnR3ZZRnRiWURiMFlXVGc2aGNmd2ZhNnJCdXNraEtHeFJIVXd2US11czI2dWFxZ29FZzVKWF9pNk9wWndYeVpwTXpoam5BeVVsWmVMR3ktRi0zeEdMM2I3YnM2eDBWTzgyWGpvTjJaU2MtYVVpcmVRTDJqeXJ1dEhXWHJpblE?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-15T19:03:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2g2VXJDaFI2Q0NVa0xEUFZSSWFDbE1pRE1fajNpUldOYXlXSGtySFdzWGxKbldPYkRPdzVmWW1LaHlBMWdqN2JRdmw2THVGYWFWcmtQTXRlMFAycThoLXRzcWZweTNDYi1xYzVpWnRxMkxJdmlNR0Y1ZlVuWno4TmFlR0JrT1FrUWFzNWVhQTFFMkxrM3dkRnQ3c0FvUWxUc0HSAacBQVVfeXFMTzhqeGJUMlhOY3FiV0hxRmVtSXVzZUR1ejhXMGpDSGwtckREYVZYaVpDekY0WUpheUNxc01wOTh2VGhCR0tRVHNwMjlJV3VZT19iVDBnSmMyNzFOLTRlRWNoUFNNM0M3US1DMFh0T0xSUXowcklvT3A3Qm04ZWpHQnE0YnNTRmF0eTZTQVgwa1E2RE1QMVZuSEpvYlUtTlFOWmJNODhsMEk?oc=5",
+   "src": "CNBC",
+   "t": "2026-11-15T18:58:22+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "What Bitcoin Did Every Time It Fell 50% From Its All-Time High",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ3J2T2FOeXJ4Z0pHQVoyVTB4ZW5lNmpjbzI4Q1NGOHJFYjlkdk80cmpZNEpSSWwyamdsVzNMNDQ5dnNsQzNPSXcxaFVXa0dNRi1RWmFIdWdSZ3lSWUxQb19yQVlIXzk2MUtYVDlsX2N6ZXVyVkhjbVVGQ1YzZk4tYUExVnVQSnhDc21uX3YxblJLLV9FYzdrNWEzaTVVNFBNSWZTSmtTbGVrRVhwRmRCN2FucHE4Mzd6LTltTg?oc=5",
+   "src": "24/7 Wall St.",
+   "t": "2026-11-15T18:57:00+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "Fed ’has some work to do on inflation,’ KC Fed chief says By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcHVVT0thQUt5SFBncDl2Szl0bmkySkRCanhTVTdsNzNTdWZtQmxUNVFONUVqYUVfdUZ1QkJJR2xNZVp6RjNhZE9iZXNJSlE2U2p6b1I2X1Boa0dFWWotdkZ2a3oySEZDR0VEWk1LTGdzUjUyc1R0RlRoN3k1NVhLcFdnU0lKNnhGSnQzYi0tb09HcnYxNG14S2MwNlVldXRxMXgzLVhDQ294Zw?oc=5",
+   "src": "Investing.com",
+   "t": "2026-11-15T18:51:10+00:00",
+   "tags": [
+    "macro"
+   ],
+   "tone": "neutral"
+  },
   {
    "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
    "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
@@ -208,6 +248,16 @@
    "t": "2026-11-15T14:18:27+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "Bitcoin’s four-year cycle is about to turn bullish — if history repeats: Chart of the Day",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZnJscnVUWk1EM255N01qYlh4M2xtWkFTV0VXdDRZcU9RbWFlOWZ0ekN6MlZESUxjRlUyRUxVQ09UWWVrcTRkZDM2Ykg3d0lueTNXQ0tBOFVEekxpazZ2OVlqVGdyb2xxYnAzSGs2OFF5WXN4Qk0wdDMxNDBnejd6ZmZjOFAyNHZkY0NmS25KcWMzcXlOYTRPRFcwSGw5aTc1NmFwdVQtMDI2ZFcxdFdTZlN6aVcxb2c4azZMQkNhWklNbXZQY2xYNFI2SlowVi0tVUJVNnFNRWdONDhfSjl4UGRFa0M?oc=5",
+   "src": "Yahoo Finance",
+   "t": "2026-11-15T14:17:44+00:00",
+   "tags": [
+    "btc"
    ],
    "tone": "neutral"
   },
@@ -2626,57 +2676,6 @@
    "t": "2026-11-13T16:00:24+00:00",
    "tags": [
     "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "HSBC downgrades Nvidia, says stock to struggle until new CEO named",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMEhJbkJpN0piTGdPZkpoZnJxc0FpU0lqSHVNRHBhekhJSGdYejRhVUc2MzBxV191dEd0MEJVem1NdkNHRXBJcWZnXy00enNhbGNmRjBiVjhvdk9TUnJDbnRFYVc0Z0UtRm4zd1ZQZmIzYTFXZFBVU2Z1SVd5OC1pck14R2x6Yi1TSll6NHQ2bS0zSENPbDNSU2VzYlNlU2hOQjR4Sg?oc=5",
-   "src": "CNBC",
-   "t": "2026-11-13T15:50:38+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Canadian Dollar finds support in firmer Oil as traders look to inflation data",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc3VPSS1keXhjRkdrUWk2MWdhU00tcnZDVVVwYkhNdFowY0tkVnFpdlNrSGFvaGM2RE8yQWdQLVVldFlBZ0FYd3VxaWpYUDczVWk0X3dtUzNqejNrdDZ4ZlhhbC1tRTdPY1VMUGxVOElET2Z6Ml9WelBGalY0UnR1X1pTSGEwUmNOaDBURUN3ejlVQU9aR2R6MUxiVEFZUTdkNE44dHVmeEkxSWQwTmoxaGh6WmZ3ME9pRGQzWQ?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-13T15:50:31+00:00",
-   "tags": [
-    "oil",
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "BofA adds January Fed hike to forecast, says quarterly pace no longer enough",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bofa-adds-january-fed-hike-to-forecast-says-quarterly-pace-no-longer-enough/articleshow/135808910.cms",
-   "src": "Economic Times",
-   "t": "2026-11-13T15:45:53+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Wall St reverses early gains as Nvidia fallout rattles tech stocks",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc?oc=5",
-   "src": "Reuters",
-   "t": "2026-11-13T15:43:14+00:00",
-   "tags": [
-    "nasdaq"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Alex Kantrowitz explains why Jensen Huang's ouster as Nvidia CEO is 'good for America'",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbko1b1VldjBmaVZtdVR2YUh0eUUzR200TTc1dnZTNFVfSXBPYXNadV9FTEJBUGpaXzBHdGpFLU4td2p2TmlsRVV2YTNnQmlfTURBcGRNdHJrSlcwNFdfcnhkakNwWkhkTk9Benl4cWtwLWc3clJNbUliU284ZVBkbk5xS2NySXN0dm9pdmZicUpFcjYwWGVSeExGekpBWnRYaUJhV19PTzkxLTFodTJ1akd1X1oyY2RIeS0xMjN4THEwcE02?oc=5",
-   "src": "CNBC",
-   "t": "2026-11-13T15:39:00+00:00",
-   "tags": [
-    "nasdaq"
    ],
    "tone": "neutral"
   }
