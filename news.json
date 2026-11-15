@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T05:36:47.705205+00:00",
+ "updated": "2026-11-15T06:33:32.886601+00:00",
  "count": 250,
  "feeds": [
   {
@@ -30,13 +30,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Sensex+Nifty+stock+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
@@ -48,19 +48,19 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=site%3Acnbc.com+markets+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 5
+   "new": 4
   },
   {
    "feed": "Google News",
@@ -118,6 +118,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Bitcoin slides toward $60,000 as ETF outflows and liquidations intensify",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSXpXdC1Qeng0eEJORnVwaDlIbURad0NMazJVaEtsckhTVWhfemdUdTJ4bzdOQmVhQXNodXlicnJpTVNFQll6TmlVSnNXdmRfTUlCX3JTNllGZ1JqOFQtbU1fSjBsUzVHY2tROUFkOC1UM0JCYTJLOUNwckVNald1VjRxV0ZZeC04cDgyMm1lam1GY1pqTTFjVDRxVFgxQzljMjRUUTNxcnFhbTZxTE5yaG9mR0ctNVpndnBRVnhERG5SQ0E0LWhuTQ?oc=5",
+   "src": "Investing.com",
+   "t": "2026-11-15T05:46:39+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "bearish"
+  },
   {
    "title": "S&P 500, Nasdaq 100 Claw Back But NVDA Cloud Looms Overhead",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX3UzaTNkRTFFWGV1V0NGVTlBSXB4NkdIbFFuTmhXMDVSbVFkSjRNcVVqNVlTT2RhMEhubGVYaklqUG8zTlI3NzVoRVZoUnZ0djhKUFV4SXlxUlNUVmk0SktlWWdIVHVQUXphLXVia09jU0p0VTJFSV8yTlcwNWVSeElmMzl6YjliekxMcWgyTGktbmE3SG9UbmRUeXRCZlBKRmN1NjYtWjFZd0dEOUJ5eHVTNNIBswFBVV95cUxNX3UzaTNkRTFFWGV1V0NGVTlBSXB4NkdIbFFuTmhXMDVSbVFkSjRNcVVqNVlTT2RhMEhubGVYaklqUG8zTlI3NzVoRVZoUnZ0djhKUFV4SXlxUlNUVmk0SktlWWdIVHVQUXphLXVia09jU0p0VTJFSV8yTlcwNWVSeElmMzl6YjliekxMcWgyTGktbmE3SG9UbmRUeXRCZlBKRmN1NjYtWjFZd0dEOUJ5eHVTNA?oc=5",
@@ -195,6 +205,16 @@
    "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
    "src": "CoinDesk",
    "t": "2026-11-15T02:50:57+00:00",
+   "tags": [
+    "btc"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "XRP news: Ripple coin crashes below $1 as money leaves crypto",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVGpwSUxwZjlmaE9MMTZqMmplUGYxX3lkVC1xN3Izc1V5bVRVNDNCOUtNUldOSWNGdTM5MG0yc0VzU3haVmExU1FhdDZEN0J0V2VuSXJmWktFYTZIdHRoSVlvVFRybU9SU3VleC1teXNCbzdYVzZDNm4tSGlvYlhEV2pSaFAxdVJpSkxSRnVqajctUWhZM3V6aWFjZzlNU3R1eHlWQkRzN25fRXdBTm9JRjRB?oc=5",
+   "src": "CoinDesk",
+   "t": "2026-11-15T02:50:00+00:00",
    "tags": [
     "btc"
    ],
@@ -2654,27 +2674,6 @@
     "macro"
    ],
    "tone": "neutral"
-  },
-  {
-   "title": "Weekly focus – US CPI shakes bond markets",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNDZUelNxaFlTbkdWNHowZGc4THZSLVFvSWhJY1owRjdsczhkeGZud0hYYUVJTWpGVV92X0dXUGRCb3FvVGItVnUtVHV0ejNCSmZnbnNNeS1CQjI0eHBWX0pQTkRMQWd4SUVLUzNLUDNFZExzaW40LXA4TnB1YTNmR3pteUM1MjBVeXdyVU5rNA?oc=5",
-   "src": "FXStreet",
-   "t": "2026-11-13T14:19:07+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "Stock Market Today: Nvidia Rebounds After Huang’s Exit as Treasury Yields Top 5%",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzlMTHZnaTJnNUd0aEZLZW5FZDlPb3ZZQUpOb3Utc3paUGtFX1NoQm5xVlphX1hMZ0RseUNpTEN3ejRvUnBXZFNTM3g5Vjd4LTg2YlJXZUdpRWJkVDBDLUEwNDh4UkxRVDNJV2w0SWZhOGV6a3JpQ0JWNVFLSTNhcTlDbGVnS2lKLWlEcEJqb3NITFNMaVhKeXFIMkczNXFf?oc=5",
-   "src": "Yahoo Finance",
-   "t": "2026-11-13T14:15:44+00:00",
-   "tags": [
-    "nasdaq",
-    "macro"
-   ],
-   "tone": "bullish"
   }
  ]
 }
