@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T09:26:41.291771+00:00",
+ "updated": "2026-11-15T10:13:26.129362+00:00",
  "count": 250,
  "feeds": [
   {
@@ -30,7 +30,7 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=stock+market+S%26P+500+Nasdaq+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 1
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -42,13 +42,13 @@
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=Dubai+Financial+Market+OR+Abu+Dhabi+stocks+OR+Tadawul+when%3A1d&hl=en-US&gl=US&ceid",
    "ok": true,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Google News",
    "url": "https://news.google.com/rss/search?q=bitcoin+crypto+market+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "new": 3
+   "new": 2
   },
   {
    "feed": "Google News",
@@ -119,12 +119,44 @@
  ],
  "items": [
   {
+   "title": "Dubai, Abu Dhabi Investors’ Options Shrink on IPO Slump, Buyouts",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmpjTHBCYllsRW1SeEl2cGVHcmxYd0pXOXhMV1EzMnJmOFkwZ1B2WkxLdWVqOFg0dTRfRkdqdXFPYnJ4MmR4NTlyWFF1SXpOZkhmNzIzTlR0XzRPZThDVWVPSE40NDQydXE1b2RlUTNIOGUxblRfZnlPOE16V3Q4cGJCdG81dzVJYmIwOVl2RUtTX2RGWkRXbXpTcWpRXy1RcHVvZlk5Q1QyQTlJVjY0Z29tS3NuV290?oc=5",
+   "src": "Bloomberg.com",
+   "t": "2026-11-15T10:00:00+00:00",
+   "tags": [
+    "dfm"
+   ],
+   "tone": "bearish"
+  },
+  {
+   "title": "WPI inflation, crude oil prices and FII activity to steer stock markets this week",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQXzY5LWR6bEVUMmdLTlkzSXdSMGFqR1l5emZHNC05Qk1ybnlMdEZ3OXoxVFZpVkJGVTNITVZKOXJuYWZIMUZGZWIydUExT1pKajlJWEQtZHhGbXdxakJtX1ZRRWVDeXhFMVFaby13LTM3SVhnLUVTbDlJN0h6UGZ1V1VWcF91UDY2enZjN2luRzVCZGtXZFdsT09XMHBhTWFYR1p5c3FsWXlkeGtJX2QxMTEwc0twU0NmeFFWSXdSaWF2bldTMWZmMTRUNVZweDBfWTJUWnVfRmZnMUl3Z0HSAeQBQVVfeXFMT3lLUzJiOUZYYWJjUC1yYlNLd3RGOU5vZXlKT2NEWnRfcUpUdnRic1IyS1JxMUhqTFZmcUM3dXJ6ek9qaGgwVkRIVWxrMjlPeHFKZFVlMkJjcWhCaUtBZUxTdFdHa1N1ZkY4NXU2WjUweFBlRURpWDh5c0dUUTNzVWFwaXhHRkJmT0tLUjBmOUdDcDMyWThNNzdZWktJV3hqRFhYX2kzUGtTOUdkQ3ZiYmJGNjFWeV9NRU1rX2pwb2g5eGk0UWg5WHhFaVhIRXRUbGY2RVh6NlJ5SzhQMElKeHZ3bnFS?oc=5",
+   "src": "BusinessLine",
+   "t": "2026-11-15T09:35:51+00:00",
+   "tags": [
+    "oil",
+    "macro"
+   ],
+   "tone": "neutral"
+  },
+  {
    "title": "Nifty 50 above 25,000, holds key moving averages: Is Buy-On-Dips right strategy? Here's what stock market experts say",
    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNTlp2MHBfQU12V0NHY2F2dUZ0end3dlhEOXVhUUd3NjYxN2RuYjNlUHVsYWRZQTBpdmc1LXhUOFZZdm12Rzk1R2JmYVFtZ3VFSXhzTlJMWlZPd3BIWFJkTDdGZlZkX2NQeHF1QkxFVXptLUFubFpQcnVkYm9mTUhfckV0TTdMZldmNkt2MGtON05qRzB5NWpyazRIZ2JVN29PZkNPSS1TZm9XM21Cd3VtVzJlTkVMVTJMM2hFT21fTHRHTVdObWtncEtndHJCeGQ3Qm9UVGs3NWFjSDJUdFBiVUsyMVpyTWppYV81UG1Uc3ZuMVFsOG96UEQ3SXpScG12WWtQS2hSME5pUDg0Q2RuSNIBlgJBVV95cUxNM3NSX0JCampQTVVjVmtUSEphbnpDSGs1QVhNQ0JKZmUwOXg4ZW0tU3d2VzZyRmkzbXJ5el9YRjc0dU0yS1N1OTVIZUh5NGdXVk9xQmRJVEJQM1d2d2lLZWE4SXlkYVA5SWJBNXNKWjFKckZiYWFsWW92NVVPU2UtNkRyM2pHd2lKZTZreTJ2TFRiUWd3UWE0RHdRQ0ZfZVJlekpNcVRpTnVLdFc0T050eDRrZXRvUDBkUjMteDZCblVMLS04ejRRUWUxdzVyZVFPaEtKUDlqdDRReTk3eDVjWHVJWWd4bmFlTVFqajJVd1pZemVUNVhIOXpZNFdyR1plcUJENmE1Y2pRcUQyRUJzeEd6MXpKdw?oc=5",
    "src": "Livemint",
    "t": "2026-11-15T08:38:41+00:00",
    "tags": [
     "nifty"
+   ],
+   "tone": "neutral"
+  },
+  {
+   "title": "S&P 500, Nasdaq 100 Claw Back But NVDA Cloud Looms Overhead",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWG9LUkdPcVF1V2wzOUdvNXZ6X2dKb1dnN2JMZHBsaDh2dG4ySGcyVmhWb2tnaDNnbTVFRnM0WmlBclNKaThjRTVRSmVJZVRwUzVhRTJyaVJLbW54ZU1DUW9GVjJnMldsMFhnalZxYk1sOVVKTnZCdXgwbGh1a19sR1pmNmg1TEpqb2YwVnAwQVJPaWpualhUaUduZzhCcEdrUkZMZ2lUWTdqdXl3djVsWWU2bGRJOG_SAbcBQVVfeXFMTlhvS1JHT3FRdVdsMzlHbzV2el9nSm9XZzdiTGRwbGg4dnRuMkhnMlZoVm9rZ2gzZ201RUZzNFppQXJTSmk4Y0U1UUplSWVUcFM1YUUycmlSS21ueGVNQ1FvRlYyZzJXbDBYZ2pWcWJNbDlVSk52QnV4MGxodWtfbEdaZjZoNUxKam9mMFZwMEFST2lqbmpYVGlHbmc4QnBHa1JGTGdpVFk3anV5d3Y1bFllNmxkSThv?oc=5",
+   "src": "FOREX.com",
+   "t": "2026-11-15T07:28:44+00:00",
+   "tags": [
+    "spx",
+    "nasdaq"
    ],
    "tone": "neutral"
   },
@@ -167,17 +199,6 @@
     "btc"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "S&P 500, Nasdaq 100 Claw Back But NVDA Cloud Looms Overhead",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX3UzaTNkRTFFWGV1V0NGVTlBSXB4NkdIbFFuTmhXMDVSbVFkSjRNcVVqNVlTT2RhMEhubGVYaklqUG8zTlI3NzVoRVZoUnZ0djhKUFV4SXlxUlNUVmk0SktlWWdIVHVQUXphLXVia09jU0p0VTJFSV8yTlcwNWVSeElmMzl6YjliekxMcWgyTGktbmE3SG9UbmRUeXRCZlBKRmN1NjYtWjFZd0dEOUJ5eHVTNNIBswFBVV95cUxNX3UzaTNkRTFFWGV1V0NGVTlBSXB4NkdIbFFuTmhXMDVSbVFkSjRNcVVqNVlTT2RhMEhubGVYaklqUG8zTlI3NzVoRVZoUnZ0djhKUFV4SXlxUlNUVmk0SktlWWdIVHVQUXphLXVia09jU0p0VTJFSV8yTlcwNWVSeElmMzl6YjliekxMcWgyTGktbmE3SG9UbmRUeXRCZlBKRmN1NjYtWjFZd0dEOUJ5eHVTNA?oc=5",
-   "src": "FOREX.com",
-   "t": "2026-11-15T04:40:22+00:00",
-   "tags": [
-    "spx",
-    "nasdaq"
-   ],
-   "tone": "neutral"
   },
   {
    "title": "Smallcaps jump 3.6%, PSU banks surge 7.5% as Sensex, Nifty extend weekly gains; what lies ahead?",
@@ -2653,26 +2674,6 @@
     "btc"
    ],
    "tone": "bearish"
-  },
-  {
-   "title": "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmU0RFUySjNHTEtyTnNvUDJIb3N2ZXU5SEdOQm1ZMmEtdExCOEhYWnR1NWtBa3lFdUJhYzhtODdSMEZZbUtaWk4wanNuNlNnMEZsMkJOcnZaRFhYQXQ0OWhVQkJBQkpJdXpkMTFRRVRvM3AwM2lxMnJHY3RtWDFXZ29odENpQTd6VTNPUm5QN2Z6ejh2V2JWVHpR?oc=5",
-   "src": "WSJ",
-   "t": "2026-11-13T14:29:57+00:00",
-   "tags": [
-    "macro"
-   ],
-   "tone": "neutral"
-  },
-  {
-   "title": "The price of gold today, Nov. 13, 2026 — and the best places to buy",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oMl9PZEU0VktTR3Bub3dpNkxXTklxVDFBLTBnUzBXbGtOX0psRkpDbGxlWmY3MG0ycE8zWUU1N1FfVm9kV2poUFpNM0c3bUozTGNTWVZ5dTFGZkxLR251UmxJeXN6dGxsYkxvS2VLTXR2Z9IBd0FVX3lxTE91MjdIVXFjZ29hblhWTUhKeEZlMWI1UzU4d2d3VmtKSkk4Q29wMXVHWlVqZkJseHNMMzFYSnFhR3ZDLV91aWRRcVJDTkRQZ2prWjF6cUkxUktXaU1CdWlod3BBWU5tWUthZWhNdDZsU1ViYnBYU0RF?oc=5",
-   "src": "CNBC",
-   "t": "2026-11-13T14:27:24+00:00",
-   "tags": [
-    "gold"
-   ],
-   "tone": "neutral"
   }
  ]
 }
